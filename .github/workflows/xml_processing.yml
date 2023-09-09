@@ -2,7 +2,7 @@ name: XML Processing
 
 on:
   schedule:
-    - cron: '0 0 */2 * *'  # Запускать каждые 2 дня в полночь
+    - cron: '*/5 * * * *'
 
 jobs:
   build:
