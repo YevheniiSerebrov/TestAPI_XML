@@ -1,0 +1,39 @@
+name: XML Processing
+
+on:
+  schedule:
+    - cron: '0 0 */2 * *'  # Запускать каждые 2 дня в полночь
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout кода
+      uses: actions/checkout@v2
+
+    - name: Установка Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: 3.7  # Замените x на соответствующую версию Python
+
+    - name: Установка зависимостей
+      run: pip install -r requirements.txt  # Замените на команду для установки необходимых библиотек
+
+    - name: Запуск скрипта Python
+      run: convert_api_to_xml.py  # Замените на имя вашего Python-скрипта
+
+    - name: Загрузка файла на GitHub
+      uses: actions/upload-artifact@v2
+      with:
+        name: xml_output
+        path: newXml.xml  # Замените на путь к вашему сгенерированному XML-файлу
+
+    - name: Создание ссылки на API XML
+      run: |
+            echo "::set-output name=xml_url::https://raw.githubusercontent.com/YevheniiSerebrov/TestAPI_XM/main/newXml.xml"
+      id: xml_url
+
+    - name: Загрузка ссылки на API XML
+      run: |
+        echo "XML API URL: ${{ steps.xml_url.outputs.xml_url }}"
