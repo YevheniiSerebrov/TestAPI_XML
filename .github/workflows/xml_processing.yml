@@ -31,7 +31,7 @@ jobs:
 
     - name: Создание ссылки на API XML
       run: |
-        echo "::set-output name=xml_url::https://raw.githubusercontent.com/YevheniiSerebrov/TestAPI_XM/main/newXml.xml"
+        echo "::set-output name=xml_url::https://raw.githubusercontent.com/YevheniiSerebrov/TestAPI_XML/main/newXml.xml"
       id: xml_url
 
     - name: Загрузка ссылки на API XML
