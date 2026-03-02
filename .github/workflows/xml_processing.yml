@@ -1,39 +1,30 @@
-name: XML Processing
+name: Daily XML Update
 
 on:
   schedule:
-    - cron: '0 0 */1 * *'
+    - cron: '0 0 * * *' # Runs every day at 00:00 UTC
+  workflow_dispatch:      # Allows you to run it manually with a button
 
 jobs:
   build:
     runs-on: ubuntu-latest
-
     steps:
-    - name: Checkout кода
-      uses: actions/checkout@v2
+      - name: Checkout code
+        uses: actions/checkout@v4
 
-    - name: Установка Python
-      uses: actions/setup-python@v2
-      with:
-        python-version: 3.7  # Замените x на соответствующую версию Python
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
 
-    - name: Установка зависимостей
-      run: pip install -r requirements.txt  # Замените на команду для установки необходимых библиотек
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
 
-    - name: Запуск скрипта Python
-      run: python convert_api_to_xml.py  # Замените на имя вашего Python-скрипта
+      - name: Run script
+        run: python convert_api_to_xml.py
 
-    - name: Загрузка файла на GitHub
-      uses: actions/upload-artifact@v2
-      with:
-        name: xml_output
-        path: newXml.xml  # Замените на путь к вашему сгенерированному XML-файлу
-
-    - name: Создание ссылки на API XML
-      run: |
-        echo "::set-output name=xml_url::https://raw.githubusercontent.com/YevheniiSerebrov/TestAPI_XML/main/newXml.xml"
-      id: xml_url
-
-    - name: Загрузка ссылки на API XML
-      run: |
-        echo "XML API URL: ${{ steps.xml_url.outputs.xml_url }}"
+      - name: Commit and Push changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Auto-update XML: ${{ github.event.head_commit.timestamp }}"
