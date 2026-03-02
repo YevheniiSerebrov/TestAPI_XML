@@ -2,7 +2,8 @@ import requests
 import xml.etree.ElementTree as ET
 # запускаєш цей файл, оновлюється файл OL_xml_my, потім записується з нормальними id, newXml.xml - кінцевий файл, який треба оновити на епіцентр
 # URL API, откуда вы хотите получить XML
-api_url = "http://ol.partners/api/ApiXml_v2/474e3fd5-d566-440e-9d34-30229dd6dd84"
+api_url = "https://back-prod.olinfrastructure.com/b2b/product-export/file/71541BF1-E7C1-4335-B6DD-A31E05F89989/xml"
+
 
 try:
     # Отправляем GET-запрос
@@ -33,4 +34,5 @@ for offer in root.findall(".//offer"):
     offer.set("id", vendor_code)
 
 # Save the modified XML to a new file
+
 tree.write('newXml.xml', encoding='utf-8', xml_declaration=True)
