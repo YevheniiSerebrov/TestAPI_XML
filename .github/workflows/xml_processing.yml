@@ -27,6 +27,6 @@ jobs:
       - name: Commit and Push changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "Auto-update Epicentr XML"
-          file_pattern: 'newXml.xml' # Replace 'data.xml' with your actual filename
-          skip_dirty_check: false    # This ensures it only commits if something actually changed
+          commit_message: "Epicentr Auto-update: VendorCodes synced"
+          file_pattern: 'newXml.xml'  # This ensures ONLY the final file is pushed back
+          disable_globbing: true
