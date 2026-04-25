@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-04-24 02:33">
+<yml_catalog date="2026-04-25 02:23">
   <shop>
     <name>O&amp;L</name>
     <company>O&amp;L</company>
@@ -10864,6 +10864,7 @@
         <param name="Об'єм ящ.">0.064</param>
         <param name="Вага ящ.">27.5</param>
         <param name="Максимальна температура робочої рідини (°C)">110</param>
+        <param name="Додаткові характеристики">Суцільнолатунний промисловий сепаратор шламу з поворотним вузлом 360°</param>
         <param name="Модель">KR.1276-20</param>
         <param name="Призначення">Для систем опалення</param>
         <param name="Торгова марка">KOER</param>
@@ -10873,6 +10874,7 @@
         <param name="Тип приєднання">Різьбове</param>
         <param name="Тип з'єднання">Внутрішня-внутрішня</param>
         <param name="Матеріал колби">Латунь CW617N</param>
+        <param name="Максимальний робочий тиск (бар)">10</param>
         <param name="Робочий тиск (бар)">до 10</param>
         <param name="Матеріал виробу">Латунь CW617N</param>
         <param name="Робоче середовище">Вода, водно-гликолеві суміші, неагресивні рідини</param>
@@ -13227,6 +13229,7 @@
         <param name="Матеріал колби">Латунь CW617N нікельована</param>
         <param name="Тип з'єднання">Внутрішня-внутрішня</param>
         <param name="Тип приєднання">Різьбове</param>
+        <param name="Максимальний тиск (бар)">10</param>
         <param name="Робочий тиск (бар)">до 10</param>
         <param name="Матеріал виробу">Латунь CW617N нікельована</param>
         <param name="Робоче середовище">Вода, водно-гликолеві суміші, неагресивні рідини</param>
@@ -13237,6 +13240,7 @@
         <param name="C (мм)">92,50</param>
         <param name="A (мм)">205,00</param>
         <param name="D (мм)">14,00</param>
+        <param name="Додаткові характеристики">З поворотним фітингом 360°, оснащений неодимовим магнітом та дренажним краном</param>
         <param name="Максимальна температура робочої рідини (°C)">90</param>
       </offer>
       <offer id="KR2803" available="true">
@@ -13597,7 +13601,24 @@
         <param name="Од. в упак.">18</param>
         <param name="Об'єм ящ.">0</param>
         <param name="Вага ящ.">0</param>
+        <param name="Покриття">Нікель</param>
+        <param name="Колір">Сталевий</param>
+        <param name="Максимальна температура робочої рідини (°C)">90</param>
+        <param name="Додаткові характеристики">Зі зворотним клапаном</param>
+        <param name="Тип виробу">Фільтр для води</param>
+        <param name="Модель">KR.1269</param>
+        <param name="Вид виробу">Фільтр із магнітом</param>
+        <param name="Країна бренду">Чехія</param>
+        <param name="Призначення">Для систем опалення</param>
         <param name="Торгова марка">KOER</param>
+        <param name="Тип приєднання">Різьбове</param>
+        <param name="Тип з'єднання">Внутрішня-зовнішня</param>
+        <param name="Максимальний робочий тиск (бар)">10</param>
+        <param name="Робочий тиск (бар)">до 6</param>
+        <param name="Робоче середовище">Вода, водно-гліколеві суміші, неагресивні рідини</param>
+        <param name="Матеріал колби">Поліамид PA12</param>
+        <param name="Матеріал виробу">Латунь CW617N нікельована</param>
+        <param name="Діаметр підключення (дюйм)">3/4</param>
       </offer>
       <offer id="KR5754" available="true">
         <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/krani/krani-kulovi/kran-kuloviy-gshv-koer-extreme-ke21540-1-12-fm-ruchka-vazhil-chervona-kr5754</url>
@@ -20597,10 +20618,10 @@
         <price>1484.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>cccd3e1f-6b84-49c8-b342-dee61a5caf10</categoryId>
-        <picture>https://ol.partners/Products/Photo/DD03FE7B-ECBA-4C63-BE79-CEC52E29ACA6</picture>
+        <picture>https://ol.partners/Products/Photo/5B8E1AF7-066A-4074-862A-03B924A06AD0</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/3108eee2-386a-4fa1-85d8-3725926c36e7/image_03.jpg</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/3108eee2-386a-4fa1-85d8-3725926c36e7/image_05.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/3108eee2-386a-4fa1-85d8-3725926c36e7/image_01.jpg</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/3108eee2-386a-4fa1-85d8-3725926c36e7/image_04.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/3108eee2-386a-4fa1-85d8-3725926c36e7/image_02.jpg</picture>
         <vendor>EUROPRODUCT</vendor>
         <stock_quantity>100</stock_quantity>
@@ -33671,15 +33692,15 @@
         <param name="Матеріал">Поліпропілен</param>
         <param name="Тип з'єднання">Пайка</param>
       </offer>
-      <offer id="ZX0524" available="false">
+      <offer id="ZX0524" available="true">
         <url>https://ol.partners/products/aksesuari-dlya-vannoi/milnitsi/milnitsya-nastinna-reshitka-zerix-z16021-zx0524</url>
         <price>135.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>98cef2a4-d106-4da2-9b4c-f8e66696fd13</categoryId>
         <picture>https://ol.partners/Products/Photo/2BC3BED7-B5C6-43DF-BF22-204B6000E0FF</picture>
         <vendor>ZERIX</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Мильниця настінна решітка Zerix Z1602-1 (ZX0524)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>ZX0524</vendorCode>
@@ -48433,6 +48454,7 @@
         <param name="Матеріал виробу">Латунь CW617N нікельована</param>
         <param name="Робочий тиск (бар)">до 10</param>
         <param name="Тип з'єднання">Внутрішня-внутрішня</param>
+        <param name="Максимальний робочий тиск (бар)">10</param>
         <param name="Матеріал колби">Латунь CW617N нікельована</param>
         <param name="Тип приєднання">Різьбове</param>
         <param name="Робоче середовище">Вода, водно-гликолеві суміші, неагресивні рідини</param>
@@ -48442,9 +48464,10 @@
         <param name="Торгова марка">KOER</param>
         <param name="Модель">KR.1272</param>
         <param name="Призначення">Для систем опалення</param>
+        <param name="Додаткові характеристики">З поворотним фітингом 360°, оснащений неодимовим магнітом та дренажним краном</param>
+        <param name="Максимальна температура робочої рідини (°C)">90</param>
         <param name="Колір">Сталевий</param>
         <param name="Покриття">Нікель</param>
-        <param name="Максимальна температура робочої рідини (°C)">90</param>
         <param name="Діаметр підключення (дюйм)">1</param>
         <param name="D (мм)">14,00</param>
         <param name="A (мм)">220,00</param>
@@ -58017,6 +58040,7 @@
         <param name="Шар">Латунний</param>
         <param name="Робочий тиск (бар)">до 20</param>
         <param name="Вид виробу">Підключення газового котла</param>
+        <param name="Призначення">Для водопостачання та опалення</param>
         <param name="Тип виробу">Крани кульові</param>
         <param name="Тип">Прямий</param>
         <param name="Країна бренду">Чехія</param>
@@ -58024,6 +58048,7 @@
         <param name="Торгова марка">KOER</param>
         <param name="Колір">Сталевий</param>
         <param name="Покриття">Нікель</param>
+        <param name="Тип ручки">Важіль</param>
         <param name="Діаметр підключення (дюйм)">1/2; 3/4</param>
       </offer>
       <offer id="KP2657" available="true">
@@ -58708,7 +58733,7 @@
         <param name="Тип приєднання">Різьбове</param>
         <param name="Матеріал виробу">Латунь</param>
       </offer>
-      <offer id="KR3394" available="true">
+      <offer id="KR3394" available="false">
         <url>https://ol.partners/products/zapchastini-dlya-zmishuvacha/donniy-klapan-dlya-rakovini/donniy-klapan-dlya-rakovini-z-perelivom-koer-pw0301-avtomatichniy-clickclack-kolir-khrom-1-14-kr3394</url>
         <price>571.00</price>
         <currencyId>UAH</currencyId>
@@ -58717,8 +58742,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/ba9fd1dc-9183-4af2-8af7-f58c7d9c922f/image_01.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/ba9fd1dc-9183-4af2-8af7-f58c7d9c922f/image_02.jpg</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Донний клапан для раковини з переливом Koer PW-03-01 автоматичний (Click-Clack) (Колір хром) 1 1/4'' (KR3394)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR3394</vendorCode>
@@ -65019,7 +65044,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/69b6aef7-3b6c-4455-8ecb-e58a425b5d24/image_01.jpg</picture>
         <vendor>ZERIX</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Тримач для фена настінний (спіраль) Zerix AFB-0128 (ZX5069)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>ZX5069</vendorCode>
@@ -65480,6 +65505,8 @@
         <param name="Вага ящ.">9.4</param>
         <param name="Покриття">Нікель</param>
         <param name="Колір">Сталевий</param>
+        <param name="Додаткові характеристики">Неодимовий магніт</param>
+        <param name="Максимальна температура робочої рідини (°C)">90</param>
         <param name="Торгова марка">KOER</param>
         <param name="Призначення">Для систем опалення</param>
         <param name="Тип виробу">Фільтр для води</param>
@@ -65488,11 +65515,11 @@
         <param name="Модель">KR.1271</param>
         <param name="Тип приєднання">Різьбове</param>
         <param name="Тип з'єднання">Внутрішня-зовнішня</param>
+        <param name="Максимальний робочий тиск (бар)">10</param>
         <param name="Робочий тиск (бар)">до 10</param>
         <param name="Матеріал виробу">Латунь CW617N нікельована</param>
         <param name="Матеріал колби">Латунь CW617N нікельована</param>
         <param name="Робоче середовище">Вода, водно-гликолеві суміші, неагресивні рідини</param>
-        <param name="Максимальна температура робочої рідини (°C)">90</param>
         <param name="Діаметр підключення (дюйм)">3/4</param>
       </offer>
       <offer id="KP0244" available="true">
@@ -66540,6 +66567,7 @@
         <param name="Покриття">Немає</param>
         <param name="Матеріал виробу">Латунь CW617N</param>
         <param name="Тип з'єднання">Внутрішня-внутрішня</param>
+        <param name="Максимальний робочий тиск (бар)">10</param>
         <param name="Робочий тиск (бар)">до 10</param>
         <param name="Матеріал колби">Латунь CW617N</param>
         <param name="Тип приєднання">Різьбове</param>
@@ -66550,8 +66578,9 @@
         <param name="Країна бренду">Чехія</param>
         <param name="Вид виробу">Фільтр із магнітом</param>
         <param name="Модель">KR.1276-25</param>
-        <param name="Діаметр підключення (дюйм)">1</param>
+        <param name="Додаткові характеристики">Суцільнолатунний промисловий сепаратор шламу з поворотним вузлом 360°</param>
         <param name="Максимальна температура робочої рідини (°C)">110</param>
+        <param name="Діаметр підключення (дюйм)">1</param>
       </offer>
       <offer id="ZX4642" available="false">
         <url>https://ol.partners/products/aksesuari-dlya-vannoi/yorzhiki-dlya-unitazu/yorzhik-dlya-unitazu-zerix-kit-me04s-zx4642</url>
@@ -73829,19 +73858,21 @@
         <param name="Вага ящ.">22.4</param>
         <param name="Колір">Латунний</param>
         <param name="Покриття">Немає</param>
+        <param name="Максимальний робочий тиск (бар)">10</param>
         <param name="Матеріал колби">Поліамид PA12</param>
         <param name="Тип з'єднання">Внутрішня-внутрішня</param>
         <param name="Матеріал виробу">Латунь CW617N</param>
         <param name="Робоче середовище">Вода, водно-гликолеві суміші, неагресивні рідини</param>
         <param name="Тип приєднання">Різьбове</param>
         <param name="Робочий тиск (бар)">до 10</param>
+        <param name="Додаткові характеристики">Поворотне з'єднання на 360°, сепарація шламу, магнітне очищення та деаерація</param>
+        <param name="Максимальна температура робочої рідини (°C)">110</param>
         <param name="Модель">KR.1275-20</param>
         <param name="Призначення">Для систем опалення</param>
         <param name="Тип виробу">Фільтр для води</param>
         <param name="Країна бренду">Чехія</param>
         <param name="Торгова марка">KOER</param>
         <param name="Вид виробу">Фільтр із магнітом</param>
-        <param name="Максимальна температура робочої рідини (°C)">110</param>
         <param name="Діаметр підключення (дюйм)">3/4</param>
       </offer>
       <offer id="EP6136" available="true">
@@ -81681,6 +81712,8 @@
         <param name="Об'єм ящ.">0</param>
         <param name="Вага ящ.">0</param>
         <param name="Торгова марка">KOER</param>
+        <param name="Країна виробник">Китай</param>
+        <param name="Країна бренду">Чехія</param>
         <param name="Призначення">Для труб</param>
         <param name="Тип виробу">Система з натяжною гільзою</param>
         <param name="Вид виробу">Трійник</param>
@@ -84983,7 +85016,7 @@
         <param name="Розміри виробу (ВхШхГ)">54х295х88</param>
         <param name="Матеріал виробу">Нержавіюча сталь</param>
       </offer>
-      <offer id="KR5034" available="true">
+      <offer id="KR5034" available="false">
         <url>https://ol.partners/products/radiatori-opalennya/komplektuyuchi-do-radiatoriv/kriplennya-dlya-radiatora/kronshteyn-do-stini-koer-kr1142-dlya-alyuminiyevikh-ta-bimetalichnikh-radiatoriv-kr5034</url>
         <price>39.00</price>
         <currencyId>UAH</currencyId>
@@ -84991,7 +85024,7 @@
         <picture>https://ol.partners/Products/Photo/D99313DF-1978-485F-9F6D-9907AF00F53C</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/1860c0be-420f-4446-9de3-445b34a348b3/image_01.jpg</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>100</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Кронштейн до стіни Koer KR.1142 для алюмінієвих та біметалічних радіаторів (KR5034)</name>
         <description>&lt;![CDATA[]]&gt;</description>
@@ -85525,7 +85558,22 @@
         <param name="Од. в упак.">40</param>
         <param name="Об'єм ящ.">0</param>
         <param name="Вага ящ.">0</param>
+        <param name="Діапазон температури робочого середовища Тр (°С)">від -20 до +120</param>
+        <param name="Матеріал">Латунь CW617N</param>
+        <param name="Вид підключення">Система натяжних фітингів</param>
+        <param name="Номінальний робочий тиск (бар)">25</param>
+        <param name="Середній термін служби (років)">50</param>
+        <param name="Колір">Латунний</param>
+        <param name="Покриття">Без покриття</param>
+        <param name="Розміри (мм)">16(2.2mm) x 1/2"F</param>
+        <param name="Країна бренду">Чехія</param>
+        <param name="Призначення">Для труб</param>
         <param name="Торгова марка">KOER</param>
+        <param name="Вид виробу">Кутник (настінний)</param>
+        <param name="Тип виробу">Система з натяжною гільзою</param>
+        <param name="Тип">Кут</param>
+        <param name="Модель">KA.LW06F</param>
+        <param name="Гарантійний період (міс)">84</param>
       </offer>
       <offer id="AC0705" available="true">
         <url>https://ol.partners/products/sifoni-trapi-dlya-dushu/zlivni-trapi/dushoviy-trap-z-nerzhaviyuchoi-stali-sus304-koer-fd0470x600-ac0705</url>
@@ -97736,7 +97784,19 @@
         <param name="Од. в упак.">18</param>
         <param name="Об'єм ящ.">0</param>
         <param name="Вага ящ.">0</param>
+        <param name="Призначення">Для труб</param>
+        <param name="Тип виробу">Система з натяжною гільзою</param>
+        <param name="Країна бренду">Чехія</param>
+        <param name="Країна виробник">Китай</param>
+        <param name="Вид виробу">Трійник</param>
         <param name="Торгова марка">KOER</param>
+        <param name="Матеріал">Латунь CW617N</param>
+        <param name="Вид підключення">Система натяжних фітингів</param>
+        <param name="Середній термін служби (років)">50</param>
+        <param name="Діапазон температури робочого середовища Тр (°С)">від -20 до +120</param>
+        <param name="Номінальний робочий тиск (бар)">25</param>
+        <param name="Покриття">Без покриття</param>
+        <param name="Розміри (мм)">20(2.8mm)x16(2.2mm)x20(2.8mm)</param>
       </offer>
       <offer id="WP0146" available="true">
         <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/krani/krani-kulovi/kran-kuloviy-waterpro-12-gg12-ggm-wp0146</url>
@@ -106474,7 +106534,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/363f0e54-9fd4-49b5-8883-a4c717e096ac/image_01.jpg</picture>
         <vendor>GROHE</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Наповнюючий клапан Grohe Dally-Fvent (37095000)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>37095000</vendorCode>
@@ -108997,8 +109057,8 @@
         <currencyId>UAH</currencyId>
         <categoryId>f95f29f7-84eb-4a78-8b6f-06e404597c16</categoryId>
         <picture>https://ol.partners/Products/Photo/994E09CE-E43C-4390-9D38-45673B085F32</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/942d35e9-fcc0-4daf-8ab0-86adf3007402/image_01.png</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/942d35e9-fcc0-4daf-8ab0-86adf3007402/image_02.jpg</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/942d35e9-fcc0-4daf-8ab0-86adf3007402/image_01.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/942d35e9-fcc0-4daf-8ab0-86adf3007402/image_07.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/942d35e9-fcc0-4daf-8ab0-86adf3007402/image_03.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/942d35e9-fcc0-4daf-8ab0-86adf3007402/image_04.jpg</picture>
@@ -117659,8 +117719,8 @@
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR5762</vendorCode>
         <param name="Од. в упак.">80</param>
-        <param name="Об'єм ящ.">0</param>
-        <param name="Вага ящ.">0</param>
+        <param name="Об'єм ящ.">0.018</param>
+        <param name="Вага ящ.">16</param>
         <param name="Тип приєднання">Різьбове</param>
         <param name="Тип з'єднання">Зовнішній-зовнішня</param>
         <param name="Максимальний робочий тиск (бар)">64</param>
@@ -120332,8 +120392,8 @@
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR5638</vendorCode>
         <param name="Од. в упак.">40</param>
-        <param name="Об'єм ящ.">0</param>
-        <param name="Вага ящ.">0</param>
+        <param name="Об'єм ящ.">0.021</param>
+        <param name="Вага ящ.">16.8</param>
         <param name="Модель">KR.923-Gi</param>
         <param name="Призначення">Для опалення</param>
         <param name="Торгова марка">KOER</param>
@@ -128890,7 +128950,7 @@
         <param name="Матеріал виробу">Скло</param>
       </offer>
       <offer id="KR6506" available="true">
-        <url>https://ol.partners/products/instalyatsii-ta-klavishi/klavishi-zmivu-ta-komplektuyuchi/gpodibniy-kutoviy-patrubok-dlya-instalyatsii-koer-kt0719-dlya-kt0401-kt0403-kt0404-kt0405-kr6506</url>
+        <url>https://ol.partners/products/instalyatsii-ta-klavishi/klavishi-zmivu-ta-komplektuyuchi/gpodibniy-kutoviy-patrubok-dlya-instalyatsii-koer-kt0719-dlya-kt0401-kt0404-kr6506</url>
         <price>373.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>bae524de-6825-4762-bea5-e2c2373606ee</categoryId>
@@ -128898,13 +128958,14 @@
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
         <availabilityStatus>Достатньо</availabilityStatus>
-        <name>Г-подібний (кутовий) патрубок для інсталяції Koer KT-0719 для KT-0401, KT-0403, KT-0404, KT-0405 (KR6506)</name>
+        <name>Г-подібний (кутовий) патрубок для інсталяції Koer KT-0719 для KT-0401, KT-0404 (KR6506)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR6506</vendorCode>
         <param name="Од. в упак.">1</param>
         <param name="Об'єм ящ.">0</param>
         <param name="Вага ящ.">0</param>
         <param name="Гарантійний період (міс)">12</param>
+        <param name="Сумісність з комплектуючою">Для KT-0401, KT-0404</param>
         <param name="Серія">KT-07</param>
         <param name="Країна бренду">Чехія</param>
         <param name="Призначення">Для інсталяції</param>
@@ -132013,8 +132074,8 @@
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR5673</vendorCode>
         <param name="Од. в упак.">45</param>
-        <param name="Об'єм ящ.">0</param>
-        <param name="Вага ящ.">0</param>
+        <param name="Об'єм ящ.">0.006</param>
+        <param name="Вага ящ.">7</param>
         <param name="Країна виробник">Китай</param>
         <param name="Призначення">Для труб</param>
         <param name="Торгова марка">KOER</param>
@@ -132543,15 +132604,15 @@
         <param name="Тип ручки">Метелик</param>
         <param name="Діаметр підключення (дюйм)">1</param>
       </offer>
-      <offer id="KR5216" available="false">
+      <offer id="KR5216" available="true">
         <url>https://ol.partners/products/sifoni-trapi-dlya-dushu/zlivni-trapi/dushoviy-trap-koer-fd3070x1200-z-nerzhaviyuchoi-stali-sus304-70x1200mm-kr5216</url>
         <price>2924.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>e679a4a9-0158-4101-9206-332f81d1f22b</categoryId>
         <picture>https://ol.partners/Products/Photo/1DD3EEED-FE48-464E-8849-39F052C91F8A</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Душовий трап Koer FD30-70x1200 з нержавіючої сталі SUS304 70x1200мм (KR5216)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR5216</vendorCode>
@@ -135473,7 +135534,18 @@
         <param name="Од. в упак.">1</param>
         <param name="Об'єм ящ.">0</param>
         <param name="Вага ящ.">0</param>
+        <param name="Тип монтажу">У стіну прихований</param>
+        <param name="Призначення">Для інсталяції</param>
+        <param name="Країна бренду">Чехія</param>
+        <param name="Країна виробник">Китай</param>
         <param name="Торгова марка">KOER</param>
+        <param name="Вид виробу">Запчастина для інсталяцій</param>
+        <param name="Серія">KT-07</param>
+        <param name="Тип виробу">Комплектуючі та запчастини для інсталяцій</param>
+        <param name="Сумісність з комплектуючою">для KT-0403</param>
+        <param name="Гарантійний період (міс)">12</param>
+        <param name="Матеріал">Поліпропілен</param>
+        <param name="Колір">Білий</param>
       </offer>
       <offer id="KF0055" available="true">
         <url>https://ol.partners/products/truboprovodi-ta-zyednannya/fitingi/rizbovi-zyednannya/perekhidnik-konektor-34-x11-2-koer-kfa0816-kf0055</url>
@@ -142596,8 +142668,8 @@
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR5755</vendorCode>
         <param name="Од. в упак.">8</param>
-        <param name="Об'єм ящ.">0</param>
-        <param name="Вага ящ.">0</param>
+        <param name="Об'єм ящ.">0.018</param>
+        <param name="Вага ящ.">14</param>
         <param name="Максимальний робочий тиск (бар)">25</param>
         <param name="Тип з'єднання">Внутрішня-зовнішня</param>
         <param name="Матеріал виробу">Латунь</param>
@@ -143840,15 +143912,15 @@
         <param name="Розміри виробу (ВхШхГ)">400x350x630</param>
         <param name="Ширина (мм)">350</param>
       </offer>
-      <offer id="ZX2711" available="true">
+      <offer id="ZX2711" available="false">
         <url>https://ol.partners/products/aksesuari-dlya-vannoi/yorzhiki-dlya-unitazu/yorzhik-dlya-unitazu-chorniy-zerix-lr9112-zx2711</url>
         <price>243.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>98cef2a4-d106-4da2-9b4c-f8e66696fd13</categoryId>
         <picture>https://ol.partners/Products/Photo/544618A0-3002-4B17-A65B-F5DFF1CC103C</picture>
         <vendor>ZERIX</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Йорш підлоговий Zerix LR911-2 чорний (ZX2711)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>ZX2711</vendorCode>
@@ -149036,7 +149108,8 @@
         <param name="Об'єм ящ.">0.058</param>
         <param name="Вага ящ.">18.4</param>
         <param name="Тип з'єднання">Внутрішня-внутрішня</param>
-        <param name="Матеріал колби">Поліамид PA13</param>
+        <param name="Максимальний робочий тиск (бар)">10</param>
+        <param name="Матеріал колби">Поліамид PA12</param>
         <param name="Робочий тиск (бар)">до 10</param>
         <param name="Робоче середовище">Вода, водно-гликолеві суміші, неагресивні рідини</param>
         <param name="Матеріал виробу">Латунь CW617N</param>
@@ -149050,6 +149123,7 @@
         <param name="Країна бренду">Чехія</param>
         <param name="Вид виробу">Фільтр із магнітом</param>
         <param name="Максимальна температура робочої рідини (°C)">110</param>
+        <param name="Додаткові характеристики">Поворотне з'єднання на 360°, сепарація шламу, магнітне очищення та деаерація</param>
         <param name="Діаметр підключення (дюйм)">1</param>
       </offer>
       <offer id="KR2965" available="true">
@@ -149680,7 +149754,22 @@
         <param name="Од. в упак.">20</param>
         <param name="Об'єм ящ.">0</param>
         <param name="Вага ящ.">0</param>
+        <param name="Тип">Кутовий</param>
+        <param name="Країна бренду">Чехія</param>
         <param name="Торгова марка">KOER</param>
+        <param name="Призначення">Для водопостачання та опалення</param>
+        <param name="Модель">KR.1324</param>
+        <param name="Тип виробу">Крани кульові</param>
+        <param name="Тип ручки">Метелик</param>
+        <param name="Колір">Сталевий</param>
+        <param name="Покриття">Нікель</param>
+        <param name="Робочий тиск (бар)">до 20</param>
+        <param name="Шар">Латунний</param>
+        <param name="Тип приєднання">Різьбове</param>
+        <param name="Тип з'єднання">Внутрішня-зовнішня</param>
+        <param name="Матеріал виробу">Латунь CW617N нікельована</param>
+        <param name="Клас герметичності затвора">А</param>
+        <param name="Діаметр підключення (дюйм)">1/2; 3/4</param>
       </offer>
       <offer id="KP0107" available="true">
         <url>https://ol.partners/products/truboprovodi-ta-zyednannya/fitingi/zyednannya-dlya-trub-z-polipropilenu/zyednuvalna-mufta-vr-32x34f-ppr-koer-k0089pro-kp0107</url>
@@ -165737,6 +165826,18 @@
         <param name="Об'єм ящ.">0</param>
         <param name="Вага ящ.">0</param>
         <param name="Торгова марка">KOER</param>
+        <param name="Тип виробу">Система з натяжною гільзою</param>
+        <param name="Вид виробу">Трійник</param>
+        <param name="Країна бренду">Чехія</param>
+        <param name="Призначення">Для труб</param>
+        <param name="Країна виробник">Китай</param>
+        <param name="Діапазон температури робочого середовища Тр (°С)">від -20 до +120</param>
+        <param name="Номінальний робочий тиск (бар)">25</param>
+        <param name="Матеріал">Латунь CW617N</param>
+        <param name="Вид підключення">Система натяжних фітингів</param>
+        <param name="Середній термін служби (років)">50</param>
+        <param name="Розміри (мм)">20(2.8mm)x20(2.8mm)x20(2.8mm)</param>
+        <param name="Покриття">Без покриття</param>
       </offer>
       <offer id="MI6630" available="true">
         <url>https://ol.partners/products/rushnikosushki/komplektuyuchi-do-rushnikosushok/ten-elektrichniy-mixxus-teh0109-chrome-dlya-susharok-rushnikiv-900w-kolir-khrom-mi6630</url>
@@ -171414,7 +171515,8 @@
         <param name="Тип з'єднання">Внутрішня-зовнішня</param>
         <param name="Робоче середовище">Вода, водно-гликолеві суміші, неагресивні рідини</param>
         <param name="Тип приєднання">Різьбове</param>
-        <param name="Матеріал колби">Поліамид PA67</param>
+        <param name="Матеріал колби">Поліамид PA66</param>
+        <param name="Максимальний робочий тиск (бар)">10</param>
         <param name="Призначення">Для систем опалення</param>
         <param name="Країна виробник">Китай</param>
         <param name="Торгова марка">KOER</param>
