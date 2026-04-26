@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-04-25 02:23">
+<yml_catalog date="2026-04-26 02:38">
   <shop>
     <name>O&amp;L</name>
     <company>O&amp;L</company>
@@ -13608,6 +13608,7 @@
         <param name="Тип виробу">Фільтр для води</param>
         <param name="Модель">KR.1269</param>
         <param name="Вид виробу">Фільтр із магнітом</param>
+        <param name="Країна виробник">Китай</param>
         <param name="Країна бренду">Чехія</param>
         <param name="Призначення">Для систем опалення</param>
         <param name="Торгова марка">KOER</param>
@@ -36963,7 +36964,9 @@
         <param name="Вага ящ.">0</param>
         <param name="Призначення">Для води</param>
         <param name="Торгова марка">KOER</param>
+        <param name="Країна бренду">Чехія</param>
         <param name="Модель">KR.285</param>
+        <param name="Країна виробник">Китай</param>
         <param name="Робоче середовище">Вода, водно-гліколеві суміші, неагресивні рідини</param>
         <param name="Матеріал виробу">Латунь CW617N нікельована</param>
         <param name="Тип з'єднання">Внутрішня-внутрішня</param>
@@ -60720,7 +60723,9 @@
         <param name="Колір">Сталевий</param>
         <param name="Торгова марка">KOER</param>
         <param name="Призначення">Для води</param>
+        <param name="Країна виробник">Китай</param>
         <param name="Модель">KR.285</param>
+        <param name="Країна бренду">Чехія</param>
         <param name="Тип з'єднання">Внутрішня-внутрішня</param>
         <param name="Робоче середовище">Вода, водно-гліколеві суміші, неагресивні рідини</param>
         <param name="Матеріал виробу">Латунь CW617N нікельована</param>
@@ -61590,7 +61595,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/55f05c65-f9dc-456a-80bf-4b220798d7a6/image_01.jpg</picture>
         <vendor>MIXXUS</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Подрібнювач харчових відходів Mixxus GD-03-0,75 (560Вт, індукційний двигун) (MX1570)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>MX1570</vendorCode>
@@ -65381,7 +65386,7 @@
         <param name="Од. в упак.">32</param>
         <param name="Об'єм ящ.">0.014</param>
         <param name="Вага ящ.">11</param>
-        <param name="Призначення">для води.</param>
+        <param name="Призначення">Для води, опалення</param>
         <param name="Країна бренду">Чехія</param>
         <param name="Торгова марка">KOER</param>
         <param name="Модель">KR.280</param>
@@ -65394,7 +65399,7 @@
         <param name="Тип ручки">Вентиль</param>
         <param name="Колір">Латунний</param>
         <param name="Гарантійний період (міс)">12</param>
-        <param name="Особливості">Температура робочого середовища - 0 ? +120? за відсутності пари</param>
+        <param name="Особливості">Температура робочого середовища від - 0 до +120 за відсутності пари</param>
         <param name="B (мм)">73,00</param>
         <param name="C (мм)">59,00</param>
         <param name="Діаметр підключення (дюйм)">1</param>
@@ -73898,6 +73903,8 @@
         <param name="Діаметр підключення (дюйм)">3/4</param>
         <param name="Призначення">Автоматичне регулювання тяги твердопаливного казана.</param>
         <param name="Модель">EP.5101</param>
+        <param name="Країна бренду">Україна</param>
+        <param name="Країна виробник">Україна</param>
         <param name="Торгова марка">EUROPRODUCT</param>
         <param name="Тип виробу">Безпека для систем опалення</param>
         <param name="Вид виробу">Регулятор тяги</param>
@@ -97413,7 +97420,7 @@
         <param name="Тип ручки">Вентиль</param>
         <param name="Покриття">Немає</param>
         <param name="Колір">Латунний</param>
-        <param name="Призначення">для води.</param>
+        <param name="Призначення">Для води, опалення</param>
         <param name="Модель">KR.280</param>
         <param name="Тип виробу">Засувка клинова</param>
         <param name="Торгова марка">KOER</param>
@@ -97422,7 +97429,7 @@
         <param name="Робочий тиск (бар)">20</param>
         <param name="Тип приєднання">Різьбове</param>
         <param name="Матеріал виробу">Латунь CW617N</param>
-        <param name="Особливості">Температура робочого середовища - 0 ? +120? за відсутності пари</param>
+        <param name="Особливості">Температура робочого середовища від - 0 до +120 за відсутності пари</param>
         <param name="Гарантійний період (міс)">12</param>
       </offer>
       <offer id="KR5036" available="true">
@@ -98295,7 +98302,7 @@
         <param name="Об'єм ящ.">0.02</param>
         <param name="Вага ящ.">8.6</param>
         <param name="Гарантійний період (міс)">12</param>
-        <param name="Особливості">Температура робочого середовища - 0 / +120℃ за відсутності пари</param>
+        <param name="Особливості">Температура робочого середовища від - 0 до +120 за відсутності пари</param>
         <param name="Тип з'єднання">Внутрішня-внутрішня</param>
         <param name="Матеріал виробу">Латунь CW617N</param>
         <param name="Робочий тиск (бар)">20</param>
@@ -102051,7 +102058,7 @@
         <param name="Од. в упак.">16</param>
         <param name="Об'єм ящ.">0.014</param>
         <param name="Вага ящ.">10.5</param>
-        <param name="Особливості">Температура робочого середовища - 0 ? +120? за відсутності пари</param>
+        <param name="Особливості">Температура робочого середовища від - 0 до +120 за відсутності пари</param>
         <param name="Гарантійний період (міс)">12</param>
         <param name="A (мм)">53,00</param>
         <param name="Діаметр підключення (дюйм)">1 1/4</param>
@@ -102065,7 +102072,7 @@
         <param name="Модель">KR.280</param>
         <param name="Тип виробу">Засувка клинова</param>
         <param name="Торгова марка">KOER</param>
-        <param name="Призначення">для води.</param>
+        <param name="Призначення">Для води, опалення</param>
         <param name="Країна бренду">Чехія</param>
         <param name="Колір">Латунний</param>
         <param name="Тип ручки">Вентиль</param>
@@ -113861,10 +113868,10 @@
         <param name="Призначення">Для води, опалення</param>
         <param name="Модель">KR.280</param>
         <param name="Гарантійний період (міс)">12</param>
-        <param name="Особливості">Температура робочого середовища - 0 / +120℃ за відсутності пари</param>
+        <param name="Особливості">Температура робочого середовища від - 0 до +120 за відсутності пари</param>
         <param name="Діаметр підключення (дюйм)">3</param>
       </offer>
-      <offer id="MX1571" available="false">
+      <offer id="MX1571" available="true">
         <url>https://ol.partners/products/miyki-dlya-kukhni/podribnyuvach-kharchovikh-vidkhodiv/podribnyuvach-kharchovikh-vidkhodiv-mixxus-gd041-750vt-induktsiyniy-dvigun-mx1571</url>
         <price>9384.00</price>
         <currencyId>UAH</currencyId>
@@ -113874,8 +113881,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/9d4ed3eb-a05f-435f-ae85-5652c131c43c/image_03.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/9d4ed3eb-a05f-435f-ae85-5652c131c43c/image_02.jpg</picture>
         <vendor>MIXXUS</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Подрібнювач харчових відходів Mixxus GD-04-1 (750Вт, індукційний двигун) (MX1571)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>MX1571</vendorCode>
@@ -117302,7 +117309,7 @@
         <param name="Сумісний з донним клапаном">Ні</param>
         <param name="Колір">Білий</param>
       </offer>
-      <offer id="KR4912" available="false">
+      <offer id="KR4912" available="true">
         <url>https://ol.partners/products/miyki-dlya-kukhni/podribnyuvach-kharchovikh-vidkhodiv/podribnyuvach-kharchovikh-vidkhodiv-koer-fwd011-powerful-750vt-induktsiyniy-dvigun-kr4912</url>
         <price>10557.00</price>
         <currencyId>UAH</currencyId>
@@ -117312,8 +117319,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/03ff7e3d-145c-4440-9e6b-274f5d423edd/image_03.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/03ff7e3d-145c-4440-9e6b-274f5d423edd/image_01.jpg</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Подрібнювач харчових відходів Koer FWD-01-1 - Powerful (750Вт, індукційний двигун) (KR4912)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR4912</vendorCode>
@@ -124896,11 +124903,11 @@
         <param name="Матеріал виробу">Латунь CW617N</param>
         <param name="Тип приєднання">Різьбове</param>
         <param name="Торгова марка">KOER</param>
-        <param name="Призначення">для води.</param>
+        <param name="Призначення">Для води, опалення</param>
         <param name="Тип виробу">Засувка клинова</param>
         <param name="Країна бренду">Чехія</param>
         <param name="Модель">KR.280</param>
-        <param name="Особливості">Температура робочого середовища - 0 ? +120? за відсутності пари</param>
+        <param name="Особливості">Температура робочого середовища від - 0 до +120 за відсутності пари</param>
         <param name="Гарантійний період (міс)">12</param>
       </offer>
       <offer id="KR3022" available="true">
@@ -137012,7 +137019,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/2c5ff473-6a54-4617-8c2e-04d0e48fe138/image_02.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Подовжувач Koer KF.E10-01.WN - 1"-100мм без нікелю (KR5677)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR5677</vendorCode>
@@ -138461,6 +138468,7 @@
         <param name="Модель">KR.176</param>
         <param name="Призначення">Для води</param>
         <param name="Країна бренду">Чехія</param>
+        <param name="Країна виробник">Китай</param>
         <param name="Торгова марка">KOER</param>
         <param name="Тип приєднання">Різьбове</param>
         <param name="Тип з'єднання">Внутрішня-внутрішня</param>
@@ -147529,12 +147537,14 @@
         <param name="Од. в упак.">80</param>
         <param name="Об'єм ящ.">0</param>
         <param name="Вага ящ.">0</param>
-        <param name="Робоче середовище">Вода, водно-гліколеві суміші, неагресивні рідини</param>
-        <param name="Тип з'єднання">Внутрішня-внутрішня</param>
-        <param name="Матеріал виробу">Латунь CW617N нікельована</param>
+        <param name="Країна бренду">Чехія</param>
+        <param name="Країна виробник">Китай</param>
         <param name="Модель">KR.285</param>
         <param name="Торгова марка">KOER</param>
         <param name="Призначення">Для води</param>
+        <param name="Робоче середовище">Вода, водно-гліколеві суміші, неагресивні рідини</param>
+        <param name="Тип з'єднання">Внутрішня-внутрішня</param>
+        <param name="Матеріал виробу">Латунь CW617N нікельована</param>
         <param name="Колір">Сталевий</param>
         <param name="Покриття">Нікель</param>
         <param name="Діаметр підключення (дюйм)">1/2</param>
@@ -149201,7 +149211,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/341592e4-d679-487e-8364-40c02a2dc6d5/image_02.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Подовжувач Koer KF.E10-80.WN - 1"-80мм без нікелю (KR5676)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR5676</vendorCode>
@@ -149760,6 +149770,7 @@
         <param name="Призначення">Для водопостачання та опалення</param>
         <param name="Модель">KR.1324</param>
         <param name="Тип виробу">Крани кульові</param>
+        <param name="Країна виробник">Китай</param>
         <param name="Тип ручки">Метелик</param>
         <param name="Колір">Сталевий</param>
         <param name="Покриття">Нікель</param>
@@ -155649,11 +155660,11 @@
         <param name="Модель">KR.280</param>
         <param name="Країна бренду">Чехія</param>
         <param name="Торгова марка">KOER</param>
-        <param name="Призначення">для води.</param>
+        <param name="Призначення">Для води, опалення</param>
         <param name="Покриття">Немає</param>
         <param name="Колір">Латунний</param>
         <param name="Тип ручки">Вентиль</param>
-        <param name="Особливості">Температура робочого середовища - 0 ? +120? за відсутності пари</param>
+        <param name="Особливості">Температура робочого середовища від - 0 до +120 за відсутності пари</param>
         <param name="Гарантійний період (міс)">12</param>
       </offer>
       <offer id="ZX2720" available="false">
@@ -159012,7 +159023,7 @@
         <param name="Тип приєднання">Різьбове</param>
         <param name="Тип з'єднання">Внутрішня-внутрішня</param>
         <param name="Робочий тиск (бар)">20</param>
-        <param name="Особливості">Температура робочого середовища - 0 / +120℃ за відсутності пари</param>
+        <param name="Особливості">Температура робочого середовища від - 0 до +120 за відсутності пари</param>
         <param name="Гарантійний період (міс)">12</param>
         <param name="Діаметр підключення (дюйм)">4</param>
       </offer>
@@ -160635,7 +160646,7 @@
         <picture>https://ol.partners/Products/Photo/123F1FBE-67DD-4426-AD95-BA9F77B1785A</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Насосна міністанція вихр. Koer KGP 125 Н=35М, Q=2,4кбМ, P=370 Вт, 1"x1", підкл.-кутове (KP2883)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KP2883</vendorCode>
@@ -161154,7 +161165,7 @@
         <param name="Тип ручки">Вентиль</param>
         <param name="Покриття">Немає</param>
         <param name="Колір">Латунний</param>
-        <param name="Призначення">для води.</param>
+        <param name="Призначення">Для води, опалення</param>
         <param name="Тип виробу">Засувка клинова</param>
         <param name="Торгова марка">KOER</param>
         <param name="Модель">KR.280</param>
@@ -161169,7 +161180,7 @@
         <param name="Матеріал виробу">Латунь CW617N</param>
         <param name="Тип з'єднання">Внутрішня-внутрішня</param>
         <param name="Гарантійний період (міс)">12</param>
-        <param name="Особливості">Температура робочого середовища - 0 / +120 С за відсутності пари</param>
+        <param name="Особливості">Температура робочого середовища від - 0 до +120 за відсутності пари</param>
       </offer>
       <offer id="KR5701" available="true">
         <url>https://ol.partners/products/sifoni-trapi-dlya-dushu/armatura-dlya-unitaziv/knopka-spusku-vodi-dlya-mekhanichnogo-zlivnogo-klapana-bachka-unitaza-podviyna-koer-kt1404-dlya-kt0202-kolir-khrom-kr5701</url>
