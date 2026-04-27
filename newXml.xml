@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-04-26 02:38">
+<yml_catalog date="2026-04-27 02:40">
   <shop>
     <name>O&amp;L</name>
     <company>O&amp;L</company>
@@ -18451,7 +18451,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/890ca603-32bb-4de7-ae8b-73aab6602269/image_01.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Гідроакумулятор горизонтальний Koer KHTS-80 (80л, корпус-сталь 1,2 мм, фланець-нержавіюча сталь) (KP3147)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KP3147</vendorCode>
@@ -132473,7 +132473,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/d35fc6c1-42be-4b1f-9d47-af5bf6cca6bb/image_03.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Панель змиву KOER KT-0602-02 з нержавіючої сталі SUS304 (KR5179)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR5179</vendorCode>
@@ -155094,7 +155094,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/b6cfafb5-d269-4e16-810f-3015ac14091e/Image_04_koer.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Муфта для колектора Koer K0284.Pro - 20x16x2.0mm PPR з переходом на PEX (KP3159)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KP3159</vendorCode>
@@ -157957,7 +157957,7 @@
         <param name="Модель">KR.520</param>
         <param name="Вид виробу">Крани приладові з латуні</param>
       </offer>
-      <offer id="38772001QUADRO0301R" available="false">
+      <offer id="38772001QUADRO0301R" available="true">
         <url>https://ol.partners/products/instalyatsii-ta-klavishi/instalyatsii-z-unitazom/komplekt-grohe-set-unitaz-quadro0301r-instalyatsiya-grohe-rapid-sl-38772001-38772001quadro0301r</url>
         <price>10987.00</price>
         <currencyId>UAH</currencyId>
@@ -157975,8 +157975,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/cade1dd8-8f2a-4cd3-895a-941ad8e8234b/image_04.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/cade1dd8-8f2a-4cd3-895a-941ad8e8234b/image_07.jpg</picture>
         <vendor>GROHE</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Комплект Grohe Set Унітаз QUADRO-0301-R + Інсталяція Grohe Rapid SL 38772001 (38772001QUADRO0301R)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>38772001QUADRO0301R</vendorCode>
