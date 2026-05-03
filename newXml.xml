@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-05-02 02:36">
+<yml_catalog date="2026-05-03 02:47">
   <shop>
     <name>O&amp;L</name>
     <company>O&amp;L</company>
@@ -9059,8 +9059,8 @@
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR6137</vendorCode>
         <param name="Од. в упак.">10</param>
-        <param name="Об'єм ящ.">0</param>
-        <param name="Вага ящ.">0</param>
+        <param name="Об'єм ящ.">0.072</param>
+        <param name="Вага ящ.">8.4</param>
         <param name="Гарантійний період (міс)">24</param>
         <param name="Сумісність з панеллю/інсталляцією">Сумісна з інсталляціїєю KT-0408</param>
         <param name="Комплектація">Панель змиву, кріплення.</param>
@@ -9375,8 +9375,8 @@
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>MY0414</vendorCode>
         <param name="Од. в упак.">20</param>
-        <param name="Об'єм ящ.">0</param>
-        <param name="Вага ящ.">0</param>
+        <param name="Об'єм ящ.">0.016</param>
+        <param name="Вага ящ.">5.3</param>
         <param name="Наявність переливу">Так</param>
         <param name="Діаметр випуску (дюйм)">1 1/4"</param>
         <param name="Діаметр випускного отвору (мм)">32,00</param>
@@ -16578,8 +16578,8 @@
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>ZX6018</vendorCode>
         <param name="Од. в упак.">20</param>
-        <param name="Об'єм ящ.">0</param>
-        <param name="Вага ящ.">0</param>
+        <param name="Об'єм ящ.">0.02</param>
+        <param name="Вага ящ.">3</param>
         <param name="Призначення">Для раковини</param>
         <param name="Тип монтажу">Прихований на зливний отвір раковини</param>
         <param name="Серія">BV-02</param>
@@ -24204,7 +24204,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/30789287-a8bb-4975-bef0-a34f87d543ba/image_01.jpg</picture>
         <vendor>EUROPRODUCT</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Сталевий радіатор EUROPRODUCT 22 x 600 x 1400 (бокове підключення) (EP6201)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>EP6201</vendorCode>
@@ -53620,7 +53620,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/b3e60f04-6249-4524-9b0e-3b23752719e6/image_05.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Центробіжний глибинний насос Koer 3KDm 2/11+30М 1" (KP2869)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KP2869</vendorCode>
@@ -83157,7 +83157,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/519873ef-0df6-4754-a9fc-d7785ece5629/image_03_KF0019.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Муфта редукційна 1/2"х3/4" Koer KF.C0608 (KF0019)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KF0019</vendorCode>
@@ -120394,7 +120394,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/9524ca69-88d0-467f-bb9a-ebdaa5a1a2ae/image_04.jpg</picture>
         <vendor>MIXXUS</vendor>
         <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Газова колонка MIXXUS GWH-0110 BASIC WHITE димохідна 10 л/хв (колір білий) (WH0022)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>WH0022</vendorCode>
@@ -164556,8 +164556,8 @@
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR6126</vendorCode>
         <param name="Од. в упак.">10</param>
-        <param name="Об'єм ящ.">0</param>
-        <param name="Вага ящ.">0</param>
+        <param name="Об'єм ящ.">0.031</param>
+        <param name="Вага ящ.">5</param>
         <param name="Торгова марка">KOER</param>
         <param name="Серія">KT-0608</param>
         <param name="Тип виробу">Панелі змиву для інсталяцій</param>
