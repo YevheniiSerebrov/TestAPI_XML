@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-05-03 02:47">
+<yml_catalog date="2026-05-04 02:45">
   <shop>
     <name>O&amp;L</name>
     <company>O&amp;L</company>
@@ -119175,8 +119175,8 @@
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR5825</vendorCode>
         <param name="Од. в упак.">10</param>
-        <param name="Об'єм ящ.">0</param>
-        <param name="Вага ящ.">0</param>
+        <param name="Об'єм ящ.">0.025</param>
+        <param name="Вага ящ.">11</param>
         <param name="Діаметр умовного проходу (мм)">33,20</param>
         <param name="Довжина труби (м)">10</param>
         <param name="Зовнішній діаметр труби (мм)">50</param>
