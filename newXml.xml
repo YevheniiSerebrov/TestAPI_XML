@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-05-07 02:45">
+<yml_catalog date="2026-05-08 02:49">
   <shop>
     <name>O&amp;L</name>
     <company>O&amp;L</company>
@@ -10620,8 +10620,7 @@
         <param name="Торгова марка">KOER</param>
         <param name="Тип приєднання">Різьбове</param>
         <param name="Тип з'єднання">Внутрішня-зовнішня</param>
-        <param name="Максимальний робочий тиск (бар)">10</param>
-        <param name="Робочий тиск (бар)">до 6</param>
+        <param name="Робочий тиск (бар)">до 4</param>
         <param name="Робоче середовище">Вода, водно-гліколеві суміші, неагресивні рідини</param>
         <param name="Матеріал колби">Поліамид PA12</param>
         <param name="Матеріал виробу">Латунь CW617N нікельована</param>
@@ -30989,14 +30988,14 @@
         <param name="Матеріал">Поліпропілен</param>
         <param name="Тип з'єднання">Пайка</param>
       </offer>
-      <offer id="ZX0524" available="true">
+      <offer id="ZX0524" available="false">
         <url>https://ol.partners/products/aksesuari-dlya-vannoi/milnitsi/milnitsya-nastinna-reshitka-zerix-z16021-zx0524</url>
         <price>135.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>98cef2a4-d106-4da2-9b4c-f8e66696fd13</categoryId>
         <picture>https://ol.partners/Products/Photo/2BC3BED7-B5C6-43DF-BF22-204B6000E0FF</picture>
         <vendor>ZERIX</vendor>
-        <stock_quantity>100</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Мильниця настінна решітка Zerix Z1602-1 (ZX0524)</name>
         <description>&lt;![CDATA[]]&gt;</description>
@@ -32554,10 +32553,10 @@
         <param name="G1 (дюйм)">1/2</param>
       </offer>
       <offer id="KR5850" available="true">
-        <url>https://ol.partners/products/truboprovodi-ta-zyednannya/fitingi/rizbovi-zyednannya/komplekt-podovzhuvachiv-koer-kfset06mf-white-12fx12m-biliy-kr5850</url>
+        <url>https://ol.partners/products/rushnikosushki/komplektuyuchi-do-rushnikosushok/komplekt-podovzhuvachiv-koer-kfset06mf-white-12fx12m-biliy-kr5850</url>
         <price>876.00</price>
         <currencyId>UAH</currencyId>
-        <categoryId>cccd3e1f-6b84-49c8-b342-dee61a5caf10</categoryId>
+        <categoryId>40137948-7c36-4187-a598-0d50eb1df16f</categoryId>
         <picture>https://ol.partners/Products/Photo/835B16B2-3135-4977-8CC5-5A3E6DF523A2</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/2e1325ac-f15e-439e-a18c-9ff3de53cbb7/image_02.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/2e1325ac-f15e-439e-a18c-9ff3de53cbb7/image_05.jpg</picture>
@@ -32572,7 +32571,7 @@
         <param name="Од. в упак.">18</param>
         <param name="Об'єм ящ.">0.017</param>
         <param name="Вага ящ.">8</param>
-        <param name="Тип виробу">Латунний фітинг</param>
+        <param name="Тип виробу">Комплектуючі до рушникосушок</param>
         <param name="Країна бренду">Чехія</param>
         <param name="Модель">KF.SET.06MF</param>
         <param name="Тип">Подовжувач</param>
@@ -47510,38 +47509,6 @@
         <param name="Покриття">Нікель</param>
         <param name="Колір">Сталевий</param>
       </offer>
-      <offer id="KR5847" available="true">
-        <url>https://ol.partners/products/truboprovodi-ta-zyednannya/fitingi/rizbovi-zyednannya/komplekt-podovzhuvachiv-koer-kfset0615m-d15x12m-khromovaniy-kr5847</url>
-        <price>610.00</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>cccd3e1f-6b84-49c8-b342-dee61a5caf10</categoryId>
-        <picture>https://ol.partners/Products/Photo/1C6E0433-CE8C-44F6-BE60-67BA60E264C5</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/4275ec15-81e2-48cf-b49a-e0c2108a4046/image_04.jpg</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/4275ec15-81e2-48cf-b49a-e0c2108a4046/image_02.jpg</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/4275ec15-81e2-48cf-b49a-e0c2108a4046/image_05.jpg</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/4275ec15-81e2-48cf-b49a-e0c2108a4046/image_03.jpg</picture>
-        <vendor>KOER</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
-        <name>Комплект подовжувачів Koer KF.SET.06-15M d15x1/2M хромований (KR5847)</name>
-        <description>&lt;![CDATA[]]&gt;</description>
-        <vendorCode>KR5847</vendorCode>
-        <param name="Од. в упак.">20</param>
-        <param name="Об'єм ящ.">0.017</param>
-        <param name="Вага ящ.">5.5</param>
-        <param name="Діаметр підключення (дюйм)">1/2</param>
-        <param name="Покриття">Хром</param>
-        <param name="Колір">Сталевий</param>
-        <param name="Модель">KF.SET.06-15M</param>
-        <param name="Країна бренду">Чехія</param>
-        <param name="Торгова марка">KOER</param>
-        <param name="Тип виробу">Латунний фітинг</param>
-        <param name="Тип">Подовжувач</param>
-        <param name="Призначення">Для труб</param>
-        <param name="Матеріал">Латунь CW617N</param>
-        <param name="Тип з'єднання">Різьбовий</param>
-        <param name="Гарантійний період (міс)">84</param>
-      </offer>
       <offer id="KR2847" available="true">
         <url>https://ol.partners/products/radiatori-opalennya/komplektuyuchi-do-radiatoriv/ventilniy-kran/ventil-radiatorniy-pryamiy-12x12-koer-kr907-kr2847</url>
         <price>243.00</price>
@@ -47578,6 +47545,38 @@
         <param name="Особливості">Тип підключення – для систем з бічним підключенням; Інтервал температур робочого середовища - 0 ? +110 ?</param>
         <param name="Колір">Сталевий</param>
         <param name="Покриття">Нікель</param>
+      </offer>
+      <offer id="KR5847" available="true">
+        <url>https://ol.partners/products/rushnikosushki/komplektuyuchi-do-rushnikosushok/komplekt-podovzhuvachiv-koer-kfset0615m-d15x12m-khromovaniy-kr5847</url>
+        <price>610.00</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>40137948-7c36-4187-a598-0d50eb1df16f</categoryId>
+        <picture>https://ol.partners/Products/Photo/1C6E0433-CE8C-44F6-BE60-67BA60E264C5</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/4275ec15-81e2-48cf-b49a-e0c2108a4046/image_04.jpg</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/4275ec15-81e2-48cf-b49a-e0c2108a4046/image_02.jpg</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/4275ec15-81e2-48cf-b49a-e0c2108a4046/image_05.jpg</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/4275ec15-81e2-48cf-b49a-e0c2108a4046/image_03.jpg</picture>
+        <vendor>KOER</vendor>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Достатньо</availabilityStatus>
+        <name>Комплект подовжувачів Koer KF.SET.06-15M d15x1/2M хромований (KR5847)</name>
+        <description>&lt;![CDATA[]]&gt;</description>
+        <vendorCode>KR5847</vendorCode>
+        <param name="Од. в упак.">20</param>
+        <param name="Об'єм ящ.">0.017</param>
+        <param name="Вага ящ.">5.5</param>
+        <param name="Діаметр підключення (дюйм)">1/2</param>
+        <param name="Покриття">Хром</param>
+        <param name="Колір">Сталевий</param>
+        <param name="Модель">KF.SET.06-15M</param>
+        <param name="Країна бренду">Чехія</param>
+        <param name="Торгова марка">KOER</param>
+        <param name="Тип виробу">Комплектуючі до рушникосушок</param>
+        <param name="Тип">Подовжувач</param>
+        <param name="Призначення">Для труб</param>
+        <param name="Матеріал">Латунь CW617N</param>
+        <param name="Тип з'єднання">Різьбовий</param>
+        <param name="Гарантійний період (міс)">84</param>
       </offer>
       <offer id="ZX1602" available="true">
         <url>https://ol.partners/products/miyki-dlya-kukhni/vrizni-miyki/miyka-kukhonna-zerix-z764208180e-satin-zx1602</url>
@@ -48286,7 +48285,7 @@
         <param name="Країна бренду">Чехія</param>
         <param name="Тип виробу">Комплектуючі для водоочищення</param>
       </offer>
-      <offer id="MI8189" available="true">
+      <offer id="MI8189" available="false">
         <url>https://ol.partners/products/sifoni-trapi-dlya-dushu/sifoni/sifon-dlya-umivalnika-mixxus-su09a-1-14x32-z-litim-vipuskom-mi8189</url>
         <price>184.00</price>
         <currencyId>UAH</currencyId>
@@ -48294,8 +48293,8 @@
         <picture>https://ol.partners/Products/Photo/515CE2EF-93D9-4BD5-9142-274701ED45D9</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/c2d74587-bfbf-4598-a75f-1ede908b1743/image_01.jpg</picture>
         <vendor>MIXXUS</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Сифон для умивальника Mixxus SU-09-A 1 1/4"x32 з литим випуском (MI8189)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>MI8189</vendorCode>
@@ -53911,7 +53910,7 @@
       </offer>
       <offer id="2201600M" available="true">
         <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/krani/kran-dlya-pidklyuchennya-santekhpriboriv/kutoviy-ventil-grohe-2201600m</url>
-        <price>3294.00</price>
+        <price>329.40</price>
         <currencyId>UAH</currencyId>
         <categoryId>85089059-b2ea-414c-a0f0-0cb7187f4e74</categoryId>
         <picture>https://ol.partners/Products/Photo/00EFC08A-CE48-47CF-8BEC-3B057EE95C23</picture>
@@ -55185,7 +55184,7 @@
       </offer>
       <offer id="2201700M" available="true">
         <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/krani/kran-dlya-pidklyuchennya-santekhpriboriv/kutoviy-ventil-grohe-2201700m</url>
-        <price>3240.00</price>
+        <price>324.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>85089059-b2ea-414c-a0f0-0cb7187f4e74</categoryId>
         <picture>https://ol.partners/Products/Photo/2D658B7E-60FA-4A0F-8011-5CFFCE9238E8</picture>
@@ -115260,7 +115259,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/ae5099d7-ca74-4ea5-9dae-763fbf5e52b9/image_01.jpg</picture>
         <vendor>GROHE</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Інсталяційний комплект 4 в 1 для унітаза Grohe Rapid (38772SH0)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>38772SH0</vendorCode>
@@ -115933,10 +115932,10 @@
         <param name="Діаметр підключення (мм)">40</param>
       </offer>
       <offer id="KR5848" available="true">
-        <url>https://ol.partners/products/truboprovodi-ta-zyednannya/fitingi/rizbovi-zyednannya/komplekt-podovzhuvachiv-koer-kfset0615m-white-d15x12m-biliy-kr5848</url>
+        <url>https://ol.partners/products/rushnikosushki/komplektuyuchi-do-rushnikosushok/komplekt-podovzhuvachiv-koer-kfset0615m-white-d15x12m-biliy-kr5848</url>
         <price>724.00</price>
         <currencyId>UAH</currencyId>
-        <categoryId>cccd3e1f-6b84-49c8-b342-dee61a5caf10</categoryId>
+        <categoryId>40137948-7c36-4187-a598-0d50eb1df16f</categoryId>
         <picture>https://ol.partners/Products/Photo/507BF2A3-C9FF-4CC1-A269-91E890299ED2</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/d0673fee-d216-413e-8295-5bcf2af306c6/image_04.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/d0673fee-d216-413e-8295-5bcf2af306c6/image_03.jpg</picture>
@@ -115951,7 +115950,7 @@
         <param name="Од. в упак.">20</param>
         <param name="Об'єм ящ.">0</param>
         <param name="Вага ящ.">0</param>
-        <param name="Тип виробу">Латунний фітинг</param>
+        <param name="Тип виробу">Комплектуючі до рушникосушок</param>
         <param name="Модель">KF.SET.06-15M</param>
         <param name="Країна бренду">Чехія</param>
         <param name="Тип">Подовжувач</param>
@@ -116511,7 +116510,7 @@
         <picture>https://ol.partners/Products/Photo/8EE349EE-9A32-43DD-8C9F-21B6585BFC82</picture>
         <vendor>EUROPRODUCT</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Хрестовина 25 PPR Europroduct EP.0038 (EP4089)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>EP4089</vendorCode>
@@ -129006,7 +129005,7 @@
         <param name="Країна виробник">Китай</param>
         <param name="Країна бренду">Китай</param>
       </offer>
-      <offer id="EP4454" available="true">
+      <offer id="EP4454" available="false">
         <url>https://ol.partners/products/radiatori-opalennya/stalevi-radiatori/staleviy-radiator-europroduct-22-x-500-x-1300-bokove-pidkl-ep4454</url>
         <price>5162.00</price>
         <currencyId>UAH</currencyId>
@@ -129014,8 +129013,8 @@
         <picture>https://ol.partners/Products/Photo/21135D63-CCF6-42BA-9DFF-BBDF2B75908B</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/4170c285-aa9a-447f-8f0c-b0b12d2cd018/image_01.jpg</picture>
         <vendor>EUROPRODUCT</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Сталевий радіатор Europroduct 22 x 500 x 1300 (бокове підкл.) (EP4454)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>EP4454</vendorCode>
@@ -130598,7 +130597,7 @@
         <param name="Гарантійний період (міс)">84</param>
         <param name="Особливості">Матеріал закладних деталей - Латунь CW617N нікельована</param>
       </offer>
-      <offer id="388400WGELLIPS0305T3" available="true">
+      <offer id="388400WGELLIPS0305T3" available="false">
         <url>https://ol.partners/products/instalyatsii-ta-klavishi/instalyatsii-z-unitazom/komplekt-grohe-set-unitaz-ellipse0305t3-instalyatsiya-ua388400wg-panel-38732000-388400wgellips0305t3</url>
         <price>9914.00</price>
         <currencyId>UAH</currencyId>
@@ -130628,8 +130627,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/e8d0efb3-052a-44bf-8789-b5785468235a/image_16.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/e8d0efb3-052a-44bf-8789-b5785468235a/image_11.jpg</picture>
         <vendor>GROHE</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Комплект Grohe Set Унітаз ELLIPSE-0305-T3 + Інсталяція UA388400WG + панель 38732000 (388400WGELLIPS0305T3)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>388400WGELLIPS0305T3</vendorCode>
@@ -134504,7 +134503,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/18bbda79-584b-424d-abc5-801d60b574ad/image_03.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Комплект для підключення бойлера Koer SET-25 - 1/2 (KR5458)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR5458</vendorCode>
@@ -138420,10 +138419,10 @@
         <param name="Покриття">Немає</param>
       </offer>
       <offer id="KR5849" available="true">
-        <url>https://ol.partners/products/truboprovodi-ta-zyednannya/fitingi/rizbovi-zyednannya/komplekt-podovzhuvachiv-koer-kfset06mf-12fx12m-khromovaniy-kr5849</url>
+        <url>https://ol.partners/products/rushnikosushki/komplektuyuchi-do-rushnikosushok/komplekt-podovzhuvachiv-koer-kfset06mf-12fx12m-khromovaniy-kr5849</url>
         <price>814.00</price>
         <currencyId>UAH</currencyId>
-        <categoryId>cccd3e1f-6b84-49c8-b342-dee61a5caf10</categoryId>
+        <categoryId>40137948-7c36-4187-a598-0d50eb1df16f</categoryId>
         <picture>https://ol.partners/Products/Photo/58DEA870-465A-4FA1-A857-93525F1E975E</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/6d1e7c08-b540-451e-b9e7-b5754330be0a/image_05.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/6d1e7c08-b540-451e-b9e7-b5754330be0a/image_02.jpg</picture>
@@ -138441,7 +138440,7 @@
         <param name="Торгова марка">KOER</param>
         <param name="Призначення">Для труб</param>
         <param name="Модель">KF.SET.06MF</param>
-        <param name="Тип виробу">Латунний фітинг</param>
+        <param name="Тип виробу">Комплектуючі до рушникосушок</param>
         <param name="Тип">Подовжувач</param>
         <param name="Країна бренду">Чехія</param>
         <param name="Матеріал">Латунь CW617N</param>
@@ -141220,33 +141219,6 @@
         <param name="Матеріал">Поліпропілен</param>
         <param name="Гарантійний період (міс)">12</param>
       </offer>
-      <offer id="KR3414" available="true">
-        <url>https://ol.partners/products/sifoni-trapi-dlya-dushu/zlivni-trapi/dushoviy-trap-koer-fd10100x100180black-pryame-vidvedennya-chorniy-kr3414</url>
-        <price>560.00</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>e679a4a9-0158-4101-9206-332f81d1f22b</categoryId>
-        <picture>https://ol.partners/Products/Photo/111F7E5B-6C6B-483F-9719-CDD5F1284852</picture>
-        <vendor>KOER</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
-        <name>Душовий трап KOER FD10-100x100-180-BLACK (прямий відвід) (Чорний) (KR3414)</name>
-        <description>&lt;![CDATA[]]&gt;</description>
-        <vendorCode>KR3414</vendorCode>
-        <param name="Од. в упак.">50</param>
-        <param name="Об'єм ящ.">0</param>
-        <param name="Вага ящ.">0</param>
-        <param name="Гарантійний період (міс)">60</param>
-        <param name="Модель">FD10</param>
-        <param name="Країна бренду">Чехія</param>
-        <param name="Тип виробу">Трапи для душу</param>
-        <param name="Вид виробу">Точкові трапи</param>
-        <param name="Торгова марка">KOER</param>
-        <param name="Колір">Чорний</param>
-        <param name="Ширина (мм)">100</param>
-        <param name="Довжина (мм)">100</param>
-        <param name="Тип затвору">Комбінований</param>
-        <param name="Матеріал">Латунь</param>
-      </offer>
       <offer id="KA0010" available="true">
         <url>https://ol.partners/products/truboprovodi-ta-zyednannya/ustatkuvannya-dlya-montazhu/instrumenti-dlya-montazhu/nozhitsi-avtomatichni-dlya-ppr-koer-kw43a-ka0010</url>
         <price>986.00</price>
@@ -141276,6 +141248,33 @@
         <param name="Діаметр труби (мм)">16-42</param>
         <param name="Матеріал виробу">Сталь</param>
         <param name="Колір">Червоний</param>
+      </offer>
+      <offer id="KR3414" available="true">
+        <url>https://ol.partners/products/sifoni-trapi-dlya-dushu/zlivni-trapi/dushoviy-trap-koer-fd10100x100180black-pryame-vidvedennya-chorniy-kr3414</url>
+        <price>560.00</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>e679a4a9-0158-4101-9206-332f81d1f22b</categoryId>
+        <picture>https://ol.partners/Products/Photo/111F7E5B-6C6B-483F-9719-CDD5F1284852</picture>
+        <vendor>KOER</vendor>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Достатньо</availabilityStatus>
+        <name>Душовий трап KOER FD10-100x100-180-BLACK (прямий відвід) (Чорний) (KR3414)</name>
+        <description>&lt;![CDATA[]]&gt;</description>
+        <vendorCode>KR3414</vendorCode>
+        <param name="Од. в упак.">50</param>
+        <param name="Об'єм ящ.">0</param>
+        <param name="Вага ящ.">0</param>
+        <param name="Гарантійний період (міс)">60</param>
+        <param name="Модель">FD10</param>
+        <param name="Країна бренду">Чехія</param>
+        <param name="Тип виробу">Трапи для душу</param>
+        <param name="Вид виробу">Точкові трапи</param>
+        <param name="Торгова марка">KOER</param>
+        <param name="Колір">Чорний</param>
+        <param name="Ширина (мм)">100</param>
+        <param name="Довжина (мм)">100</param>
+        <param name="Тип затвору">Комбінований</param>
+        <param name="Матеріал">Латунь</param>
       </offer>
       <offer id="EP6171" available="false">
         <url>https://ol.partners/products/radiatori-opalennya/stalevi-radiatori/staleviy-radiator-europroduct-22-x-600-x-1500-bichne-pidyednannya-ep6171</url>
@@ -149899,7 +149898,7 @@
         <param name="Робочий тиск (бар)">6</param>
         <param name="Матеріал виробу">Нержавіюча сталь SUS304</param>
       </offer>
-      <offer id="KR5164" available="false">
+      <offer id="KR5164" available="true">
         <url>https://ol.partners/products/radiatori-opalennya/sektsiyni-radiatori/bimetalevi-radiatori-koer-100-bimetal500-golf-kr5164-tsina-za-1-sektsiyu</url>
         <price>466.00</price>
         <currencyId>UAH</currencyId>
@@ -149908,8 +149907,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/e03e36c9-3826-402f-bd70-c67ecc4ca867/image_01.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/e03e36c9-3826-402f-bd70-c67ecc4ca867/image_02.jpg</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Радіатор секційний KOER 100 Bimetal-500 GOLF (KR5164) / Ціна за 1 секцію</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR5164</vendorCode>
