@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-05-11 03:25">
+<yml_catalog date="2026-05-12 02:50">
   <shop>
     <name>O&amp;L</name>
     <company>O&amp;L</company>
@@ -4943,12 +4943,15 @@
         <param name="Матеріал робочого колеса">Латунь</param>
         <param name="Захист від перегріву (Вбудований датчик перегріву)">Так</param>
         <param name="Мінімальна температура робочої рідини (°C)">4</param>
+        <param name="Потужність (Вт)">1100</param>
         <param name="Перекачувальні середовища">Прісна вода</param>
         <param name="Матеріал вала двигуна">Нержавіюча сталь</param>
+        <param name="Потужність (кВт)">1,10</param>
         <param name="Матеріал виробу">Чавун</param>
         <param name="Напруга мережі (V)">230</param>
         <param name="Частота струму (Гц)">50</param>
         <param name="Якість води">Чиста</param>
+        <param name="Продуктивність (м3/год)">6,0</param>
         <param name="MAX продуктивність (при мін. напорі) (м3/год)">6000,00</param>
         <param name="Продуктивність (л/хв)">100,00</param>
         <param name="MAX продуктивність (при мінімальн. напорі) (л/хв)">100,00</param>
@@ -7319,15 +7322,15 @@
         <param name="B (мм)">44,00</param>
         <param name="A (мм)">42,00</param>
       </offer>
-      <offer id="MX1955" available="true">
+      <offer id="MX1955" available="false">
         <url>https://ol.partners/products/aksesuari-dlya-vannoi/dozator-dlya-ridkogo-mila/dozator-dlya-miynogo-zasobu-vrizniy-mixxus-dis01sus-graphite-dis01sus-nanoblack-sus304-300-ml-grafit-mx1955</url>
         <price>318.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>4b1ed2a0-7372-49d4-8570-7be730b86a84</categoryId>
         <picture>https://ol.partners/Products/Photo/737D9634-F77D-4F25-8814-6D6D041DDA67</picture>
         <vendor>MIXXUS</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Дозатор для мийного засобу врізний Mixxus DIS-01.SUS Graphite (DIS-01.SUS NANO-Black) SUS304 300 мл (графіт) (MX1955)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>MX1955</vendorCode>
@@ -8842,6 +8845,8 @@
         <param name="Мінімальна температура робочої рідини (°C)">5</param>
         <param name="Вбудований термозахист">Так</param>
         <param name="Потужність (кВт)">0,55</param>
+        <param name="Продуктивність (м3/год)">6,0</param>
+        <param name="MAX продуктивність (при мінімальн. напорі) (л/хв)">100,00</param>
         <param name="Потужність (Вт)">550</param>
         <param name="Матеріал вала двигуна">Нержавіюча сталь AISI 304</param>
         <param name="Максимальний напір (м)">31</param>
@@ -10717,12 +10722,14 @@
         <param name="Вага ящ.">0</param>
         <param name="Матеріал виробу">Чавун</param>
         <param name="Продуктивність (м3/год)">3,5</param>
+        <param name="Потужність (кВт)">1,10</param>
         <param name="Потужність (Вт)">1100</param>
         <param name="Вбудований термозахист">Так</param>
+        <param name="MAX продуктивність (при мінімальн. напорі) (л/хв)">58,30</param>
         <param name="Матеріал обмотки статора">Мідь</param>
         <param name="Напруга мережі (V)">220-230</param>
         <param name="Частота струму (Гц)">50</param>
-        <param name="Продуктивність (л/хв)">58,00</param>
+        <param name="Продуктивність (л/хв)">58,30</param>
         <param name="Максимальний напір (м)">50</param>
         <param name="Матеріал шнека">Нержавіюча сталь</param>
         <param name="Швидкість (об/хв)">2900</param>
@@ -13428,6 +13435,7 @@
         <param name="Об'єм ящ.">0.031</param>
         <param name="Вага ящ.">22.4</param>
         <param name="Матеріал робочого колеса">Латунь</param>
+        <param name="Продуктивність (м3/год)">30,0</param>
         <param name="Швидкість (об/хв)">2850</param>
         <param name="Матеріал виробу">Чавун</param>
         <param name="Матеріал обмотки статора">Мідь</param>
@@ -13435,6 +13443,9 @@
         <param name="Мінімальна температура робочої рідини (°C)">4</param>
         <param name="Тип приєднання">Різьбове</param>
         <param name="Клас захисту корпусів електронного обладнання">IP 54</param>
+        <param name="Потужність (Вт)">1500</param>
+        <param name="MAX продуктивність (при мінімальн. напорі) (л/хв)">500,00</param>
+        <param name="Продуктивність (л/хв)">500,00</param>
         <param name="Якість води">Слабко забруднена</param>
         <param name="Максимальний напір (м)">22</param>
         <param name="Потужність (кВт)">1,50</param>
@@ -15516,13 +15527,13 @@
         <param name="Швидкість (об/хв)">2850</param>
         <param name="Матеріал вала двигуна">Нержавіюча сталь AISI 304</param>
         <param name="Мінімальна температура робочої рідини (°C)">4</param>
-        <param name="Продуктивність (л/хв)">135,00</param>
+        <param name="Продуктивність (л/хв)">180,00</param>
         <param name="Перекачувальні середовища">Вода</param>
         <param name="Напруга мережі (V)">220-240</param>
         <param name="Тип приєднання">Різьбове</param>
         <param name="Матеріал обмотки статора">Мідь</param>
         <param name="Якість води">Чиста</param>
-        <param name="Максимальний напір (м)">50</param>
+        <param name="Максимальний напір (м)">65</param>
         <param name="Захист від перегріву (Вбудований датчик перегріву)">Так</param>
         <param name="Потужність (кВт)">2,20</param>
         <param name="Клас захисту корпусів електронного обладнання">IP 54</param>
@@ -15531,6 +15542,8 @@
         <param name="Глибина всмоктування (м)">8,00</param>
         <param name="Клас термостійкості">F</param>
         <param name="Матеріал робочого колеса">Латунь</param>
+        <param name="Продуктивність (м3/год)">10,8</param>
+        <param name="MAX продуктивність (при мінімальн. напорі) (л/хв)">180,00</param>
         <param name="Гарантійний період (міс)">36</param>
         <param name="Максимальна температура робочої рідини (°C)">40</param>
         <param name="Діаметр виходу 1 (дюйм)">1 1/4</param>
@@ -16521,13 +16534,17 @@
         <param name="Захист від перегріву (Вбудований датчик перегріву)">Так</param>
         <param name="Перекачувальні середовища">Вода</param>
         <param name="Напруга мережі (V)">220-240</param>
+        <param name="Продуктивність (м3/год)">6,1</param>
         <param name="Максимальний напір (м)">26</param>
+        <param name="MAX продуктивність (при мінімальн. напорі) (л/хв)">102,00</param>
         <param name="Мінімальна температура робочої рідини (°C)">4</param>
         <param name="Матеріал виробу">Чавун</param>
         <param name="Потужність (кВт)">0,55</param>
         <param name="Глибина всмоктування (м)">8,00</param>
         <param name="Клас захисту корпусів електронного обладнання">IP 54</param>
         <param name="Частота струму (Гц)">50</param>
+        <param name="Потужність (Вт)">550</param>
+        <param name="Продуктивність (л/хв)">102,00</param>
         <param name="Клас термостійкості">F</param>
         <param name="Торгова марка">KOER</param>
         <param name="Тип виробу">Поверхневий насос</param>
@@ -16661,7 +16678,7 @@
         <param name="Особливості">Регульована висота ринви, ухил внутрішньої частини корпусу ринви</param>
         <param name="Колір">Нержавіюча сталь</param>
       </offer>
-      <offer id="ZX5042" available="false">
+      <offer id="ZX5042" available="true">
         <url>https://ol.partners/products/aksesuari-dlya-vannoi/politsi-u-vannu/politsya-z-obmezhuvachem-sklo-zerix-afb0107-zx5042</url>
         <price>358.00</price>
         <currencyId>UAH</currencyId>
@@ -16671,7 +16688,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/2be69531-e6ce-4439-86a4-1962c420174e/image_02.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/2be69531-e6ce-4439-86a4-1962c420174e/image_03.jpg</picture>
         <vendor>ZERIX</vendor>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>100</stock_quantity>
         <availabilityStatus>Достатньо</availabilityStatus>
         <name>Полиця з обмежувачем (скло) Zerix AFB-0107 (ZX5042)</name>
         <description>&lt;![CDATA[]]&gt;</description>
@@ -21194,7 +21211,7 @@
         <param name="Продуктивність (л/хв)">50,00</param>
         <param name="Мін. температура навколишнього середовища (°C)">2</param>
         <param name="MAX продуктивність (при мінімальн. напорі) (л/хв)">50,00</param>
-        <param name="Продуктивність (м3/год)">3,00</param>
+        <param name="Продуктивність (м3/год)">3,0</param>
         <param name="Швидкість (об/хв)">2900</param>
         <param name="Продуктивність при максимальному ККД (м3/год)">3,00</param>
         <param name="Матеріал обмотки статора">Мідь</param>
@@ -22559,15 +22576,15 @@
         <param name="Мінімальна температура води (°C)">3</param>
         <param name="Матеріал">ABS-пластик</param>
       </offer>
-      <offer id="EP6229" available="true">
+      <offer id="EP6229" available="false">
         <url>https://ol.partners/products/filtri-ochischennya-vodi/komplektuyuchi-dlya-filtriv-vodi/kartridzh-polipropilenoviy-europroduct-epv01251020-pp20-25x10-ep6229</url>
         <price>29.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>d191ae68-f2ee-4472-8036-e37d06c8ffc9</categoryId>
         <picture>https://ol.partners/Products/Photo/10076188-1398-416A-B6D1-C1EB158E1EF1</picture>
         <vendor>EUROPRODUCT</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Картридж поліпропіленовий Europroduct EPV-01-2510-20 PP20 2,5"x10" (EP6229)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>EP6229</vendorCode>
@@ -25935,6 +25952,7 @@
         <param name="Клас термостійкості">F</param>
         <param name="Частота струму (Гц)">50</param>
         <param name="Матеріал виробу">Чавун</param>
+        <param name="Продуктивність (м3/год)">6,0</param>
         <param name="Захист від перегріву (Вбудований датчик перегріву)">Так</param>
         <param name="Потужність (Вт)">800</param>
         <param name="Глибина всмоктування (м)">7,00</param>
@@ -25945,6 +25963,7 @@
         <param name="Вологість навколишнього повітря (%)">&lt;90</param>
         <param name="Матеріал робочого колеса">Полікарбонат, поліфеніленоксид</param>
         <param name="Матеріал обмотки статора">Мідь</param>
+        <param name="MAX продуктивність (при мінімальн. напорі) (л/хв)">100,00</param>
         <param name="Вбудований термозахист">Так</param>
         <param name="Клас захисту корпусів електронного обладнання">IP 54</param>
         <param name="Мін. температура навколишнього середовища (°C)">2</param>
@@ -30844,13 +30863,15 @@
         <param name="Швидкість (об/хв)">2850</param>
         <param name="Продуктивність (л/хв)">55,00</param>
         <param name="Потужність на валу насоса (P2, ЛС)">0,50</param>
+        <param name="Продуктивність (м3/год)">3,3</param>
         <param name="Частота струму (Гц)">50</param>
+        <param name="MAX продуктивність (при мінімальн. напорі) (л/хв)">55,00</param>
         <param name="Ємкість конденсатора (мкФ)">14,00</param>
         <param name="Глибина всмоктування (м)">9,00</param>
         <param name="Захист від перегріву (Вбудований датчик перегріву)">Так</param>
         <param name="Мін. температура навколишнього середовища (°C)">2</param>
         <param name="Матеріал виробу">Чавун</param>
-        <param name="Потужність (кВт)">0,60</param>
+        <param name="Потужність (кВт)">0,37</param>
         <param name="Матеріал обмотки статора">Мідь</param>
         <param name="Вологість навколишнього повітря (%)">90</param>
         <param name="Максимальна статичний тиск (бар)">7,00</param>
@@ -30859,7 +30880,7 @@
         <param name="Максимальний напір (м)">30</param>
         <param name="Матеріал робочого колеса">Латунь</param>
         <param name="Потужність при режимі 1 (P1, Вт)">415</param>
-        <param name="Потужність (Вт)">600</param>
+        <param name="Потужність (Вт)">370</param>
         <param name="Серія">JET-60</param>
         <param name="Країна бренду">Чехія</param>
         <param name="Тип">Відцентровий</param>
@@ -31397,7 +31418,7 @@
         <param name="Покриття">Нікель</param>
         <param name="Колір">Сталевий</param>
       </offer>
-      <offer id="38536001QUADRO0301T3" available="false">
+      <offer id="38536001QUADRO0301T3" available="true">
         <url>https://ol.partners/products/instalyatsii-ta-klavishi/instalyatsii-z-unitazom/komplekt-grohe-set-unitaz-quadro0301t3-instalyatsiya-38536001-panel-38732000-38536001quadro0301t3</url>
         <price>10911.00</price>
         <currencyId>UAH</currencyId>
@@ -31425,8 +31446,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/37ab6dac-46ce-4c88-bb47-022e39d53505/image_05.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/37ab6dac-46ce-4c88-bb47-022e39d53505/image_11.jpg</picture>
         <vendor>GROHE</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Комплект Grohe Set Унітаз QUADRO-0301-T3 + Інсталяція 38536001 + панель 38732000 (38536001QUADRO0301T3)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>38536001QUADRO0301T3</vendorCode>
@@ -34208,10 +34229,12 @@
         <param name="Глибина всмоктування (м)">9,00</param>
         <param name="Максимальна статичний тиск (бар)">7,00</param>
         <param name="Потужність (кВт)">1,30</param>
+        <param name="MAX продуктивність (при мінімальн. напорі) (л/хв)">100,00</param>
         <param name="Клас термостійкості">F</param>
         <param name="Мін. температура навколишнього середовища (°C)">2</param>
         <param name="Матеріал вала двигуна">Нержавіюча сталь AISI 304</param>
         <param name="Мінімальна температура робочої рідини (°C)">5</param>
+        <param name="Продуктивність (м3/год)">6,0</param>
         <param name="Вологість навколишнього повітря (%)">&lt;90</param>
         <param name="Максимальний напір (м)">60</param>
         <param name="Максимально допустима кількість забруднень (г/м3)">&lt;200</param>
@@ -34778,7 +34801,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/5d0cd814-7fc2-48f2-a41c-d224539b0bc3/image_02.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Газова колонка KOER KWH.G0110 GRAY димохідна 10 л/хв, колір сірий (KR5555)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR5555</vendorCode>
@@ -38453,9 +38476,13 @@
         <param name="Матеріал робочого колеса">Латунь</param>
         <param name="Матеріал обмотки статора">Мідь</param>
         <param name="Частота струму (Гц)">50</param>
+        <param name="Потужність (Вт)">1900</param>
+        <param name="Продуктивність (м3/год)">12,0</param>
+        <param name="Продуктивність (л/хв)">200,00</param>
         <param name="Матеріал вала двигуна">Нержавіюча сталь AISI 304</param>
         <param name="Клас захисту корпусів електронного обладнання">IP 54</param>
         <param name="Мінімальна температура робочої рідини (°C)">4</param>
+        <param name="MAX продуктивність (при мінімальн. напорі) (л/хв)">200,00</param>
         <param name="Тип приєднання">Різьбове</param>
         <param name="Швидкість (об/хв)">2850</param>
         <param name="Якість води">Слабко забруднена</param>
@@ -38662,11 +38689,13 @@
         <param name="Од. в упак.">4</param>
         <param name="Об'єм ящ.">0.063</param>
         <param name="Вага ящ.">38</param>
-        <param name="Потужність (кВт)">0,25</param>
+        <param name="Потужність (кВт)">0,55</param>
         <param name="Продуктивність при максимальному ККД (м3/год)">3,00</param>
-        <param name="Потужність (Вт)">250</param>
+        <param name="Продуктивність (м3/год)">3,0</param>
+        <param name="Потужність (Вт)">550</param>
         <param name="Максимальний напір (м)">42</param>
         <param name="Продуктивність (л/хв)">50,00</param>
+        <param name="MAX продуктивність (при мінімальн. напорі) (л/хв)">50,00</param>
         <param name="Особливості">Н=42М, Q=3кбМ,P=550 Вт, 1"x 1"</param>
         <param name="Гарантійний період (міс)">24</param>
         <param name="Тип виробу">Поверхневий насос</param>
@@ -44273,12 +44302,14 @@
         <param name="Об'єм ящ.">0.034</param>
         <param name="Вага ящ.">17</param>
         <param name="Мінімальна температура робочої рідини (°C)">5</param>
+        <param name="MAX продуктивність (при мінімальн. напорі) (л/хв)">150,00</param>
         <param name="Матеріал обмотки статора">Мідь</param>
         <param name="Матеріал вала двигуна">Нержавіюча сталь AISI 304</param>
         <param name="Матеріал виробу">Чавун</param>
         <param name="Потужність (Вт)">550</param>
         <param name="Глибина всмоктування (м)">7,00</param>
         <param name="Клас захисту корпусів електронного обладнання">IP 54</param>
+        <param name="Продуктивність (м3/год)">9,0</param>
         <param name="Мін. температура навколишнього середовища (°C)">2</param>
         <param name="Перекачувальні середовища">Прісна вода</param>
         <param name="Захист від перегріву (Вбудований датчик перегріву)">Так</param>
@@ -44287,7 +44318,7 @@
         <param name="Клас термостійкості">F</param>
         <param name="Вологість навколишнього повітря (%)">&lt;90</param>
         <param name="Продуктивність (л/хв)">150,00</param>
-        <param name="Потужність (кВт)">0,55</param>
+        <param name="Потужність (кВт)">0,95</param>
         <param name="Максимальний напір (м)">21</param>
         <param name="Продуктивність при максимальному ККД (м3/год)">9,00</param>
         <param name="Вбудований термозахист">Так</param>
@@ -45621,16 +45652,20 @@
         <param name="Торгова марка">KOER</param>
         <param name="Тип виробу">Поверхневий насос</param>
         <param name="Матеріал обмотки статора">Мідь</param>
+        <param name="MAX продуктивність (при мінімальн. напорі) (л/хв)">500,00</param>
         <param name="Мінімальна температура робочої рідини (°C)">4</param>
         <param name="Напруга мережі (V)">220-240</param>
         <param name="Матеріал робочого колеса">Латунь</param>
         <param name="Частота струму (Гц)">50</param>
         <param name="Потужність (кВт)">2,20</param>
+        <param name="Потужність (Вт)">2200</param>
         <param name="Захист від перегріву (Вбудований датчик перегріву)">Так</param>
+        <param name="Продуктивність (л/хв)">500,00</param>
         <param name="Якість води">Слабко забруднена</param>
         <param name="Максимальний напір (м)">27</param>
         <param name="Тип приєднання">Різьбове</param>
         <param name="Матеріал виробу">Чавун</param>
+        <param name="Продуктивність (м3/год)">30,0</param>
         <param name="Швидкість (об/хв)">2850</param>
         <param name="Клас захисту корпусів електронного обладнання">IP 54</param>
         <param name="Матеріал вала двигуна">Нержавіюча сталь AISI 304</param>
@@ -48439,7 +48474,7 @@
         <param name="Призначення">Для водопостачання, опалення</param>
         <param name="Колір">Сірий</param>
       </offer>
-      <offer id="KR5794" available="true">
+      <offer id="KR5794" available="false">
         <url>https://ol.partners/products/zapchastini-dlya-zmishuvacha/donniy-klapan-dlya-rakovini/donniy-klapan-dlya-rakovini-koer-pw1112-1-14-universalniy-zbez-perel-slickslack-kolir-zolmat-kr5794</url>
         <price>623.00</price>
         <currencyId>UAH</currencyId>
@@ -48469,8 +48504,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/e002c0dd-9f17-49e2-abe6-7fcacb742547/image_07.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/e002c0dd-9f17-49e2-abe6-7fcacb742547/image_02.jpg</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Донний клапан для раковини Koer PW-11-12 1 1/4''  універсальний (з/без перел) СLICK-СLACK (Колір зол.мат) (KR5794)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR5794</vendorCode>
@@ -53959,6 +53994,7 @@
         <param name="Швидкість (об/хв)">2900</param>
         <param name="Максимальний напір (м)">18</param>
         <param name="Клас захисту корпусів електронного обладнання">IP 54</param>
+        <param name="Продуктивність (м3/год)">16,0</param>
         <param name="Р1 Потужність (Вт)">1100</param>
         <param name="Продуктивність (л/хв)">267,00</param>
         <param name="Режим роботи">S1, тривалий</param>
@@ -54936,15 +54972,19 @@
         <param name="Од. в упак.">1</param>
         <param name="Об'єм ящ.">0.024</param>
         <param name="Вага ящ.">12.5</param>
+        <param name="Потужність (кВт)">1,10</param>
         <param name="Клас термостійкості">F</param>
         <param name="Максимальний напір (м)">56</param>
+        <param name="Продуктивність (м3/год)">3,6</param>
         <param name="Матеріал робочого колеса">Латунь</param>
         <param name="Матеріал обмотки статора">Мідь</param>
+        <param name="Продуктивність (л/хв)">60,00</param>
         <param name="Мін. температура навколишнього середовища (°C)">2</param>
         <param name="Перекачувальні середовища">Вода</param>
         <param name="Клас захисту корпусів електронного обладнання">IP 54</param>
         <param name="Захист від перегріву (Вбудований датчик перегріву)">Так</param>
         <param name="Вбудований термозахист">Так</param>
+        <param name="MAX продуктивність (при мінімальн. напорі) (л/хв)">60,00</param>
         <param name="Потужність (Вт)">1100</param>
         <param name="Якість води">Чиста</param>
         <param name="Мінімальна температура робочої рідини (°C)">5</param>
@@ -55529,6 +55569,7 @@
         <param name="Тип виробу">Поверхневий насос</param>
         <param name="Ємкість конденсатора (мкФ)">16,00</param>
         <param name="Максимальна статичний тиск (бар)">7,00</param>
+        <param name="MAX продуктивність (при мінімальн. напорі) (л/хв)">55,00</param>
         <param name="Мінімальна температура робочої рідини (°C)">5</param>
         <param name="Потужність (кВт)">0,75</param>
         <param name="Споживна потужність (кВт/г)">0,75</param>
@@ -55544,11 +55585,12 @@
         <param name="Матеріал робочого колеса">Латунь</param>
         <param name="Якість води">Чиста</param>
         <param name="Матеріал виробу">Чавун</param>
-        <param name="Продуктивність (л/хв)">50,00</param>
+        <param name="Продуктивність (л/хв)">55,00</param>
         <param name="Матеріал обмотки статора">Мідь</param>
         <param name="Мін. температура навколишнього середовища (°C)">2</param>
         <param name="Вологість навколишнього повітря (%)">90</param>
         <param name="Продуктивність при максимальному ККД (м3/год)">3,00</param>
+        <param name="Продуктивність (м3/год)">3,3</param>
         <param name="Макс. температура навколишнього середовища (°C)">40</param>
         <param name="Максимальна температура робочої рідини (°C)">40</param>
         <param name="Гарантійний період (міс)">24</param>
@@ -56726,8 +56768,8 @@
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR5704</vendorCode>
         <param name="Од. в упак.">20</param>
-        <param name="Об'єм ящ.">0</param>
-        <param name="Вага ящ.">0</param>
+        <param name="Об'єм ящ.">0.003</param>
+        <param name="Вага ящ.">1.5</param>
         <param name="Тип монтажу">У бачок унітазу</param>
         <param name="Тип виробу">Зливна арматура</param>
         <param name="Вид виробу">Запчастина для зливної арматури</param>
@@ -59559,12 +59601,16 @@
         <param name="Тип виробу">Поверхневий насос</param>
         <param name="Торгова марка">KOER</param>
         <param name="Мінімальна температура робочої рідини (°C)">4</param>
+        <param name="Потужність (Вт)">1500</param>
         <param name="Захист від перегріву (Вбудований датчик перегріву)">Так</param>
         <param name="Матеріал виробу">Чавун</param>
         <param name="Напруга мережі (V)">220-240</param>
         <param name="Потужність (кВт)">1,50</param>
+        <param name="MAX продуктивність (при мінімальн. напорі) (л/хв)">955,00</param>
+        <param name="Продуктивність (м3/год)">57,3</param>
         <param name="Тип приєднання">Різьбове</param>
         <param name="Клас термостійкості">F</param>
+        <param name="Продуктивність (л/хв)">955,00</param>
         <param name="Клас захисту корпусів електронного обладнання">IP 54</param>
         <param name="Частота струму (Гц)">50</param>
         <param name="Якість води">Слабко забруднена</param>
@@ -61532,12 +61578,16 @@
         <param name="Клас термостійкості">F</param>
         <param name="Потужність (кВт)">2,20</param>
         <param name="Захист від перегріву (Вбудований датчик перегріву)">Так</param>
+        <param name="Продуктивність (м3/год)">65,4</param>
+        <param name="Продуктивність (л/хв)">1090,00</param>
         <param name="Матеріал обмотки статора">Мідь</param>
         <param name="Тип приєднання">Різьбове</param>
         <param name="Мінімальна температура робочої рідини (°C)">4</param>
+        <param name="MAX продуктивність (при мінімальн. напорі) (л/хв)">1090,00</param>
         <param name="Матеріал вала двигуна">Нержавіюча сталь AISI 304</param>
         <param name="Напруга мережі (V)">220-240</param>
         <param name="Клас захисту корпусів електронного обладнання">IP 54</param>
+        <param name="Потужність (Вт)">2200</param>
         <param name="Гарантійний період (міс)">36</param>
         <param name="Максимальна температура робочої рідини (°C)">40</param>
         <param name="Торгова марка">KOER</param>
@@ -66377,7 +66427,7 @@
         <param name="Країна бренду">Чехія</param>
         <param name="Торгова марка">KOER</param>
         <param name="Тип">Відцентровий</param>
-        <param name="Продуктивність (л/хв)">317,00</param>
+        <param name="Продуктивність (л/хв)">450,00</param>
         <param name="Матеріал робочого колеса">Латунь</param>
         <param name="Швидкість (об/хв)">2850</param>
         <param name="Потужність на валу насоса (P2, Вт)">1530</param>
@@ -66390,6 +66440,7 @@
         <param name="Мінімальна температура робочої рідини (°C)">5</param>
         <param name="Захист від перегріву (Вбудований датчик перегріву)">Так</param>
         <param name="Продуктивність при максимальному ККД (м3/год)">19,00</param>
+        <param name="Продуктивність (м3/год)">27,0</param>
         <param name="MAX продуктивність (при мінімальн. напорі) (л/хв)">450,00</param>
         <param name="Потужність (Вт)">1500</param>
         <param name="Матеріал виробу">Чавун</param>
@@ -69390,6 +69441,7 @@
         <param name="Клас захисту корпусів електронного обладнання">IP44</param>
         <param name="Захист від перегріву (Вбудований датчик перегріву)">Так</param>
         <param name="Швидкість (об/хв)">2850</param>
+        <param name="Продуктивність (м3/год)">11,4</param>
         <param name="Напруга мережі (V)">230</param>
         <param name="Матеріал робочого колеса">Алюміній</param>
         <param name="Перекачувальні середовища">Прісна вода</param>
@@ -69398,6 +69450,7 @@
         <param name="Якість води">Чиста</param>
         <param name="Потужність (Вт)">1100</param>
         <param name="Тип ротора">Сухий</param>
+        <param name="Потужність (кВт)">1,10</param>
         <param name="Країна бренду">Чехія</param>
         <param name="Торгова марка">KOER</param>
         <param name="Модель">BCN</param>
@@ -70186,6 +70239,7 @@
         <param name="Вага (кг)">22,60</param>
         <param name="Матеріал вала двигуна">Нержавіюча сталь AISI 304</param>
         <param name="Клас термостійкості">F</param>
+        <param name="MAX продуктивність (при мінімальн. напорі) (л/хв)">150,00</param>
         <param name="Продуктивність (л/хв)">150,00</param>
         <param name="Матеріал виробу">Чавун</param>
         <param name="Вологість навколишнього повітря (%)">&lt;90</param>
@@ -70205,6 +70259,7 @@
         <param name="Матеріал робочого колеса">Полікарбонат, поліфеніленоксид</param>
         <param name="Якість води">Чиста</param>
         <param name="Матеріал обмотки статора">Мідь</param>
+        <param name="Продуктивність (м3/год)">9,0</param>
         <param name="Макс. температура навколишнього середовища (°C)">40</param>
         <param name="Гарантійний період (міс)">24</param>
         <param name="Максимальна температура робочої рідини (°C)">40</param>
@@ -70966,10 +71021,14 @@
         <param name="Об'єм ящ.">0.03</param>
         <param name="Вага ящ.">19.6</param>
         <param name="Максимальний напір (м)">16</param>
+        <param name="Продуктивність (л/хв)">370,00</param>
+        <param name="Потужність (Вт)">950</param>
         <param name="Матеріал виробу">Чавун</param>
         <param name="Частота струму (Гц)">50</param>
         <param name="Матеріал робочого колеса">Латунь</param>
+        <param name="MAX продуктивність (при мінімальн. напорі) (л/хв)">370,00</param>
         <param name="Якість води">Слабко забруднена</param>
+        <param name="Продуктивність (м3/год)">22,2</param>
         <param name="Клас термостійкості">F</param>
         <param name="Мінімальна температура робочої рідини (°C)">4</param>
         <param name="Напруга мережі (V)">220-240</param>
@@ -74025,6 +74084,7 @@
         <param name="Вологість навколишнього повітря (%)">&lt;90</param>
         <param name="Якість води">Чиста</param>
         <param name="Матеріал робочого колеса">Полікарбонат, поліфеніленоксид</param>
+        <param name="MAX продуктивність (при мінімальн. напорі) (л/хв)">100,00</param>
         <param name="Мін. температура навколишнього середовища (°C)">2</param>
         <param name="Матеріал виробу">Чавун</param>
         <param name="Мінімальна температура робочої рідини (°C)">5</param>
@@ -74039,6 +74099,7 @@
         <param name="Клас термостійкості">F</param>
         <param name="Продуктивність (л/хв)">100,00</param>
         <param name="Максимальний напір (м)">46</param>
+        <param name="Продуктивність (м3/год)">6,0</param>
         <param name="Клас захисту корпусів електронного обладнання">IP 54</param>
         <param name="Частота струму (Гц)">50</param>
         <param name="Вбудований термозахист">Так</param>
@@ -77029,9 +77090,11 @@
         <param name="Напруга мережі (V)">220-240</param>
         <param name="Клас термостійкості">F</param>
         <param name="Матеріал виробу">Нержавіюча сталь</param>
+        <param name="MAX продуктивність (при мінімальн. напорі) (л/хв)">58,30</param>
         <param name="Продуктивність (л/хв)">58,30</param>
         <param name="Режим роботи">S1, тривалий</param>
         <param name="Клас захисту корпусів електронного обладнання">IP 54</param>
+        <param name="Потужність (кВт)">0,80</param>
         <param name="Продуктивність (м3/год)">3,5</param>
         <param name="Якість води">Чиста</param>
         <param name="Потужність (Вт)">800</param>
@@ -79563,6 +79626,7 @@
         <param name="Продуктивність (л/хв)">50,00</param>
         <param name="Потужність (кВт)">0,75</param>
         <param name="Максимальний напір (м)">55</param>
+        <param name="Продуктивність (м3/год)">3,0</param>
         <param name="Глибина всмоктування (м)">8,00</param>
         <param name="Режим роботи">S1, тривалий</param>
         <param name="Матеріал шнека">Нержавіюча сталь</param>
@@ -85901,10 +85965,10 @@
         <categoryId>f95f29f7-84eb-4a78-8b6f-06e404597c16</categoryId>
         <picture>https://ol.partners/Products/Photo/81B6E0F2-3EB9-4452-99B7-0A3CF2B13B24</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/3cd26ed9-607b-48ff-960d-ab86fa04b968/image_04.jpg</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/3cd26ed9-607b-48ff-960d-ab86fa04b968/image_02.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/3cd26ed9-607b-48ff-960d-ab86fa04b968/image_01.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/3cd26ed9-607b-48ff-960d-ab86fa04b968/image_05.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/3cd26ed9-607b-48ff-960d-ab86fa04b968/image_03.jpg</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/3cd26ed9-607b-48ff-960d-ab86fa04b968/image_02.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/3cd26ed9-607b-48ff-960d-ab86fa04b968/image_06.jpg</picture>
         <vendor>MIXXUS PREMIUM</vendor>
         <stock_quantity>100</stock_quantity>
@@ -86048,6 +86112,7 @@
         <param name="MAX продуктивність (при мінімальн. напорі) (л/хв)">60,00</param>
         <param name="Якість води">Чиста</param>
         <param name="Потужність (Вт)">65</param>
+        <param name="Гарантійний період (міс)">36</param>
         <param name="Макс. температура навколишнього середовища (°C)">40</param>
         <param name="Максимальна температура робочої рідини (°C)">110</param>
         <param name="Довжина кабелю (м)">1,00</param>
@@ -90635,6 +90700,7 @@
         <param name="Вбудований термозахист">Так</param>
         <param name="Р1 Потужність (Вт)">1150</param>
         <param name="Режим роботи">S1, тривалий</param>
+        <param name="Продуктивність (м3/год)">3,3</param>
         <param name="Мінімальна температура робочої рідини (°C)">5</param>
         <param name="Максимальний напір (м)">46</param>
         <param name="Швидкість (об/хв)">2900</param>
@@ -94455,6 +94521,7 @@
         <param name="Напруга мережі (V)">220-240</param>
         <param name="Якість води">Чиста</param>
         <param name="Матеріал обмотки статора">Мідь</param>
+        <param name="Продуктивність (м3/год)">2,7</param>
         <param name="Максимальний напір (м)">40</param>
         <param name="Клас захисту корпусів електронного обладнання">IP 54</param>
         <param name="Р2 Потужність (Вт)">600</param>
@@ -98030,12 +98097,15 @@
         <param name="Захист від перегріву (Вбудований датчик перегріву)">Так</param>
         <param name="MAX продуктивність (при мін. напорі) (м3/год)">9,60</param>
         <param name="Частота струму (Гц)">50</param>
+        <param name="Продуктивність (м3/год)">9,6</param>
         <param name="Швидкість (об/хв)">2850</param>
         <param name="Напруга мережі (V)">230</param>
         <param name="Мін. температура навколишнього середовища (°C)">5</param>
         <param name="Тип приєднання">Різьбове</param>
         <param name="Матеріал вала двигуна">Нержавіюча сталь</param>
+        <param name="Потужність (кВт)">0,75</param>
         <param name="Тип ротора">Сухий</param>
+        <param name="Потужність (Вт)">750</param>
         <param name="Матеріал виробу">Алюміній</param>
         <param name="Глибина всмоктування (м)">8,00</param>
         <param name="Мінімальна температура робочої рідини (°C)">4</param>
@@ -106486,10 +106556,12 @@
         <param name="Мін. температура навколишнього середовища (°C)">2</param>
         <param name="Захист від перегріву (Вбудований датчик перегріву)">Так</param>
         <param name="Клас захисту корпусів електронного обладнання">IP 54</param>
+        <param name="MAX продуктивність (при мінімальн. напорі) (л/хв)">100,00</param>
         <param name="Максимальний напір (м)">23</param>
         <param name="Частота струму (Гц)">50</param>
         <param name="Матеріал обмотки статора">Мідь</param>
         <param name="Вологість навколишнього повітря (%)">&lt;90</param>
+        <param name="Продуктивність (м3/год)">6,0</param>
         <param name="Продуктивність при максимальному ККД (м3/год)">6,00</param>
         <param name="Клас термостійкості">F</param>
         <param name="Матеріал робочого колеса">Полікарбонат, поліфеніленоксид</param>
@@ -109992,7 +110064,9 @@
         <param name="Напруга мережі (V)">220-240</param>
         <param name="Потужність (Вт)">1500</param>
         <param name="Захист від перегріву (Вбудований датчик перегріву)">Так</param>
+        <param name="MAX продуктивність (при мінімальн. напорі) (л/хв)">120,00</param>
         <param name="Матеріал вала двигуна">Нержавіюча сталь AISI 304</param>
+        <param name="Продуктивність (м3/год)">7,2</param>
         <param name="Матеріал робочого колеса">Латунь</param>
         <param name="Тип приєднання">Різьбове</param>
         <param name="Глибина всмоктування (м)">8,00</param>
@@ -115864,7 +115938,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/9524ca69-88d0-467f-bb9a-ebdaa5a1a2ae/image_04.jpg</picture>
         <vendor>MIXXUS</vendor>
         <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Газова колонка MIXXUS GWH-0110 BASIC WHITE димохідна 10 л/хв (колір білий) (WH0022)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>WH0022</vendorCode>
@@ -116202,11 +116276,13 @@
         <param name="Частота струму (Гц)">50</param>
         <param name="Швидкість (об/хв)">2850</param>
         <param name="Тип ротора">Сухий</param>
+        <param name="Продуктивність (м3/год)">9,6</param>
         <param name="Глибина всмоктування (м)">7,00</param>
         <param name="Напруга мережі (V)">220-240</param>
         <param name="Якість води">Чиста</param>
+        <param name="MAX продуктивність (при мінімальн. напорі) (л/хв)">160,00</param>
         <param name="Вологість навколишнього повітря (%)">90</param>
-        <param name="Продуктивність (л/хв)">130,00</param>
+        <param name="Продуктивність (л/хв)">160,00</param>
         <param name="Перекачувальні середовища">Прісна вода</param>
         <param name="Матеріал виробу">Чавун</param>
         <param name="Мін. температура навколишнього середовища (°C)">2</param>
@@ -116214,6 +116290,7 @@
         <param name="Клас термостійкості">F</param>
         <param name="Клас захисту корпусів електронного обладнання">IP 54</param>
         <param name="Захист від перегріву (Вбудований датчик перегріву)">Так</param>
+        <param name="Потужність (кВт)">1,50</param>
         <param name="Тип">Відцентровий</param>
         <param name="Країна бренду">Чехія</param>
         <param name="Торгова марка">KOER</param>
@@ -118401,9 +118478,11 @@
         <param name="Продуктивність при максимальному ККД (м3/год)">9,00</param>
         <param name="Клас термостійкості">F</param>
         <param name="Частота струму (Гц)">50</param>
+        <param name="MAX продуктивність (при мінімальн. напорі) (л/хв)">150,00</param>
         <param name="Якість води">Чиста</param>
         <param name="Мінімальна температура робочої рідини (°C)">5</param>
         <param name="Матеріал обмотки статора">Мідь</param>
+        <param name="Продуктивність (м3/год)">9,0</param>
         <param name="Потужність (кВт)">1,10</param>
         <param name="Клас захисту корпусів електронного обладнання">IP 54</param>
         <param name="Глибина всмоктування (м)">7,00</param>
@@ -123169,7 +123248,7 @@
         <param name="Призначення">Для підключення сантехприладів</param>
         <param name="Торгова марка">KOER</param>
       </offer>
-      <offer id="ZX6064" available="true">
+      <offer id="ZX6064" available="false">
         <url>https://ol.partners/products/aksesuari-dlya-vannoi/dzerkala-u-vannu/dzerkalo-zerix-solo-mc0180-z-led-touch-antifog-dimerom-regulyatorom-yaskravosti-zx6064</url>
         <price>2967.00</price>
         <currencyId>UAH</currencyId>
@@ -123181,8 +123260,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/09f7ae93-5bff-4c7c-b31d-f3b811b2ea5e/image_01.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/09f7ae93-5bff-4c7c-b31d-f3b811b2ea5e/image_06.jpg</picture>
         <vendor>ZERIX</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Дзеркало Zerix Solo MC01-80 з LED Touch, Anti-fog, димером, регулятором яскравості (ZX6064)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>ZX6064</vendorCode>
@@ -125836,6 +125915,7 @@
         <param name="Країна бренду">Чехія</param>
         <param name="Тип виробу">Поверхневий насос</param>
         <param name="Матеріал виробу">Чавун</param>
+        <param name="Продуктивність (м3/год)">4,5</param>
         <param name="Клас термостійкості">F</param>
         <param name="Глибина всмоктування (м)">9,00</param>
         <param name="Мін. температура навколишнього середовища (°C)">2</param>
@@ -133524,6 +133604,7 @@
         <param name="Ємкість конденсатора (мкФ)">16,00</param>
         <param name="Продуктивність при максимальному ККД (м3/год)">4,20</param>
         <param name="Потужність на валу насоса (P2, ЛС)">1,00</param>
+        <param name="Продуктивність (м3/год)">4,2</param>
         <param name="Матеріал виробу">Чавун</param>
         <param name="Клас термостійкості">F</param>
         <param name="Матеріал робочого колеса">Латунь</param>
@@ -133537,6 +133618,7 @@
         <param name="Вологість навколишнього повітря (%)">90</param>
         <param name="Максимальний напір (м)">35</param>
         <param name="Максимальна статичний тиск (бар)">7,00</param>
+        <param name="MAX продуктивність (при мінімальн. напорі) (л/хв)">70,00</param>
         <param name="Мін. температура навколишнього середовища (°C)">2</param>
         <param name="Якість води">Чиста</param>
         <param name="Продуктивність (л/хв)">70,00</param>
@@ -137976,7 +138058,7 @@
         <param name="Особливості">Утримує частинки від 1 мкм</param>
         <param name="Розміри (дюйм)">2,5"х10"</param>
       </offer>
-      <offer id="38772001ELLIPS0301R" available="false">
+      <offer id="38772001ELLIPS0301R" available="true">
         <url>https://ol.partners/products/instalyatsii-ta-klavishi/instalyatsii-z-unitazom/komplekt-grohe-set-unitaz-ellipse0301r-instalyatsiya-grohe-rapid-sl-38772001-38772001ellips0301r</url>
         <price>10987.00</price>
         <currencyId>UAH</currencyId>
@@ -137997,8 +138079,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/56dd4971-86b0-40b5-849e-07a3603456a3/image_19.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/56dd4971-86b0-40b5-849e-07a3603456a3/image_20.jpg</picture>
         <vendor>GROHE</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Комплект Grohe Set Унітаз ELLIPSE-0301-R + Інсталяція Grohe Rapid SL 38772001 (38772001ELLIPS0301R)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>38772001ELLIPS0301R</vendorCode>
@@ -140121,6 +140203,7 @@
         <param name="Діаметр виходу 1 (дюйм)">1</param>
         <param name="Діаметр входу 1 (дюйм)">1</param>
         <param name="Максимальний напір (м)">46</param>
+        <param name="Продуктивність (м3/год)">3,3</param>
         <param name="Режим роботи">S1, тривалий</param>
         <param name="Швидкість (об/хв)">2900</param>
         <param name="Продуктивність при максимальному ККД (м3/год)">3,30</param>
@@ -140953,7 +141036,7 @@
         <param name="Матеріал виробу">Поліпропілен</param>
         <param name="Колір">Сірий</param>
       </offer>
-      <offer id="KR3431" available="true">
+      <offer id="KR3431" available="false">
         <url>https://ol.partners/products/generatori/generator-benzinoviy-koer-ku3000eb-kr3431</url>
         <price>14420.00</price>
         <currencyId>UAH</currencyId>
@@ -140961,8 +141044,8 @@
         <picture>https://ol.partners/Products/Photo/4FD4ED8B-3407-44A7-9AD0-38ACB2F16B3A</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/7241e2be-f2fa-4a26-b6b0-e083fa6c1beb/image_01.jpg</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Генератор бензиновий KOER KU.3000EB (KR3431)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR3431</vendorCode>
@@ -145325,7 +145408,7 @@
         <param name="Матеріал виробу">Нержавіюча сталь</param>
         <param name="Комплектація">Мийка, сифон, кріплення, стрічка ущільнювача, сітка</param>
       </offer>
-      <offer id="38536001ELLIPS0301T3" available="false">
+      <offer id="38536001ELLIPS0301T3" available="true">
         <url>https://ol.partners/products/instalyatsii-ta-klavishi/instalyatsii-z-unitazom/komplekt-grohe-set-unitaz-ellipse0301t3-instalyatsiya-38536001-panel-38732000-38536001ellips0301t3</url>
         <price>10911.00</price>
         <currencyId>UAH</currencyId>
@@ -145352,8 +145435,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/7903e307-b057-4285-9633-0571ab79c600/image_03.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/7903e307-b057-4285-9633-0571ab79c600/image_01.jpg</picture>
         <vendor>GROHE</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Комплект Grohe Set Унітаз ELLIPSE-0301-T3 + Інсталяція 38536001 + панель 38732000 (38536001ELLIPS0301T3)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>38536001ELLIPS0301T3</vendorCode>
@@ -148114,7 +148197,7 @@
         <param name="Вага ящ.">9</param>
         <param name="Захист від перегріву (Вбудований датчик перегріву)">Так</param>
         <param name="Матеріал робочого колеса">Латунь</param>
-        <param name="Продуктивність (м3/год)">3,00</param>
+        <param name="Продуктивність (м3/год)">3,0</param>
         <param name="MAX продуктивність (при мінімальн. напорі) (л/хв)">50,00</param>
         <param name="Продуктивність (л/хв)">50,00</param>
         <param name="Швидкість (об/хв)">2900</param>
@@ -154920,6 +155003,7 @@
         <param name="Швидкість (об/хв)">2900</param>
         <param name="Клас термостійкості">F</param>
         <param name="Режим роботи">S1, тривалий</param>
+        <param name="Продуктивність (м3/год)">27,0</param>
         <param name="Потужність на валу насоса (P2, ЛС)">1,00</param>
         <param name="Захист від перегріву (Вбудований датчик перегріву)">Так</param>
         <param name="MAX продуктивність (при мінімальн. напорі) (л/хв)">450,00</param>
@@ -159677,7 +159761,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/cade1dd8-8f2a-4cd3-895a-941ad8e8234b/image_07.jpg</picture>
         <vendor>GROHE</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Комплект Grohe Set Унітаз QUADRO-0301-R + Інсталяція Grohe Rapid SL 38772001 (38772001QUADRO0301R)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>38772001QUADRO0301R</vendorCode>
@@ -161730,10 +161814,12 @@
         <param name="Потужність (кВт)">0,75</param>
         <param name="Максимальна статичний тиск (бар)">7,00</param>
         <param name="Продуктивність (л/хв)">100,00</param>
+        <param name="MAX продуктивність (при мінімальн. напорі) (л/хв)">100,00</param>
         <param name="Ємкість конденсатора (мкФ)">20,00</param>
         <param name="Мінімальна температура робочої рідини (°C)">5</param>
         <param name="Потужність при режимі 1 (P1, Вт)">1100</param>
         <param name="Потужність на валу насоса (P2, ЛС)">1,00</param>
+        <param name="Продуктивність (м3/год)">6,0</param>
         <param name="Вологість навколишнього повітря (%)">90</param>
         <param name="Якість води">Чиста</param>
         <param name="Матеріал робочого колеса">Латунь</param>
@@ -163780,7 +163866,9 @@
         <param name="Матеріал вала двигуна">Нержавіюча сталь AISI 304</param>
         <param name="Мін. температура навколишнього середовища (°C)">2</param>
         <param name="Матеріал виробу">Чавун</param>
+        <param name="MAX продуктивність (при мінімальн. напорі) (л/хв)">150,00</param>
         <param name="Матеріал робочого колеса">Латунь</param>
+        <param name="Продуктивність (м3/год)">9,0</param>
         <param name="Глибина всмоктування (м)">9,00</param>
         <param name="Продуктивність (л/хв)">150,00</param>
         <param name="Матеріал обмотки статора">Мідь</param>
@@ -168300,6 +168388,7 @@
         <param name="Вага ящ.">12.3</param>
         <param name="Матеріал обмотки статора">Мідь</param>
         <param name="Частота струму (Гц)">50</param>
+        <param name="Потужність (кВт)">1,10</param>
         <param name="Продуктивність (л/хв)">75,00</param>
         <param name="Вбудований термозахист">Так</param>
         <param name="Клас захисту корпусів електронного обладнання">IP 54</param>
@@ -168310,6 +168399,7 @@
         <param name="Потужність (Вт)">1100</param>
         <param name="Швидкість (об/хв)">2850</param>
         <param name="Матеріал виробу">Нержавіюча сталь</param>
+        <param name="MAX продуктивність (при мінімальн. напорі) (л/хв)">75,00</param>
         <param name="Максимальний напір (м)">45</param>
         <param name="Продуктивність (м3/год)">4,5</param>
         <param name="Серія">JS-1100-А</param>
@@ -177796,6 +177886,7 @@
         <param name="Матеріал робочого колеса">Латунь</param>
         <param name="Потужність при режимі 1 (P1, Вт)">460</param>
         <param name="Матеріал обмотки статора">Мідь</param>
+        <param name="Продуктивність (м3/год)">2,4</param>
         <param name="Потужність (кВт)">0,37</param>
         <param name="Вологість навколишнього повітря (%)">90</param>
         <param name="Ємкість конденсатора (мкФ)">10,00</param>
@@ -177805,6 +177896,7 @@
         <param name="Споживна потужність (кВт/г)">0,37</param>
         <param name="Продуктивність (л/хв)">40,00</param>
         <param name="Продуктивність при максимальному ККД (м3/год)">2,40</param>
+        <param name="MAX продуктивність (при мінімальн. напорі) (л/хв)">40,00</param>
         <param name="Захист від перегріву (Вбудований датчик перегріву)">Так</param>
         <param name="Матеріал вала двигуна">Нержавіюча сталь AISI 304</param>
         <param name="Мін. температура навколишнього середовища (°C)">2</param>
