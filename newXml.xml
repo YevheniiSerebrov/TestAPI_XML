@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-05-14 02:58">
+<yml_catalog date="2026-05-15 03:23">
   <shop>
     <name>O&amp;L</name>
     <company>O&amp;L</company>
@@ -5872,7 +5872,7 @@
         <param name="Глибина (мм)">100</param>
         <param name="Колір">Білий (RAL 9016)</param>
       </offer>
-      <offer id="KR5663" available="true">
+      <offer id="KR5663" available="false">
         <url>https://ol.partners/products/gazovi-kolonki/gazova-kolonka-koer-kwhg0410-white-dimokhidna-z-pyezorozpalom-10-lkhv-kolir-biliy-kr5663</url>
         <price>8193.00</price>
         <currencyId>UAH</currencyId>
@@ -5881,8 +5881,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/2be2584b-90a8-44c0-91db-3ac17544835b/image_03.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/2be2584b-90a8-44c0-91db-3ac17544835b/image_02.jpg</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Газова колонка KOER KWH.G0410 WHITE димохідна з п'єзорозпалом 10 л/хв (колір білий) (KR5663)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR5663</vendorCode>
@@ -17237,7 +17237,7 @@
         <param name="Гарантійний період (міс)">96</param>
       </offer>
       <offer id="KR5913" available="true">
-        <url>https://ol.partners/products/mufta-zatiskna-zyednuvalna-koer-kcic12-1-14x400429-kr5913</url>
+        <url>https://ol.partners/products/truboprovodi-ta-zyednannya/fitingi/chavunniy-fiting/mufta-zatiskna-zyednuvalna-koer-kcic12-1-14x400429-kr5913</url>
         <price>994.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>cccd3e1f-6b84-49c8-b342-dee61a5caf10</categoryId>
@@ -17254,7 +17254,18 @@
         <param name="Од. в упак.">24</param>
         <param name="Об'єм ящ.">0</param>
         <param name="Вага ящ.">0</param>
+        <param name="Призначення">Для труб</param>
+        <param name="Модель">KCI.C12</param>
         <param name="Торгова марка">KOER</param>
+        <param name="Вид виробу">Муфта чавунна затискна</param>
+        <param name="Країна бренду">Чехія</param>
+        <param name="Тип">Муфта</param>
+        <param name="Тип виробу">Чавунний фітінг</param>
+        <param name="Колір">Сталевий</param>
+        <param name="Гарантійний період (міс)">84</param>
+        <param name="Тип з'єднання">Різьбовий</param>
+        <param name="Матеріал">Чавун, сталь, гума</param>
+        <param name="Діаметр підключення (дюйм)">1 1/4</param>
       </offer>
       <offer id="KR0114" available="true">
         <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/krani/krani-kulovi/kran-kuloviy-koer-kr214g-1-ff-ggv-yellow-ruchka-vazhil-zhovta-kr0114</url>
@@ -17856,8 +17867,8 @@
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>ZM5592</vendorCode>
         <param name="Од. в упак.">1</param>
-        <param name="Об'єм ящ.">0</param>
-        <param name="Вага ящ.">0</param>
+        <param name="Об'єм ящ.">0.107</param>
+        <param name="Вага ящ.">12</param>
         <param name="Матеріал виробу">Нержавіюча сталь</param>
         <param name="Індикатор температури">Так</param>
         <param name="Є крило для посуду">Ні</param>
@@ -19117,7 +19128,7 @@
         <param name="Діаметр підключення (дюйм)">3/4</param>
       </offer>
       <offer id="KR5902" available="true">
-        <url>https://ol.partners/products/mufta-zatiskna-z-vnutrishnoyu-rizboyu-koer-kcic06f-12fx197218-kr5902</url>
+        <url>https://ol.partners/products/truboprovodi-ta-zyednannya/fitingi/chavunniy-fiting/mufta-zatiskna-z-vnutrishnoyu-rizboyu-koer-kcic06f-12fx197218-kr5902</url>
         <price>317.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>cccd3e1f-6b84-49c8-b342-dee61a5caf10</categoryId>
@@ -19135,7 +19146,18 @@
         <param name="Од. в упак.">64</param>
         <param name="Об'єм ящ.">0</param>
         <param name="Вага ящ.">0</param>
+        <param name="Матеріал">Чавун, сталь, гума</param>
+        <param name="Тип з'єднання">Різьбовий</param>
         <param name="Торгова марка">KOER</param>
+        <param name="Тип виробу">Чавунний фітінг</param>
+        <param name="Призначення">Для труб</param>
+        <param name="Модель">KCI.C06F</param>
+        <param name="Тип">Муфта</param>
+        <param name="Вид виробу"> Муфта чавунна з внутрішнім різьбленням</param>
+        <param name="Країна бренду">Чехія</param>
+        <param name="Колір">Сталевий</param>
+        <param name="Гарантійний період (міс)">84</param>
+        <param name="Діаметр підключення (дюйм)">1/2</param>
       </offer>
       <offer id="ZX0564" available="false">
         <url>https://ol.partners/products/zmishuvachi-ta-krani/krani-dlya-pitnoi-vodi/kran-dlya-pitnoi-vodi-14-zerix-ro02-zx0564</url>
@@ -25119,7 +25141,7 @@
         <param name="Матеріал виробу">Поліпропілен (PPR)</param>
       </offer>
       <offer id="KR5903" available="true">
-        <url>https://ol.partners/products/mufta-zatiskna-iz-zovnishnoyu-rizboyu-koer-kcic06m-12mx197218-kr5903</url>
+        <url>https://ol.partners/products/truboprovodi-ta-zyednannya/fitingi/chavunniy-fiting/mufta-zatiskna-iz-zovnishnoyu-rizboyu-koer-kcic06m-12mx197218-kr5903</url>
         <price>317.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>cccd3e1f-6b84-49c8-b342-dee61a5caf10</categoryId>
@@ -25137,7 +25159,18 @@
         <param name="Од. в упак.">64</param>
         <param name="Об'єм ящ.">0</param>
         <param name="Вага ящ.">0</param>
+        <param name="Гарантійний період (міс)">84</param>
+        <param name="Діаметр підключення (дюйм)">1/2</param>
+        <param name="Тип виробу">Чавунний фітінг</param>
+        <param name="Вид виробу">Муфта чавунна із зовнішнім різьбленням</param>
+        <param name="Призначення">Для труб</param>
+        <param name="Країна бренду">Чехія</param>
+        <param name="Модель">KCI.C06M</param>
+        <param name="Тип">Муфта</param>
         <param name="Торгова марка">KOER</param>
+        <param name="Тип з'єднання">Різьбовий</param>
+        <param name="Матеріал">Чавун, сталь, гума</param>
+        <param name="Колір">Сталевий</param>
       </offer>
       <offer id="KR0276" available="true">
         <url>https://ol.partners/products/truboprovodi-ta-zyednannya/gnuchka-pidvodka/gnuchki-shlangi-dlya-zmishuvacha-gayka-12-shtutser-m10-80-sm-2-sht-koer-kr0276</url>
@@ -25520,8 +25553,8 @@
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>MI8310</vendorCode>
         <param name="Од. в упак.">1</param>
-        <param name="Об'єм ящ.">0</param>
-        <param name="Вага ящ.">0</param>
+        <param name="Об'єм ящ.">0.082</param>
+        <param name="Вага ящ.">6.7</param>
         <param name="Товщина мийки (мм)">3.0/0.8</param>
         <param name="Кількість чаш (шт)">1</param>
         <param name="Є отвір під змішувач">Так</param>
@@ -32012,7 +32045,7 @@
         <param name="Гарантійний період (міс)">84</param>
       </offer>
       <offer id="KR5914" available="true">
-        <url>https://ol.partners/products/mufta-zatiskna-z-vnutrishnoyu-rizboyu-koer-kcic16f-1-12fx479515-kr5914</url>
+        <url>https://ol.partners/products/truboprovodi-ta-zyednannya/fitingi/chavunniy-fiting/mufta-zatiskna-z-vnutrishnoyu-rizboyu-koer-kcic16f-1-12fx479515-kr5914</url>
         <price>884.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>cccd3e1f-6b84-49c8-b342-dee61a5caf10</categoryId>
@@ -32030,7 +32063,18 @@
         <param name="Од. в упак.">32</param>
         <param name="Об'єм ящ.">0</param>
         <param name="Вага ящ.">0</param>
+        <param name="Модель">KCI.C16F</param>
         <param name="Торгова марка">KOER</param>
+        <param name="Тип">Муфта</param>
+        <param name="Призначення">Для труб</param>
+        <param name="Тип виробу">Чавунний фітінг</param>
+        <param name="Вид виробу"> Муфта чавунна з внутрішнім різьбленням</param>
+        <param name="Країна бренду">Чехія</param>
+        <param name="Гарантійний період (міс)">84</param>
+        <param name="Тип з'єднання">Різьбовий</param>
+        <param name="Матеріал">Чавун, сталь, гума</param>
+        <param name="Діаметр підключення (дюйм)">1 1/2</param>
+        <param name="Колір">Сталевий</param>
       </offer>
       <offer id="MI8344" available="false">
         <url>https://ol.partners/products/keramika/unitazi/chasha-unitazukompaktu-mixxus-premium-ellipse0401t1-bowl-630kh390kh840-tornado-10-bez-sidinnya-mi8344</url>
@@ -34840,7 +34884,7 @@
         <param name="Колір">Сірий</param>
       </offer>
       <offer id="KR5915" available="true">
-        <url>https://ol.partners/products/mufta-zatiskna-iz-zovnishnoyu-rizboyu-koer-kcic16m-1-12mx479515-kr5915</url>
+        <url>https://ol.partners/products/truboprovodi-ta-zyednannya/fitingi/chavunniy-fiting/mufta-zatiskna-iz-zovnishnoyu-rizboyu-koer-kcic16m-1-12mx479515-kr5915</url>
         <price>884.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>cccd3e1f-6b84-49c8-b342-dee61a5caf10</categoryId>
@@ -34858,7 +34902,18 @@
         <param name="Од. в упак.">32</param>
         <param name="Об'єм ящ.">0</param>
         <param name="Вага ящ.">0</param>
+        <param name="Гарантійний період (міс)">84</param>
+        <param name="Колір">Сталевий</param>
+        <param name="Призначення">Для труб</param>
         <param name="Торгова марка">KOER</param>
+        <param name="Модель">KCI.C16M</param>
+        <param name="Країна бренду">Чехія</param>
+        <param name="Тип виробу">Чавунний фітінг</param>
+        <param name="Тип">Муфта</param>
+        <param name="Вид виробу">Муфта чавунна із зовнішнім різьбленням</param>
+        <param name="Матеріал">Чавун, сталь, гума</param>
+        <param name="Тип з'єднання">Різьбовий</param>
+        <param name="Діаметр підключення (дюйм)">1 1/2</param>
       </offer>
       <offer id="MP6721" available="false">
         <url>https://ol.partners/products/sifoni-trapi-dlya-dushu/armatura-dlya-unitaziv/komplekt-armaturi-mixxus-premium-button180612-spuskna-2kh-knopochna-napovnyuvalna-z-nizhnim-pidvedennyam-plast-rizblennya-12-mp6721</url>
@@ -37123,8 +37178,8 @@
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>ZM5595</vendorCode>
         <param name="Од. в упак.">10</param>
-        <param name="Об'єм ящ.">0</param>
-        <param name="Вага ящ.">0</param>
+        <param name="Об'єм ящ.">0.149</param>
+        <param name="Вага ящ.">28</param>
         <param name="Тип виробу">Нержавіючі мийки для кухні</param>
         <param name="Торгова марка">ZERIX</param>
         <param name="Країна виробник">Китай</param>
@@ -53804,8 +53859,8 @@
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>ZM5598</vendorCode>
         <param name="Од. в упак.">1</param>
-        <param name="Об'єм ящ.">0</param>
-        <param name="Вага ящ.">0</param>
+        <param name="Об'єм ящ.">0.104</param>
+        <param name="Вага ящ.">11.4</param>
         <param name="Виконання">Універсальна</param>
         <param name="Структура поверхні мийки">Decor</param>
         <param name="Колір">Нержавіюча сталь</param>
@@ -54108,7 +54163,7 @@
         <param name="Країна бренду">Данія</param>
       </offer>
       <offer id="KR5905" available="true">
-        <url>https://ol.partners/products/mufta-zatiskna-z-vnutrishnoyu-rizboyu-koer-kcic08f-34fx246273-kr5905</url>
+        <url>https://ol.partners/products/truboprovodi-ta-zyednannya/fitingi/chavunniy-fiting/mufta-zatiskna-z-vnutrishnoyu-rizboyu-koer-kcic08f-34fx246273-kr5905</url>
         <price>391.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>cccd3e1f-6b84-49c8-b342-dee61a5caf10</categoryId>
@@ -54126,7 +54181,18 @@
         <param name="Од. в упак.">64</param>
         <param name="Об'єм ящ.">0</param>
         <param name="Вага ящ.">0</param>
+        <param name="Колір">Сталевий</param>
+        <param name="Тип з'єднання">Різьбовий</param>
+        <param name="Матеріал">Чавун, сталь, гума</param>
+        <param name="Країна бренду">Чехія</param>
+        <param name="Тип">Муфта</param>
         <param name="Торгова марка">KOER</param>
+        <param name="Призначення">Для труб</param>
+        <param name="Модель">KCI.C08F</param>
+        <param name="Тип виробу">Чавунний фітінг</param>
+        <param name="Вид виробу"> Муфта чавунна з внутрішнім різьбленням</param>
+        <param name="Діаметр підключення (дюйм)">3/4</param>
+        <param name="Гарантійний період (міс)">84</param>
       </offer>
       <offer id="NF3070" available="true">
         <url>https://ol.partners/products/truboprovodi-ta-zyednannya/fitingi/rizbovi-zyednannya/zaglushka-nolf-nfcp08fn34-f-nikelovana-nf3070</url>
@@ -60434,7 +60500,7 @@
         <param name="Тип з'єднання">Різьба-пайка</param>
         <param name="Колір">Сірий</param>
       </offer>
-      <offer id="KR2792" available="true">
+      <offer id="KR2792" available="false">
         <url>https://ol.partners/products/truboprovodi-ta-zyednannya/ustatkuvannya-dlya-montazhu/khomuti-na-trubi/khomut-trubniy-otsinkovaniy-koer-kcb10g-4-110118-siriy-kr2792</url>
         <price>110.00</price>
         <currencyId>UAH</currencyId>
@@ -60442,8 +60508,8 @@
         <picture>https://ol.partners/Products/Photo/7FC247F1-88FD-4BCA-A604-2C7FAB1786D0</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/9b164f4b-bb46-4280-b292-4edc4cef490c/image_03_KR2792.jpg</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Хомут трубний оцинкований Koer KCB.10.G 4" (110-118) сірий (KR2792)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR2792</vendorCode>
@@ -61761,8 +61827,8 @@
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>MI8414</vendorCode>
         <param name="Од. в упак.">1</param>
-        <param name="Об'єм ящ.">0</param>
-        <param name="Вага ящ.">0</param>
+        <param name="Об'єм ящ.">0.106</param>
+        <param name="Вага ящ.">12.3</param>
         <param name="Вид виробу">Багатофункціональні мийки</param>
         <param name="Модель">MH7546-SET-06</param>
         <param name="Країна бренду">Німеччина</param>
@@ -74133,8 +74199,8 @@
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>ZM5591</vendorCode>
         <param name="Од. в упак.">1</param>
-        <param name="Об'єм ящ.">0</param>
-        <param name="Вага ящ.">0</param>
+        <param name="Об'єм ящ.">0.104</param>
+        <param name="Вага ящ.">11.4</param>
         <param name="Кількість чаш (шт)">1</param>
         <param name="Є отвір під змішувач">Так</param>
         <param name="Товщина мийки (мм)">3.0/0.8</param>
@@ -75198,8 +75264,8 @@
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>MI8390</vendorCode>
         <param name="Од. в упак.">1</param>
-        <param name="Об'єм ящ.">0</param>
-        <param name="Вага ящ.">0</param>
+        <param name="Об'єм ящ.">0.104</param>
+        <param name="Вага ящ.">10</param>
         <param name="Є крило для посуду">Ні</param>
         <param name="Матеріал виробу">Нержавіюча сталь</param>
         <param name="Кількість отворів">3 отвори</param>
@@ -75415,7 +75481,7 @@
         <param name="Структура поверхні мийки">Decor</param>
       </offer>
       <offer id="KR5907" available="true">
-        <url>https://ol.partners/products/mufta-zatiskna-zyednuvalna-koer-kcic08-34x246273-kr5907</url>
+        <url>https://ol.partners/products/truboprovodi-ta-zyednannya/fitingi/chavunniy-fiting/mufta-zatiskna-zyednuvalna-koer-kcic08-34x246273-kr5907</url>
         <price>516.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>cccd3e1f-6b84-49c8-b342-dee61a5caf10</categoryId>
@@ -75433,7 +75499,18 @@
         <param name="Од. в упак.">64</param>
         <param name="Об'єм ящ.">0</param>
         <param name="Вага ящ.">0</param>
+        <param name="Тип">Муфта</param>
+        <param name="Модель">KCI.C08</param>
+        <param name="Тип виробу">Чавунний фітінг</param>
+        <param name="Країна бренду">Чехія</param>
+        <param name="Призначення">Для труб</param>
+        <param name="Вид виробу">Муфта чавунна затискна</param>
         <param name="Торгова марка">KOER</param>
+        <param name="Матеріал">Чавун, сталь, гума</param>
+        <param name="Тип з'єднання">Різьбовий</param>
+        <param name="Колір">Сталевий</param>
+        <param name="Гарантійний період (міс)">84</param>
+        <param name="Діаметр підключення (дюйм)">3/4</param>
       </offer>
       <offer id="WH0601" available="true">
         <url>https://ol.partners/products/boyleri/vodonagrivach-tsilindr-mixxus-ewh07050-round-wet-nakopichuvalniy-50-l-mokriy-ten-15-kw-wh0601</url>
@@ -78070,7 +78147,7 @@
         <picture>https://ol.partners/Products/Photo/1A96D826-4487-4484-A528-6B0762CF348B</picture>
         <vendor>KORADO</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Сталевий радіатор Korado 22K 500x2000 з боковим підключенням (KO1055)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KO1055</vendorCode>
@@ -81183,7 +81260,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/519873ef-0df6-4754-a9fc-d7785ece5629/image_03_KF0019.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Муфта редукційна 1/2"х3/4" Koer KF.C0608 (KF0019)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KF0019</vendorCode>
@@ -84067,7 +84144,7 @@
         <param name="Комплектація">Мийка, сифон, кріплення, ущільнювальна стрічка, сітка</param>
       </offer>
       <offer id="KR5904" available="true">
-        <url>https://ol.partners/products/mufta-zatiskna-zyednuvalna-koer-kcic06-12x197218-kr5904</url>
+        <url>https://ol.partners/products/truboprovodi-ta-zyednannya/fitingi/chavunniy-fiting/mufta-zatiskna-zyednuvalna-koer-kcic06-12x197218-kr5904</url>
         <price>427.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>cccd3e1f-6b84-49c8-b342-dee61a5caf10</categoryId>
@@ -84085,7 +84162,18 @@
         <param name="Од. в упак.">64</param>
         <param name="Об'єм ящ.">0</param>
         <param name="Вага ящ.">0</param>
+        <param name="Тип з'єднання">Різьбовий</param>
+        <param name="Матеріал">Чавун, сталь, гума</param>
+        <param name="Колір">Сталевий</param>
+        <param name="Країна бренду">Чехія</param>
         <param name="Торгова марка">KOER</param>
+        <param name="Вид виробу">Муфта чавунна затискна</param>
+        <param name="Тип виробу">Чавунний фітінг</param>
+        <param name="Модель">KCI.C06</param>
+        <param name="Тип">Муфта</param>
+        <param name="Призначення">Для труб</param>
+        <param name="Діаметр підключення (дюйм)">1/2</param>
+        <param name="Гарантійний період (міс)">84</param>
       </offer>
       <offer id="MI6710" available="true">
         <url>https://ol.partners/products/keramika/unitazi/unitazkompakt-mixxus-quadro0403r-640x360x835mm-sistema-zmivu-rimless-mi6710</url>
@@ -85522,7 +85610,7 @@
         <param name="Колір">Хром</param>
       </offer>
       <offer id="KR5909" available="true">
-        <url>https://ol.partners/products/mufta-zatiskna-iz-zovnishnoyu-rizboyu-koer-kcic10m-1mx314342-kr5909</url>
+        <url>https://ol.partners/products/truboprovodi-ta-zyednannya/fitingi/chavunniy-fiting/mufta-zatiskna-iz-zovnishnoyu-rizboyu-koer-kcic10m-1mx314342-kr5909</url>
         <price>516.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>cccd3e1f-6b84-49c8-b342-dee61a5caf10</categoryId>
@@ -85540,7 +85628,18 @@
         <param name="Од. в упак.">40</param>
         <param name="Об'єм ящ.">0</param>
         <param name="Вага ящ.">0</param>
+        <param name="Вид виробу">Муфта чавунна із зовнішнім різьбленням</param>
+        <param name="Модель">KCI.C10M</param>
+        <param name="Призначення">Для труб</param>
+        <param name="Тип">Муфта</param>
         <param name="Торгова марка">KOER</param>
+        <param name="Країна бренду">Чехія</param>
+        <param name="Тип виробу">Чавунний фітінг</param>
+        <param name="Діаметр підключення (дюйм)">1</param>
+        <param name="Матеріал">Чавун, сталь, гума</param>
+        <param name="Тип з'єднання">Різьбовий</param>
+        <param name="Колір">Сталевий</param>
+        <param name="Гарантійний період (міс)">84</param>
       </offer>
       <offer id="EP6061" available="true">
         <url>https://ol.partners/products/truboprovodi-ta-zyednannya/fitingi/rizbovi-zyednannya/zghin-amerikanka-kutoviy-europroduct-ep0422-1-ep6061</url>
@@ -88415,7 +88514,7 @@
         <param name="Максимальна температура робочої рідини (°C)">200</param>
       </offer>
       <offer id="KR5911" available="true">
-        <url>https://ol.partners/products/mufta-zatiskna-z-vnutrishnoyu-rizboyu-koer-kcic12f-1-14fx400429-kr5911</url>
+        <url>https://ol.partners/products/truboprovodi-ta-zyednannya/fitingi/chavunniy-fiting/mufta-zatiskna-z-vnutrishnoyu-rizboyu-koer-kcic12f-1-14fx400429-kr5911</url>
         <price>810.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>cccd3e1f-6b84-49c8-b342-dee61a5caf10</categoryId>
@@ -88434,6 +88533,17 @@
         <param name="Об'єм ящ.">0</param>
         <param name="Вага ящ.">0</param>
         <param name="Торгова марка">KOER</param>
+        <param name="Призначення">Для труб</param>
+        <param name="Модель">KCI.C12F</param>
+        <param name="Вид виробу"> Муфта чавунна з внутрішнім різьбленням</param>
+        <param name="Тип виробу">Чавунний фітінг</param>
+        <param name="Тип">Муфта</param>
+        <param name="Країна бренду">Чехія</param>
+        <param name="Тип з'єднання">Різьбовий</param>
+        <param name="Матеріал">Чавун, сталь, гума</param>
+        <param name="Колір">Сталевий</param>
+        <param name="Гарантійний період (міс)">84</param>
+        <param name="Діаметр підключення (дюйм)">1 1/4</param>
       </offer>
       <offer id="LL1408" available="true">
         <url>https://ol.partners/products/aksesuari-dlya-vannoi/politsi-u-vannu/politsya-u-vannu-kutova-sklyana-zerix-lr15072-ll1408</url>
@@ -93749,8 +93859,8 @@
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>ZM5596</vendorCode>
         <param name="Од. в упак.">1</param>
-        <param name="Об'єм ящ.">0</param>
-        <param name="Вага ящ.">0</param>
+        <param name="Об'єм ящ.">0.104</param>
+        <param name="Вага ящ.">11.3</param>
         <param name="Глибина чаші (мм)">215</param>
         <param name="Ширина (мм)">460</param>
         <param name="Довжина (мм)">750</param>
@@ -101317,7 +101427,7 @@
         <param name="Розміри виробу (ВхШхГ)">180x200</param>
         <param name="Ширина (мм)">2000</param>
       </offer>
-      <offer id="KP3306" available="true">
+      <offer id="KP3306" available="false">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/nasosni-stantsii/nasosna-stantsiya-koer-msr-600-intelektualna-energozberigayucha-n62mq4kbmp600-vt-1x1-kp3306</url>
         <price>9690.00</price>
         <currencyId>UAH</currencyId>
@@ -101325,8 +101435,8 @@
         <picture>https://ol.partners/Products/Photo/C6D1C542-6603-43C5-8BAC-E15686CA30ED</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/292b6f26-753f-4dcc-ad16-cab79bcef0fd/image_01.jpg</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Насосна станція Koer MSR 600 інтелектуальна енергозберігаюча, Н=62М,Q=4кбМ,P=600 Вт, 1"x1" (KP3306)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KP3306</vendorCode>
@@ -109276,7 +109386,7 @@
         <param name="Гарантійний період (міс)">84</param>
       </offer>
       <offer id="KR5908" available="true">
-        <url>https://ol.partners/products/mufta-zatiskna-z-vnutrishnoyu-rizboyu-koer-kcic10f-1fx314342-kr5908</url>
+        <url>https://ol.partners/products/truboprovodi-ta-zyednannya/fitingi/chavunniy-fiting/mufta-zatiskna-z-vnutrishnoyu-rizboyu-koer-kcic10f-1fx314342-kr5908</url>
         <price>516.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>cccd3e1f-6b84-49c8-b342-dee61a5caf10</categoryId>
@@ -109295,6 +109405,17 @@
         <param name="Об'єм ящ.">0</param>
         <param name="Вага ящ.">0</param>
         <param name="Торгова марка">KOER</param>
+        <param name="Тип виробу">Чавунний фітінг</param>
+        <param name="Призначення">Для труб</param>
+        <param name="Країна бренду">Чехія</param>
+        <param name="Модель">KCI.C10F</param>
+        <param name="Вид виробу"> Муфта чавунна з внутрішнім різьбленням</param>
+        <param name="Тип">Муфта</param>
+        <param name="Матеріал">Чавун, сталь, гума</param>
+        <param name="Тип з'єднання">Різьбовий</param>
+        <param name="Діаметр підключення (дюйм)">1</param>
+        <param name="Колір">Сталевий</param>
+        <param name="Гарантійний період (міс)">84</param>
       </offer>
       <offer id="ZX6021" available="true">
         <url>https://ol.partners/products/zapchastini-dlya-zmishuvacha/donniy-klapan-dlya-rakovini/donniy-klapan-dlya-rakovini-zerix-bv04-1-14-universalniy-zbez-perel-slickslack-kolir-khrom-zx6021</url>
@@ -123396,7 +123517,6 @@
         <param name="Діаметр підключення (дюйм)">3/4</param>
         <param name="C (мм)">35,00</param>
         <param name="Тип з'єднання">Різьбовий</param>
-        <param name="Матеріал виробу">Латунь CW617N</param>
         <param name="Матеріал">Латунь</param>
         <param name="Торгова марка">EUROPRODUCT</param>
         <param name="Тип виробу">Латунний фітинг</param>
@@ -123462,8 +123582,8 @@
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>MI8391</vendorCode>
         <param name="Од. в упак.">1</param>
-        <param name="Об'єм ящ.">0</param>
-        <param name="Вага ящ.">0</param>
+        <param name="Об'єм ящ.">0.104</param>
+        <param name="Вага ящ.">10</param>
         <param name="Глибина чаші (мм)">220</param>
         <param name="Довжина (мм)">750</param>
         <param name="Ширина (мм)">460</param>
@@ -135455,8 +135575,8 @@
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>MI8309</vendorCode>
         <param name="Од. в упак.">1</param>
-        <param name="Об'єм ящ.">0</param>
-        <param name="Вага ящ.">0</param>
+        <param name="Об'єм ящ.">0.082</param>
+        <param name="Вага ящ.">6.7</param>
         <param name="Комплектація">Мийка, сифон, кріплення</param>
         <param name="Матеріал виробу">Нержавіюча сталь</param>
         <param name="Є отвір під змішувач">Так</param>
@@ -141631,7 +141751,7 @@
         <param name="Розміри (дюйм)">2,5"х10"</param>
       </offer>
       <offer id="KR5906" available="true">
-        <url>https://ol.partners/products/mufta-zatiskna-iz-zovnishnoyu-rizboyu-koer-kcic08m-34mx246273-kr5906</url>
+        <url>https://ol.partners/products/truboprovodi-ta-zyednannya/fitingi/chavunniy-fiting/mufta-zatiskna-iz-zovnishnoyu-rizboyu-koer-kcic08m-34mx246273-kr5906</url>
         <price>391.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>cccd3e1f-6b84-49c8-b342-dee61a5caf10</categoryId>
@@ -141649,7 +141769,18 @@
         <param name="Од. в упак.">64</param>
         <param name="Об'єм ящ.">0</param>
         <param name="Вага ящ.">0</param>
+        <param name="Гарантійний період (міс)">84</param>
+        <param name="Вид виробу">Муфта чавунна із зовнішнім різьбленням</param>
         <param name="Торгова марка">KOER</param>
+        <param name="Призначення">Для труб</param>
+        <param name="Тип">Муфта</param>
+        <param name="Модель">KCI.C08M</param>
+        <param name="Країна бренду">Чехія</param>
+        <param name="Тип виробу">Чавунний фітінг</param>
+        <param name="Діаметр підключення (дюйм)">3/4</param>
+        <param name="Тип з'єднання">Різьбовий</param>
+        <param name="Матеріал">Чавун, сталь, гума</param>
+        <param name="Колір">Сталевий</param>
       </offer>
       <offer id="MA0061" available="true">
         <url>https://ol.partners/products/truboprovodi-ta-zyednannya/fitingi/obtiskni-zyednannya-dlya-metaloplastikovikh-trub/tsanga-20x3-4m-master-ma0061</url>
@@ -146756,7 +146887,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/5cd3104e-8fae-4e5e-8a81-64db454ca3b1/image_01.jpg</picture>
         <vendor>MIXXUS</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Дозатор для мийного засобу врізний Mixxus DIS-03.SUS Graphite з нерж.сталі SUS304 300 мл (графіт) (MI7156)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>MI7156</vendorCode>
@@ -147854,7 +147985,7 @@
         <param name="Діаметр підключення (дюйм)">1 1/4</param>
       </offer>
       <offer id="KR5910" available="true">
-        <url>https://ol.partners/products/mufta-zatiskna-zyednuvalna-koer-kcic10-1x314342-kr5910</url>
+        <url>https://ol.partners/products/truboprovodi-ta-zyednannya/fitingi/chavunniy-fiting/mufta-zatiskna-zyednuvalna-koer-kcic10-1x314342-kr5910</url>
         <price>663.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>cccd3e1f-6b84-49c8-b342-dee61a5caf10</categoryId>
@@ -147873,6 +148004,17 @@
         <param name="Об'єм ящ.">0</param>
         <param name="Вага ящ.">0</param>
         <param name="Торгова марка">KOER</param>
+        <param name="Тип виробу">Чавунний фітінг</param>
+        <param name="Вид виробу">Муфта чавунна затискна</param>
+        <param name="Призначення">Для труб</param>
+        <param name="Країна бренду">Чехія</param>
+        <param name="Тип">Муфта</param>
+        <param name="Модель">KCI.C10</param>
+        <param name="Матеріал">Чавун, сталь, гума</param>
+        <param name="Тип з'єднання">Різьбовий</param>
+        <param name="Гарантійний період (міс)">84</param>
+        <param name="Діаметр підключення (дюйм)">1</param>
+        <param name="Колір">Сталевий</param>
       </offer>
       <offer id="KR6169" available="true">
         <url>https://ol.partners/products/aksesuari-dlya-vannoi/dozator-dlya-ridkogo-mila/dozator-dlya-ridkogo-mila-nastinniy-koer-as010401-sklo-kolir-khrom-glyanets-kr6169</url>
@@ -150020,7 +150162,6 @@
         <param name="G (дюйм)">1</param>
         <param name="A (мм)">26,80</param>
         <param name="Матеріал">Латунь</param>
-        <param name="Матеріал виробу">Латунь CW617N</param>
         <param name="Тип з'єднання">Різьбовий</param>
         <param name="Гарантійний період (міс)">84</param>
         <param name="Колір">Латунний</param>
@@ -150436,7 +150577,7 @@
         <param name="Робочий тиск (бар)">до 16</param>
       </offer>
       <offer id="KR5917" available="true">
-        <url>https://ol.partners/products/mufta-zatiskna-iz-zovnishnoyu-rizboyu-koer-kcic20m-2mx597636-kr5917</url>
+        <url>https://ol.partners/products/truboprovodi-ta-zyednannya/fitingi/chavunniy-fiting/mufta-zatiskna-iz-zovnishnoyu-rizboyu-koer-kcic20m-2mx597636-kr5917</url>
         <price>1259.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>cccd3e1f-6b84-49c8-b342-dee61a5caf10</categoryId>
@@ -150454,7 +150595,18 @@
         <param name="Од. в упак.">16</param>
         <param name="Об'єм ящ.">0</param>
         <param name="Вага ящ.">0</param>
+        <param name="Тип з'єднання">Різьбовий</param>
+        <param name="Матеріал">Чавун, сталь, гума</param>
+        <param name="Тип виробу">Чавунний фітінг</param>
+        <param name="Країна бренду">Чехія</param>
         <param name="Торгова марка">KOER</param>
+        <param name="Призначення">Для труб</param>
+        <param name="Тип">Муфта</param>
+        <param name="Вид виробу">Муфта чавунна із зовнішнім різьбленням</param>
+        <param name="Модель">KCI.C20M</param>
+        <param name="Гарантійний період (міс)">84</param>
+        <param name="Колір">Сталевий</param>
+        <param name="Діаметр підключення (дюйм)">2</param>
       </offer>
       <offer id="KP2594" available="true">
         <url>https://ol.partners/products/truboprovodi-ta-zyednannya/fitingi/zyednannya-dlya-trub-z-polipropilenu/triynik-reduktsiyniy-110x75x110-ppr-koer-k0229pro-kp2594</url>
@@ -151652,7 +151804,7 @@
         <picture>https://ol.partners/Products/Photo/1539EA85-E7A8-4050-AD42-550602E8EC0B</picture>
         <vendor>ZERIX</vendor>
         <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Відро Zerix Plain MB0120 (20 літрів) (ZX4619)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>ZX4619</vendorCode>
@@ -153433,7 +153585,7 @@
       </offer>
       <offer id="40791001" available="false">
         <url>https://ol.partners/products/aksesuari-dlya-vannoi/yorzhiki-dlya-unitazu/zapasna-golovka-yorzhika-grohe-essentials-new-40791001</url>
-        <price>486.00</price>
+        <price>540.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>98cef2a4-d106-4da2-9b4c-f8e66696fd13</categoryId>
         <picture>https://ol.partners/Products/Photo/3E0A4839-A2CA-4E23-9041-8CCBAE15EFB9</picture>
@@ -161845,7 +161997,7 @@
         <param name="Максимальна температура робочої рідини (°C)">40</param>
       </offer>
       <offer id="KR5916" available="true">
-        <url>https://ol.partners/products/mufta-zatiskna-z-vnutrishnoyu-rizboyu-koer-kcic20f-2fx597636-kr5916</url>
+        <url>https://ol.partners/products/truboprovodi-ta-zyednannya/fitingi/chavunniy-fiting/mufta-zatiskna-z-vnutrishnoyu-rizboyu-koer-kcic20f-2fx597636-kr5916</url>
         <price>1222.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>cccd3e1f-6b84-49c8-b342-dee61a5caf10</categoryId>
@@ -161863,7 +162015,18 @@
         <param name="Од. в упак.">16</param>
         <param name="Об'єм ящ.">0</param>
         <param name="Вага ящ.">0</param>
+        <param name="Матеріал">Чавун, сталь, гума</param>
+        <param name="Тип з'єднання">Різьбовий</param>
         <param name="Торгова марка">KOER</param>
+        <param name="Вид виробу"> Муфта чавунна з внутрішнім різьбленням</param>
+        <param name="Тип">Муфта</param>
+        <param name="Тип виробу">Чавунний фітінг</param>
+        <param name="Модель">KCI.C20F</param>
+        <param name="Країна бренду">Чехія</param>
+        <param name="Призначення">Для труб</param>
+        <param name="Діаметр підключення (дюйм)">2</param>
+        <param name="Гарантійний період (міс)">84</param>
+        <param name="Колір">Сталевий</param>
       </offer>
       <offer id="MI6532" available="true">
         <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/krani/kran-dlya-pidklyuchennya-santekhpriboriv/kran-dlya-pidklyuchennya-santekhpriladiv-z-nerzh-stali-sus304-siniy-mixxus-val0112x12-mi6532</url>
@@ -168319,7 +168482,7 @@
         <param name="Колір">Графітовий</param>
       </offer>
       <offer id="KR5912" available="true">
-        <url>https://ol.partners/products/mufta-zatiskna-iz-zovnishnoyu-rizboyu-koer-kcic12m-1-14mx400429-kr5912</url>
+        <url>https://ol.partners/products/truboprovodi-ta-zyednannya/fitingi/chavunniy-fiting/mufta-zatiskna-iz-zovnishnoyu-rizboyu-koer-kcic12m-1-14mx400429-kr5912</url>
         <price>810.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>cccd3e1f-6b84-49c8-b342-dee61a5caf10</categoryId>
@@ -168337,7 +168500,18 @@
         <param name="Од. в упак.">40</param>
         <param name="Об'єм ящ.">0</param>
         <param name="Вага ящ.">0</param>
+        <param name="Діаметр підключення (дюйм)">1 1/4</param>
+        <param name="Вид виробу">Муфта чавунна із зовнішнім різьбленням</param>
+        <param name="Тип">Муфта</param>
+        <param name="Тип виробу">Чавунний фітінг</param>
+        <param name="Призначення">Для труб</param>
         <param name="Торгова марка">KOER</param>
+        <param name="Країна бренду">Чехія</param>
+        <param name="Модель">KCI.C12M</param>
+        <param name="Гарантійний період (міс)">84</param>
+        <param name="Матеріал">Чавун, сталь, гума</param>
+        <param name="Тип з'єднання">Різьбовий</param>
+        <param name="Колір">Сталевий</param>
       </offer>
       <offer id="KR5757" available="true">
         <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/krani/krani-kulovi/kran-kuloviy-ggm-koer-extreme-ke21720-34-ff-ruchka-metelik-chervona-kr5757</url>
@@ -169511,7 +169685,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/c916d91b-7522-4c08-a366-a5c97267ffa8/image_01.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Кран поливу з коннектором для швидкого підключення 1/2" (Koer KR.257) (KR2750)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR2750</vendorCode>
@@ -171020,15 +171194,15 @@
         <param name="G1 (дюйм)">3/4</param>
         <param name="Гарантійний період (міс)">84</param>
       </offer>
-      <offer id="KO1061" available="true">
+      <offer id="KO1061" available="false">
         <url>https://ol.partners/products/radiatori-opalennya/stalevi-radiatori/radiator-staleviy-korado-22vk-500x700-z-nizhnim-pidklyuchennyam-ko1061</url>
         <price>5977.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>271f5959-3c31-47d1-81a4-4ed3ce39cde4</categoryId>
         <picture>https://ol.partners/Products/Photo/9A11B9C1-6D68-4CE9-9E6A-11D56B6CE9DC</picture>
         <vendor>KORADO</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Радіатор сталевий Korado 22VK 500x700 з нижнім підключенням (KO1061)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KO1061</vendorCode>
