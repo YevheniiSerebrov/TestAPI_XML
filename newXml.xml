@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-05-15 03:23">
+<yml_catalog date="2026-05-16 02:48">
   <shop>
     <name>O&amp;L</name>
     <company>O&amp;L</company>
@@ -34833,7 +34833,7 @@
         <param name="Матеріал">ABS-пластик</param>
         <param name="Керування">Механічне</param>
       </offer>
-      <offer id="KR5555" available="true">
+      <offer id="KR5555" available="false">
         <url>https://ol.partners/products/gazovi-kolonki/gazova-kolonka-koer-kwhg0110-gray-dimokhidna-10-lkhv-kolir-siriy-kr5555</url>
         <price>6578.00</price>
         <currencyId>UAH</currencyId>
@@ -34844,8 +34844,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/5d0cd814-7fc2-48f2-a41c-d224539b0bc3/image_03.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/5d0cd814-7fc2-48f2-a41c-d224539b0bc3/image_02.jpg</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Газова колонка KOER KWH.G0110 GRAY димохідна 10 л/хв, колір сірий (KR5555)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR5555</vendorCode>
@@ -51426,7 +51426,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/b3e60f04-6249-4524-9b0e-3b23752719e6/image_05.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Центробіжний глибинний насос Koer 3KDm 2/11+30М 1" (KP2869)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KP2869</vendorCode>
@@ -55395,7 +55395,7 @@
         <param name="Тип з'єднання">Різьбовий-обтискний</param>
         <param name="Гарантійний період (міс)">12</param>
       </offer>
-      <offer id="WH0006" available="true">
+      <offer id="WH0006" available="false">
         <url>https://ol.partners/products/boyleri/vodonagrivach-pid-miyku-mixxus-ewh0606-small-under-nakopich-6-l-mokrten-15-kw-wh0006</url>
         <price>4448.00</price>
         <currencyId>UAH</currencyId>
@@ -55406,8 +55406,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/2b10b0d1-821f-4420-baf2-46fd27ab0639/image_03.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/2b10b0d1-821f-4420-baf2-46fd27ab0639/image_02.jpg</picture>
         <vendor>MIXXUS</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Водонагрівач "Під мийку" Mixxus EWH-0606 Small Under накопич. 6 л, мокр.тен 1,5 kW (WH0006)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>WH0006</vendorCode>
@@ -94178,7 +94178,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/275bb146-743e-4b54-8760-706f93f2ccd9/image_04.jpg</picture>
         <vendor>GROHE</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Комплект Grohe Set Унітаз DIVERSE-0301-T1 + Інсталяція Grohe Rapid SL 38772001 (38772001DIVERS0301T1)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>38772001DIVERS0301T1</vendorCode>
@@ -95979,7 +95979,7 @@
         <param name="Тип ручки">Метелик</param>
         <param name="Колір">Сталевий</param>
       </offer>
-      <offer id="KR3347" available="true">
+      <offer id="KR3347" available="false">
         <url>https://ol.partners/products/truboprovodi-ta-zyednannya/fitingi/rizbovi-zyednannya/shtutser-dlya-priyednannya-shlanga-koer-kfu06m10-12x10mm-m-kr3347</url>
         <price>47.00</price>
         <currencyId>UAH</currencyId>
@@ -95987,8 +95987,8 @@
         <picture>https://ol.partners/Products/Photo/985D1E44-2929-4BB4-8E63-6B86D1F1E6A7</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/a7868bfd-6ab8-4912-9514-dfb815ba0a1c/Image_04_koer_M.jpg</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Штуцер для приєднання шланга Koer KF.U06M-10 - 1/2"x10mm M (KR3347)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR3347</vendorCode>
@@ -130830,7 +130830,7 @@
         <param name="Гарантійний період (міс)">84</param>
         <param name="Особливості">Матеріал закладних деталей - Латунь CW617N нікельована</param>
       </offer>
-      <offer id="388400WGELLIPS0305T3" available="false">
+      <offer id="388400WGELLIPS0305T3" available="true">
         <url>https://ol.partners/products/instalyatsii-ta-klavishi/instalyatsii-z-unitazom/komplekt-grohe-set-unitaz-ellipse0305t3-instalyatsiya-ua388400wg-panel-38732000-388400wgellips0305t3</url>
         <price>9914.00</price>
         <currencyId>UAH</currencyId>
@@ -130860,8 +130860,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/e8d0efb3-052a-44bf-8789-b5785468235a/image_16.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/e8d0efb3-052a-44bf-8789-b5785468235a/image_11.jpg</picture>
         <vendor>GROHE</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Комплект Grohe Set Унітаз ELLIPSE-0305-T3 + Інсталяція UA388400WG + панель 38732000 (388400WGELLIPS0305T3)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>388400WGELLIPS0305T3</vendorCode>
@@ -136640,39 +136640,6 @@
         <param name="Особливості">Область робочих тисків для оптимальної продуктивності: від 0,5 до 7 бар; Ремонтопридатний</param>
         <param name="Максимальна температура робочої рідини (°C)">110</param>
       </offer>
-      <offer id="40807000" available="true">
-        <url>https://ol.partners/products/aksesuari-dlya-vannoi/poruchni-dlya-vannoi/poruchen-dlya-vannitrimach-dlya-rushnika-grohe-selection-cube-40807000</url>
-        <price>14850.00</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>98cef2a4-d106-4da2-9b4c-f8e66696fd13</categoryId>
-        <picture>https://ol.partners/Products/Photo/2B33779B-0D29-4FCF-A60D-9E3A7893408A</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/f78e6f3b-7ba1-4a61-86f9-e4072667c485/image_01.jpg</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/f78e6f3b-7ba1-4a61-86f9-e4072667c485/image_03.jpg</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/f78e6f3b-7ba1-4a61-86f9-e4072667c485/image_02.jpg</picture>
-        <vendor>GROHE</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
-        <name>Поручень для ванни/тримач для рушника Grohe Selection Cube (40807000)</name>
-        <description>&lt;![CDATA[]]&gt;</description>
-        <vendorCode>40807000</vendorCode>
-        <param name="Од. в упак.">1</param>
-        <param name="Об'єм ящ.">0</param>
-        <param name="Вага ящ.">0</param>
-        <param name="Гарантійний період (міс)">6</param>
-        <param name="Особливості">GROHE QuickFix – економія до 40% витрат часу на монтаж. GROHE StarLight - хромоване зносостійке покриття.</param>
-        <param name="Комплектація">Поручень, кріплення.</param>
-        <param name="Поверхня">Глянцева</param>
-        <param name="Покриття">Хром</param>
-        <param name="Колір">Сталевий</param>
-        <param name="Торгова марка">GROHE</param>
-        <param name="Країна виробник">Німеччина</param>
-        <param name="Вид виробу">Поручень універсальний</param>
-        <param name="Країна бренду">Німеччина</param>
-        <param name="Тип виробу">Поручні</param>
-        <param name="Тип">Настінний</param>
-        <param name="Розміри виробу (ВхШхГ)">50х600х60</param>
-        <param name="Матеріал виробу">Латунь</param>
-      </offer>
       <offer id="40448001" available="true">
         <url>https://ol.partners/products/aksesuari-dlya-vannoi/dozator-dlya-ridkogo-mila/dozator-ridkogo-mila-grohe-essentials-new-40448001</url>
         <price>3726.00</price>
@@ -136709,6 +136676,39 @@
         <param name="Колір">Сталевий</param>
         <param name="Поверхня">Глянцева</param>
         <param name="Матеріал виробу">Метал</param>
+      </offer>
+      <offer id="40807000" available="true">
+        <url>https://ol.partners/products/aksesuari-dlya-vannoi/poruchni-dlya-vannoi/poruchen-dlya-vannitrimach-dlya-rushnika-grohe-selection-cube-40807000</url>
+        <price>14850.00</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>98cef2a4-d106-4da2-9b4c-f8e66696fd13</categoryId>
+        <picture>https://ol.partners/Products/Photo/2B33779B-0D29-4FCF-A60D-9E3A7893408A</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/f78e6f3b-7ba1-4a61-86f9-e4072667c485/image_01.jpg</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/f78e6f3b-7ba1-4a61-86f9-e4072667c485/image_03.jpg</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/f78e6f3b-7ba1-4a61-86f9-e4072667c485/image_02.jpg</picture>
+        <vendor>GROHE</vendor>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Достатньо</availabilityStatus>
+        <name>Поручень для ванни/тримач для рушника Grohe Selection Cube (40807000)</name>
+        <description>&lt;![CDATA[]]&gt;</description>
+        <vendorCode>40807000</vendorCode>
+        <param name="Од. в упак.">1</param>
+        <param name="Об'єм ящ.">0</param>
+        <param name="Вага ящ.">0</param>
+        <param name="Гарантійний період (міс)">6</param>
+        <param name="Особливості">GROHE QuickFix – економія до 40% витрат часу на монтаж. GROHE StarLight - хромоване зносостійке покриття.</param>
+        <param name="Комплектація">Поручень, кріплення.</param>
+        <param name="Поверхня">Глянцева</param>
+        <param name="Покриття">Хром</param>
+        <param name="Колір">Сталевий</param>
+        <param name="Торгова марка">GROHE</param>
+        <param name="Країна виробник">Німеччина</param>
+        <param name="Вид виробу">Поручень універсальний</param>
+        <param name="Країна бренду">Німеччина</param>
+        <param name="Тип виробу">Поручні</param>
+        <param name="Тип">Настінний</param>
+        <param name="Розміри виробу (ВхШхГ)">50х600х60</param>
+        <param name="Матеріал виробу">Латунь</param>
       </offer>
       <offer id="KR0237" available="true">
         <url>https://ol.partners/products/truboprovodi-ta-zyednannya/trubi/polipropilenovi-trubi-ppr/polipropilenova-truba-kompozit-bazalt-koer-ppr-63x105-12-m-kr0237</url>
@@ -147162,7 +147162,7 @@
         <param name="Глибина (мм)">100</param>
         <param name="Довжина (мм)">900</param>
       </offer>
-      <offer id="KP2667" available="true">
+      <offer id="KP2667" available="false">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/nasosni-stantsii/nasosna-stantsiya-koer-auto-jet125-z-pyaternikom-kp2667</url>
         <price>8380.00</price>
         <currencyId>UAH</currencyId>
@@ -147172,8 +147172,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/33a5aefd-0f8b-4405-a554-03d31489127b/image_03.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/33a5aefd-0f8b-4405-a554-03d31489127b/image_05.jpg</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Насосна станція Koer auto JET-125 (з пятерніком) (KP2667)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KP2667</vendorCode>
@@ -151804,7 +151804,7 @@
         <picture>https://ol.partners/Products/Photo/1539EA85-E7A8-4050-AD42-550602E8EC0B</picture>
         <vendor>ZERIX</vendor>
         <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Відро Zerix Plain MB0120 (20 літрів) (ZX4619)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>ZX4619</vendorCode>
@@ -157025,7 +157025,7 @@
         <param name="Країна бренду">Німеччина</param>
         <param name="Тип монтажу">На чашу унітазу</param>
       </offer>
-      <offer id="KP3159" available="true">
+      <offer id="KP3159" available="false">
         <url>https://ol.partners/products/truboprovodi-ta-zyednannya/fitingi/zyednannya-dlya-trub-z-polipropilenu/mufta-dlya-kolektora-koer-k0284pro-20x16x20mm-ppr-z-perekhodom-na-pex-kp3159</url>
         <price>92.00</price>
         <currencyId>UAH</currencyId>
@@ -157033,8 +157033,8 @@
         <picture>https://ol.partners/Products/Photo/6AD79B6D-A093-46BB-A0CB-99D445D627AF</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/b6cfafb5-d269-4e16-810f-3015ac14091e/Image_04_koer.jpg</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Муфта для колектора Koer K0284.Pro - 20x16x2.0mm PPR з переходом на PEX (KP3159)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KP3159</vendorCode>
@@ -169685,7 +169685,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/c916d91b-7522-4c08-a366-a5c97267ffa8/image_01.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Кран поливу з коннектором для швидкого підключення 1/2" (Koer KR.257) (KR2750)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR2750</vendorCode>
@@ -174822,7 +174822,7 @@
         <param name="Країна бренду">Чехія</param>
         <param name="Колір">Сірий</param>
       </offer>
-      <offer id="WH0615" available="true">
+      <offer id="WH0615" available="false">
         <url>https://ol.partners/products/boyleri/vodonagrivach-kvadrat-mixxus-ewh14080-cube-wetn-nakopichuvalniy-80-l-mokriy-ten-20-kw-wh0615</url>
         <price>9158.00</price>
         <currencyId>UAH</currencyId>
@@ -174834,8 +174834,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/f7e3a77c-7a3e-4349-bfea-bea39d8ca78e/image_03.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/f7e3a77c-7a3e-4349-bfea-bea39d8ca78e/image_04.jpg</picture>
         <vendor>MIXXUS</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Водонагрівач "квадрат" Mixxus EWH-14080 CUBE WET(Н) накопичувальний 80 л, мокрий тен 2,0 kW (WH0615)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>WH0615</vendorCode>
