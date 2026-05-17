@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-05-16 02:48">
+<yml_catalog date="2026-05-17 02:56">
   <shop>
     <name>O&amp;L</name>
     <company>O&amp;L</company>
@@ -106832,7 +106832,7 @@
         <param name="Особливості">Робочий тиск для газу – 3 бар; Робочий тиск для води – до 20 бар</param>
         <param name="Додаткові характеристики">Максимальний робочий тиск для газу – 3 бар</param>
       </offer>
-      <offer id="ZX4563" available="true">
+      <offer id="ZX4563" available="false">
         <url>https://ol.partners/products/miyki-dlya-kukhni/vrizni-miyki/miyka-kukhonna-zerix-zs4651s01-bila-zx4563</url>
         <price>4451.00</price>
         <currencyId>UAH</currencyId>
@@ -106842,8 +106842,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/31b25e5d-208a-40ff-8e25-b4f1c81a2d05/image_01.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/31b25e5d-208a-40ff-8e25-b4f1c81a2d05/image_03.jpg</picture>
         <vendor>ZERIX</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Мийка кухонна Zerix ZS-4651S-01 Біла (ZX4563)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>ZX4563</vendorCode>
@@ -136640,6 +136640,39 @@
         <param name="Особливості">Область робочих тисків для оптимальної продуктивності: від 0,5 до 7 бар; Ремонтопридатний</param>
         <param name="Максимальна температура робочої рідини (°C)">110</param>
       </offer>
+      <offer id="40807000" available="true">
+        <url>https://ol.partners/products/aksesuari-dlya-vannoi/poruchni-dlya-vannoi/poruchen-dlya-vannitrimach-dlya-rushnika-grohe-selection-cube-40807000</url>
+        <price>14850.00</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>98cef2a4-d106-4da2-9b4c-f8e66696fd13</categoryId>
+        <picture>https://ol.partners/Products/Photo/2B33779B-0D29-4FCF-A60D-9E3A7893408A</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/f78e6f3b-7ba1-4a61-86f9-e4072667c485/image_01.jpg</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/f78e6f3b-7ba1-4a61-86f9-e4072667c485/image_03.jpg</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/f78e6f3b-7ba1-4a61-86f9-e4072667c485/image_02.jpg</picture>
+        <vendor>GROHE</vendor>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Достатньо</availabilityStatus>
+        <name>Поручень для ванни/тримач для рушника Grohe Selection Cube (40807000)</name>
+        <description>&lt;![CDATA[]]&gt;</description>
+        <vendorCode>40807000</vendorCode>
+        <param name="Од. в упак.">1</param>
+        <param name="Об'єм ящ.">0</param>
+        <param name="Вага ящ.">0</param>
+        <param name="Гарантійний період (міс)">6</param>
+        <param name="Особливості">GROHE QuickFix – економія до 40% витрат часу на монтаж. GROHE StarLight - хромоване зносостійке покриття.</param>
+        <param name="Комплектація">Поручень, кріплення.</param>
+        <param name="Поверхня">Глянцева</param>
+        <param name="Покриття">Хром</param>
+        <param name="Колір">Сталевий</param>
+        <param name="Торгова марка">GROHE</param>
+        <param name="Країна виробник">Німеччина</param>
+        <param name="Вид виробу">Поручень універсальний</param>
+        <param name="Країна бренду">Німеччина</param>
+        <param name="Тип виробу">Поручні</param>
+        <param name="Тип">Настінний</param>
+        <param name="Розміри виробу (ВхШхГ)">50х600х60</param>
+        <param name="Матеріал виробу">Латунь</param>
+      </offer>
       <offer id="40448001" available="true">
         <url>https://ol.partners/products/aksesuari-dlya-vannoi/dozator-dlya-ridkogo-mila/dozator-ridkogo-mila-grohe-essentials-new-40448001</url>
         <price>3726.00</price>
@@ -136676,39 +136709,6 @@
         <param name="Колір">Сталевий</param>
         <param name="Поверхня">Глянцева</param>
         <param name="Матеріал виробу">Метал</param>
-      </offer>
-      <offer id="40807000" available="true">
-        <url>https://ol.partners/products/aksesuari-dlya-vannoi/poruchni-dlya-vannoi/poruchen-dlya-vannitrimach-dlya-rushnika-grohe-selection-cube-40807000</url>
-        <price>14850.00</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>98cef2a4-d106-4da2-9b4c-f8e66696fd13</categoryId>
-        <picture>https://ol.partners/Products/Photo/2B33779B-0D29-4FCF-A60D-9E3A7893408A</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/f78e6f3b-7ba1-4a61-86f9-e4072667c485/image_01.jpg</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/f78e6f3b-7ba1-4a61-86f9-e4072667c485/image_03.jpg</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/f78e6f3b-7ba1-4a61-86f9-e4072667c485/image_02.jpg</picture>
-        <vendor>GROHE</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
-        <name>Поручень для ванни/тримач для рушника Grohe Selection Cube (40807000)</name>
-        <description>&lt;![CDATA[]]&gt;</description>
-        <vendorCode>40807000</vendorCode>
-        <param name="Од. в упак.">1</param>
-        <param name="Об'єм ящ.">0</param>
-        <param name="Вага ящ.">0</param>
-        <param name="Гарантійний період (міс)">6</param>
-        <param name="Особливості">GROHE QuickFix – економія до 40% витрат часу на монтаж. GROHE StarLight - хромоване зносостійке покриття.</param>
-        <param name="Комплектація">Поручень, кріплення.</param>
-        <param name="Поверхня">Глянцева</param>
-        <param name="Покриття">Хром</param>
-        <param name="Колір">Сталевий</param>
-        <param name="Торгова марка">GROHE</param>
-        <param name="Країна виробник">Німеччина</param>
-        <param name="Вид виробу">Поручень універсальний</param>
-        <param name="Країна бренду">Німеччина</param>
-        <param name="Тип виробу">Поручні</param>
-        <param name="Тип">Настінний</param>
-        <param name="Розміри виробу (ВхШхГ)">50х600х60</param>
-        <param name="Матеріал виробу">Латунь</param>
       </offer>
       <offer id="KR0237" available="true">
         <url>https://ol.partners/products/truboprovodi-ta-zyednannya/trubi/polipropilenovi-trubi-ppr/polipropilenova-truba-kompozit-bazalt-koer-ppr-63x105-12-m-kr0237</url>
