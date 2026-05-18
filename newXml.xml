@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-05-17 02:56">
+<yml_catalog date="2026-05-18 03:34">
   <shop>
     <name>O&amp;L</name>
     <company>O&amp;L</company>
@@ -104927,15 +104927,15 @@
         <param name="Тип з'єднання">Різьбовий</param>
         <param name="Матеріал виробу">Поліпропілен</param>
       </offer>
-      <offer id="KP3255" available="true">
+      <offer id="KP3255" available="false">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/nasosi-pidvischennya-tisku/nasos-pidvischennya-tisku-energozberezhennya-koer-kbs1518140-n18m-q21kbm-p85vt-z-gaykami-kp3255</url>
         <price>2170.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/CE4503E0-9879-4DD1-9B20-DBA9E5DBA3F3</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Насос підвищення тиску енергозбереження Koer KBS15-18-140 Н=18М, Q=2.1кбМ, P=85Вт (з гайками)  (KP3255)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KP3255</vendorCode>
@@ -169676,7 +169676,7 @@
         <param name="Є крило для посуду">Так</param>
         <param name="Кількість чаш (шт)">1</param>
       </offer>
-      <offer id="KR2750" available="true">
+      <offer id="KR2750" available="false">
         <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/krani/kran-pivniy/kran-polivu-z-konnektorom-dlya-shvidkogo-pidklyuchennya-12-koer-kr257-kr2750</url>
         <price>183.00</price>
         <currencyId>UAH</currencyId>
@@ -169684,7 +169684,7 @@
         <picture>https://ol.partners/Products/Photo/AE5C8499-96EB-4345-A106-CB55A385DB60</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/c916d91b-7522-4c08-a366-a5c97267ffa8/image_01.jpg</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>100</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Кран поливу з коннектором для швидкого підключення 1/2" (Koer KR.257) (KR2750)</name>
         <description>&lt;![CDATA[]]&gt;</description>
