@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-05-20 03:27">
+<yml_catalog date="2026-05-21 03:34">
   <shop>
     <name>O&amp;L</name>
     <company>O&amp;L</company>
@@ -7923,7 +7923,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/1060b6ca-c4f2-47f5-930a-1a1d3915e5ce/image_05.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Колектор з вбудованим зміш. вузлом Koer KR.S1012-10 1 "х10 SUS304 і євроконус 3/4-16 (KR2943)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR2943</vendorCode>
@@ -8383,7 +8383,29 @@
         <param name="Од. в упак.">10</param>
         <param name="Об'єм ящ.">0</param>
         <param name="Вага ящ.">0</param>
+        <param name="Призначення">Для мила</param>
         <param name="Торгова марка">KOER</param>
+        <param name="Країна виробник">Китай</param>
+        <param name="Модель">AS-0102-12</param>
+        <param name="Тип виробу">Мильниці</param>
+        <param name="Тип монтажу">Настінний</param>
+        <param name="Вид виробу">Мильниця настінна</param>
+        <param name="Серія">AS-01</param>
+        <param name="Країна бренду">Чехія</param>
+        <param name="Антипалець">Так</param>
+        <param name="Форма">Універсальна</param>
+        <param name="Колір">Золото матове</param>
+        <param name="Поверхня">Брашована</param>
+        <param name="Гарантійний період (міс)">12</param>
+        <param name="Комплектація">Мильниця, тримач, кріплення</param>
+        <param name="Висота (мм)">52</param>
+        <param name="Глибина (мм)">91</param>
+        <param name="Розміри виробу (ВхШхГ)">52x81x91</param>
+        <param name="Діаметр (мм)">107</param>
+        <param name="Ширина (мм)">81</param>
+        <param name="Матеріал">Нержавіюча сталь SUS 304</param>
+        <param name="Матеріал комплектуючих">Нержавіюча сталь SUS304, цинковий сплав, скло</param>
+        <param name="Тип конструкції">Скляна чаша</param>
       </offer>
       <offer id="MP6686" available="true">
         <url>https://ol.partners/products/keramika/sidinnya-dlya-unitazu/sidinnyakrishka-dlya-unitazu-mixxus-premium-seat-cover-quadro2004-gray-425kh358kh32mm-dyuroplast-mp6686</url>
@@ -10603,7 +10625,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/7f135292-c3c2-450b-beb5-34c69ae8bf4b/image_02.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Колекторний блок з витратомірами та євроконусами Koer KR.1210-8 - 1"x8 WAYS (KR5270)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR5270</vendorCode>
@@ -12267,7 +12289,28 @@
         <param name="Од. в упак.">10</param>
         <param name="Об'єм ящ.">0</param>
         <param name="Вага ящ.">0</param>
+        <param name="Колір">Графіт</param>
+        <param name="Форма">Планка</param>
+        <param name="Поверхня">Матова</param>
+        <param name="Антипалець">Так</param>
+        <param name="Гарантійний період (міс)">12</param>
+        <param name="Комплектація">Тримач для рушників, кріплення</param>
+        <param name="Країна бренду">Чехія</param>
+        <param name="Країна виробник">Китай</param>
+        <param name="Модель">AS-0109-1-07</param>
+        <param name="Вид виробу">Тримач для рушника</param>
+        <param name="Тип монтажу">Настінний</param>
+        <param name="Серія">AS-01</param>
+        <param name="Тип виробу">Тримачі</param>
+        <param name="Призначення">Для рушника</param>
         <param name="Торгова марка">KOER</param>
+        <param name="Ширина (мм)">647</param>
+        <param name="Висота (мм)">32</param>
+        <param name="Глибина (мм)">70</param>
+        <param name="Розміри виробу (ВхШхГ)">32x647x70</param>
+        <param name="Тип конструкції">Фіксована (1 планка)</param>
+        <param name="Матеріал">Нержавіюча сталь SUS 304</param>
+        <param name="Матеріал комплектуючих">Нержавіюча сталь SUS304, цинковий сплав</param>
       </offer>
       <offer id="PM0631" available="true">
         <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/krani/kran-pivniy/kran-pivniy-pvc-whitered-plamix-pvi12-pm0631</url>
@@ -16467,7 +16510,28 @@
         <param name="Од. в упак.">10</param>
         <param name="Об'єм ящ.">0</param>
         <param name="Вага ящ.">0</param>
+        <param name="Комплектація">Тримач для рушників, кріплення</param>
+        <param name="Гарантійний період (міс)">12</param>
+        <param name="Матеріал">Нержавіюча сталь SUS 304</param>
+        <param name="Матеріал комплектуючих">Нержавіюча сталь SUS304, цинковий сплав</param>
+        <param name="Тип конструкції">Фіксована (1 планка)</param>
+        <param name="Розміри виробу (ВхШхГ)">32x647x70</param>
+        <param name="Глибина (мм)">70</param>
+        <param name="Ширина (мм)">647</param>
+        <param name="Висота (мм)">32</param>
+        <param name="Модель">AS-0109-1-05</param>
+        <param name="Країна бренду">Чехія</param>
+        <param name="Тип монтажу">Настінний</param>
+        <param name="Тип виробу">Тримачі</param>
         <param name="Торгова марка">KOER</param>
+        <param name="Вид виробу">Тримач для рушника</param>
+        <param name="Призначення">Для рушника</param>
+        <param name="Серія">AS-01</param>
+        <param name="Країна виробник">Китай</param>
+        <param name="Поверхня">Матова</param>
+        <param name="Форма">Планка</param>
+        <param name="Антипалець">Так</param>
+        <param name="Колір">Чорний матовий</param>
       </offer>
       <offer id="EP6125" available="true">
         <url>https://ol.partners/products/truboprovodi-ta-zyednannya/fitingi/rizbovi-zyednannya/podovzhuvach-europroduct-epe030chr-12mf30mm-khrom-ep6125</url>
@@ -19554,7 +19618,7 @@
         <param name="Ширина (мм)">500</param>
         <param name="Довжина (мм)">500</param>
       </offer>
-      <offer id="RAD058" available="false">
+      <offer id="RAD058" available="true">
         <url>https://ol.partners/products/radiatori-opalennya/stalevi-radiatori/staleviy-radiator-22kh500kh1000s-koer-bok-pidklyuchennya-rad058</url>
         <price>4426.00</price>
         <currencyId>UAH</currencyId>
@@ -19566,8 +19630,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/ad7f00e0-ef22-4f93-aad8-a5553966ce41/image_02_400-600_0.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/ad7f00e0-ef22-4f93-aad8-a5553966ce41/image_03_RAD058.jpg</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Сталевий радіатор 22х500х1000.S Koer (бок. підключення) (RAD058)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>RAD058</vendorCode>
@@ -20782,7 +20846,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/208a0fb2-6dbf-46d4-ad95-090fef72077d/image_05_400-600_0.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Сталевий радіатор 22х500х1500.S Koer (бок. підключення) (RAD063)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>RAD063</vendorCode>
@@ -21407,7 +21471,7 @@
         <param name="Країна бренду">Німеччина</param>
         <param name="Торгова марка">MIXXUS PREMIUM</param>
       </offer>
-      <offer id="RAD060" available="false">
+      <offer id="RAD060" available="true">
         <url>https://ol.partners/products/radiatori-opalennya/stalevi-radiatori/staleviy-radiator-22kh500kh1200s-koer-bok-pidklyuchennya-rad060</url>
         <price>5185.00</price>
         <currencyId>UAH</currencyId>
@@ -21419,8 +21483,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/8e9d4be0-cacf-45d3-bfdf-b8f438491a7a/image_01_400-600_0.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/8e9d4be0-cacf-45d3-bfdf-b8f438491a7a/image_02_400-600_0.jpg</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Сталевий радіатор 22х500х1200.S Koer (бок. підключення) (RAD060)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>RAD060</vendorCode>
@@ -21884,7 +21948,27 @@
         <param name="Од. в упак.">20</param>
         <param name="Об'єм ящ.">0</param>
         <param name="Вага ящ.">0</param>
+        <param name="Гарантійний період (міс)">12</param>
+        <param name="Комплектація">Гачок, кріплення</param>
+        <param name="Тип монтажу">Настінний</param>
+        <param name="Країна виробник">Китай</param>
+        <param name="Тип виробу">Тримачі</param>
+        <param name="Вид виробу">Гачок</param>
+        <param name="Серія">AS-01</param>
+        <param name="Модель">AS-0101-2-01</param>
         <param name="Торгова марка">KOER</param>
+        <param name="Країна бренду">Чехія</param>
+        <param name="Призначення">Для підвішування халата та рушника</param>
+        <param name="Матеріал">Нержавіюча сталь SUS 304</param>
+        <param name="Тип конструкції">Подвійний гачок</param>
+        <param name="Матеріал комплектуючих">Нержавіюча сталь SUS304, цинковий сплав</param>
+        <param name="Висота (мм)">21</param>
+        <param name="Ширина (мм)">66</param>
+        <param name="Глибина (мм)">37</param>
+        <param name="Розміри виробу (ВхШхГ)">21x66x37</param>
+        <param name="Поверхня">Глянцева</param>
+        <param name="Колір">Хром</param>
+        <param name="Форма">Універсальна</param>
       </offer>
       <offer id="KR2882" available="true">
         <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/servoprivid/servoprivid-koer-kr1341-230v-nc-m30x15-kr2882</url>
@@ -22990,6 +23074,26 @@
         <param name="Об'єм ящ.">0</param>
         <param name="Вага ящ.">0</param>
         <param name="Торгова марка">KOER</param>
+        <param name="Модель">AS-0109-2-01</param>
+        <param name="Тип виробу">Тримачі</param>
+        <param name="Тип монтажу">Настінний</param>
+        <param name="Країна виробник">Китай</param>
+        <param name="Вид виробу">Тримач для рушника</param>
+        <param name="Серія">AS-01</param>
+        <param name="Країна бренду">Чехія</param>
+        <param name="Призначення">Для рушника</param>
+        <param name="Комплектація">Тримач для рушників, кріплення</param>
+        <param name="Гарантійний період (міс)">12</param>
+        <param name="Форма">Планка</param>
+        <param name="Поверхня">Глянцева</param>
+        <param name="Колір">Хром</param>
+        <param name="Висота (мм)">32</param>
+        <param name="Розміри виробу (ВхШхГ)">32x647x124</param>
+        <param name="Ширина (мм)">647</param>
+        <param name="Глибина (мм)">124</param>
+        <param name="Матеріал">Нержавіюча сталь SUS 304</param>
+        <param name="Матеріал комплектуючих">Нержавіюча сталь SUS304, цинковий сплав</param>
+        <param name="Тип конструкції">Фіксована (2 планки)</param>
       </offer>
       <offer id="KR2622" available="true">
         <url>https://ol.partners/products/truboprovodi-ta-zyednannya/trubi/trubi-dlya-teploi-pidlogi/truba-dlya-teploi-pidlogi-z-kisnevim-baryerom-koer-pert-evoh-1620-red-200-m-kr2622</url>
@@ -23615,8 +23719,8 @@
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR5567</vendorCode>
         <param name="Од. в упак.">12</param>
-        <param name="Об'єм ящ.">0</param>
-        <param name="Вага ящ.">0</param>
+        <param name="Об'єм ящ.">0.086</param>
+        <param name="Вага ящ.">32.2</param>
         <param name="Торгова марка">KOER</param>
         <param name="Країна бренду">Чехія</param>
         <param name="Тип виробу">Комплектуючі для систем захисту від протікання води</param>
@@ -25285,7 +25389,29 @@
         <param name="Од. в упак.">10</param>
         <param name="Об'єм ящ.">0</param>
         <param name="Вага ящ.">0</param>
+        <param name="Матеріал">Нержавіюча сталь SUS 304</param>
+        <param name="Тип конструкції">Відкрита</param>
+        <param name="Матеріал комплектуючих">Нержавіюча сталь SUS304, цинковий сплав, скло</param>
+        <param name="Тип монтажу">Настінний</param>
+        <param name="Модель">AS-0105-12</param>
+        <param name="Призначення">Для унітазу</param>
+        <param name="Тип виробу">Йоржики</param>
+        <param name="Вид виробу">Йоржик підвісний</param>
+        <param name="Країна виробник">Китай</param>
+        <param name="Серія">AS-01</param>
         <param name="Торгова марка">KOER</param>
+        <param name="Країна бренду">Чехія</param>
+        <param name="Розміри виробу (ВхШхГ)">375x105x120</param>
+        <param name="Глибина (мм)">120</param>
+        <param name="Діаметр (мм)">93</param>
+        <param name="Висота (мм)">375</param>
+        <param name="Ширина (мм)">105</param>
+        <param name="Комплектація">Колба, йоржик, тримач, кріплення</param>
+        <param name="Гарантійний період (міс)">12</param>
+        <param name="Антипалець">Так</param>
+        <param name="Поверхня">Брашована</param>
+        <param name="Колір">Золото матове</param>
+        <param name="Форма">Універсальна</param>
       </offer>
       <offer id="MP6532" available="true">
         <url>https://ol.partners/products/keramika/rakovini/rakovina-nakladna-mixxus-premium-wave0103-marble-380kh380kh170mm-mp6532</url>
@@ -29206,7 +29332,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/0d4f190a-bd9b-4277-95e2-8caaa8685da4/image_01_400-600_0.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Сталевий радіатор 22х500х600.S Koer (бок. підключення) (RAD054)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>RAD054</vendorCode>
@@ -30108,7 +30234,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/c538f3e5-0e21-4245-b796-6aa087230116/ZX4784-ZERIX-ELW14-EF-3,3-kW-3.jpg</picture>
         <vendor>ZERIX</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Водонагрівач 3,3 kW проточний, з індикатором температури, рефлекторний вилив ZERIX ELW14-EF (ZX4784)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>ZX4784</vendorCode>
@@ -36825,7 +36951,29 @@
         <param name="Од. в упак.">10</param>
         <param name="Об'єм ящ.">0</param>
         <param name="Вага ящ.">0</param>
+        <param name="Тип конструкції">Склянка з тримачем</param>
+        <param name="Матеріал комплектуючих">Нержавіюча сталь SUS304, цинковий сплав, скло</param>
+        <param name="Матеріал">Нержавіюча сталь SUS 304</param>
+        <param name="Колір">Золото матове</param>
+        <param name="Антипалець">Так</param>
+        <param name="Форма">Універсальна</param>
+        <param name="Поверхня">Брашована</param>
+        <param name="Модель">AS-0103-12</param>
+        <param name="Країна бренду">Чехія</param>
+        <param name="Тип монтажу">Настінний</param>
+        <param name="Вид виробу">Склянка з тримачем</param>
+        <param name="Призначення">Для зубних щіток</param>
+        <param name="Серія">AS-01</param>
+        <param name="Країна виробник">Китай</param>
         <param name="Торгова марка">KOER</param>
+        <param name="Тип виробу">Склянки</param>
+        <param name="Комплектація">Склянка з тримачем, кріплення</param>
+        <param name="Гарантійний період (міс)">12</param>
+        <param name="Глибина (мм)">91</param>
+        <param name="Висота (мм)">95</param>
+        <param name="Діаметр (мм)">67</param>
+        <param name="Ширина (мм)">81</param>
+        <param name="Розміри виробу (ВхШхГ)">95x81x91</param>
       </offer>
       <offer id="KR2990" available="false">
         <url>https://ol.partners/products/truboprovodi-ta-zyednannya/fitingi/rizbovi-zyednannya/nipel-34-koer-wmn08-kr2990</url>
@@ -42652,7 +42800,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/22d853ee-cba7-463f-877c-3bcf351b9ff1/image_02.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Згін роз'ємний із внутрішнім різьбленням Koer KR.345-20F - 3/4"FF (KR5694)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR5694</vendorCode>
@@ -43507,7 +43655,28 @@
         <param name="Од. в упак.">20</param>
         <param name="Об'єм ящ.">0</param>
         <param name="Вага ящ.">0</param>
+        <param name="Модель">AS-0101-1-07</param>
+        <param name="Тип монтажу">Настінний</param>
+        <param name="Вид виробу">Гачок</param>
+        <param name="Призначення">Для підвішування халата та рушника</param>
+        <param name="Країна бренду">Чехія</param>
+        <param name="Тип виробу">Тримачі</param>
+        <param name="Країна виробник">Китай</param>
         <param name="Торгова марка">KOER</param>
+        <param name="Серія">AS-01</param>
+        <param name="Комплектація">Гачок, кріплення</param>
+        <param name="Гарантійний період (міс)">12</param>
+        <param name="Матеріал комплектуючих">Нержавіюча сталь SUS304, цинковий сплав</param>
+        <param name="Тип конструкції">Одинарний гачок</param>
+        <param name="Матеріал">Нержавіюча сталь SUS 304</param>
+        <param name="Поверхня">Матова</param>
+        <param name="Колір">Графіт</param>
+        <param name="Форма">Універсальна</param>
+        <param name="Антипалець">Так</param>
+        <param name="Розміри виробу (ВхШхГ)">30x22x42</param>
+        <param name="Ширина (мм)">22</param>
+        <param name="Висота (мм)">30</param>
+        <param name="Глибина (мм)">42</param>
       </offer>
       <offer id="ZM0561" available="true">
         <url>https://ol.partners/products/miyki-dlya-kukhni/vrizni-miyki/miyka-kukhonna-zerix-z635006160e-satin-zm0561</url>
@@ -44996,7 +45165,7 @@
         <param name="Матеріал кріплення">Метал</param>
         <param name="Габарити виробу (см)">20х28х20</param>
       </offer>
-      <offer id="RAD127" available="false">
+      <offer id="RAD127" available="true">
         <url>https://ol.partners/products/radiatori-opalennya/stalevi-radiatori/staleviy-radiator-33kh500kh1500s-koer-bok-pidklyuchennya-rad127</url>
         <price>11151.00</price>
         <currencyId>UAH</currencyId>
@@ -45008,8 +45177,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/f227ee00-15b7-47bd-a9e9-4f692081996e/image_03_RAD127.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/f227ee00-15b7-47bd-a9e9-4f692081996e/image_02_400-600_0.jpg</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Сталевий радіатор 33х500х1500.S Koer (бок. підключення) (RAD127)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>RAD127</vendorCode>
@@ -46240,7 +46409,7 @@
         <param name="Керування">Механічне</param>
         <param name="Матеріал">Дюропласт</param>
       </offer>
-      <offer id="RAD057" available="false">
+      <offer id="RAD057" available="true">
         <url>https://ol.partners/products/radiatori-opalennya/stalevi-radiatori/staleviy-radiator-22kh500kh900s-koer-bok-pidklyuchennya-rad057</url>
         <price>4085.00</price>
         <currencyId>UAH</currencyId>
@@ -46252,8 +46421,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/726b47a9-66da-4668-bb1f-7338625be041/image_03_RAD057.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/726b47a9-66da-4668-bb1f-7338625be041/image_04_400-600_0.jpg</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Сталевий радіатор 22х500х900.S KOER (бок. підключення) (RAD057)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>RAD057</vendorCode>
@@ -46665,7 +46834,28 @@
         <param name="Од. в упак.">10</param>
         <param name="Об'єм ящ.">0</param>
         <param name="Вага ящ.">0</param>
+        <param name="Країна виробник">Китай</param>
+        <param name="Модель">AS-0108-07</param>
+        <param name="Вид виробу">Тримач для паперових рушників</param>
+        <param name="Тип виробу">Тримачі</param>
+        <param name="Тип монтажу">Настінний</param>
+        <param name="Серія">AS-01</param>
         <param name="Торгова марка">KOER</param>
+        <param name="Призначення">Для паперових рушників</param>
+        <param name="Країна бренду">Чехія</param>
+        <param name="Колір">Графіт</param>
+        <param name="Антипалець">Так</param>
+        <param name="Форма">Півкільце</param>
+        <param name="Поверхня">Матова</param>
+        <param name="Ширина (мм)">189</param>
+        <param name="Розміри виробу (ВхШхГ)">133x189x130</param>
+        <param name="Глибина (мм)">130</param>
+        <param name="Висота (мм)">133</param>
+        <param name="Комплектація">Тримач для паперових рушників, кріплення</param>
+        <param name="Гарантійний період (міс)">12</param>
+        <param name="Тип конструкції">Форма тримача півкільце</param>
+        <param name="Матеріал">Нержавіюча сталь SUS 304</param>
+        <param name="Матеріал комплектуючих">Нержавіюча сталь SUS304, цинковий сплав</param>
       </offer>
       <offer id="MI6719" available="true">
         <url>https://ol.partners/products/keramika/sidinnya-dlya-unitazu/sidinnyakrishka-dlya-unitazu-mixxus-seat-cover-ellipse2001-z-mikroliftom-455x380x60mm-mi6719</url>
@@ -48676,7 +48866,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/13a24ec4-959d-4439-bb0d-59676996830d/image_05.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Колектор з вбудованим зміш. вузлом Koer KR.S1011-7 1 "х7 SUS304 і євроконус 3/4-16 (KR2930)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR2930</vendorCode>
@@ -49637,7 +49827,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/04d27eba-d01f-4e59-98cd-63aa32058cea/image_02_400-600_0.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Сталевий радіатор 11х500х900.S Koer (бок. підключення) (RAD237)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>RAD237</vendorCode>
@@ -50997,7 +51187,30 @@
         <param name="Од. в упак.">10</param>
         <param name="Об'єм ящ.">0</param>
         <param name="Вага ящ.">0</param>
+        <param name="Гарантійний період (міс)">12</param>
+        <param name="Комплектація">Дозатор з тримачем, кріплення, інструкція</param>
+        <param name="Матеріал комплектуючих">Нержавіюча сталь SUS304, цинковий сплав, скло</param>
+        <param name="Тип конструкції">Кільцевий утримувач: колба вставляється у металеве кільце-кронштейн</param>
+        <param name="Матеріал">Нержавіюча сталь SUS 304</param>
+        <param name="Діаметр (мм)">65</param>
+        <param name="Об'єм (л)">0,20</param>
+        <param name="Висота (мм)">161</param>
+        <param name="Глибина (мм)">91</param>
+        <param name="Розміри виробу (ВхШхГ)">161x81x91</param>
+        <param name="Ширина (мм)">81</param>
+        <param name="Країна виробник">Китай</param>
+        <param name="Серія">AS-01</param>
+        <param name="Модель">AS-0104-05</param>
+        <param name="Вид виробу">Дозатор для рідкого мила настінний</param>
+        <param name="Країна бренду">Чехія</param>
+        <param name="Тип виробу">Дозатори для рідкого мила</param>
+        <param name="Тип монтажу">Настінний</param>
+        <param name="Призначення">Для мила</param>
         <param name="Торгова марка">KOER</param>
+        <param name="Колір">Чорний матовий</param>
+        <param name="Форма">Універсальна</param>
+        <param name="Антипалець">Так</param>
+        <param name="Поверхня">Матова</param>
       </offer>
       <offer id="KR3111" available="true">
         <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/klapan-zapobizhniy/klapan-zapobizhniy-vz-12kh34-koer-kr1262-z-vikh-dlya-pidklyuch-manometra-3-bar-kr3111</url>
@@ -53000,7 +53213,7 @@
         <param name="Колір">Нержавіюча сталь</param>
         <param name="Наявність PVD покриття">Ні</param>
       </offer>
-      <offer id="RAD075" available="false">
+      <offer id="RAD075" available="true">
         <url>https://ol.partners/products/radiatori-opalennya/stalevi-radiatori/staleviy-radiator-22kh300kh1200s-koer-bok-pidklyuchennya-rad075</url>
         <price>4067.00</price>
         <currencyId>UAH</currencyId>
@@ -53012,8 +53225,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/4b7d733a-8c9a-4b48-9151-02dd8973c23b/image_01_400-600_.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/4b7d733a-8c9a-4b48-9151-02dd8973c23b/image_04_400-600_0.jpg</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Сталевий радіатор 22х300х1200.S Koer (бок. підключення) (RAD075)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>RAD075</vendorCode>
@@ -55219,7 +55432,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/216d0d71-17b8-45f7-a1b5-6c04f6cb9d36/image_01_400-600_0.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Сталевий радіатор 22х500х800.S Koer (бок. підключення) (RAD056)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>RAD056</vendorCode>
@@ -60833,7 +61046,28 @@
         <param name="Од. в упак.">10</param>
         <param name="Об'єм ящ.">0</param>
         <param name="Вага ящ.">0</param>
+        <param name="Тип монтажу">Настінний</param>
+        <param name="Вид виробу">Склянка з тримачем</param>
+        <param name="Країна бренду">Чехія</param>
         <param name="Торгова марка">KOER</param>
+        <param name="Серія">AS-01</param>
+        <param name="Модель">AS-0103-01</param>
+        <param name="Тип виробу">Склянки</param>
+        <param name="Призначення">Для зубних щіток</param>
+        <param name="Країна виробник">Китай</param>
+        <param name="Матеріал комплектуючих">Нержавіюча сталь SUS304, цинковий сплав, скло</param>
+        <param name="Тип конструкції">Склянка з тримачем</param>
+        <param name="Матеріал">Нержавіюча сталь SUS 304</param>
+        <param name="Діаметр (мм)">67</param>
+        <param name="Ширина (мм)">81</param>
+        <param name="Розміри виробу (ВхШхГ)">95x81x91</param>
+        <param name="Висота (мм)">95</param>
+        <param name="Глибина (мм)">91</param>
+        <param name="Комплектація">Склянка з тримачем, кріплення</param>
+        <param name="Гарантійний період (міс)">12</param>
+        <param name="Поверхня">Глянцева</param>
+        <param name="Форма">Універсальна</param>
+        <param name="Колір">Хром</param>
       </offer>
       <offer id="MP6484" available="true">
         <url>https://ol.partners/products/keramika/rakovini/umivalnik-nakladniy-keramichniy-mixxus-premium-diverse0101-490x395x150mm-mp6484</url>
@@ -62523,7 +62757,7 @@
         <param name="Висота (мм)">180</param>
         <param name="Довжина кабелю (м)">50,00</param>
       </offer>
-      <offer id="RAD053" available="false">
+      <offer id="RAD053" available="true">
         <url>https://ol.partners/products/radiatori-opalennya/stalevi-radiatori/staleviy-radiator-22kh500kh500s-koer-bok-pidklyuchennya-rad053</url>
         <price>2506.00</price>
         <currencyId>UAH</currencyId>
@@ -62535,8 +62769,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/2cc6bd84-4eb0-49f2-ab61-896e0f00e25e/image_04_400-600_0.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/2cc6bd84-4eb0-49f2-ab61-896e0f00e25e/image_01_400-600_0.jpg</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Сталевий радіатор 22х500х500.S Koer (бок. підключення) (RAD053)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>RAD053</vendorCode>
@@ -63152,7 +63386,7 @@
         <param name="Особливості">Матеріал закладних деталей - Латунь CW617N нікельована</param>
         <param name="Гарантійний період (міс)">84</param>
       </offer>
-      <offer id="RAD078" available="false">
+      <offer id="RAD078" available="true">
         <url>https://ol.partners/products/radiatori-opalennya/stalevi-radiatori/staleviy-radiator-22kh300kh1500s-koer-bok-pidklyuchennya-rad078</url>
         <price>4935.00</price>
         <currencyId>UAH</currencyId>
@@ -63164,8 +63398,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/e1955cfe-d14d-4eb4-afa1-2d707d68c272/image_05_400-600_0.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/e1955cfe-d14d-4eb4-afa1-2d707d68c272/image_03_RAD078.jpg</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Сталевий радіатор 22х300х1500.S Koer (бок. підключення) (RAD078)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>RAD078</vendorCode>
@@ -64131,7 +64365,28 @@
         <param name="Од. в упак.">20</param>
         <param name="Об'єм ящ.">0</param>
         <param name="Вага ящ.">0</param>
+        <param name="Країна виробник">Китай</param>
+        <param name="Тип виробу">Тримачі</param>
+        <param name="Призначення">Для підвішування халата та рушника</param>
         <param name="Торгова марка">KOER</param>
+        <param name="Модель">AS-0101-1-12</param>
+        <param name="Серія">AS-01</param>
+        <param name="Країна бренду">Чехія</param>
+        <param name="Вид виробу">Гачок</param>
+        <param name="Тип монтажу">Настінний</param>
+        <param name="Колір">Золото матове</param>
+        <param name="Поверхня">Брашована</param>
+        <param name="Форма">Універсальна</param>
+        <param name="Антипалець">Так</param>
+        <param name="Тип конструкції">Одинарний гачок</param>
+        <param name="Матеріал комплектуючих">Нержавіюча сталь SUS304, цинковий сплав</param>
+        <param name="Матеріал">Нержавіюча сталь SUS 304</param>
+        <param name="Глибина (мм)">42</param>
+        <param name="Висота (мм)">30</param>
+        <param name="Ширина (мм)">22</param>
+        <param name="Розміри виробу (ВхШхГ)">30x22x42</param>
+        <param name="Комплектація">Гачок, кріплення</param>
+        <param name="Гарантійний період (міс)">12</param>
       </offer>
       <offer id="KR5875" available="true">
         <url>https://ol.partners/products/filtri-ochischennya-vodi/komplektuyuchi-dlya-filtriv-vodi/kolba-filtru-dlya-vodi-z-nerzhaviyuchoi-stali-koer-kv2234-8-atm-34-kr5875</url>
@@ -65084,7 +65339,7 @@
         <param name="Довжина (мм)">900</param>
         <param name="Вага (кг)">22,58</param>
       </offer>
-      <offer id="EP6097" available="true">
+      <offer id="EP6097" available="false">
         <url>https://ol.partners/products/truboprovodi-ta-zyednannya/ustatkuvannya-dlya-montazhu/instrumenti-dlya-montazhu/opresuvalnik-gidravlichniy-ruchniy-europroduct-eptp100-dlya-ppr-trub-12l-50atm-ep6097</url>
         <price>4336.00</price>
         <currencyId>UAH</currencyId>
@@ -65095,8 +65350,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/eb0f199b-f289-4186-a0f5-994210b7179e/image_03.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/eb0f199b-f289-4186-a0f5-994210b7179e/image_02.jpg</picture>
         <vendor>EUROPRODUCT</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Опресувальник гідравлічний ручний Europroduct EP.TP100 для PPR труб (12л, 50АТМ) (EP6097)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>EP6097</vendorCode>
@@ -68880,7 +69135,27 @@
         <param name="Од. в упак.">20</param>
         <param name="Об'єм ящ.">0</param>
         <param name="Вага ящ.">0</param>
+        <param name="Вид виробу">Гачок</param>
+        <param name="Тип монтажу">Настінний</param>
+        <param name="Призначення">Для підвішування халата та рушника</param>
         <param name="Торгова марка">KOER</param>
+        <param name="Країна бренду">Чехія</param>
+        <param name="Країна виробник">Китай</param>
+        <param name="Тип виробу">Тримачі</param>
+        <param name="Серія">AS-01</param>
+        <param name="Модель">AS-0101-1-01</param>
+        <param name="Розміри виробу (ВхШхГ)">30x22x42</param>
+        <param name="Ширина (мм)">22</param>
+        <param name="Глибина (мм)">42</param>
+        <param name="Висота (мм)">30</param>
+        <param name="Колір">Хром</param>
+        <param name="Поверхня">Глянцева</param>
+        <param name="Форма">Універсальна</param>
+        <param name="Тип конструкції">Одинарний гачок</param>
+        <param name="Матеріал комплектуючих">Нержавіюча сталь SUS304, цинковий сплав</param>
+        <param name="Матеріал">Нержавіюча сталь SUS 304</param>
+        <param name="Комплектація">Гачок, кріплення</param>
+        <param name="Гарантійний період (міс)">12</param>
       </offer>
       <offer id="40371001" available="false">
         <url>https://ol.partners/products/aksesuari-dlya-vannoi/trimachi-dlya-rushnikiv/podviyniy-trimach-dlya-rushnikiv-grohe-essentials-new-40371001</url>
@@ -71079,7 +71354,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/1a0345ac-8870-4e4e-bf6d-a9b2957257cf/image_06.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Насос поверхневий відцентровий Koer THF6С (KP2887)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KP2887</vendorCode>
@@ -71355,7 +71630,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/3b0370d5-0e14-4a2c-bbf1-8c85ec94176f/image_01.jpg</picture>
         <vendor>EUROPRODUCT</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Сталевий радіатор Europroduct 22 x 500 x 1100 (бокове підкл.) (EP4452)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>EP4452</vendorCode>
@@ -71489,7 +71764,28 @@
         <param name="Од. в упак.">10</param>
         <param name="Об'єм ящ.">0</param>
         <param name="Вага ящ.">0</param>
+        <param name="Глибина (мм)">91</param>
+        <param name="Діаметр (мм)">107</param>
+        <param name="Розміри виробу (ВхШхГ)">52x81x91</param>
+        <param name="Ширина (мм)">81</param>
+        <param name="Висота (мм)">52</param>
+        <param name="Країна виробник">Китай</param>
+        <param name="Тип виробу">Мильниці</param>
+        <param name="Вид виробу">Мильниця настінна</param>
+        <param name="Модель">AS-0102-01</param>
+        <param name="Серія">AS-01</param>
         <param name="Торгова марка">KOER</param>
+        <param name="Призначення">Для мила</param>
+        <param name="Країна бренду">Чехія</param>
+        <param name="Тип монтажу">Настінний</param>
+        <param name="Форма">Універсальна</param>
+        <param name="Поверхня">Глянцева</param>
+        <param name="Колір">Хром</param>
+        <param name="Гарантійний період (міс)">12</param>
+        <param name="Комплектація">Мильниця, тримач, кріплення</param>
+        <param name="Тип конструкції">Скляна чаша</param>
+        <param name="Матеріал">Нержавіюча сталь SUS 304</param>
+        <param name="Матеріал комплектуючих">Нержавіюча сталь SUS304, цинковий сплав, скло</param>
       </offer>
       <offer id="KR0105" available="true">
         <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/filtr-gruboi-ochistki/filtr-gruboi-ochistki-12-koer-krf01-kr0105</url>
@@ -72382,8 +72678,27 @@
         <param name="Од. в упак.">10</param>
         <param name="Об'єм ящ.">0</param>
         <param name="Вага ящ.">0</param>
+        <param name="Колір">Хром</param>
+        <param name="Поверхня">Глянцева</param>
+        <param name="Форма">Півкільце</param>
+        <param name="Модель">AS-0112-01</param>
+        <param name="Країна виробник">Китай</param>
+        <param name="Призначення">Для туалетного паперу</param>
+        <param name="Країна бренду">Чехія</param>
         <param name="Торгова марка">KOER</param>
+        <param name="Тип виробу">Тримачі</param>
         <param name="Вид виробу">Тримач для туалетного паперу з полицею</param>
+        <param name="Серія">AS-01</param>
+        <param name="Тип монтажу">Настінний</param>
+        <param name="Матеріал комплектуючих">Нержавіюча сталь SUS304, цинковий сплав</param>
+        <param name="Тип конструкції">Форма тримача півкільце з полицею</param>
+        <param name="Матеріал">Нержавіюча сталь SUS 304</param>
+        <param name="Глибина (мм)">80</param>
+        <param name="Висота (мм)">89</param>
+        <param name="Ширина (мм)">150</param>
+        <param name="Розміри виробу (ВхШхГ)">89x150x80</param>
+        <param name="Комплектація">Тримач для туалетного паперу, кріплення</param>
+        <param name="Гарантійний період (міс)">12</param>
       </offer>
       <offer id="MP6719" available="true">
         <url>https://ol.partners/products/keramika/rakovini/rakovina-pidvisnanakladna-mixxus-premium-quadro0204-600x420x130mm-otvir-pid-zmishuvach-pereliv-mp6719</url>
@@ -74433,7 +74748,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/aa3f0293-73f2-4528-89ab-791f80ce3b4b/image_02.jpg</picture>
         <vendor>MIXXUS</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Водонагрівач "Квадрат" Mixxus EWH-15080 CUBE DRY  накопичувальний 80 л, сухий тен 2,0 kW (WH0618)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>WH0618</vendorCode>
@@ -74851,7 +75166,28 @@
         <param name="Од. в упак.">10</param>
         <param name="Об'єм ящ.">0</param>
         <param name="Вага ящ.">0</param>
+        <param name="Матеріал комплектуючих">Нержавіюча сталь SUS304, цинковий сплав, скло</param>
+        <param name="Тип конструкції">Відкрита</param>
+        <param name="Матеріал">Нержавіюча сталь SUS 304</param>
         <param name="Торгова марка">KOER</param>
+        <param name="Тип монтажу">Настінний</param>
+        <param name="Вид виробу">Йоржик підвісний</param>
+        <param name="Країна виробник">Китай</param>
+        <param name="Модель">AS-0105-01</param>
+        <param name="Тип виробу">Йоржики</param>
+        <param name="Серія">AS-01</param>
+        <param name="Призначення">Для унітазу</param>
+        <param name="Країна бренду">Чехія</param>
+        <param name="Ширина (мм)">105</param>
+        <param name="Глибина (мм)">120</param>
+        <param name="Діаметр (мм)">93</param>
+        <param name="Розміри виробу (ВхШхГ)">375x105x120</param>
+        <param name="Висота (мм)">375</param>
+        <param name="Комплектація">Колба, йоржик, тримач, кріплення</param>
+        <param name="Гарантійний період (міс)">12</param>
+        <param name="Колір">Хром</param>
+        <param name="Поверхня">Глянцева</param>
+        <param name="Форма">Універсальна</param>
       </offer>
       <offer id="ZX5949" available="false">
         <url>https://ol.partners/products/aksesuari-dlya-vannoi/dzerkala-u-vannu/dzerkalo-nastinne-zerix-prime-mrz0745x60-pryamokutne-iz-zakruglenimi-kutami-zx5949</url>
@@ -76014,7 +76350,7 @@
         <param name="Поверхня">Матова</param>
         <param name="Форма">Кругла</param>
       </offer>
-      <offer id="RAD126" available="false">
+      <offer id="RAD126" available="true">
         <url>https://ol.partners/products/radiatori-opalennya/stalevi-radiatori/staleviy-radiator-33kh500kh1400s-koer-bok-pidklyuchennya-rad126</url>
         <price>10451.00</price>
         <currencyId>UAH</currencyId>
@@ -76026,8 +76362,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/3f0c2a5a-218b-4ef1-86fc-7f7c1f88d8c3/image_02_400-600_0.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/3f0c2a5a-218b-4ef1-86fc-7f7c1f88d8c3/image_05_400-600_0.jpg</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Сталевий радіатор 33х500х1400.S Koer (бок. підключення) (RAD126)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>RAD126</vendorCode>
@@ -80986,8 +81322,8 @@
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>MP6689</vendorCode>
         <param name="Од. в упак.">5</param>
-        <param name="Об'єм ящ.">0</param>
-        <param name="Вага ящ.">0</param>
+        <param name="Об'єм ящ.">0.089</param>
+        <param name="Вага ящ.">14.3</param>
         <param name="Кількість вантажних місць">1</param>
         <param name="Гарантійний період (міс)">24</param>
         <param name="Комплектація">Сидіння-кришка, кріплення</param>
@@ -81143,7 +81479,7 @@
         <param name="Матеріал кріплення">Метал</param>
         <param name="Покриття">Хром</param>
       </offer>
-      <offer id="RAD079" available="false">
+      <offer id="RAD079" available="true">
         <url>https://ol.partners/products/radiatori-opalennya/stalevi-radiatori/staleviy-radiator-22kh300kh1600s-koer-bok-pidklyuchennya-rad079</url>
         <price>5270.00</price>
         <currencyId>UAH</currencyId>
@@ -81155,8 +81491,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/bde8a29a-c09f-44c5-94f4-52f0330b7bfc/image_04_400-600_0.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/bde8a29a-c09f-44c5-94f4-52f0330b7bfc/image_03_RAD079.jpg</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Сталевий радіатор 22х300х1600.S Koer (бок. підключення) (RAD079)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>RAD079</vendorCode>
@@ -81260,7 +81596,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/519873ef-0df6-4754-a9fc-d7785ece5629/image_03_KF0019.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Муфта редукційна 1/2"х3/4" Koer KF.C0608 (KF0019)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KF0019</vendorCode>
@@ -82414,8 +82750,8 @@
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR5845</vendorCode>
         <param name="Од. в упак.">20</param>
-        <param name="Об'єм ящ.">0</param>
-        <param name="Вага ящ.">0</param>
+        <param name="Об'єм ящ.">0.043</param>
+        <param name="Вага ящ.">13.7</param>
         <param name="Модель">KR.1268</param>
         <param name="Країна бренду">Чехія</param>
         <param name="Тип виробу">Клапани</param>
@@ -82854,6 +83190,28 @@
         <param name="Об'єм ящ.">0</param>
         <param name="Вага ящ.">0</param>
         <param name="Торгова марка">KOER</param>
+        <param name="Модель">AS-0103-07</param>
+        <param name="Тип монтажу">Настінний</param>
+        <param name="Країна бренду">Чехія</param>
+        <param name="Вид виробу">Склянка з тримачем</param>
+        <param name="Серія">AS-01</param>
+        <param name="Призначення">Для зубних щіток</param>
+        <param name="Тип виробу">Склянки</param>
+        <param name="Країна виробник">Китай</param>
+        <param name="Колір">Графіт</param>
+        <param name="Поверхня">Матова</param>
+        <param name="Антипалець">Так</param>
+        <param name="Форма">Універсальна</param>
+        <param name="Діаметр (мм)">67</param>
+        <param name="Висота (мм)">95</param>
+        <param name="Ширина (мм)">81</param>
+        <param name="Глибина (мм)">91</param>
+        <param name="Розміри виробу (ВхШхГ)">95x81x91</param>
+        <param name="Матеріал комплектуючих">Нержавіюча сталь SUS304, цинковий сплав, скло</param>
+        <param name="Матеріал">Нержавіюча сталь SUS 304</param>
+        <param name="Тип конструкції">Склянка з тримачем</param>
+        <param name="Гарантійний період (міс)">12</param>
+        <param name="Комплектація">Склянка з тримачем, кріплення</param>
       </offer>
       <offer id="40421001" available="true">
         <url>https://ol.partners/products/aksesuari-dlya-vannoi/poruchni-dlya-vannoi/poruchen-dlya-vannoi-grohe-essentials-new-40421001</url>
@@ -83923,7 +84281,7 @@
         <param name="Вага (г)">136,00</param>
         <param name="Гарантійний період (міс)">84</param>
       </offer>
-      <offer id="RAD119" available="false">
+      <offer id="RAD119" available="true">
         <url>https://ol.partners/products/radiatori-opalennya/stalevi-radiatori/staleviy-radiator-33kh500kh700s-koer-bok-pidklyuchennya-rad119</url>
         <price>5616.00</price>
         <currencyId>UAH</currencyId>
@@ -83935,8 +84293,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/9fc9fdd6-df34-4f07-9cad-aa6f77390a39/image_02_400-600_0.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/9fc9fdd6-df34-4f07-9cad-aa6f77390a39/image_05_400-600_0.jpg</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Сталевий радіатор 33х500х700.S Koer (бок. підключення) (RAD119)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>RAD119</vendorCode>
@@ -86301,8 +86659,28 @@
         <param name="Од. в упак.">10</param>
         <param name="Об'єм ящ.">0</param>
         <param name="Вага ящ.">0</param>
+        <param name="Гарантійний період (міс)">12</param>
+        <param name="Комплектація">Тримач для туалетного паперу, кріплення</param>
         <param name="Вид виробу">Тримач для туалетного паперу з полицею</param>
+        <param name="Тип виробу">Тримачі</param>
+        <param name="Серія">AS-01</param>
         <param name="Торгова марка">KOER</param>
+        <param name="Країна виробник">Китай</param>
+        <param name="Модель">AS-0112-07</param>
+        <param name="Країна бренду">Чехія</param>
+        <param name="Тип монтажу">Настінний</param>
+        <param name="Призначення">Для туалетного паперу</param>
+        <param name="Глибина (мм)">80</param>
+        <param name="Ширина (мм)">150</param>
+        <param name="Розміри виробу (ВхШхГ)">89x150x80</param>
+        <param name="Висота (мм)">89</param>
+        <param name="Форма">Півкільце</param>
+        <param name="Колір">Графіт</param>
+        <param name="Антипалець">Так</param>
+        <param name="Поверхня">Матова</param>
+        <param name="Матеріал комплектуючих">Нержавіюча сталь SUS304, цинковий сплав</param>
+        <param name="Тип конструкції">Форма тримача півкільце з полицею</param>
+        <param name="Матеріал">Нержавіюча сталь SUS 304</param>
       </offer>
       <offer id="WH0610" available="true">
         <url>https://ol.partners/products/boyleri/vodonagrivach-tsilindr-mixxus-ewh08100-round-dry-nakopichuvalniy-100-l-sukhiy-ten-2-kw-wh0610</url>
@@ -88947,6 +89325,27 @@
         <param name="Об'єм ящ.">0</param>
         <param name="Вага ящ.">0</param>
         <param name="Торгова марка">KOER</param>
+        <param name="Країна виробник">Китай</param>
+        <param name="Вид виробу">Тримач для паперових рушників</param>
+        <param name="Тип виробу">Тримачі</param>
+        <param name="Модель">AS-0108-12</param>
+        <param name="Призначення">Для паперових рушників</param>
+        <param name="Серія">AS-01</param>
+        <param name="Тип монтажу">Настінний</param>
+        <param name="Країна бренду">Чехія</param>
+        <param name="Форма">Півкільце</param>
+        <param name="Колір">Золото матове</param>
+        <param name="Антипалець">Так</param>
+        <param name="Поверхня">Брашована</param>
+        <param name="Висота (мм)">133</param>
+        <param name="Розміри виробу (ВхШхГ)">133x189x130</param>
+        <param name="Ширина (мм)">189</param>
+        <param name="Глибина (мм)">130</param>
+        <param name="Матеріал комплектуючих">Нержавіюча сталь SUS304, цинковий сплав</param>
+        <param name="Матеріал">Нержавіюча сталь SUS 304</param>
+        <param name="Тип конструкції">Форма тримача півкільце</param>
+        <param name="Комплектація">Тримач для паперових рушників, кріплення</param>
+        <param name="Гарантійний період (міс)">12</param>
       </offer>
       <offer id="CH6146" available="false">
         <url>https://ol.partners/products/sifoni-trapi-dlya-dushu/zlivni-trapi/dushoviy-trap-iz-nerzhaviyuchoi-stali-champion-drain0110x10180-100x100mm-pryame-vidvedennya-ch6146</url>
@@ -92299,7 +92698,29 @@
         <param name="Од. в упак.">10</param>
         <param name="Об'єм ящ.">0</param>
         <param name="Вага ящ.">0</param>
+        <param name="Вид виробу">Мильниця настінна</param>
+        <param name="Країна бренду">Чехія</param>
+        <param name="Тип виробу">Мильниці</param>
         <param name="Торгова марка">KOER</param>
+        <param name="Призначення">Для мила</param>
+        <param name="Серія">AS-01</param>
+        <param name="Країна виробник">Китай</param>
+        <param name="Модель">AS-0102-07</param>
+        <param name="Тип монтажу">Настінний</param>
+        <param name="Матеріал комплектуючих">Нержавіюча сталь SUS304, цинковий сплав, скло</param>
+        <param name="Тип конструкції">Скляна чаша</param>
+        <param name="Матеріал">Нержавіюча сталь SUS 304</param>
+        <param name="Антипалець">Так</param>
+        <param name="Форма">Універсальна</param>
+        <param name="Колір">Графіт</param>
+        <param name="Поверхня">Матова</param>
+        <param name="Висота (мм)">52</param>
+        <param name="Ширина (мм)">81</param>
+        <param name="Глибина (мм)">91</param>
+        <param name="Діаметр (мм)">107</param>
+        <param name="Розміри виробу (ВхШхГ)">52x81x91</param>
+        <param name="Комплектація">Мильниця, тримач, кріплення</param>
+        <param name="Гарантійний період (міс)">12</param>
       </offer>
       <offer id="KR5758" available="true">
         <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/krani/krani-kulovi/kran-kuloviy-ggm-koer-extreme-ke21725-1-ff-ruchka-metelik-chervona-kr5758</url>
@@ -97153,8 +97574,8 @@
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>ZX6101</vendorCode>
         <param name="Од. в упак.">24</param>
-        <param name="Об'єм ящ.">0</param>
-        <param name="Вага ящ.">0</param>
+        <param name="Об'єм ящ.">0.116</param>
+        <param name="Вага ящ.">9.9</param>
         <param name="Гарантійний період (міс)">12</param>
         <param name="Умови експлуатації та догляд">Виріб призначений для використання лише у побутових умовах. Не перевантажуйте штангу.</param>
         <param name="Комплектація">Штанга, запакована у блістер з тримачем</param>
@@ -97644,7 +98065,29 @@
         <param name="Од. в упак.">10</param>
         <param name="Об'єм ящ.">0</param>
         <param name="Вага ящ.">0</param>
+        <param name="Модель">AS-0105-05</param>
+        <param name="Тип монтажу">Настінний</param>
+        <param name="Призначення">Для унітазу</param>
+        <param name="Країна бренду">Чехія</param>
         <param name="Торгова марка">KOER</param>
+        <param name="Тип виробу">Йоржики</param>
+        <param name="Серія">AS-01</param>
+        <param name="Країна виробник">Китай</param>
+        <param name="Вид виробу">Йоржик підвісний</param>
+        <param name="Антипалець">Так</param>
+        <param name="Поверхня">Матова</param>
+        <param name="Колір">Чорний матовий</param>
+        <param name="Форма">Універсальна</param>
+        <param name="Тип конструкції">Відкрита</param>
+        <param name="Матеріал комплектуючих">Нержавіюча сталь SUS304, цинковий сплав, скло</param>
+        <param name="Матеріал">Нержавіюча сталь SUS 304</param>
+        <param name="Висота (мм)">375</param>
+        <param name="Діаметр (мм)">93</param>
+        <param name="Розміри виробу (ВхШхГ)">375x105x120</param>
+        <param name="Ширина (мм)">105</param>
+        <param name="Глибина (мм)">120</param>
+        <param name="Комплектація">Колба, йоржик, тримач, кріплення</param>
+        <param name="Гарантійний період (міс)">12</param>
       </offer>
       <offer id="KR3070" available="true">
         <url>https://ol.partners/products/radiatori-opalennya/komplektuyuchi-do-radiatoriv/termogolovka-ta-kran-termostatichniy/kran-termostatichniy-s-popered-nalasht-koer-kr953gi-12-pryamiy-z-sisantiprotikannya-kr3070</url>
@@ -100503,7 +100946,28 @@
         <param name="Од. в упак.">10</param>
         <param name="Об'єм ящ.">0</param>
         <param name="Вага ящ.">0</param>
+        <param name="Матеріал">Нержавіюча сталь SUS 304</param>
+        <param name="Тип конструкції">Форма тримача півкільце</param>
+        <param name="Матеріал комплектуючих">Нержавіюча сталь SUS304, цинковий сплав</param>
+        <param name="Ширина (мм)">189</param>
+        <param name="Розміри виробу (ВхШхГ)">133x189x130</param>
+        <param name="Висота (мм)">133</param>
+        <param name="Глибина (мм)">130</param>
         <param name="Торгова марка">KOER</param>
+        <param name="Модель">AS-0108-05</param>
+        <param name="Тип монтажу">Настінний</param>
+        <param name="Країна виробник">Китай</param>
+        <param name="Тип виробу">Тримачі</param>
+        <param name="Вид виробу">Тримач для паперових рушників</param>
+        <param name="Серія">AS-01</param>
+        <param name="Призначення">Для паперових рушників</param>
+        <param name="Країна бренду">Чехія</param>
+        <param name="Колір">Чорний матовий</param>
+        <param name="Антипалець">Так</param>
+        <param name="Форма">Півкільце</param>
+        <param name="Поверхня">Матова</param>
+        <param name="Гарантійний період (міс)">12</param>
+        <param name="Комплектація">Тримач для паперових рушників, кріплення</param>
       </offer>
       <offer id="MI8327" available="false">
         <url>https://ol.partners/products/keramika/bachki-dlya-unitazu/bachok-do-unitazukompaktu-mixxus-premium-bevel0402r-tank-670kh390kh880-zi-zlivnoyu-armaturoyu-mi8327</url>
@@ -101557,8 +102021,8 @@
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR6121</vendorCode>
         <param name="Од. в упак.">10</param>
-        <param name="Об'єм ящ.">0</param>
-        <param name="Вага ящ.">0</param>
+        <param name="Об'єм ящ.">0.031</param>
+        <param name="Вага ящ.">6.2</param>
         <param name="Вид виробу">Панель змиву для механічної інсталяції</param>
         <param name="Країна бренду">Чехія</param>
         <param name="Призначення">Для інсталяції</param>
@@ -101931,7 +102395,27 @@
         <param name="Од. в упак.">10</param>
         <param name="Об'єм ящ.">0</param>
         <param name="Вага ящ.">0</param>
+        <param name="Призначення">Для рушника</param>
+        <param name="Країна бренду">Чехія</param>
         <param name="Торгова марка">KOER</param>
+        <param name="Країна виробник">Китай</param>
+        <param name="Модель">AS-0109-1-01</param>
+        <param name="Вид виробу">Тримач для рушника</param>
+        <param name="Тип виробу">Тримачі</param>
+        <param name="Серія">AS-01</param>
+        <param name="Тип монтажу">Настінний</param>
+        <param name="Тип конструкції">Фіксована (1 планка)</param>
+        <param name="Матеріал комплектуючих">Нержавіюча сталь SUS304, цинковий сплав</param>
+        <param name="Матеріал">Нержавіюча сталь SUS 304</param>
+        <param name="Розміри виробу (ВхШхГ)">32x647x70</param>
+        <param name="Висота (мм)">32</param>
+        <param name="Ширина (мм)">647</param>
+        <param name="Глибина (мм)">70</param>
+        <param name="Комплектація">Тримач для рушників, кріплення</param>
+        <param name="Гарантійний період (міс)">12</param>
+        <param name="Колір">Хром</param>
+        <param name="Форма">Планка</param>
+        <param name="Поверхня">Глянцева</param>
       </offer>
       <offer id="EP4978" available="true">
         <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/kolektori/kolektorniy-blok-z-vitratomirami-europroduct-eps111002-1-x2-ep4978</url>
@@ -108530,7 +109014,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/6c528af3-1e05-48f2-8197-a5511f54523a/image_01_400-600_0.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Сталевий радіатор 11х500х1000.S KOER (бок. підключення) (RAD238)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>RAD238</vendorCode>
@@ -113241,7 +113725,29 @@
         <param name="Од. в упак.">10</param>
         <param name="Об'єм ящ.">0</param>
         <param name="Вага ящ.">0</param>
+        <param name="Антипалець">Так</param>
+        <param name="Колір">Графіт</param>
+        <param name="Поверхня">Матова</param>
+        <param name="Форма">Універсальна</param>
+        <param name="Комплектація">Колба, йоржик, тримач, кріплення</param>
+        <param name="Гарантійний період (міс)">12</param>
+        <param name="Призначення">Для унітазу</param>
         <param name="Торгова марка">KOER</param>
+        <param name="Тип монтажу">Настінний</param>
+        <param name="Серія">AS-01</param>
+        <param name="Країна бренду">Чехія</param>
+        <param name="Модель">AS-0105-07</param>
+        <param name="Вид виробу">Йоржик підвісний</param>
+        <param name="Країна виробник">Китай</param>
+        <param name="Тип виробу">Йоржики</param>
+        <param name="Ширина (мм)">105</param>
+        <param name="Висота (мм)">375</param>
+        <param name="Діаметр (мм)">93</param>
+        <param name="Глибина (мм)">120</param>
+        <param name="Розміри виробу (ВхШхГ)">375x105x120</param>
+        <param name="Тип конструкції">Відкрита</param>
+        <param name="Матеріал">Нержавіюча сталь SUS 304</param>
+        <param name="Матеріал комплектуючих">Нержавіюча сталь SUS304, цинковий сплав, скло</param>
       </offer>
       <offer id="KR3177" available="true">
         <url>https://ol.partners/products/radiatori-opalennya/komplektuyuchi-do-radiatoriv/komplekt-radiatorniy/komplekt-dlya-pidklyuchennya-radiatora-koer-set12-12x12-pryamiy-z-termogolovkoyu-vz-kr3177</url>
@@ -113987,7 +114493,7 @@
         <param name="Тип з'єднання">Різьбовий</param>
         <param name="Діаметр підключення (дюйм)">1/2</param>
       </offer>
-      <offer id="RAD124" available="false">
+      <offer id="RAD124" available="true">
         <url>https://ol.partners/products/radiatori-opalennya/stalevi-radiatori/staleviy-radiator-33kh500kh1200s-koer-bok-pidklyuchennya-rad124</url>
         <price>9034.00</price>
         <currencyId>UAH</currencyId>
@@ -113999,8 +114505,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/a60bc974-732d-40e7-a340-2cc536f3c0d9/image_04_400-600_0.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/a60bc974-732d-40e7-a340-2cc536f3c0d9/image_02_400-600_0.jpg</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Сталевий радіатор 33х500х1200.S Koer (бок. підключення) (RAD124)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>RAD124</vendorCode>
@@ -116061,7 +116567,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/9524ca69-88d0-467f-bb9a-ebdaa5a1a2ae/image_04.jpg</picture>
         <vendor>MIXXUS</vendor>
         <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Газова колонка MIXXUS GWH-0110 BASIC WHITE димохідна 10 л/хв (колір білий) (WH0022)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>WH0022</vendorCode>
@@ -116885,7 +117391,28 @@
         <param name="Од. в упак.">20</param>
         <param name="Об'єм ящ.">0</param>
         <param name="Вага ящ.">0</param>
+        <param name="Антипалець">Так</param>
+        <param name="Форма">Універсальна</param>
+        <param name="Колір">Графіт</param>
+        <param name="Поверхня">Матова</param>
+        <param name="Країна виробник">Китай</param>
+        <param name="Серія">AS-01</param>
+        <param name="Країна бренду">Чехія</param>
+        <param name="Тип виробу">Тримачі</param>
+        <param name="Призначення">Для підвішування халата та рушника</param>
+        <param name="Вид виробу">Гачок</param>
+        <param name="Тип монтажу">Настінний</param>
+        <param name="Модель">AS-0101-2-07</param>
         <param name="Торгова марка">KOER</param>
+        <param name="Глибина (мм)">37</param>
+        <param name="Висота (мм)">21</param>
+        <param name="Розміри виробу (ВхШхГ)">21x66x37</param>
+        <param name="Ширина (мм)">66</param>
+        <param name="Матеріал комплектуючих">Нержавіюча сталь SUS304, цинковий сплав</param>
+        <param name="Тип конструкції">Подвійний гачок</param>
+        <param name="Матеріал">Нержавіюча сталь SUS 304</param>
+        <param name="Гарантійний період (міс)">12</param>
+        <param name="Комплектація">Гачок, кріплення</param>
       </offer>
       <offer id="KF0105" available="false">
         <url>https://ol.partners/products/truboprovodi-ta-zyednannya/fitingi/rizbovi-zyednannya/podovzhuvach-34-15mm-khrom-koer-kfe0815chr-kf0105</url>
@@ -118451,7 +118978,7 @@
         <param name="Максимальна температура робочої рідини (°C)">110</param>
         <param name="Особливості">Різьблення під термостатичну головку М30?1,5; Діапазон регулювання термостатичної головки: 6-28 °C</param>
       </offer>
-      <offer id="RAD120" available="false">
+      <offer id="RAD120" available="true">
         <url>https://ol.partners/products/radiatori-opalennya/stalevi-radiatori/staleviy-radiator-33kh500kh800s-koer-bok-pidklyuchennya-rad120</url>
         <price>6185.00</price>
         <currencyId>UAH</currencyId>
@@ -118463,8 +118990,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/631f300d-e745-45f8-9a32-7ce98d79eb41/image_05_400-600_0.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/631f300d-e745-45f8-9a32-7ce98d79eb41/image_02_400-600_0.jpg</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Сталевий радіатор 33х500х800.S Koer (бок. підключення) (RAD120)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>RAD120</vendorCode>
@@ -123455,7 +123982,28 @@
         <param name="Од. в упак.">10</param>
         <param name="Об'єм ящ.">0</param>
         <param name="Вага ящ.">0</param>
+        <param name="Вид виробу">Тримач для рушника</param>
+        <param name="Країна виробник">Китай</param>
+        <param name="Призначення">Для рушника</param>
+        <param name="Тип виробу">Тримачі</param>
+        <param name="Модель">AS-0109-1-12</param>
         <param name="Торгова марка">KOER</param>
+        <param name="Тип монтажу">Настінний</param>
+        <param name="Країна бренду">Чехія</param>
+        <param name="Серія">AS-01</param>
+        <param name="Комплектація">Тримач для рушників, кріплення</param>
+        <param name="Гарантійний період (міс)">12</param>
+        <param name="Матеріал">Нержавіюча сталь SUS 304</param>
+        <param name="Матеріал комплектуючих">Нержавіюча сталь SUS304, цинковий сплав</param>
+        <param name="Тип конструкції">Фіксована (1 планка)</param>
+        <param name="Висота (мм)">32</param>
+        <param name="Глибина (мм)">70</param>
+        <param name="Ширина (мм)">647</param>
+        <param name="Розміри виробу (ВхШхГ)">32x647x70</param>
+        <param name="Колір">Золото матове</param>
+        <param name="Поверхня">Брашована</param>
+        <param name="Антипалець">Так</param>
+        <param name="Форма">Планка</param>
       </offer>
       <offer id="AC0659" available="true">
         <url>https://ol.partners/products/sifoni-trapi-dlya-dushu/zlivni-trapi/dushoviy-trap-z-nerzhaviyuchoi-stali-sus304-koer-fd3570x700graphite-ac0659</url>
@@ -124157,7 +124705,7 @@
         <param name="Поверхня">Глянцева</param>
         <param name="Колір">Білий</param>
       </offer>
-      <offer id="RAD077" available="false">
+      <offer id="RAD077" available="true">
         <url>https://ol.partners/products/radiatori-opalennya/stalevi-radiatori/staleviy-radiator-22kh300kh1400s-koer-bok-pidklyuchennya-rad077</url>
         <price>4665.00</price>
         <currencyId>UAH</currencyId>
@@ -124169,8 +124717,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/0a653b1e-e538-4e22-aac7-79cb5a53a78c/image_02_400-600_0.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/0a653b1e-e538-4e22-aac7-79cb5a53a78c/image_01_400-600_.jpg</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Сталевий радіатор 22х300х1400.S Koer (бок. підключення) (RAD077)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>RAD077</vendorCode>
@@ -126863,7 +127411,7 @@
         <param name="Поверхня">Глянцева</param>
         <param name="Форма">Конусна</param>
       </offer>
-      <offer id="RAD233" available="false">
+      <offer id="RAD233" available="true">
         <url>https://ol.partners/products/radiatori-opalennya/stalevi-radiatori/staleviy-radiator-11kh500kh500s-koer-bok-pidklyuchennya-rad233</url>
         <price>1939.00</price>
         <currencyId>UAH</currencyId>
@@ -126874,8 +127422,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/20cbd392-7660-4de6-8bf5-a397c2eed095/image_02_400-600_0.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/20cbd392-7660-4de6-8bf5-a397c2eed095/image_03_400-600_0.jpg</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Сталевий радіатор 11х500х500.S Koer (бок. підключення) (RAD233)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>RAD233</vendorCode>
@@ -126970,7 +127518,30 @@
         <param name="Од. в упак.">10</param>
         <param name="Об'єм ящ.">0</param>
         <param name="Вага ящ.">0</param>
+        <param name="Матеріал комплектуючих">Нержавіюча сталь SUS304, цинковий сплав, скло</param>
+        <param name="Матеріал">Нержавіюча сталь SUS 304</param>
+        <param name="Тип конструкції">Кільцевий утримувач: колба вставляється у металеве кільце-кронштейн</param>
+        <param name="Форма">Універсальна</param>
+        <param name="Антипалець">Так</param>
+        <param name="Поверхня">Брашована</param>
+        <param name="Колір">Золото матове</param>
+        <param name="Об'єм (л)">0,20</param>
+        <param name="Висота (мм)">161</param>
+        <param name="Розміри виробу (ВхШхГ)">161x81x91</param>
+        <param name="Діаметр (мм)">65</param>
+        <param name="Глибина (мм)">91</param>
+        <param name="Ширина (мм)">81</param>
+        <param name="Країна виробник">Китай</param>
+        <param name="Модель">AS-0104-12</param>
+        <param name="Призначення">Для мила</param>
+        <param name="Тип виробу">Дозатори для рідкого мила</param>
+        <param name="Вид виробу">Дозатор для рідкого мила настінний</param>
+        <param name="Тип монтажу">Настінний</param>
+        <param name="Країна бренду">Чехія</param>
+        <param name="Серія">AS-01</param>
         <param name="Торгова марка">KOER</param>
+        <param name="Гарантійний період (міс)">12</param>
+        <param name="Комплектація">Дозатор з тримачем, кріплення, інструкція</param>
       </offer>
       <offer id="31455001" available="false">
         <url>https://ol.partners/products/filtri-ochischennya-vodi/protochni-filtri-vodi/sistema-filtriv-dlya-pitnoi-vodi-zi-zmishuvachem-grohe-blue-home-connected-31455001</url>
@@ -131239,7 +131810,7 @@
         <param name="Колір">Сірий</param>
       </offer>
       <offer id="KR6191" available="true">
-        <url>https://ol.partners/products/aksesuari-dlya-vannoi/politsi-u-vannu/politsya-universalna-z-trimachem-rushnika-koer-as011101-648kh247mm-kolir-khrom-glyanets-kr6191</url>
+        <url>https://ol.partners/products/aksesuari-dlya-vannoi/politsi-u-vannu/politsya-universalna-koer-as011101-z-trimachem-rushnika-648kh247mm-kolir-khrom-glyanets-kr6191</url>
         <price>6992.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>98cef2a4-d106-4da2-9b4c-f8e66696fd13</categoryId>
@@ -131286,7 +131857,27 @@
         <param name="Од. в упак.">4</param>
         <param name="Об'єм ящ.">0</param>
         <param name="Вага ящ.">0</param>
+        <param name="Глибина (мм)">248</param>
+        <param name="Ширина (мм)">647</param>
+        <param name="Розміри виробу (ВхШхГ)">72x647x248</param>
+        <param name="Висота (мм)">72</param>
+        <param name="Матеріал">Нержавіюча сталь SUS 304</param>
+        <param name="Тип конструкції">Решітка з нижнім тримачем</param>
+        <param name="Матеріал комплектуючих">Нержавіюча сталь SUS304, цинковий сплав</param>
+        <param name="Країна бренду">Чехія</param>
+        <param name="Серія">AS-01</param>
+        <param name="Призначення">Для зберігання приладдя для ванної кімнати</param>
+        <param name="Тип виробу">Полиці</param>
+        <param name="Модель">AS-0111-01</param>
+        <param name="Вид виробу">Полиця універсальна з тримачем рушника</param>
+        <param name="Країна виробник">Китай</param>
+        <param name="Тип монтажу">Настінний</param>
         <param name="Торгова марка">KOER</param>
+        <param name="Колір">Хром</param>
+        <param name="Форма">Решітка</param>
+        <param name="Поверхня">Глянцева</param>
+        <param name="Комплектація">Полиця з тримачем рушника, кріплення</param>
+        <param name="Гарантійний період (міс)">12</param>
       </offer>
       <offer id="WP0105" available="false">
         <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/krani/krani-kulovi/kran-kuloviy-sk-1-14-ggr-bn-art-602-wp0105</url>
@@ -131754,7 +132345,28 @@
         <param name="Од. в упак.">20</param>
         <param name="Об'єм ящ.">0</param>
         <param name="Вага ящ.">0</param>
+        <param name="Тип монтажу">Настінний</param>
+        <param name="Вид виробу">Гачок</param>
+        <param name="Країна бренду">Чехія</param>
+        <param name="Тип виробу">Тримачі</param>
+        <param name="Країна виробник">Китай</param>
         <param name="Торгова марка">KOER</param>
+        <param name="Серія">AS-01</param>
+        <param name="Призначення">Для підвішування халата та рушника</param>
+        <param name="Модель">AS-0101-2-12</param>
+        <param name="Тип конструкції">Подвійний гачок</param>
+        <param name="Матеріал">Нержавіюча сталь SUS 304</param>
+        <param name="Матеріал комплектуючих">Нержавіюча сталь SUS304, цинковий сплав</param>
+        <param name="Гарантійний період (міс)">12</param>
+        <param name="Комплектація">Гачок, кріплення</param>
+        <param name="Поверхня">Брашована</param>
+        <param name="Форма">Універсальна</param>
+        <param name="Колір">Золото матове</param>
+        <param name="Антипалець">Так</param>
+        <param name="Ширина (мм)">66</param>
+        <param name="Глибина (мм)">37</param>
+        <param name="Висота (мм)">21</param>
+        <param name="Розміри виробу (ВхШхГ)">21x66x37</param>
       </offer>
       <offer id="KR0054" available="false">
         <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/krani/krani-kulovi/kran-kuloviy-koer-1-gshb-gaz-kr518prgas-kr0054</url>
@@ -132621,7 +133233,29 @@
         <param name="Од. в упак.">10</param>
         <param name="Об'єм ящ.">0</param>
         <param name="Вага ящ.">0</param>
+        <param name="Вид виробу">Мильниця настінна</param>
+        <param name="Тип виробу">Мильниці</param>
+        <param name="Країна бренду">Чехія</param>
+        <param name="Країна виробник">Китай</param>
+        <param name="Тип монтажу">Настінний</param>
+        <param name="Модель">AS-0102-05</param>
+        <param name="Призначення">Для мила</param>
+        <param name="Серія">AS-01</param>
         <param name="Торгова марка">KOER</param>
+        <param name="Матеріал">Нержавіюча сталь SUS 304</param>
+        <param name="Тип конструкції">Скляна чаша</param>
+        <param name="Матеріал комплектуючих">Нержавіюча сталь SUS304, цинковий сплав, скло</param>
+        <param name="Гарантійний період (міс)">12</param>
+        <param name="Комплектація">Мильниця, тримач, кріплення</param>
+        <param name="Поверхня">Матова</param>
+        <param name="Колір">Чорний матовий</param>
+        <param name="Форма">Універсальна</param>
+        <param name="Антипалець">Так</param>
+        <param name="Глибина (мм)">91</param>
+        <param name="Ширина (мм)">81</param>
+        <param name="Розміри виробу (ВхШхГ)">52x81x91</param>
+        <param name="Діаметр (мм)">107</param>
+        <param name="Висота (мм)">52</param>
       </offer>
       <offer id="22034000" available="false">
         <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/krani/kran-dlya-pidklyuchennya-santekhpriboriv/kutoviy-ventil-grohe-22034000</url>
@@ -135787,7 +136421,7 @@
         <param name="Висота (мм)">35</param>
         <param name="Ширина (мм)">365</param>
       </offer>
-      <offer id="RAD059" available="false">
+      <offer id="RAD059" available="true">
         <url>https://ol.partners/products/radiatori-opalennya/stalevi-radiatori/staleviy-radiator-22kh500kh1100s-koer-bok-pidklyuchennya-rad059</url>
         <price>4820.00</price>
         <currencyId>UAH</currencyId>
@@ -135799,8 +136433,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/e7458e7b-9e61-451e-a367-b74bcb9b297f/image_01_400-600_0.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/e7458e7b-9e61-451e-a367-b74bcb9b297f/image_02_400-600_0.jpg</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Сталевий радіатор 22х500х1100.S Koer (бок. підключення) (RAD059)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>RAD059</vendorCode>
@@ -138745,7 +139379,28 @@
         <param name="Од. в упак.">10</param>
         <param name="Об'єм ящ.">0</param>
         <param name="Вага ящ.">0</param>
+        <param name="Тип конструкції">Форма тримача півкільце</param>
+        <param name="Матеріал">Нержавіюча сталь SUS 304</param>
+        <param name="Матеріал комплектуючих">Нержавіюча сталь SUS304, цинковий сплав</param>
+        <param name="Тип виробу">Тримачі</param>
+        <param name="Вид виробу">Тримач для туалетного паперу</param>
+        <param name="Країна бренду">Чехія</param>
+        <param name="Модель">AS-0107-05</param>
+        <param name="Країна виробник">Китай</param>
+        <param name="Призначення">Для туалетного паперу</param>
         <param name="Торгова марка">KOER</param>
+        <param name="Тип монтажу">Настінний</param>
+        <param name="Серія">AS-01</param>
+        <param name="Гарантійний період (міс)">12</param>
+        <param name="Комплектація">Тримач для туалетного паперу, кріплення</param>
+        <param name="Глибина (мм)">80</param>
+        <param name="Висота (мм)">83</param>
+        <param name="Розміри виробу (ВхШхГ)">83x141x80</param>
+        <param name="Ширина (мм)">141</param>
+        <param name="Колір">Чорний матовий</param>
+        <param name="Поверхня">Матова</param>
+        <param name="Форма">Півкільце</param>
+        <param name="Антипалець">Так</param>
       </offer>
       <offer id="KP2972" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/drenazhni-nasosi/nasos-drenazhniy-koer-kdp550-combi-kp2972</url>
@@ -139567,7 +140222,28 @@
         <param name="Од. в упак.">20</param>
         <param name="Об'єм ящ.">0</param>
         <param name="Вага ящ.">0</param>
+        <param name="Форма">Універсальна</param>
+        <param name="Колір">Чорний матовий</param>
+        <param name="Поверхня">Матова</param>
+        <param name="Антипалець">Так</param>
+        <param name="Країна виробник">Китай</param>
+        <param name="Тип монтажу">Настінний</param>
+        <param name="Країна бренду">Чехія</param>
         <param name="Торгова марка">KOER</param>
+        <param name="Модель">AS-0101-1-05</param>
+        <param name="Серія">AS-01</param>
+        <param name="Тип виробу">Тримачі</param>
+        <param name="Призначення">Для підвішування халата та рушника</param>
+        <param name="Вид виробу">Гачок</param>
+        <param name="Матеріал комплектуючих">Нержавіюча сталь SUS304, цинковий сплав</param>
+        <param name="Матеріал">Нержавіюча сталь SUS 304</param>
+        <param name="Тип конструкції">Одинарний гачок</param>
+        <param name="Розміри виробу (ВхШхГ)">30x22x42</param>
+        <param name="Висота (мм)">30</param>
+        <param name="Глибина (мм)">42</param>
+        <param name="Ширина (мм)">22</param>
+        <param name="Комплектація">Гачок, кріплення</param>
+        <param name="Гарантійний період (міс)">12</param>
       </offer>
       <offer id="KR3250" available="true">
         <url>https://ol.partners/products/truboprovodi-ta-zyednannya/trubi/polipropilenovi-trubi-ppr/truba-koer-ppr-pn20-l-2m-20kh34-kr3250</url>
@@ -142432,7 +143108,27 @@
         <param name="Од. в упак.">10</param>
         <param name="Об'єм ящ.">0</param>
         <param name="Вага ящ.">0</param>
+        <param name="Висота (мм)">83</param>
+        <param name="Розміри виробу (ВхШхГ)">83x141x80</param>
+        <param name="Ширина (мм)">141</param>
+        <param name="Глибина (мм)">80</param>
+        <param name="Серія">AS-01</param>
+        <param name="Вид виробу">Тримач для туалетного паперу</param>
+        <param name="Країна бренду">Чехія</param>
+        <param name="Модель">AS-0107-01</param>
+        <param name="Тип виробу">Тримачі</param>
+        <param name="Країна виробник">Китай</param>
+        <param name="Тип монтажу">Настінний</param>
         <param name="Торгова марка">KOER</param>
+        <param name="Призначення">Для туалетного паперу</param>
+        <param name="Гарантійний період (міс)">12</param>
+        <param name="Комплектація">Тримач для туалетного паперу, кріплення</param>
+        <param name="Тип конструкції">Форма тримача півкільце</param>
+        <param name="Матеріал">Нержавіюча сталь SUS 304</param>
+        <param name="Матеріал комплектуючих">Нержавіюча сталь SUS304, цинковий сплав</param>
+        <param name="Поверхня">Глянцева</param>
+        <param name="Колір">Хром</param>
+        <param name="Форма">Півкільце</param>
       </offer>
       <offer id="MP6489" available="true">
         <url>https://ol.partners/products/keramika/rakovini/umivalnik-nakladniy-keramichniy-mixxus-premium-topper0101-355x355x120mm-mp6489</url>
@@ -146220,7 +146916,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/d0648557-3635-4d05-8321-0d0bdf0ff270/image_01_400-600_0.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Сталевий радіатор 22х500х700.S Koer (бок. підключення) (RAD055)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>RAD055</vendorCode>
@@ -146414,7 +147110,7 @@
         <param name="Тип приєднання">Різьбове</param>
         <param name="Робочий тиск (бар)">до 10</param>
       </offer>
-      <offer id="RAD241" available="false">
+      <offer id="RAD241" available="true">
         <url>https://ol.partners/products/radiatori-opalennya/stalevi-radiatori/staleviy-radiator-11kh500kh1400s-koer-bok-pidklyuchennya-rad241</url>
         <price>4242.00</price>
         <currencyId>UAH</currencyId>
@@ -146425,8 +147121,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/57ca3d80-9602-4932-b5e9-a206167fbc6e/image_04_400-600_0.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/57ca3d80-9602-4932-b5e9-a206167fbc6e/image_01_400-600_0.jpg</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Сталевий радіатор 11х500х1400.S Koer (бок. підключення) (RAD241)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>RAD241</vendorCode>
@@ -146878,7 +147574,7 @@
         <param name="Колір">Синій</param>
         <param name="Покриття">Тефлон</param>
       </offer>
-      <offer id="MI7156" available="true">
+      <offer id="MI7156" available="false">
         <url>https://ol.partners/products/aksesuari-dlya-vannoi/dozator-dlya-ridkogo-mila/dozator-dlya-miynogo-zasobu-vrizniy-mixxus-dis03sus-graphite-z-nerzhstali-sus304-300-ml-grafit-mi7156</url>
         <price>656.00</price>
         <currencyId>UAH</currencyId>
@@ -146886,8 +147582,8 @@
         <picture>https://ol.partners/Products/Photo/A5D5268D-75D4-44F1-90D9-4BDFA8BBB58A</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/5cd3104e-8fae-4e5e-8a81-64db454ca3b1/image_01.jpg</picture>
         <vendor>MIXXUS</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Дозатор для мийного засобу врізний Mixxus DIS-03.SUS Graphite з нерж.сталі SUS304 300 мл (графіт) (MI7156)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>MI7156</vendorCode>
@@ -148048,7 +148744,29 @@
         <param name="Од. в упак.">10</param>
         <param name="Об'єм ящ.">0</param>
         <param name="Вага ящ.">0</param>
+        <param name="Матеріал">Нержавіюча сталь SUS 304</param>
+        <param name="Тип конструкції">Кільцевий утримувач: колба вставляється у металеве кільце-кронштейн</param>
+        <param name="Матеріал комплектуючих">Нержавіюча сталь SUS304, цинковий сплав, скло</param>
+        <param name="Об'єм (л)">0,20</param>
+        <param name="Висота (мм)">161</param>
+        <param name="Ширина (мм)">81</param>
+        <param name="Розміри виробу (ВхШхГ)">161x81x91</param>
+        <param name="Глибина (мм)">91</param>
+        <param name="Діаметр (мм)">65</param>
+        <param name="Тип виробу">Дозатори для рідкого мила</param>
+        <param name="Серія">AS-01</param>
         <param name="Торгова марка">KOER</param>
+        <param name="Вид виробу">Дозатор для рідкого мила настінний</param>
+        <param name="Модель">AS-0104-01</param>
+        <param name="Країна бренду">Чехія</param>
+        <param name="Тип монтажу">Настінний</param>
+        <param name="Країна виробник">Китай</param>
+        <param name="Призначення">Для мила</param>
+        <param name="Колір">Хром</param>
+        <param name="Поверхня">Глянцева</param>
+        <param name="Форма">Універсальна</param>
+        <param name="Гарантійний період (міс)">12</param>
+        <param name="Комплектація">Дозатор з тримачем, кріплення, інструкція</param>
       </offer>
       <offer id="EP6027" available="true">
         <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/krani/kran-dlya-pidklyuchennya-santekhpriboriv/kran-dlya-pidklyuchennya-santekhpriladiv-europroduct-ep3001-12x12-ep6027</url>
@@ -149648,7 +150366,28 @@
         <param name="Од. в упак.">10</param>
         <param name="Об'єм ящ.">0</param>
         <param name="Вага ящ.">0</param>
+        <param name="Модель">AS-0107-07</param>
+        <param name="Тип виробу">Тримачі</param>
+        <param name="Призначення">Для туалетного паперу</param>
+        <param name="Серія">AS-01</param>
+        <param name="Вид виробу">Тримач для туалетного паперу</param>
+        <param name="Країна виробник">Китай</param>
+        <param name="Країна бренду">Чехія</param>
         <param name="Торгова марка">KOER</param>
+        <param name="Тип монтажу">Настінний</param>
+        <param name="Ширина (мм)">141</param>
+        <param name="Глибина (мм)">80</param>
+        <param name="Висота (мм)">83</param>
+        <param name="Розміри виробу (ВхШхГ)">83x141x80</param>
+        <param name="Матеріал комплектуючих">Нержавіюча сталь SUS304, цинковий сплав</param>
+        <param name="Тип конструкції">Форма тримача півкільце</param>
+        <param name="Матеріал">Нержавіюча сталь SUS 304</param>
+        <param name="Антипалець">Так</param>
+        <param name="Поверхня">Матова</param>
+        <param name="Форма">Півкільце</param>
+        <param name="Колір">Графіт</param>
+        <param name="Комплектація">Тримач для туалетного паперу, кріплення</param>
+        <param name="Гарантійний період (міс)">12</param>
       </offer>
       <offer id="NF3080" available="true">
         <url>https://ol.partners/products/truboprovodi-ta-zyednannya/fitingi/rizbovi-zyednannya/nipel-nolf-nfcn10n1-nikelovaniy-nf3080</url>
@@ -150007,6 +150746,44 @@
         <param name="Гарантійний період (міс)">120</param>
         <param name="Вага нетто, кг">8,00</param>
       </offer>
+      <offer id="39683000" available="false">
+        <url>https://ol.partners/products/instalyatsii-ta-klavishi/sistemi-instalyatsii/bachok-prikhovanogo-montazhu-grohe-39683000</url>
+        <price>4950.00</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>bae524de-6825-4762-bea5-e2c2373606ee</categoryId>
+        <picture>https://ol.partners/Products/Photo/ACB12B53-D76E-46A6-914E-B628B37D4731</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/3fdeb1e2-c342-4f26-a27d-e505092f0248/image_02.jpg</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/3fdeb1e2-c342-4f26-a27d-e505092f0248/image_03.jpg</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/3fdeb1e2-c342-4f26-a27d-e505092f0248/image_01.jpg</picture>
+        <vendor>GROHE</vendor>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <name>Бачок прихованого монтажу Grohe (39683000)</name>
+        <description>&lt;![CDATA[]]&gt;</description>
+        <vendorCode>39683000</vendorCode>
+        <param name="Од. в упак.">1</param>
+        <param name="Об'єм ящ.">0</param>
+        <param name="Вага ящ.">0</param>
+        <param name="Країна бренду">Німеччина</param>
+        <param name="Торгова марка">GROHE</param>
+        <param name="Серія">Uniset</param>
+        <param name="Призначення">Для унітазу</param>
+        <param name="Тип виробу">Інсталяційні системи без панелі змиву</param>
+        <param name="Вид виробу">Інсталяційний бачок для унітазу пневматичний</param>
+        <param name="Тип монтажу">У стіну прихований</param>
+        <param name="MAX Монтажна висота (мм)">0</param>
+        <param name="Розміри виробу (ВхШхГ)">793x426x130</param>
+        <param name="MIN Монтажна висота (мм)">0</param>
+        <param name="Матеріал">ABS-пластик</param>
+        <param name="Матеріал бачка">ABS-пластик</param>
+        <param name="Матеріал кріплення">Латунне різблення</param>
+        <param name="Технологія виробництва бачка">Двокомпонентний. Бачок із двох частин</param>
+        <param name="Тип конструкції">Стандартна рамна. Одинарна рама</param>
+        <param name="Керування">Пневматичне</param>
+        <param name="Колір">Білий</param>
+        <param name="Комплектація">Без панелі змиву</param>
+        <param name="Гарантійний період (міс)">132</param>
+      </offer>
       <offer id="38840000" available="false">
         <url>https://ol.partners/products/instalyatsii-ta-klavishi/sistemi-instalyatsii/instalyatsiya-dlya-unitazu-grohe-rapid-sl-38840000</url>
         <price>6599.00</price>
@@ -150057,44 +150834,6 @@
         <param name="Гарантійний період (міс)">132</param>
         <param name="Комплектація">Без панелі змиву</param>
         <param name="Колір">Синій</param>
-      </offer>
-      <offer id="39683000" available="false">
-        <url>https://ol.partners/products/instalyatsii-ta-klavishi/sistemi-instalyatsii/bachok-prikhovanogo-montazhu-grohe-39683000</url>
-        <price>4950.00</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>bae524de-6825-4762-bea5-e2c2373606ee</categoryId>
-        <picture>https://ol.partners/Products/Photo/ACB12B53-D76E-46A6-914E-B628B37D4731</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/3fdeb1e2-c342-4f26-a27d-e505092f0248/image_02.jpg</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/3fdeb1e2-c342-4f26-a27d-e505092f0248/image_03.jpg</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/3fdeb1e2-c342-4f26-a27d-e505092f0248/image_01.jpg</picture>
-        <vendor>GROHE</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
-        <name>Бачок прихованого монтажу Grohe (39683000)</name>
-        <description>&lt;![CDATA[]]&gt;</description>
-        <vendorCode>39683000</vendorCode>
-        <param name="Од. в упак.">1</param>
-        <param name="Об'єм ящ.">0</param>
-        <param name="Вага ящ.">0</param>
-        <param name="Країна бренду">Німеччина</param>
-        <param name="Торгова марка">GROHE</param>
-        <param name="Серія">Uniset</param>
-        <param name="Призначення">Для унітазу</param>
-        <param name="Тип виробу">Інсталяційні системи без панелі змиву</param>
-        <param name="Вид виробу">Інсталяційний бачок для унітазу пневматичний</param>
-        <param name="Тип монтажу">У стіну прихований</param>
-        <param name="MAX Монтажна висота (мм)">0</param>
-        <param name="Розміри виробу (ВхШхГ)">793x426x130</param>
-        <param name="MIN Монтажна висота (мм)">0</param>
-        <param name="Матеріал">ABS-пластик</param>
-        <param name="Матеріал бачка">ABS-пластик</param>
-        <param name="Матеріал кріплення">Латунне різблення</param>
-        <param name="Технологія виробництва бачка">Двокомпонентний. Бачок із двох частин</param>
-        <param name="Тип конструкції">Стандартна рамна. Одинарна рама</param>
-        <param name="Керування">Пневматичне</param>
-        <param name="Колір">Білий</param>
-        <param name="Комплектація">Без панелі змиву</param>
-        <param name="Гарантійний період (міс)">132</param>
       </offer>
       <offer id="KR2932" available="true">
         <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/kolektori/kolektor-z-vbudovanim-zmish-vuzlom-koer-krs10119-1-kh9-sus304-i-yevrokonus-3416-kr2932</url>
@@ -150464,7 +151203,7 @@
         <param name="Призначення">Для газу</param>
         <param name="Модель">Аrt. 607</param>
       </offer>
-      <offer id="RAD234" available="false">
+      <offer id="RAD234" available="true">
         <url>https://ol.partners/products/radiatori-opalennya/stalevi-radiatori/staleviy-radiator-11kh500kh600s-koer-bok-pidklyuchennya-rad234</url>
         <price>2236.00</price>
         <currencyId>UAH</currencyId>
@@ -150475,8 +151214,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/579ffa90-7449-49b0-b86a-279a3463c297/image_02_400-600_0.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/579ffa90-7449-49b0-b86a-279a3463c297/image_04_400-600_0.jpg</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Сталевий радіатор 11х500х600.S Koer (бок. підключення) (RAD234)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>RAD234</vendorCode>
@@ -150516,6 +151255,7 @@
         <categoryId>98cef2a4-d106-4da2-9b4c-f8e66696fd13</categoryId>
         <picture>https://ol.partners/Products/Photo/B6575777-74D1-40EB-B1DD-27D2C5727A18</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/a132728c-ab8e-4581-8136-3578551488dd/image_15.jpg</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/a132728c-ab8e-4581-8136-3578551488dd/image_01.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/a132728c-ab8e-4581-8136-3578551488dd/image_11.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/a132728c-ab8e-4581-8136-3578551488dd/image_19.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/a132728c-ab8e-4581-8136-3578551488dd/image_18.jpg</picture>
@@ -150535,8 +151275,28 @@
         <param name="Од. в упак.">10</param>
         <param name="Об'єм ящ.">0</param>
         <param name="Вага ящ.">0</param>
+        <param name="Тип виробу">Тримачі</param>
         <param name="Вид виробу">Тримач для туалетного паперу з полицею</param>
+        <param name="Призначення">Для туалетного паперу</param>
+        <param name="Серія">AS-01</param>
+        <param name="Тип монтажу">Настінний</param>
+        <param name="Країна виробник">Китай</param>
+        <param name="Модель">AS-0112-05</param>
         <param name="Торгова марка">KOER</param>
+        <param name="Країна бренду">Чехія</param>
+        <param name="Тип конструкції">Форма тримача півкільце з полицею</param>
+        <param name="Матеріал комплектуючих">Нержавіюча сталь SUS304, цинковий сплав</param>
+        <param name="Матеріал">Нержавіюча сталь SUS 304</param>
+        <param name="Розміри виробу (ВхШхГ)">89x150x80</param>
+        <param name="Глибина (мм)">80</param>
+        <param name="Ширина (мм)">150</param>
+        <param name="Висота (мм)">89</param>
+        <param name="Поверхня">Матова</param>
+        <param name="Колір">Чорний матовий</param>
+        <param name="Форма">Півкільце</param>
+        <param name="Антипалець">Так</param>
+        <param name="Гарантійний період (міс)">12</param>
+        <param name="Комплектація">Тримач для туалетного паперу, кріплення</param>
       </offer>
       <offer id="KR2834" available="true">
         <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/kolektori/kolektor-dlya-teploi-pidlogi-koer-kr11244-1x4-ways-kr2834</url>
@@ -151294,7 +152054,7 @@
         <param name="Тип монтажу">Підвісний</param>
         <param name="Тип виробу">Унітази</param>
       </offer>
-      <offer id="RAD240" available="false">
+      <offer id="RAD240" available="true">
         <url>https://ol.partners/products/radiatori-opalennya/stalevi-radiatori/staleviy-radiator-11kh500kh1200s-koer-bok-pidklyuchennya-rad240</url>
         <price>3947.00</price>
         <currencyId>UAH</currencyId>
@@ -151305,8 +152065,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/f4500f90-91d0-471d-a726-2bb69ddce094/image_01_400-600_0.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/f4500f90-91d0-471d-a726-2bb69ddce094/image_04_400-600_0.jpg</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Сталевий радіатор 11х500х1200.S Koer (бок. підключення) (RAD240)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>RAD240</vendorCode>
@@ -152817,7 +153577,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/c5e19a4d-f877-4034-8cd8-5de55a7fbb2f/image_02_400-600_0.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Сталевий радіатор 22х500х1600.S Koer (бок. підключення) (RAD064)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>RAD064</vendorCode>
@@ -153173,7 +153933,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/256313f0-963a-4235-b5a5-4bf41096ae37/image_05.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Колектор з вбудованим зміш. вузлом Koer KR.S1012-6 1 "х6 SUS304 і євроконус 3 / 4-16 (KR2939)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR2939</vendorCode>
@@ -153481,7 +154241,27 @@
         <param name="Од. в упак.">10</param>
         <param name="Об'єм ящ.">0</param>
         <param name="Вага ящ.">0</param>
+        <param name="Глибина (мм)">130</param>
+        <param name="Висота (мм)">133</param>
+        <param name="Розміри виробу (ВхШхГ)">133x189x130</param>
+        <param name="Ширина (мм)">189</param>
+        <param name="Матеріал">Нержавіюча сталь SUS 304</param>
+        <param name="Тип конструкції">Форма тримача півкільце</param>
+        <param name="Матеріал комплектуючих">Нержавіюча сталь SUS304, цинковий сплав</param>
+        <param name="Гарантійний період (міс)">12</param>
+        <param name="Комплектація">Тримач для паперових рушників, кріплення</param>
+        <param name="Тип виробу">Тримачі</param>
         <param name="Торгова марка">KOER</param>
+        <param name="Країна бренду">Чехія</param>
+        <param name="Тип монтажу">Настінний</param>
+        <param name="Призначення">Для паперових рушників</param>
+        <param name="Вид виробу">Тримач для паперових рушників</param>
+        <param name="Модель">AS-0108-01</param>
+        <param name="Серія">AS-01</param>
+        <param name="Країна виробник">Китай</param>
+        <param name="Поверхня">Глянцева</param>
+        <param name="Колір">Хром</param>
+        <param name="Форма">Півкільце</param>
       </offer>
       <offer id="ZX5601" available="true">
         <url>https://ol.partners/products/truboprovodi-ta-zyednannya/gnuchka-pidvodka/shlang-zlivniy-dlya-pralnoi-mashini-zerix-sds250-250sm-zx5601</url>
@@ -154971,7 +155751,28 @@
         <param name="Од. в упак.">20</param>
         <param name="Об'єм ящ.">0</param>
         <param name="Вага ящ.">0</param>
+        <param name="Тип конструкції">Подвійний гачок</param>
+        <param name="Матеріал комплектуючих">Нержавіюча сталь SUS304, цинковий сплав</param>
+        <param name="Матеріал">Нержавіюча сталь SUS 304</param>
+        <param name="Розміри виробу (ВхШхГ)">21x66x37</param>
+        <param name="Глибина (мм)">37</param>
+        <param name="Ширина (мм)">66</param>
+        <param name="Висота (мм)">21</param>
+        <param name="Призначення">Для підвішування халата та рушника</param>
+        <param name="Країна виробник">Китай</param>
+        <param name="Вид виробу">Гачок</param>
+        <param name="Модель">AS-0101-2-05</param>
+        <param name="Тип виробу">Тримачі</param>
+        <param name="Країна бренду">Чехія</param>
+        <param name="Серія">AS-01</param>
+        <param name="Тип монтажу">Настінний</param>
         <param name="Торгова марка">KOER</param>
+        <param name="Поверхня">Матова</param>
+        <param name="Антипалець">Так</param>
+        <param name="Форма">Універсальна</param>
+        <param name="Колір">Чорний матовий</param>
+        <param name="Комплектація">Гачок, кріплення</param>
+        <param name="Гарантійний період (міс)">12</param>
       </offer>
       <offer id="KR0270" available="true">
         <url>https://ol.partners/products/truboprovodi-ta-zyednannya/gnuchka-pidvodka/gnuchkiy-shlang-dlya-pidklyuchennya-vodi-gayka-12-shtutser-12-180-sm-koer-kr0270</url>
@@ -158042,7 +158843,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/397c76dc-ef88-43b8-b5b0-005b82f19e38/image_02_400-600_0.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Сталевий радіатор 22х300х500.S Koer (бок. підключення) (RAD068)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>RAD068</vendorCode>
@@ -159202,7 +160003,7 @@
         <param name="Країна виробник">Китай</param>
         <param name="Комплектація">Мийка, сифон</param>
       </offer>
-      <offer id="RAD073" available="false">
+      <offer id="RAD073" available="true">
         <url>https://ol.partners/products/radiatori-opalennya/stalevi-radiatori/staleviy-radiator-22kh300kh1000s-koer-bok-pidklyuchennya-rad073</url>
         <price>3443.00</price>
         <currencyId>UAH</currencyId>
@@ -159214,8 +160015,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/799bb02e-8fe6-4507-8f80-87f3eff47825/image_04_400-600_0.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/799bb02e-8fe6-4507-8f80-87f3eff47825/image_03_RAD073.jpg</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Сталевий радіатор 22х300х1000.S Koer (бок. підключення) (RAD073)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>RAD073</vendorCode>
@@ -161602,7 +162403,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/ad44298a-eb7d-48ea-bbb6-b56a0107848d/image_03_RAD066.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Сталевий радіатор 22х500х2000.S Koer (бок. підключення) (RAD066)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>RAD066</vendorCode>
@@ -164680,7 +165481,28 @@
         <param name="Од. в упак.">10</param>
         <param name="Об'єм ящ.">0</param>
         <param name="Вага ящ.">0</param>
+        <param name="Розміри виробу (ВхШхГ)">83x141x80</param>
+        <param name="Глибина (мм)">80</param>
+        <param name="Ширина (мм)">141</param>
+        <param name="Висота (мм)">83</param>
+        <param name="Форма">Півкільце</param>
+        <param name="Поверхня">Брашована</param>
+        <param name="Колір">Золото матове</param>
+        <param name="Антипалець">Так</param>
+        <param name="Модель">AS-0107-12</param>
+        <param name="Країна бренду">Чехія</param>
+        <param name="Країна виробник">Китай</param>
+        <param name="Тип виробу">Тримачі</param>
+        <param name="Тип монтажу">Настінний</param>
+        <param name="Серія">AS-01</param>
+        <param name="Призначення">Для туалетного паперу</param>
+        <param name="Вид виробу">Тримач для туалетного паперу</param>
         <param name="Торгова марка">KOER</param>
+        <param name="Тип конструкції">Форма тримача півкільце</param>
+        <param name="Матеріал">Нержавіюча сталь SUS 304</param>
+        <param name="Матеріал комплектуючих">Нержавіюча сталь SUS304, цинковий сплав</param>
+        <param name="Гарантійний період (міс)">12</param>
+        <param name="Комплектація">Тримач для туалетного паперу, кріплення</param>
       </offer>
       <offer id="KB0007" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/rozshiryuvalni-baki-dlya-sistem-opalennya/bak-rozshiryuvalniy-dlya-sistemi-opalennya-koer-bv12-kb0007</url>
@@ -165946,8 +166768,28 @@
         <param name="Од. в упак.">10</param>
         <param name="Об'єм ящ.">0</param>
         <param name="Вага ящ.">0</param>
+        <param name="Висота (мм)">89</param>
+        <param name="Глибина (мм)">80</param>
+        <param name="Розміри виробу (ВхШхГ)">89x150x80</param>
+        <param name="Ширина (мм)">150</param>
+        <param name="Форма">Півкільце</param>
+        <param name="Поверхня">Брашована</param>
+        <param name="Колір">Золото матове</param>
+        <param name="Антипалець">Так</param>
         <param name="Торгова марка">KOER</param>
         <param name="Вид виробу">Тримач для туалетного паперу з полицею</param>
+        <param name="Модель">AS-0112-12</param>
+        <param name="Серія">AS-01</param>
+        <param name="Тип виробу">Тримачі</param>
+        <param name="Країна виробник">Китай</param>
+        <param name="Країна бренду">Чехія</param>
+        <param name="Призначення">Для туалетного паперу</param>
+        <param name="Тип монтажу">Настінний</param>
+        <param name="Тип конструкції">Форма тримача півкільце з полицею</param>
+        <param name="Матеріал комплектуючих">Нержавіюча сталь SUS304, цинковий сплав</param>
+        <param name="Матеріал">Нержавіюча сталь SUS 304</param>
+        <param name="Гарантійний період (міс)">12</param>
+        <param name="Комплектація">Тримач для туалетного паперу, кріплення</param>
       </offer>
       <offer id="ZX6059" available="true">
         <url>https://ol.partners/products/aksesuari-dlya-vannoi/dzerkala-u-vannu/dzerkalo-zerix-mirra-mr0590x70reverse-z-led-touch-antifog-dimerom-regulyatorom-yaskravosti-zx6059</url>
@@ -168760,7 +169602,7 @@
         <param name="Тип з'єднання">Різьбовий</param>
         <param name="Гарантійний період (міс)">84</param>
       </offer>
-      <offer id="RAD118" available="false">
+      <offer id="RAD118" available="true">
         <url>https://ol.partners/products/radiatori-opalennya/stalevi-radiatori/staleviy-radiator-33kh500kh600s-koer-bok-pidklyuchennya-rad118</url>
         <price>4912.00</price>
         <currencyId>UAH</currencyId>
@@ -168772,8 +169614,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/bd1c2061-77bc-4cb8-a002-7b7ebc32b0a6/image_04_400-600_0.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/bd1c2061-77bc-4cb8-a002-7b7ebc32b0a6/image_02_400-600_0.jpg</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Сталевий радіатор 33х500х600.S Koer (бок. підключення) (RAD118)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>RAD118</vendorCode>
@@ -171974,7 +172816,29 @@
         <param name="Од. в упак.">10</param>
         <param name="Об'єм ящ.">0</param>
         <param name="Вага ящ.">0</param>
+        <param name="Антипалець">Так</param>
+        <param name="Поверхня">Матова</param>
+        <param name="Колір">Чорний матовий</param>
+        <param name="Форма">Універсальна</param>
+        <param name="Ширина (мм)">81</param>
+        <param name="Діаметр (мм)">67</param>
+        <param name="Глибина (мм)">91</param>
+        <param name="Розміри виробу (ВхШхГ)">95x81x91</param>
+        <param name="Висота (мм)">95</param>
+        <param name="Країна бренду">Чехія</param>
+        <param name="Тип монтажу">Настінний</param>
         <param name="Торгова марка">KOER</param>
+        <param name="Призначення">Для зубних щіток</param>
+        <param name="Вид виробу">Склянка з тримачем</param>
+        <param name="Тип виробу">Склянки</param>
+        <param name="Країна виробник">Китай</param>
+        <param name="Модель">AS-0103-05</param>
+        <param name="Серія">AS-01</param>
+        <param name="Матеріал комплектуючих">Нержавіюча сталь SUS304, цинковий сплав, скло</param>
+        <param name="Тип конструкції">Склянка з тримачем</param>
+        <param name="Матеріал">Нержавіюча сталь SUS 304</param>
+        <param name="Гарантійний період (міс)">12</param>
+        <param name="Комплектація">Склянка з тримачем, кріплення</param>
       </offer>
       <offer id="KR0044" available="true">
         <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/krani/krani-kulovi/kran-kuloviy-koer-34-gshr-kr215-kr0044</url>
@@ -172273,7 +173137,7 @@
         <param name="Гарантійний період (міс)">12</param>
         <param name="Комплектація">Водонагрівач, кріпильний елемент, посібник з монтажу та експлуатації</param>
       </offer>
-      <offer id="RAD061" available="false">
+      <offer id="RAD061" available="true">
         <url>https://ol.partners/products/radiatori-opalennya/stalevi-radiatori/staleviy-radiator-22kh500kh1300s-koer-bok-pidklyuchennya-rad061</url>
         <price>5454.00</price>
         <currencyId>UAH</currencyId>
@@ -172285,8 +173149,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/8e3b5db6-7134-46b7-8748-29813284e465/image_02_400-600_0.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/8e3b5db6-7134-46b7-8748-29813284e465/image_04_400-600_0.jpg</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Сталевий радіатор 22х500х1300.S Koer (бок. підключення) (RAD061)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>RAD061</vendorCode>
@@ -172510,7 +173374,7 @@
         <param name="Упаковка">Термозбіжна плівка та фірмова упаковка</param>
         <param name="Максимальна температура робочої рідини (°C)">110</param>
       </offer>
-      <offer id="RAD122" available="false">
+      <offer id="RAD122" available="true">
         <url>https://ol.partners/products/radiatori-opalennya/stalevi-radiatori/staleviy-radiator-33kh500kh1000s-koer-bok-pidklyuchennya-rad122</url>
         <price>7616.00</price>
         <currencyId>UAH</currencyId>
@@ -172522,8 +173386,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/5001962b-4229-4297-a3b6-a43e6e8d848a/image_03_RAD122.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/5001962b-4229-4297-a3b6-a43e6e8d848a/image_01_400-600_0.jpg</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Сталевий радіатор 33х500х1000.S Koer (бок. підключення) (RAD122)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>RAD122</vendorCode>
@@ -173099,7 +173963,7 @@
         <param name="Поверхня">Глянцева</param>
         <param name="Розташування (орієнтація)">Універсальне</param>
       </offer>
-      <offer id="RAD116" available="false">
+      <offer id="RAD116" available="true">
         <url>https://ol.partners/products/radiatori-opalennya/stalevi-radiatori/staleviy-radiator-33kh500kh500s-koer-bok-pidklyuchennya-rad116</url>
         <price>4389.00</price>
         <currencyId>UAH</currencyId>
@@ -173110,8 +173974,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/4a16f556-3f25-45c4-b163-5edaee91cf21/image_01_400-600_0.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/4a16f556-3f25-45c4-b163-5edaee91cf21/image_04_400-600_0.jpg</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Сталевий радіатор 33х500х500.S Koer (бок. підключення) (RAD116)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>RAD116</vendorCode>
@@ -173995,7 +174859,7 @@
         <param name="Гарантійний період (міс)">12</param>
         <param name="Особливості">Стійкий до корозії та хімічних впливів</param>
       </offer>
-      <offer id="RAD062" available="false">
+      <offer id="RAD062" available="true">
         <url>https://ol.partners/products/radiatori-opalennya/stalevi-radiatori/staleviy-radiator-22kh500kh1400s-koer-bok-pidklyuchennya-rad062</url>
         <price>5945.00</price>
         <currencyId>UAH</currencyId>
@@ -174007,8 +174871,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/49bcd9be-7f83-4ae3-a6c2-20a9cbfd4bc4/image_04_400-600_0.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/49bcd9be-7f83-4ae3-a6c2-20a9cbfd4bc4/image_05_400-600_0.jpg</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Сталевий радіатор 22х500х1400.S Koer (бок. підключення) (RAD062)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>RAD062</vendorCode>
@@ -174650,7 +175514,30 @@
         <param name="Од. в упак.">10</param>
         <param name="Об'єм ящ.">0</param>
         <param name="Вага ящ.">0</param>
+        <param name="Гарантійний період (міс)">12</param>
+        <param name="Комплектація">Дозатор з тримачем, кріплення, інструкція</param>
+        <param name="Діаметр (мм)">65</param>
+        <param name="Глибина (мм)">91</param>
+        <param name="Об'єм (л)">0,20</param>
+        <param name="Ширина (мм)">81</param>
+        <param name="Висота (мм)">161</param>
+        <param name="Розміри виробу (ВхШхГ)">161x81x91</param>
+        <param name="Серія">AS-01</param>
         <param name="Торгова марка">KOER</param>
+        <param name="Вид виробу">Дозатор для рідкого мила настінний</param>
+        <param name="Призначення">Для мила</param>
+        <param name="Тип виробу">Дозатори для рідкого мила</param>
+        <param name="Модель">AS-0104-07</param>
+        <param name="Країна бренду">Чехія</param>
+        <param name="Тип монтажу">Настінний</param>
+        <param name="Країна виробник">Китай</param>
+        <param name="Колір">Графіт</param>
+        <param name="Поверхня">Матова</param>
+        <param name="Антипалець">Так</param>
+        <param name="Форма">Універсальна</param>
+        <param name="Матеріал">Нержавіюча сталь SUS 304</param>
+        <param name="Тип конструкції">Кільцевий утримувач: колба вставляється у металеве кільце-кронштейн</param>
+        <param name="Матеріал комплектуючих">Нержавіюча сталь SUS304, цинковий сплав, скло</param>
       </offer>
       <offer id="ZX3019" available="true">
         <url>https://ol.partners/products/truboprovodi-ta-zyednannya/gnuchka-pidvodka/gnuchkiy-shlang-dlya-pidklyuchennya-vodi-gayka-12-shtutser-12-50-sm-silik-obolonka-zerix-zx3019</url>
@@ -176325,7 +177212,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/891b7296-cc29-47b7-85ef-3d8cf18df1b8/image_01.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Душовий трап "Тонкий" з нержавіючої сталі SUS304 Koer FD07-20x900-Slender (KR5138)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR5138</vendorCode>
