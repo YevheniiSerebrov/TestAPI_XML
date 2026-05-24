@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-05-23 02:51">
+<yml_catalog date="2026-05-24 03:30">
   <shop>
     <name>O&amp;L</name>
     <company>O&amp;L</company>
@@ -99975,7 +99975,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/363f0e54-9fd4-49b5-8883-a4c717e096ac/image_01.jpg</picture>
         <vendor>GROHE</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Наповнюючий клапан Grohe Dally-Fvent (37095000)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>37095000</vendorCode>
@@ -129132,7 +129132,7 @@
         <param name="Армування">Без армування</param>
         <param name="Колір">Сірий</param>
       </offer>
-      <offer id="38736000" available="false">
+      <offer id="38736000" available="true">
         <url>https://ol.partners/products/instalyatsii-ta-klavishi/klavishi-zmivu-ta-komplektuyuchi/zmivniy-klapan-grohe-38736000</url>
         <price>2430.00</price>
         <currencyId>UAH</currencyId>
@@ -129141,8 +129141,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/d5d389fc-5a93-4e27-83e9-e107beb45f48/image_01.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/d5d389fc-5a93-4e27-83e9-e107beb45f48/image_02.jpg</picture>
         <vendor>GROHE</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Змивний клапан Grohe (38736000)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>38736000</vendorCode>
