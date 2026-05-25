@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-05-24 03:30">
+<yml_catalog date="2026-05-25 03:40">
   <shop>
     <name>O&amp;L</name>
     <company>O&amp;L</company>
@@ -11889,7 +11889,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/252a0c15-0c2d-40a4-a199-cb712092ce2e/image_01.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Муфта редукційна 1"x2" Koer KF.C1020 (KF0025)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KF0025</vendorCode>
