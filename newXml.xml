@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-05-26 03:26">
+<yml_catalog date="2026-05-27 03:40">
   <shop>
     <name>O&amp;L</name>
     <company>O&amp;L</company>
@@ -3824,7 +3824,7 @@
         <param name="Поверхня">Глянцева</param>
       </offer>
       <offer id="KR5180" available="true">
-        <url>https://ol.partners/products/instalyatsii-ta-klavishi/klavishi-zmivu-ta-komplektuyuchi/panel-zmivu-koer-kt060203-plastikova-knopka-kvadratna-kr5180</url>
+        <url>https://ol.partners/products/instalyatsii-ta-klavishi/klavishi-zmivu-ta-komplektuyuchi/panel-zmivu-koer-kt060203-240x160x10mm-plastikova-knopka-kvadratna-kolir-biliy-kr5180</url>
         <price>684.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>bae524de-6825-4762-bea5-e2c2373606ee</categoryId>
@@ -3835,7 +3835,7 @@
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
         <availabilityStatus>Достатньо</availabilityStatus>
-        <name>Панель змиву KOER KT-0602-03 пластикова, кнопка квадратна (KR5180)</name>
+        <name>Панель змиву Koer KT-0602-03 240x160x10mm пластикова, кнопка квадратна (колір білий) (KR5180)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR5180</vendorCode>
         <param name="Од. в упак.">10</param>
@@ -3856,7 +3856,7 @@
         <param name="Керування">Механічне</param>
         <param name="Комплектація">Панель змиву, кріплення.</param>
         <param name="Гарантійний період (міс)">24</param>
-        <param name="Сумісність з панеллю/інсталляцією">Сумісність з інсталяцією KT-0401/KT-0404/KT-0405/KT-0406</param>
+        <param name="Сумісність з панеллю/інсталляцією">Сумісна з інсталляціїєю KT-0401/ KT-0404 / KT-0405 / KT-0406 / KT-0409</param>
         <param name="Висота (мм)">160</param>
         <param name="Ширина (мм)">240</param>
         <param name="Розміри виробу (ВхШхГ)">160x240x10</param>
@@ -6449,7 +6449,7 @@
         <param name="Гарантійний період (міс)">6</param>
       </offer>
       <offer id="KR6125" available="true">
-        <url>https://ol.partners/products/instalyatsii-ta-klavishi/klavishi-zmivu-ta-komplektuyuchi/panel-zmivu-koer-kt060805-240x160x10mm-plastik-knopka-zakruglena-kolir-chorniy-matoviy-kr6125</url>
+        <url>https://ol.partners/products/instalyatsii-ta-klavishi/klavishi-zmivu-ta-komplektuyuchi/panel-zmivu-koer-kt060805-240x160x10mm-plastikova-knopka-zakruglena-kolir-chorniy-matoviy-kr6125</url>
         <price>1242.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>bae524de-6825-4762-bea5-e2c2373606ee</categoryId>
@@ -6463,7 +6463,7 @@
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
         <availabilityStatus>Достатньо</availabilityStatus>
-        <name>Панель змиву Koer KT-0608-05 240x160x10mm пластик., кнопка закруглена (колір чорний матовий) (KR6125)</name>
+        <name>Панель змиву Koer KT-0608-05 240x160x10mm пластикова, кнопка закруглена (колір чорний матовий) (KR6125)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR6125</vendorCode>
         <param name="Од. в упак.">10</param>
@@ -6481,11 +6481,11 @@
         <param name="Країна бренду">Чехія</param>
         <param name="Тип монтажу">Настінний</param>
         <param name="Гарантійний період (міс)">24</param>
-        <param name="Сумісність з панеллю/інсталляцією">Сумісність з інсталляціїєю KT-0401/ KT-0404 / KT-0405 / KT-0406 / KT-0409</param>
+        <param name="Сумісність з панеллю/інсталляцією">Сумісна з інсталляціїєю KT-0401/ KT-0404 / KT-0405 / KT-0406 / KT-0409</param>
         <param name="Комплектація">Панель змиву, кріплення.</param>
         <param name="Матеріал">ABS-пластик</param>
         <param name="Керування">Механічне</param>
-        <param name="Розміри виробу (ВхШхГ)">160х240х10</param>
+        <param name="Розміри виробу (ВхШхГ)">160x240x10</param>
         <param name="Висота (мм)">160</param>
         <param name="Ширина (мм)">240</param>
       </offer>
@@ -8910,7 +8910,7 @@
         <param name="Гарантійний період (міс)">84</param>
       </offer>
       <offer id="KR5318" available="true">
-        <url>https://ol.partners/products/instalyatsii-ta-klavishi/klavishi-zmivu-ta-komplektuyuchi/panel-zmivu-koer-kt060303-240x160x10mm-plastikova-knopka-liniyna-kr5318</url>
+        <url>https://ol.partners/products/instalyatsii-ta-klavishi/klavishi-zmivu-ta-komplektuyuchi/panel-zmivu-koer-kt060303-240x160x10mm-plastikova-knopka-liniyna-kolir-biliy-kr5318</url>
         <price>870.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>bae524de-6825-4762-bea5-e2c2373606ee</categoryId>
@@ -8921,7 +8921,7 @@
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
         <availabilityStatus>Достатньо</availabilityStatus>
-        <name>Панель змиву Koer KT-0603-03 240x160x10mm пластикова, кнопка лінійна (KR5318)</name>
+        <name>Панель змиву Koer KT-0603-03 240x160x10mm пластикова, кнопка лінійна (колір білий) (KR5318)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR5318</vendorCode>
         <param name="Од. в упак.">10</param>
@@ -8944,7 +8944,7 @@
         <param name="Матеріал">ABS-пластик</param>
         <param name="Керування">Механічне</param>
         <param name="Гарантійний період (міс)">24</param>
-        <param name="Сумісність з панеллю/інсталляцією">Сумісність з інсталяцією KT-0401/KT-0404/KT-0405/KT-0406</param>
+        <param name="Сумісність з панеллю/інсталляцією">Сумісна з інсталляціїєю KT-0401/ KT-0404 / KT-0405 / KT-0406 / KT-0409</param>
       </offer>
       <offer id="KR5913" available="true">
         <url>https://ol.partners/products/truboprovodi-ta-zyednannya/fitingi/chavunniy-fiting/mufta-zatiskna-zyednuvalna-koer-kcic12-1-14x400429-kr5913</url>
@@ -10294,11 +10294,11 @@
         <param name="Колір панелі">Сатін</param>
         <param name="Колір">Сатин</param>
         <param name="Висота (мм)">160</param>
-        <param name="Розміри виробу (ВхШхГ)">160х240х10</param>
+        <param name="Розміри виробу (ВхШхГ)">160x240x10</param>
         <param name="Ширина (мм)">240</param>
         <param name="Керування">Механічне</param>
         <param name="Матеріал">ABS-пластик</param>
-        <param name="Сумісність з панеллю/інсталляцією">Сумісність з інсталляціїєю KT-0401/ KT-0404 / KT-0405 / KT-0406 / KT-0409</param>
+        <param name="Сумісність з панеллю/інсталляцією">Сумісна з інсталляціїєю KT-0401/ KT-0404 / KT-0405 / KT-0406 / KT-0409</param>
         <param name="Комплектація">Панель змиву, кріплення.</param>
         <param name="Гарантійний період (міс)">24</param>
       </offer>
@@ -14132,7 +14132,7 @@
         <picture>https://ol.partners/Products/Photo/7E39E4B5-8BAD-4661-9C0C-772853A4F5DD</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Гнучка підводка в силіконовій оболонці Koer KH-02-FF1/2"-2000 (KR3520)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR3520</vendorCode>
@@ -15400,7 +15400,7 @@
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
         <availabilityStatus>Достатньо</availabilityStatus>
-        <name>Інсталяція для підвісного унітазу Koer KT-0407 500x126x1150mm, без панелі змиву (KR5341)</name>
+        <name>Інсталяція для підвісного унітазу Koer KT-0407 500x126x1150mm (без панелі змиву) (KR5341)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR5341</vendorCode>
         <param name="Од. в упак.">1</param>
@@ -15435,7 +15435,7 @@
         <param name="Регулювання по висоті">Так</param>
         <param name="Товщина бачка (мм)">90</param>
         <param name="Товщина стінок профілю">Складає 2,0 мм</param>
-        <param name="Резервуар для освіжаючих таблеток">Ні</param>
+        <param name="Резервуар для освіжаючих таблеток">Так</param>
         <param name="Звукоізоляційна прокладка">В комплекті</param>
         <param name="Монтажна глибина (мм)">145-184</param>
         <param name="Захист бачка від конденсату">Так</param>
@@ -17478,7 +17478,7 @@
         <param name="G2 (дюйм)">3/4</param>
         <param name="G1 (дюйм)">1/2</param>
       </offer>
-      <offer id="KR2799" available="true">
+      <offer id="KR2799" available="false">
         <url>https://ol.partners/products/truboprovodi-ta-zyednannya/ustatkuvannya-dlya-montazhu/khomuti-na-trubi/khomut-trubniy-otsinkovaniy-koer-kcb20-11-2-4751-chorniy-kr2799</url>
         <price>48.00</price>
         <currencyId>UAH</currencyId>
@@ -17486,8 +17486,8 @@
         <picture>https://ol.partners/Products/Photo/C1C73722-1414-470F-ACF1-124D42F7C21B</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/6334ce55-8a67-40c5-900d-dc74fe2b33b7/image_03_KR2799.jpg</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Хомут трубний оцинкований Koer KCB.20 1-1 /2" (47-51) чорний (KR2799)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR2799</vendorCode>
@@ -17526,7 +17526,7 @@
         <param name="Торгова марка">KOER</param>
       </offer>
       <offer id="KR5176" available="true">
-        <url>https://ol.partners/products/instalyatsii-ta-klavishi/klavishi-zmivu-ta-komplektuyuchi/panel-zmivu-koer-kt060105-plastikova-knopka-krugla-kr5176</url>
+        <url>https://ol.partners/products/instalyatsii-ta-klavishi/klavishi-zmivu-ta-komplektuyuchi/panel-zmivu-koer-kt060105-240x160x10mm-plastikova-knopka-krugla-kolir-chorniy-matoviy-kr5176</url>
         <price>932.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>bae524de-6825-4762-bea5-e2c2373606ee</categoryId>
@@ -17537,7 +17537,7 @@
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
         <availabilityStatus>Достатньо</availabilityStatus>
-        <name>Панель змиву KOER KT-0601-05 пластикова, кнопка кругла (KR5176)</name>
+        <name>Панель змиву Koer KT-0601-05 240x160x10mm пластикова, кнопка кругла (колір чорний матовий) (KR5176)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR5176</vendorCode>
         <param name="Од. в упак.">10</param>
@@ -17556,7 +17556,7 @@
         <param name="Країна виробник">Китай</param>
         <param name="Комплектація">Панель змиву, кріплення.</param>
         <param name="Гарантійний період (міс)">24</param>
-        <param name="Сумісність з панеллю/інсталляцією">Сумісність з інсталяцією KT-0401/KT-0404/KT-0405/KT-0406</param>
+        <param name="Сумісність з панеллю/інсталляцією">Сумісна з інсталляціїєю KT-0401/ KT-0404 / KT-0405 / KT-0406 / KT-0409</param>
         <param name="Колір">Чорний матовий</param>
         <param name="Форма кнопки зливу">Кругла</param>
         <param name="Колір панелі">Чорний матовий</param>
@@ -18958,7 +18958,7 @@
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
         <availabilityStatus>Достатньо</availabilityStatus>
-        <name>Інсталяційний бачок для чаші Генуя Koer KT-0406 420x120x1200mm без панелі змиву (KR5315)</name>
+        <name>Інсталяційний бачок для чаші Генуя Koer KT-0406 420x120x1200mm (без панелі змиву) (KR5315)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR5315</vendorCode>
         <param name="Од. в упак.">1</param>
@@ -18998,7 +18998,7 @@
         <param name="Діаметр підключення (дюйм)">1/2х3/8</param>
         <param name="Комплектація">Без панелі змиву</param>
         <param name="Гарантія на комплектуючі (міс)">36</param>
-        <param name="Сумісність з комплектуючою">Сумісний з панелями змиву: KT-0601, KT-0602, KT-0603, KT-0604</param>
+        <param name="Сумісність з комплектуючою">Сумісна із панелями змиву: KT-0601, KT-0602, KT-0603, KT-0604, KT-0608, KT-0609, KT-0612</param>
         <param name="Гарантійний період (міс)">120</param>
         <param name="Додаткові характеристики">Наявність додаткових вертикальних опор немає</param>
         <param name="Колір">Білий</param>
@@ -23760,7 +23760,7 @@
       </offer>
       <offer id="KR5221" available="true">
         <url>https://ol.partners/products/sistemi-zakhistu/komplekti-zakhistu-vid-protikannya-vodi/sistema-kontrolyu-protikannya-vodi-koer-kr1501set-kr5221</url>
-        <price>9719.00</price>
+        <price>12512.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>a3fca00e-0578-41a0-8f4d-59220071a9b0</categoryId>
         <picture>https://ol.partners/Products/Photo/61BAAA5F-510D-41BC-AB79-121A5C5F5BC8</picture>
@@ -24023,7 +24023,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/b0ca5ff2-08be-43ba-a9ba-3f67b21a761c/image_01.jpg</picture>
         <vendor>GROHE</vendor>
         <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Інсталяційний комплект Grohe Rapid 5 в 1 (36503000)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>36503000</vendorCode>
@@ -25023,14 +25023,14 @@
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
         <availabilityStatus>Достатньо</availabilityStatus>
-        <name>Інсталяція для підвісного унітазу Koer KT-0504-01 500x126x1150mm з панеллю змиву KT-0607-01 Хром (KR5348)</name>
+        <name>Інсталяція для підвісного унітазу Koer KT-0504-01 500x126x1150mm з панеллю змиву KT-0607-01 хром (KR5348)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR5348</vendorCode>
         <param name="Од. в упак.">1</param>
         <param name="Об'єм ящ.">0.093</param>
         <param name="Вага ящ.">16</param>
         <param name="Об'єм бачка, л">9,00</param>
-        <param name="Резервуар для освіжаючих таблеток">Ні</param>
+        <param name="Резервуар для освіжаючих таблеток">Так</param>
         <param name="Кількість горизонтальних траверс">3</param>
         <param name="Захист бачка від конденсату">Так</param>
         <param name="Керування">Пневматичне</param>
@@ -26999,7 +26999,7 @@
         <param name="Колір">З малюнком</param>
       </offer>
       <offer id="KR5323" available="true">
-        <url>https://ol.partners/products/instalyatsii-ta-klavishi/klavishi-zmivu-ta-komplektuyuchi/panel-zmivu-koer-kt060401-240x160x10mm-plastikova-knopka-zakruglena-kr5323</url>
+        <url>https://ol.partners/products/instalyatsii-ta-klavishi/klavishi-zmivu-ta-komplektuyuchi/panel-zmivu-koer-kt060401-240x160x10mm-plastikova-knopka-zakruglena-kolir-khrom-kr5323</url>
         <price>1118.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>bae524de-6825-4762-bea5-e2c2373606ee</categoryId>
@@ -27011,13 +27011,13 @@
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
         <availabilityStatus>Достатньо</availabilityStatus>
-        <name>Панель змиву Koer KT-0604-01 240x160x10mm пластикова, кнопка закруглена (KR5323)</name>
+        <name>Панель змиву Koer KT-0604-01 240x160x10mm пластикова, кнопка закруглена (колір хром) (KR5323)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR5323</vendorCode>
         <param name="Од. в упак.">10</param>
         <param name="Об'єм ящ.">0.031</param>
         <param name="Вага ящ.">4.7</param>
-        <param name="Сумісність з панеллю/інсталляцією">Сумісність з інсталяцією KT-0401/KT-0404/KT-0405/KT-0406</param>
+        <param name="Сумісність з панеллю/інсталляцією">Сумісна з інсталляціїєю KT-0401/ KT-0404 / KT-0405 / KT-0406 / KT-0409</param>
         <param name="Гарантійний період (міс)">24</param>
         <param name="Серія">KT-0604</param>
         <param name="Вид виробу">Панель змиву для механічної інсталяції</param>
@@ -28571,7 +28571,7 @@
         <param name="Колір">Латунний</param>
         <param name="Покриття">Немає</param>
       </offer>
-      <offer id="41029000" available="true">
+      <offer id="41029000" available="false">
         <url>https://ol.partners/products/aksesuari-dlya-vannoi/sklyanki-dlya-zubnikh-schitok/stakan-dlya-zubnikh-schitok-grohe-selection-41029000</url>
         <price>2106.00</price>
         <currencyId>UAH</currencyId>
@@ -28581,8 +28581,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/494085d9-dde8-42a0-8eba-effb33df42d2/image_01.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/494085d9-dde8-42a0-8eba-effb33df42d2/image_03.jpg</picture>
         <vendor>GROHE</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Стакан для зубних щіток Grohe Selection (41029000)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>41029000</vendorCode>
@@ -31913,7 +31913,7 @@
         <param name="Ширина (мм)">460</param>
       </offer>
       <offer id="KR5714" available="true">
-        <url>https://ol.partners/products/instalyatsii-ta-klavishi/klavishi-zmivu-ta-komplektuyuchi/panel-zmivu-plastikova-koer-kt060703-157x198x3mm-knopka-kvadratna-kolir-biliy-kr5714</url>
+        <url>https://ol.partners/products/instalyatsii-ta-klavishi/klavishi-zmivu-ta-komplektuyuchi/panel-zmivu-koer-kt060703-157x198x10mm-plastikova-knopka-kvadratna-kolir-biliy-kr5714</url>
         <price>966.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>bae524de-6825-4762-bea5-e2c2373606ee</categoryId>
@@ -31924,7 +31924,7 @@
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
         <availabilityStatus>Достатньо</availabilityStatus>
-        <name>Панель змиву пластикова Koer KT-0607-03 157x198x3mm, кнопка квадратна (колір білий) (KR5714)</name>
+        <name>Панель змиву Koer KT-0607-03 157x198x10mm пластикова, кнопка квадратна (колір білий) (KR5714)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR5714</vendorCode>
         <param name="Од. в упак.">10</param>
@@ -31939,7 +31939,7 @@
         <param name="Торгова марка">KOER</param>
         <param name="Тип виробу">Панелі змиву для інсталяцій</param>
         <param name="Комплектація">Панель змиву, кріплення.</param>
-        <param name="Сумісність з панеллю/інсталляцією">Сумісність з інсталяцією KT-0407</param>
+        <param name="Сумісність з панеллю/інсталляцією">Сумісна з інсталляціїєю KT-0407</param>
         <param name="Гарантійний період (міс)">24</param>
         <param name="Матеріал">ABS-пластик</param>
         <param name="Керування">Пневматичне</param>
@@ -31947,7 +31947,7 @@
         <param name="Колір">Білий</param>
         <param name="Форма кнопки зливу">Прямокутна</param>
         <param name="Ширина (мм)">157</param>
-        <param name="Розміри виробу (ВхШхГ)">198x157x3</param>
+        <param name="Розміри виробу (ВхШхГ)">198x157x10</param>
         <param name="Висота (мм)">198</param>
       </offer>
       <offer id="LL1455" available="true">
@@ -33736,7 +33736,7 @@
         <param name="Габарити чаші (мм)">390</param>
         <param name="Комплектація">Мийка, сифон, кріплення, ущільнювальна стрічка, сітка</param>
       </offer>
-      <offer id="KR0169" available="true">
+      <offer id="KR0169" available="false">
         <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/krani/kran-z-nakidnoyu-gaykoyu/kran-z-nakidnoyu-gaykoyu-34-gshm-gaz-kutoviy-koer-kr221g-kr0169</url>
         <price>316.00</price>
         <currencyId>UAH</currencyId>
@@ -33744,8 +33744,8 @@
         <picture>https://ol.partners/Products/Photo/34F76F4E-22E4-4D3E-805F-381B2B5E718E</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/9bb8bd67-d012-4f77-b0b6-9c21fd27140e/image_01.jpg</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Кран з накидною гайкою 3/4" ГШМ ГАЗ КУТОВИЙ KOER KR.221.G (KR0169)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR0169</vendorCode>
@@ -33792,8 +33792,8 @@
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>MP6685</vendorCode>
         <param name="Од. в упак.">5</param>
-        <param name="Об'єм ящ.">0</param>
-        <param name="Вага ящ.">0</param>
+        <param name="Об'єм ящ.">0.066</param>
+        <param name="Вага ящ.">14</param>
         <param name="Модель">SEAT COVER ELLIPSE-2005 GRAY</param>
         <param name="Вид виробу">Сидіння-кришка для унітазу</param>
         <param name="Торгова марка">MIXXUS PREMIUM</param>
@@ -34517,7 +34517,7 @@
         <param name="Гарантійний період (міс)">12</param>
       </offer>
       <offer id="KR5316" available="true">
-        <url>https://ol.partners/products/instalyatsii-ta-klavishi/klavishi-zmivu-ta-komplektuyuchi/panel-zmivu-koer-kt060503-220x140x12mm-plastikova-knopka-krugla-kr5316</url>
+        <url>https://ol.partners/products/instalyatsii-ta-klavishi/klavishi-zmivu-ta-komplektuyuchi/panel-zmivu-koer-kt060503-220x140x12mm-plastikova-knopka-krugla-kolir-biliy-kr5316</url>
         <price>870.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>bae524de-6825-4762-bea5-e2c2373606ee</categoryId>
@@ -34528,7 +34528,7 @@
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
         <availabilityStatus>Достатньо</availabilityStatus>
-        <name>Панель змиву Koer KT-0605-03 220x140x12mm пластикова, кнопка кругла (KR5316)</name>
+        <name>Панель змиву Koer KT-0605-03 220x140x12mm пластикова, кнопка кругла (колір білий) (KR5316)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR5316</vendorCode>
         <param name="Од. в упак.">10</param>
@@ -34545,7 +34545,7 @@
         <param name="Керування">Механічне</param>
         <param name="Матеріал">ABS-пластик</param>
         <param name="Гарантійний період (міс)">24</param>
-        <param name="Сумісність з панеллю/інсталляцією">Сумісність з інсталяцією KT-0403</param>
+        <param name="Сумісність з панеллю/інсталляцією">Сумісна з інсталляціїєю KT-0403</param>
         <param name="Ширина (мм)">220</param>
         <param name="Висота (мм)">140</param>
         <param name="Розміри виробу (ВхШхГ)">140x220x12</param>
@@ -34554,7 +34554,7 @@
         <param name="Колір панелі">Білий</param>
       </offer>
       <offer id="KR5171" available="true">
-        <url>https://ol.partners/products/instalyatsii-ta-klavishi/sistemi-instalyatsii/komplekt-instalyatsiyniy-dlya-unitazu-koer-kt050201-z-pan-zmivu-kt060201-khrom-zvukoiz-kr5171</url>
+        <url>https://ol.partners/products/instalyatsii-ta-klavishi/sistemi-instalyatsii/instalyatsiya-dlya-pidvisnogo-unitazu-koer-kt050201-500x165x1125mm-z-panellyu-zmivu-kt060201-khrom-kr5171</url>
         <price>6521.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>bae524de-6825-4762-bea5-e2c2373606ee</categoryId>
@@ -34581,7 +34581,7 @@
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
         <availabilityStatus>Достатньо</availabilityStatus>
-        <name>Комплект інсталяційний для унітазу Koer KT-0502-01 (з пан. змиву KT-0602-01 Хром + звукоіз.)  (KR5171)</name>
+        <name>Інсталяція для підвісного унітазу Koer KT-0502-01 500x165x1125mm з панеллю змиву KT-0602-01 хром (KR5171)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR5171</vendorCode>
         <param name="Од. в упак.">1</param>
@@ -34626,7 +34626,7 @@
         <param name="Додаткові характеристики">Наявність додаткових вертикальних опор немає</param>
         <param name="Гарантійний період (міс)">120</param>
         <param name="Особливості">Можливість зміни висоти, з панеллю змиву, кнопка кольору хром</param>
-        <param name="Сумісність з комплектуючою">Сумісність з панелями змиву: KT-0601, KT-0602, KT-0603, KT-0604</param>
+        <param name="Сумісність з комплектуючою">Сумісна із панелями змиву: KT-0601, KT-0602, KT-0603, KT-0604, KT-0608, KT-0609, KT-0612</param>
         <param name="Комплектація">KOER KT-0602-01 Панель змиву пластикова, кнопка квадратна (колір хром)</param>
         <param name="MIN Монтажна висота (мм)">1125</param>
         <param name="MAX Монтажна висота (мм)">1325</param>
@@ -35491,7 +35491,7 @@
         <param name="Гарантійний період (міс)">12</param>
       </offer>
       <offer id="KR5174" available="true">
-        <url>https://ol.partners/products/instalyatsii-ta-klavishi/klavishi-zmivu-ta-komplektuyuchi/panel-zmivu-koer-kt060101-plastikova-knopka-krugla-kr5174</url>
+        <url>https://ol.partners/products/instalyatsii-ta-klavishi/klavishi-zmivu-ta-komplektuyuchi/panel-zmivu-koer-kt060101-240x160x10mm-plastikova-knopka-krugla-kolir-khrom-kr5174</url>
         <price>870.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>bae524de-6825-4762-bea5-e2c2373606ee</categoryId>
@@ -35504,13 +35504,13 @@
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
         <availabilityStatus>Достатньо</availabilityStatus>
-        <name>Панель змиву KOER KT-0601-01 пластикова, кнопка кругла (KR5174)</name>
+        <name>Панель змиву Koer KT-0601-01 240x160x10mm пластикова, кнопка кругла (колір хром) (KR5174)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR5174</vendorCode>
         <param name="Од. в упак.">10</param>
         <param name="Об'єм ящ.">0.031</param>
         <param name="Вага ящ.">4.6</param>
-        <param name="Сумісність з панеллю/інсталляцією">Сумісність з інсталяцією KT-0401/KT-0404/KT-0405/KT-0406</param>
+        <param name="Сумісність з панеллю/інсталляцією">Сумісна з інсталляціїєю KT-0401/ KT-0404 / KT-0405 / KT-0406 / KT-0409</param>
         <param name="Гарантійний період (міс)">24</param>
         <param name="Комплектація">Панель змиву, кріплення.</param>
         <param name="Країна бренду">Чехія</param>
@@ -35746,7 +35746,7 @@
         <param name="Тип ручки">Важіль</param>
       </offer>
       <offer id="KR5166" available="true">
-        <url>https://ol.partners/products/instalyatsii-ta-klavishi/sistemi-instalyatsii/komplekt-instalyatsiyniy-dlya-unitazu-koer-kt0401-bez-paneli-zmivu-kr5166</url>
+        <url>https://ol.partners/products/instalyatsii-ta-klavishi/sistemi-instalyatsii/instalyatsiya-dlya-pidvisnogo-unitazu-koer-kt0401-500x165x1125mm-bez-paneli-zmivu-kr5166</url>
         <price>5589.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>bae524de-6825-4762-bea5-e2c2373606ee</categoryId>
@@ -35773,7 +35773,7 @@
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
         <availabilityStatus>Достатньо</availabilityStatus>
-        <name>Комплект інсталяційний для унітазу Koer KT-0401 (без панелі змиву)  (KR5166)</name>
+        <name>Інсталяція для підвісного унітазу Koer KT-0401 500x165x1125mm (без панелі змиву) (KR5166)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR5166</vendorCode>
         <param name="Од. в упак.">1</param>
@@ -35812,7 +35812,7 @@
         <param name="Монтажна глибина (мм)">155-175</param>
         <param name="Захист бачка від конденсату">Так</param>
         <param name="Можливість регулювання зливного коліна">Так - 3 положення</param>
-        <param name="Сумісність з комплектуючою">Сумісність з панелями змиву: KT-0601, KT-0602, KT-0603, KT-0604</param>
+        <param name="Сумісність з комплектуючою">Сумісна із панелями змиву: KT-0601, KT-0602, KT-0603, KT-0604, KT-0608, KT-0609, KT-0612</param>
         <param name="Гарантійний період (міс)">120</param>
         <param name="Особливості">Без панелі змиву</param>
         <param name="Гарантія на комплектуючі (міс)">36</param>
@@ -36004,7 +36004,7 @@
       </offer>
       <offer id="VO4310" available="true">
         <url>https://ol.partners/products/kormopodribnyuvach-kormorob-kd1v-zerno-kukurudza-p2500-vt-produktivnist-maks-240kggod-vo4310</url>
-        <price>3850.00</price>
+        <price>3730.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/051D3289-DE3B-4DF5-B079-04E44534E938</picture>
@@ -37116,7 +37116,7 @@
         <param name="Діаметр (мм)">75</param>
       </offer>
       <offer id="KR5713" available="true">
-        <url>https://ol.partners/products/instalyatsii-ta-klavishi/klavishi-zmivu-ta-komplektuyuchi/panel-zmivu-plastikova-koer-kt060603-157x198x3mm-knopka-zakruglena-kolir-biliy-kr5713</url>
+        <url>https://ol.partners/products/instalyatsii-ta-klavishi/klavishi-zmivu-ta-komplektuyuchi/panel-zmivu-koer-kt060603-157x198x10mm-plastikova-knopka-zakruglena-kolir-biliy-kr5713</url>
         <price>897.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>bae524de-6825-4762-bea5-e2c2373606ee</categoryId>
@@ -37127,7 +37127,7 @@
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
         <availabilityStatus>Достатньо</availabilityStatus>
-        <name>Панель змиву пластикова Koer KT-0606-03 157x198x3mm, кнопка закруглена (колір білий) (KR5713)</name>
+        <name>Панель змиву Koer KT-0606-03 157x198x10mm пластикова, кнопка закруглена (колір білий) (KR5713)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR5713</vendorCode>
         <param name="Од. в упак.">10</param>
@@ -37137,7 +37137,7 @@
         <param name="Колір">Білий</param>
         <param name="Колір панелі">Білий</param>
         <param name="Ширина (мм)">157</param>
-        <param name="Розміри виробу (ВхШхГ)">198x157x3</param>
+        <param name="Розміри виробу (ВхШхГ)">198x157x10</param>
         <param name="Висота (мм)">198</param>
         <param name="Матеріал">ABS-пластик</param>
         <param name="Керування">Пневматичне</param>
@@ -37151,7 +37151,7 @@
         <param name="Тип виробу">Панелі змиву для інсталяцій</param>
         <param name="Гарантійний період (міс)">24</param>
         <param name="Комплектація">Панель змиву, кріплення.</param>
-        <param name="Сумісність з панеллю/інсталляцією">Сумісність з інсталяцією KT-0407</param>
+        <param name="Сумісність з панеллю/інсталляцією">Сумісна з інсталляціїєю KT-0407</param>
       </offer>
       <offer id="ZX5022" available="true">
         <url>https://ol.partners/products/aksesuari-dlya-vannoi/dozator-dlya-ridkogo-mila/dozator-dlya-miynogo-zasobu-vrizniy-zerix-dis01sus-black-z-nerzh-st-sus304-300-ml-chorniy-zx5022</url>
@@ -37806,7 +37806,7 @@
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
         <availabilityStatus>Достатньо</availabilityStatus>
-        <name>Інсталяція для підвісного унітазу Koer KT-0403 500x165x820mm без панелі змиву (KR5313)</name>
+        <name>Інсталяція для підвісного унітазу Koer KT-0403 500x165x820mm (без панелі змиву) (KR5313)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR5313</vendorCode>
         <param name="Од. в упак.">1</param>
@@ -39781,7 +39781,7 @@
         <param name="Модель">22 x 300 x 1600B</param>
         <param name="Країна бренду">Чехія</param>
       </offer>
-      <offer id="KR6198" available="true">
+      <offer id="KR6198" available="false">
         <url>https://ol.partners/products/radiatori-opalennya/stalevi-radiatori/staleviy-radiator-koer-22-x-300-x-700b-943-vt1193-kgnizhnye-pidklyuchennyaz-termoklapz-universkriplennyam-kr6198</url>
         <price>4774.00</price>
         <currencyId>UAH</currencyId>
@@ -39789,8 +39789,8 @@
         <picture>https://ol.partners/Products/Photo/5AD335D9-D32A-45D7-AD88-667A1CC6D17C</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/4eb27189-26da-4cd2-9ee8-75ec121faa3c/image_02.jpg</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Сталевий радіатор Koer 22 x 300 x 700B (943 Вт,11,93 кг,нижнє підключення,з термоклап.,з універс.кріпленням) (KR6198)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR6198</vendorCode>
@@ -40853,7 +40853,7 @@
         <param name="Об'єм ящ.">0.031</param>
         <param name="Вага ящ.">4.6</param>
         <param name="Гарантійний період (міс)">24</param>
-        <param name="Сумісність з панеллю/інсталляцією">Сумісність з інсталляціїєю KT-0401/ KT-0404 / KT-0405 / KT-0406 / KT-0409</param>
+        <param name="Сумісність з панеллю/інсталляцією">Сумісна з інсталляціїєю KT-0401/ KT-0404 / KT-0405 / KT-0406 / KT-0409</param>
         <param name="Комплектація">Панель змиву, кріплення.</param>
         <param name="Форма кнопки зливу">Лінійна прямокутна</param>
         <param name="Колір">Чорний матовий</param>
@@ -40866,7 +40866,7 @@
         <param name="Призначення">Для інсталяції</param>
         <param name="Тип монтажу">Настінний</param>
         <param name="Країна виробник">Китай</param>
-        <param name="Розміри виробу (ВхШхГ)">160х240х7</param>
+        <param name="Розміри виробу (ВхШхГ)">160x240x7</param>
         <param name="Ширина (мм)">240</param>
         <param name="Висота (мм)">160</param>
         <param name="Керування">Механічне</param>
@@ -47296,7 +47296,7 @@
         <param name="Колір">Білий</param>
       </offer>
       <offer id="KR5167" available="true">
-        <url>https://ol.partners/products/instalyatsii-ta-klavishi/sistemi-instalyatsii/komplekt-instalyatsiyniy-dlya-bide-koer-kt0402-bez-paneli-zmivu-kr5167</url>
+        <url>https://ol.partners/products/instalyatsii-ta-klavishi/sistemi-instalyatsii/instalyatsiya-dlya-bide-koer-kt0402-400x85x820mm-kr5167</url>
         <price>4782.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>bae524de-6825-4762-bea5-e2c2373606ee</categoryId>
@@ -47306,7 +47306,7 @@
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
         <availabilityStatus>Достатньо</availabilityStatus>
-        <name>Комплект інсталяційний для біде Koer KT-0402 (без панелі змиву)  (KR5167)</name>
+        <name>Інсталяція для біде Koer KT-0402 400x85x820mm (KR5167)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR5167</vendorCode>
         <param name="Од. в упак.">1</param>
@@ -47464,7 +47464,7 @@
         <param name="Колір">Чорний</param>
       </offer>
       <offer id="KR5169" available="true">
-        <url>https://ol.partners/products/instalyatsii-ta-klavishi/sistemi-instalyatsii/komplekt-instalyatsiyniy-dlya-unitazu-koer-kt050103-z-pan-zmivu-kt060103-bila-zvukoiz-kr5169</url>
+        <url>https://ol.partners/products/instalyatsii-ta-klavishi/sistemi-instalyatsii/instalyatsiya-dlya-pidvisnogo-unitazu-koer-kt050103-500x165x1125mm-z-panellyu-zmivu-kt060103-bila-kr5169</url>
         <price>6210.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>bae524de-6825-4762-bea5-e2c2373606ee</categoryId>
@@ -47491,7 +47491,7 @@
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
         <availabilityStatus>Достатньо</availabilityStatus>
-        <name>Комплект інсталяційний для унітазу Koer KT-0501-03 (з пан. змиву KT-0601-03 Біла + звукоіз.)  (KR5169)</name>
+        <name>Інсталяція для підвісного унітазу Koer KT-0501-03 500x165x1125mm з панеллю змиву KT-0601-03 біла (KR5169)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR5169</vendorCode>
         <param name="Од. в упак.">1</param>
@@ -47536,7 +47536,7 @@
         <param name="Додаткові характеристики">Наявність додаткових вертикальних опор немає</param>
         <param name="Гарантія на комплектуючі (міс)">36</param>
         <param name="Гарантійний період (міс)">120</param>
-        <param name="Сумісність з комплектуючою">Сумісність з панелями змиву: KT-0601, KT-0602, KT-0603, KT-0604</param>
+        <param name="Сумісність з комплектуючою">Сумісна із панелями змиву: KT-0601, KT-0602, KT-0603, KT-0604, KT-0608, KT-0609, KT-0612</param>
         <param name="Комплектація">KOER KT-0601-03 Панель змиву пластикова, кнопка кругла (колір білий)</param>
         <param name="Розміри виробу (ВхШхГ)">1125х500x165</param>
         <param name="Ширина (мм)">500</param>
@@ -47671,7 +47671,7 @@
         <param name="Колір">Сталевий</param>
       </offer>
       <offer id="KR5183" available="true">
-        <url>https://ol.partners/products/instalyatsii-ta-klavishi/klavishi-zmivu-ta-komplektuyuchi/panel-zmivu-koer-kt060207-plastikova-knopka-kvadratna-kr5183</url>
+        <url>https://ol.partners/products/instalyatsii-ta-klavishi/klavishi-zmivu-ta-komplektuyuchi/panel-zmivu-koer-kt060207-240x160x10mm-plastikova-knopka-kvadratna-kolir-grafit-kr5183</url>
         <price>1242.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>bae524de-6825-4762-bea5-e2c2373606ee</categoryId>
@@ -47682,7 +47682,7 @@
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
         <availabilityStatus>Достатньо</availabilityStatus>
-        <name>Панель змиву KOER KT-0602-07 пластикова, кнопка квадратна (KR5183)</name>
+        <name>Панель змиву Koer KT-0602-07 240x160x10mm пластикова, кнопка квадратна (колір графіт) (KR5183)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR5183</vendorCode>
         <param name="Од. в упак.">10</param>
@@ -47705,7 +47705,7 @@
         <param name="Керування">Механічне</param>
         <param name="Матеріал">ABS-пластик</param>
         <param name="Комплектація">Панель змиву, кріплення.</param>
-        <param name="Сумісність з панеллю/інсталляцією">Сумісність з інсталяцією KT-0401/KT-0404/KT-0405/KT-0406</param>
+        <param name="Сумісність з панеллю/інсталляцією">Сумісна з інсталляціїєю KT-0401/ KT-0404 / KT-0405 / KT-0406 / KT-0409</param>
         <param name="Гарантійний період (міс)">24</param>
       </offer>
       <offer id="KP2560" available="true">
@@ -49381,7 +49381,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/9099ec7f-5396-4d0a-b2a6-925a96cd1057/image_02.jpg</picture>
         <vendor>GROHE</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Велика кутова поличка-решітка Grohe Bau Cosmopolitan Neutral (40663001)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>40663001</vendorCode>
@@ -53540,7 +53540,7 @@
         <param name="Кількість отворів">1 отвір</param>
       </offer>
       <offer id="KR5177" available="true">
-        <url>https://ol.partners/products/instalyatsii-ta-klavishi/klavishi-zmivu-ta-komplektuyuchi/panel-zmivu-koer-kt060114-plastikova-knopka-krugla-kr5177</url>
+        <url>https://ol.partners/products/instalyatsii-ta-klavishi/klavishi-zmivu-ta-komplektuyuchi/panel-zmivu-koer-kt060114-240x160x10mm-plastikova-knopka-krugla-kolir-satin-kr5177</url>
         <price>932.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>bae524de-6825-4762-bea5-e2c2373606ee</categoryId>
@@ -53552,7 +53552,7 @@
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
         <availabilityStatus>Достатньо</availabilityStatus>
-        <name>Панель змиву KOER KT-0601-14 пластикова, кнопка кругла (KR5177)</name>
+        <name>Панель змиву Koer KT-0601-14 240x160x10mm пластикова, кнопка кругла (колір сатин) (KR5177)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR5177</vendorCode>
         <param name="Од. в упак.">10</param>
@@ -53569,7 +53569,7 @@
         <param name="Колір панелі">Сатін</param>
         <param name="Форма кнопки зливу">Кругла</param>
         <param name="Колір">Сатин</param>
-        <param name="Сумісність з панеллю/інсталляцією">Сумісність з інсталяцією KT-0401/KT-0404/KT-0405/KT-0406</param>
+        <param name="Сумісність з панеллю/інсталляцією">Сумісна з інсталляціїєю KT-0401/ KT-0404 / KT-0405 / KT-0406 / KT-0409</param>
         <param name="Гарантійний період (міс)">24</param>
         <param name="Комплектація">Панель змиву, кріплення.</param>
         <param name="Розміри виробу (ВхШхГ)">160x240x10</param>
@@ -59143,7 +59143,7 @@
         <picture>https://ol.partners/Products/Photo/0BE73618-1F37-4977-AAF7-22A7253FFC01</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Насос дренажний Koer KDN-900 корпус нержавіюча сталь Н=10М, Q=12кбМ, P=900 Вт (KP3355)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KP3355</vendorCode>
@@ -59552,7 +59552,7 @@
         <param name="Гарантійний період (міс)">84</param>
       </offer>
       <offer id="KR5346" available="true">
-        <url>https://ol.partners/products/instalyatsii-ta-klavishi/klavishi-zmivu-ta-komplektuyuchi/panel-zmivu-plastikova-koer-kt060705-157x198x3mm-knopka-kvadratna-kr5346</url>
+        <url>https://ol.partners/products/instalyatsii-ta-klavishi/klavishi-zmivu-ta-komplektuyuchi/panel-zmivu-koer-kt060705-157x198x10mm-plastikova-knopka-kvadratna-kolir-chorniy-matoviy-kr5346</url>
         <price>994.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>bae524de-6825-4762-bea5-e2c2373606ee</categoryId>
@@ -59563,7 +59563,7 @@
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
         <availabilityStatus>Достатньо</availabilityStatus>
-        <name>Панель змиву пластикова Koer KT-0607-05 157x198x3mm, кнопка квадратна (KR5346)</name>
+        <name>Панель змиву Koer KT-0607-05 157x198x10mm пластикова, кнопка квадратна (колір чорний матовий) (KR5346)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR5346</vendorCode>
         <param name="Од. в упак.">10</param>
@@ -59581,11 +59581,11 @@
         <param name="Тип монтажу">Настінний</param>
         <param name="Тип виробу">Панелі змиву для інсталяцій</param>
         <param name="Гарантійний період (міс)">24</param>
-        <param name="Сумісність з панеллю/інсталляцією">Сумісність з інсталяцією KT-0407</param>
+        <param name="Сумісність з панеллю/інсталляцією">Сумісна з інсталляціїєю KT-0407</param>
         <param name="Комплектація">Панель змиву, кріплення.</param>
         <param name="Ширина (мм)">157</param>
         <param name="Висота (мм)">198</param>
-        <param name="Розміри виробу (ВхШхГ)">198x157x3</param>
+        <param name="Розміри виробу (ВхШхГ)">198x157x10</param>
         <param name="Матеріал">ABS-пластик</param>
         <param name="Керування">Пневматичне</param>
       </offer>
@@ -62959,7 +62959,7 @@
         <param name="Тип з'єднання">Пайка</param>
       </offer>
       <offer id="KR5344" available="true">
-        <url>https://ol.partners/products/instalyatsii-ta-klavishi/klavishi-zmivu-ta-komplektuyuchi/panel-zmivu-plastikova-koer-kt060701-157x198x3mm-knopka-kvadratna-kr5344</url>
+        <url>https://ol.partners/products/instalyatsii-ta-klavishi/klavishi-zmivu-ta-komplektuyuchi/panel-zmivu-koer-kt060701-157x198x10mm-plastikova-knopka-kvadratna-kolir-khrom-kr5344</url>
         <price>932.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>bae524de-6825-4762-bea5-e2c2373606ee</categoryId>
@@ -62971,7 +62971,7 @@
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
         <availabilityStatus>Достатньо</availabilityStatus>
-        <name>Панель змиву пластикова Koer KT-0607-01 157x198x3mm, кнопка квадратна (KR5344)</name>
+        <name>Панель змиву Koer KT-0607-01 157x198x10mm пластикова, кнопка квадратна (колір хром) (KR5344)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR5344</vendorCode>
         <param name="Од. в упак.">10</param>
@@ -62989,9 +62989,9 @@
         <param name="Форма кнопки зливу">Прямокутна</param>
         <param name="Колір">Хром</param>
         <param name="Комплектація">Панель змиву, кріплення.</param>
-        <param name="Сумісність з панеллю/інсталляцією">Сумісність з інсталяцією KT-0407</param>
+        <param name="Сумісність з панеллю/інсталляцією">Сумісна з інсталляціїєю KT-0407</param>
         <param name="Гарантійний період (міс)">24</param>
-        <param name="Розміри виробу (ВхШхГ)">198x157x3</param>
+        <param name="Розміри виробу (ВхШхГ)">198x157x10</param>
         <param name="Ширина (мм)">157</param>
         <param name="Висота (мм)">198</param>
         <param name="Керування">Пневматичне</param>
@@ -71661,7 +71661,7 @@
         <param name="Комплектація">Змішувач з висувною лійкою. Омивач для склянок. Сифон із напівавтоматичним регулюванням. Кран для подачі питної води. Дошка для нарізки. Дозатор для миючого засобу. Два кошики для промивання та сушіння.</param>
       </offer>
       <offer id="KR5320" available="true">
-        <url>https://ol.partners/products/instalyatsii-ta-klavishi/klavishi-zmivu-ta-komplektuyuchi/panel-zmivu-koer-kt060305-240x160x10mm-plastikova-knopka-liniyna-kr5320</url>
+        <url>https://ol.partners/products/instalyatsii-ta-klavishi/klavishi-zmivu-ta-komplektuyuchi/panel-zmivu-koer-kt060305-240x160x10mm-plastikova-knopka-liniyna-kolir-chorniy-matoviy-kr5320</url>
         <price>1242.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>bae524de-6825-4762-bea5-e2c2373606ee</categoryId>
@@ -71672,7 +71672,7 @@
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
         <availabilityStatus>Достатньо</availabilityStatus>
-        <name>Панель змиву Koer KT-0603-05 240x160x10mm пластикова, кнопка лінійна (KR5320)</name>
+        <name>Панель змиву Koer KT-0603-05 240x160x10mm пластикова, кнопка лінійна (колір чорний матовий) (KR5320)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR5320</vendorCode>
         <param name="Од. в упак.">10</param>
@@ -71695,7 +71695,7 @@
         <param name="Керування">Механічне</param>
         <param name="Матеріал">ABS-пластик</param>
         <param name="Гарантійний період (міс)">24</param>
-        <param name="Сумісність з панеллю/інсталляцією">Сумісність з інсталяцією KT-0401/KT-0404/KT-0405/KT-0406</param>
+        <param name="Сумісність з панеллю/інсталляцією">Сумісна з інсталляціїєю KT-0401/ KT-0404 / KT-0405 / KT-0406 / KT-0409</param>
       </offer>
       <offer id="KR4741" available="true">
         <url>https://ol.partners/products/sifoni-trapi-dlya-dushu/zlivni-trapi/dushoviy-trap-iz-nerzhaviyuchoi-stali-sus304-koer-fd2070x450-kr4741</url>
@@ -71924,7 +71924,7 @@
         <param name="Матеріал виробу">Метал</param>
       </offer>
       <offer id="KR5172" available="true">
-        <url>https://ol.partners/products/instalyatsii-ta-klavishi/sistemi-instalyatsii/komplekt-instalyatsiyniy-dlya-unitazu-koer-kt050203-z-pan-zmivu-kt060203-bila-zvukoiz-kr5172</url>
+        <url>https://ol.partners/products/instalyatsii-ta-klavishi/sistemi-instalyatsii/instalyatsiya-dlya-pidvisnogo-unitazu-koer-kt050203-500x165x1125mm-z-panellyu-zmivu-kt060203-bila-kr5172</url>
         <price>6273.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>bae524de-6825-4762-bea5-e2c2373606ee</categoryId>
@@ -71951,7 +71951,7 @@
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
         <availabilityStatus>Достатньо</availabilityStatus>
-        <name>Комплект інсталяційний для унітазу Koer KT-0502-03 (з пан. змиву KT-0602-03 Біла + звукоіз.)  (KR5172)</name>
+        <name>Інсталяція для підвісного унітазу Koer KT-0502-03 500x165x1125mm з панеллю змиву KT-0602-03 біла (KR5172)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR5172</vendorCode>
         <param name="Од. в упак.">1</param>
@@ -72002,7 +72002,7 @@
         <param name="Форма кнопки зливу">Квадратна</param>
         <param name="Комплектація">KOER KT-0602-03 Панель змиву пластикова, кнопка квадратна (колір білий)</param>
         <param name="Особливості">Можливість зміни висоти, з панеллю змиву, біла кнопка</param>
-        <param name="Сумісність з комплектуючою">Сумісність з панелями змиву: KT-0601, KT-0602, KT-0603, KT-0604</param>
+        <param name="Сумісність з комплектуючою">Сумісна із панелями змиву: KT-0601, KT-0602, KT-0603, KT-0604, KT-0608, KT-0609, KT-0612</param>
         <param name="Гарантійний період (міс)">120</param>
         <param name="Додаткові характеристики">Наявність додаткових вертикальних опор немає</param>
         <param name="Гарантія на комплектуючі (міс)">36</param>
@@ -74733,7 +74733,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/519873ef-0df6-4754-a9fc-d7785ece5629/image_03_KF0019.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Муфта редукційна 1/2"х3/4" Koer KF.C0608 (KF0019)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KF0019</vendorCode>
@@ -83696,9 +83696,9 @@
         <param name="Керування">Механічне</param>
         <param name="Комплектація">Панель змиву, кріплення.</param>
         <param name="Гарантійний період (міс)">24</param>
-        <param name="Сумісність з панеллю/інсталляцією">Сумісність з інсталляціїєю KT-0401/ KT-0404 / KT-0405 / KT-0406 / KT-0409</param>
+        <param name="Сумісність з панеллю/інсталляцією">Сумісна з інсталляціїєю KT-0401/ KT-0404 / KT-0405 / KT-0406 / KT-0409</param>
         <param name="Ширина (мм)">240</param>
-        <param name="Розміри виробу (ВхШхГ)">160х240х10</param>
+        <param name="Розміри виробу (ВхШхГ)">160x240x10</param>
         <param name="Висота (мм)">160</param>
         <param name="Вид виробу">Панель змиву для механічної інсталяції</param>
         <param name="Країна виробник">Китай</param>
@@ -89873,7 +89873,7 @@
         <vendor>KOER</vendor>
         <stock_quantity>0</stock_quantity>
         <availabilityStatus>Немає в наявності</availabilityStatus>
-        <name>Інсталяція для підвісного унітазу Koer KT-0404 500x165x1125mm, без панелі змиву (KR5719)</name>
+        <name>Інсталяція для підвісного унітазу Koer KT-0404 500x165x1125mm (без панелі змиву) (KR5719)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR5719</vendorCode>
         <param name="Од. в упак.">1</param>
@@ -89906,7 +89906,7 @@
         <param name="Можливість розвороту стопи назовні">Ні – 1 положення</param>
         <param name="Резервуар для освіжаючих таблеток">Ні</param>
         <param name="Товщина стінок профілю">2 мм</param>
-        <param name="Сумісність з комплектуючою">Совместимость с панелями смыва: KT-0601, KT-0602, KT-0603, KT-0604</param>
+        <param name="Сумісність з комплектуючою">Сумісна із панелями змиву: KT-0601, KT-0602, KT-0603, KT-0604, KT-0608, KT-0609, KT-0612</param>
         <param name="Гарантія на комплектуючі (міс)">36</param>
         <param name="Комплектація">Без панели смыва</param>
         <param name="Гарантійний період (міс)">120</param>
@@ -91049,7 +91049,7 @@
       </offer>
       <offer id="VO4309" available="true">
         <url>https://ol.partners/products/kormopodribnyuvach-kormorob-kd1c-zerno-p2500-vt-produktivnist-maks-200kggod-vo4309</url>
-        <price>3790.00</price>
+        <price>3660.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/2FF475B5-1B26-4C6B-B198-DC9B29D2A0B4</picture>
@@ -92267,7 +92267,7 @@
         <param name="Модель">NFC.1120</param>
       </offer>
       <offer id="KR5321" available="true">
-        <url>https://ol.partners/products/instalyatsii-ta-klavishi/klavishi-zmivu-ta-komplektuyuchi/panel-zmivu-koer-kt060307-240x160x10mm-plastikova-knopka-liniyna-kr5321</url>
+        <url>https://ol.partners/products/instalyatsii-ta-klavishi/klavishi-zmivu-ta-komplektuyuchi/panel-zmivu-koer-kt060307-240x160x10mm-plastikova-knopka-liniyna-kolir-grafit-kr5321</url>
         <price>1615.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>bae524de-6825-4762-bea5-e2c2373606ee</categoryId>
@@ -92277,7 +92277,7 @@
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
         <availabilityStatus>Достатньо</availabilityStatus>
-        <name>Панель змиву Koer KT-0603-07 240x160x10mm пластикова, кнопка лінійна (KR5321)</name>
+        <name>Панель змиву Koer KT-0603-07 240x160x10mm пластикова, кнопка лінійна (колір графіт) (KR5321)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR5321</vendorCode>
         <param name="Од. в упак.">10</param>
@@ -92299,7 +92299,7 @@
         <param name="Форма кнопки зливу">Лінійна прямокутна</param>
         <param name="Колір панелі">Графіт</param>
         <param name="Колір">Графіт</param>
-        <param name="Сумісність з панеллю/інсталляцією">Сумісність з інсталяцією KT-0401/KT-0404/KT-0405/KT-0406</param>
+        <param name="Сумісність з панеллю/інсталляцією">Сумісна з інсталляціїєю KT-0401/ KT-0404 / KT-0405 / KT-0406 / KT-0409</param>
         <param name="Гарантійний період (міс)">24</param>
       </offer>
       <offer id="ZX4564" available="true">
@@ -94175,7 +94175,7 @@
         <param name="Колір панелі">Хром</param>
         <param name="Комплектація">Панель змиву, кріплення.</param>
         <param name="Гарантійний період (міс)">24</param>
-        <param name="Сумісність з панеллю/інсталляцією">Сумісність з інсталляціїєю KT-0401/ KT-0404 / KT-0405 / KT-0406 / KT-0409</param>
+        <param name="Сумісність з панеллю/інсталляцією">Сумісна з інсталляціїєю KT-0401/ KT-0404 / KT-0405 / KT-0406 / KT-0409</param>
         <param name="Вид виробу">Панель змиву для механічної інсталяції</param>
         <param name="Серія">KT-0609</param>
         <param name="Тип виробу">Панелі змиву для інсталяцій</param>
@@ -94184,7 +94184,7 @@
         <param name="Країна бренду">Чехія</param>
         <param name="Торгова марка">KOER</param>
         <param name="Призначення">Для інсталяції</param>
-        <param name="Розміри виробу (ВхШхГ)">160х240х7</param>
+        <param name="Розміри виробу (ВхШхГ)">160x240x7</param>
         <param name="Висота (мм)">160</param>
         <param name="Ширина (мм)">240</param>
         <param name="Керування">Механічне</param>
@@ -95246,7 +95246,7 @@
         <param name="Комплектація">Мийка, сифон, кріплення</param>
       </offer>
       <offer id="KR5317" available="true">
-        <url>https://ol.partners/products/instalyatsii-ta-klavishi/klavishi-zmivu-ta-komplektuyuchi/panel-zmivu-koer-kt060501-220x140x12mm-plastikova-knopka-krugla-kr5317</url>
+        <url>https://ol.partners/products/instalyatsii-ta-klavishi/klavishi-zmivu-ta-komplektuyuchi/panel-zmivu-koer-kt060501-220x140x12mm-plastikova-knopka-krugla-kolir-khrom-kr5317</url>
         <price>1118.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>bae524de-6825-4762-bea5-e2c2373606ee</categoryId>
@@ -95257,7 +95257,7 @@
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
         <availabilityStatus>Достатньо</availabilityStatus>
-        <name>Панель змиву Koer KT-0605-01 220x140x12mm пластикова, кнопка кругла (KR5317)</name>
+        <name>Панель змиву Koer KT-0605-01 220x140x12mm пластикова, кнопка кругла (колір хром) (KR5317)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR5317</vendorCode>
         <param name="Од. в упак.">10</param>
@@ -95277,7 +95277,7 @@
         <param name="Керування">Механічне</param>
         <param name="Матеріал">ABS-пластик</param>
         <param name="Гарантійний період (міс)">24</param>
-        <param name="Сумісність з панеллю/інсталляцією">Сумісність з інсталяцією KT-0403</param>
+        <param name="Сумісність з панеллю/інсталляцією">Сумісна з інсталляціїєю KT-0403</param>
         <param name="Колір">Хром</param>
         <param name="Колір панелі">Хром</param>
         <param name="Форма кнопки зливу">Кругла</param>
@@ -96102,7 +96102,7 @@
         <param name="Вид виробу">Пісуар підлоговий з ІЧ-датчиком</param>
         <param name="Тип монтажу">Підлоговий</param>
       </offer>
-      <offer id="40508001" available="true">
+      <offer id="40508001" available="false">
         <url>https://ol.partners/products/aksesuari-dlya-vannoi/trimach-dlya-aksesuariv/trimach-dlya-aksesuariv-grohe-essentials-cube-new-40508001</url>
         <price>2160.00</price>
         <currencyId>UAH</currencyId>
@@ -96112,8 +96112,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/d76652a9-96d5-42fe-8175-3c0121266753/image_03.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/d76652a9-96d5-42fe-8175-3c0121266753/image_02.jpg</picture>
         <vendor>GROHE</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Тримач для аксесуарів Grohe Essentials Cube New (40508001)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>40508001</vendorCode>
@@ -100179,11 +100179,11 @@
         <param name="Од. в упак.">10</param>
         <param name="Об'єм ящ.">0.031</param>
         <param name="Вага ящ.">5</param>
-        <param name="Сумісність з панеллю/інсталляцією">Сумісність з інсталляціїєю KT-0401/ KT-0404 / KT-0405 / KT-0406 / KT-0409</param>
+        <param name="Сумісність з панеллю/інсталляцією">Сумісна з інсталляціїєю KT-0401/ KT-0404 / KT-0405 / KT-0406 / KT-0409</param>
         <param name="Гарантійний період (міс)">24</param>
         <param name="Комплектація">Панель змиву, кріплення.</param>
         <param name="Ширина (мм)">240</param>
-        <param name="Розміри виробу (ВхШхГ)">160х240х10</param>
+        <param name="Розміри виробу (ВхШхГ)">160x240x10</param>
         <param name="Висота (мм)">160</param>
         <param name="Торгова марка">KOER</param>
         <param name="Призначення">Для інсталяції</param>
@@ -100647,7 +100647,7 @@
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
         <availabilityStatus>Достатньо</availabilityStatus>
-        <name>Інсталяційний бачок для підлогового унітазу Koer KT-0405 420x120x750mm без панелі змиву (KR5314)</name>
+        <name>Інсталяційний бачок для підлогового унітазу Koer KT-0405 420x120x750mm (без панелі змиву) (KR5314)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR5314</vendorCode>
         <param name="Од. в упак.">1</param>
@@ -100679,7 +100679,7 @@
         <param name="Розміри виробу (ВхШхГ)">750х420x120</param>
         <param name="MIN Монтажна висота (мм)">750</param>
         <param name="Ширина (мм)">420</param>
-        <param name="Сумісність з комплектуючою">Сумісний з панелями змиву: KT-0601, KT-0602, KT-0603, KT-0604</param>
+        <param name="Сумісність з комплектуючою">Сумісний із панелями змиву: KT-0601, KT-0602, KT-0603, KT-0604, KT-0608, KT-0609, KT-0612</param>
         <param name="Гарантійний період (міс)">120</param>
         <param name="Додаткові характеристики">Наявність додаткових вертикальних опор немає</param>
         <param name="Гарантія на комплектуючі (міс)">36</param>
@@ -110244,7 +110244,7 @@
         <param name="Колір">Білий</param>
       </offer>
       <offer id="KR5343" available="true">
-        <url>https://ol.partners/products/instalyatsii-ta-klavishi/klavishi-zmivu-ta-komplektuyuchi/panel-zmivu-plastikova-koer-kt060605-157x198x3mm-knopka-zakruglena-kr5343</url>
+        <url>https://ol.partners/products/instalyatsii-ta-klavishi/klavishi-zmivu-ta-komplektuyuchi/panel-zmivu-koer-kt060605-157x198x10mm-plastikova-knopka-zakruglena-kolir-chorniy-matoviy-kr5343</url>
         <price>932.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>bae524de-6825-4762-bea5-e2c2373606ee</categoryId>
@@ -110256,7 +110256,7 @@
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
         <availabilityStatus>Достатньо</availabilityStatus>
-        <name>Панель змиву пластикова Koer KT-0606-05 157x198x3mm, кнопка закруглена (KR5343)</name>
+        <name>Панель змиву Koer KT-0606-05 157x198x10mm пластикова, кнопка закруглена (колір чорний матовий) (KR5343)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR5343</vendorCode>
         <param name="Од. в упак.">10</param>
@@ -110264,10 +110264,10 @@
         <param name="Вага ящ.">5.4</param>
         <param name="Комплектація">Панель змиву, кріплення.</param>
         <param name="Гарантійний період (міс)">24</param>
-        <param name="Сумісність з панеллю/інсталляцією">Сумісність з інсталяцією KT-0407</param>
+        <param name="Сумісність з панеллю/інсталляцією">Сумісна з інсталляціїєю KT-0407</param>
         <param name="Ширина (мм)">157</param>
         <param name="Висота (мм)">198</param>
-        <param name="Розміри виробу (ВхШхГ)">198x157x3</param>
+        <param name="Розміри виробу (ВхШхГ)">198x157x10</param>
         <param name="Колір">Чорний матовий</param>
         <param name="Форма кнопки зливу">Овальна</param>
         <param name="Колір панелі">Чорний матовий</param>
@@ -111149,7 +111149,7 @@
         <param name="Гарантійний період (міс)">24</param>
       </offer>
       <offer id="KR6239" available="true">
-        <url>https://ol.partners/products/instalyatsii-ta-klavishi/klavishi-zmivu-ta-komplektuyuchi/panel-zmivu-koer-kt060702-157x198x3mm-plastikova-knopka-kvadratna-ss-color-kr6239</url>
+        <url>https://ol.partners/products/instalyatsii-ta-klavishi/klavishi-zmivu-ta-komplektuyuchi/panel-zmivu-koer-kt060702-157x198x10mm-plastikova-knopka-kvadratna-ss-color-kr6239</url>
         <price>1429.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>bae524de-6825-4762-bea5-e2c2373606ee</categoryId>
@@ -111161,7 +111161,7 @@
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
         <availabilityStatus>Достатньо</availabilityStatus>
-        <name>Панель змиву Koer KT-0607-02 157x198x3mm пластикова, кнопка квадратна (SS Color) (KR6239)</name>
+        <name>Панель змиву Koer KT-0607-02 157x198x10mm пластикова, кнопка квадратна (SS Color) (KR6239)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR6239</vendorCode>
         <param name="Од. в упак.">10</param>
@@ -111181,7 +111181,7 @@
         <param name="Розміри виробу (ВхШхГ)">198x157x10</param>
         <param name="Ширина (мм)">157</param>
         <param name="Висота (мм)">198</param>
-        <param name="Сумісність з панеллю/інсталляцією">Сумісність з інсталяцією KT-0407</param>
+        <param name="Сумісність з панеллю/інсталляцією">Сумісна з інсталляціїєю KT-0407</param>
         <param name="Гарантійний період (міс)">24</param>
         <param name="Комплектація">Панель змиву, кріплення.</param>
         <param name="Матеріал">ABS-пластик</param>
@@ -113817,11 +113817,11 @@
         <param name="Тип виробу">Панелі змиву для інсталяцій</param>
         <param name="Країна бренду">Чехія</param>
         <param name="Серія">KT-0609</param>
-        <param name="Розміри виробу (ВхШхГ)">160х240х7</param>
+        <param name="Розміри виробу (ВхШхГ)">160x240x7</param>
         <param name="Висота (мм)">160</param>
         <param name="Ширина (мм)">240</param>
         <param name="Комплектація">Панель змиву, кріплення.</param>
-        <param name="Сумісність з панеллю/інсталляцією">Сумісність з інсталляціїєю KT-0401/ KT-0404 / KT-0405 / KT-0406 / KT-0409</param>
+        <param name="Сумісність з панеллю/інсталляцією">Сумісна з інсталляціїєю KT-0401/ KT-0404 / KT-0405 / KT-0406 / KT-0409</param>
         <param name="Гарантійний період (міс)">24</param>
         <param name="Керування">Механічне</param>
         <param name="Матеріал">ABS-пластик</param>
@@ -115888,7 +115888,7 @@
         <param name="Тип">Прямий</param>
         <param name="Діаметр підключення (дюйм)">3/4</param>
       </offer>
-      <offer id="KR6197" available="true">
+      <offer id="KR6197" available="false">
         <url>https://ol.partners/products/radiatori-opalennya/stalevi-radiatori/staleviy-radiator-koer-22-x-300-x-600b-808-vt1057-kgnizhnye-pidklyuchennyaz-termoklapz-universkriplennyam-kr6197</url>
         <price>4497.00</price>
         <currencyId>UAH</currencyId>
@@ -115896,8 +115896,8 @@
         <picture>https://ol.partners/Products/Photo/87291CB0-1274-470C-A430-6FFF9089F2DB</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/73f6a509-cf17-4d74-ab9d-abe9778029f9/image_02.jpg</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Сталевий радіатор Koer 22 x 300 x 600B (808 Вт,10,57 кг,нижнє підключення,з термоклап.,з універс.кріпленням) (KR6197)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR6197</vendorCode>
@@ -116972,7 +116972,7 @@
         <param name="Тип виливу">Поворотний</param>
       </offer>
       <offer id="KR5345" available="true">
-        <url>https://ol.partners/products/instalyatsii-ta-klavishi/klavishi-zmivu-ta-komplektuyuchi/panel-zmivu-plastikova-koer-kt060707-157x198x3mm-knopka-kvadratna-kr5345</url>
+        <url>https://ol.partners/products/instalyatsii-ta-klavishi/klavishi-zmivu-ta-komplektuyuchi/panel-zmivu-koer-kt060707-157x198x10mm-plastikova-knopka-kvadratna-kolir-grafit-kr5345</url>
         <price>1429.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>bae524de-6825-4762-bea5-e2c2373606ee</categoryId>
@@ -116983,7 +116983,7 @@
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
         <availabilityStatus>Достатньо</availabilityStatus>
-        <name>Панель змиву пластикова Koer KT-0607-07 157x198x3mm, кнопка квадратна (KR5345)</name>
+        <name>Панель змиву Koer KT-0607-07 157x198x10mm пластикова, кнопка квадратна (колір графіт) (KR5345)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR5345</vendorCode>
         <param name="Од. в упак.">10</param>
@@ -116994,7 +116994,7 @@
         <param name="Колір панелі">Графіт</param>
         <param name="Форма кнопки зливу">Прямокутна</param>
         <param name="Колір">Графіт</param>
-        <param name="Розміри виробу (ВхШхГ)">198x157x3</param>
+        <param name="Розміри виробу (ВхШхГ)">198x157x10</param>
         <param name="Висота (мм)">198</param>
         <param name="Ширина (мм)">157</param>
         <param name="Вид виробу">Панель змиву для пневматичної інсталяції</param>
@@ -117007,7 +117007,7 @@
         <param name="Країна бренду">Чехія</param>
         <param name="Комплектація">Панель змиву, кріплення.</param>
         <param name="Гарантійний період (міс)">24</param>
-        <param name="Сумісність з панеллю/інсталляцією">Сумісність з інсталяцією KT-0407</param>
+        <param name="Сумісність з панеллю/інсталляцією">Сумісна з інсталляціїєю KT-0407</param>
       </offer>
       <offer id="KR2977" available="false">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/zapchastini-ta-aksesuari-dlya-nasosiv/komplekt-muft-termousadochniy-kr2977</url>
@@ -118236,8 +118236,8 @@
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>EP6235</vendorCode>
         <param name="Од. в упак.">12</param>
-        <param name="Об'єм ящ.">0</param>
-        <param name="Вага ящ.">0</param>
+        <param name="Об'єм ящ.">0.069</param>
+        <param name="Вага ящ.">12</param>
         <param name="Особливості">Корпус фільтрів для картриджів 10"</param>
         <param name="Додаткові характеристики">Матеріал різьблення - латунь</param>
         <param name="Модель">EPV-21</param>
@@ -118572,7 +118572,7 @@
         <param name="Діаметр підключення (мм)">63</param>
         <param name="d (мм)">61,80</param>
       </offer>
-      <offer id="KR6200" available="true">
+      <offer id="KR6200" available="false">
         <url>https://ol.partners/products/radiatori-opalennya/stalevi-radiatori/staleviy-radiator-koer-22-x-300-x-900b-1212-vt1465-kgnizhnye-pidklyuchennyaz-termoklapz-universkriplennyam-kr6200</url>
         <price>5311.00</price>
         <currencyId>UAH</currencyId>
@@ -118580,8 +118580,8 @@
         <picture>https://ol.partners/Products/Photo/68E7B268-2EC4-48CA-B296-07AF6298C413</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/c5cc8a3d-a1dc-4891-b124-b33f6b74b39f/image_02.jpg</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Сталевий радіатор Koer 22 x 300 x 900B (1212 Вт,14,65 кг,нижнє підключення,з термоклап.,з універс.кріпленням) (KR6200)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR6200</vendorCode>
@@ -119341,7 +119341,7 @@
         <param name="Розміри (мм)">25(3.5mm) x25(3.5mm) x 25(3.5mm)</param>
         <param name="Гарантійний період (міс)">84</param>
       </offer>
-      <offer id="41036000" available="true">
+      <offer id="41036000" available="false">
         <url>https://ol.partners/products/aksesuari-dlya-vannoi/milnitsi/milnitsya-grohe-selection-41036000</url>
         <price>2808.00</price>
         <currencyId>UAH</currencyId>
@@ -119356,8 +119356,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/ddbbd2f4-182e-434c-aa74-fea6a4523f25/image_03.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/ddbbd2f4-182e-434c-aa74-fea6a4523f25/image_07.jpg</picture>
         <vendor>GROHE</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Мильниця Grohe Selection (41036000)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>41036000</vendorCode>
@@ -119378,7 +119378,7 @@
         <param name="Матеріал виробу">Скло</param>
       </offer>
       <offer id="KR5170" available="true">
-        <url>https://ol.partners/products/instalyatsii-ta-klavishi/sistemi-instalyatsii/komplekt-instalyatsiyniy-dlya-unitazu-koer-kt050105-z-pan-zmivu-kt060105-chorna-matova-zvukoiz-kr5170</url>
+        <url>https://ol.partners/products/instalyatsii-ta-klavishi/sistemi-instalyatsii/instalyatsiya-dlya-pidvisnogo-unitazu-koer-kt050105-500x165x1125mm-z-panellyu-zmivu-kt060105-chorna-matova-kr5170</url>
         <price>6521.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>bae524de-6825-4762-bea5-e2c2373606ee</categoryId>
@@ -119405,7 +119405,7 @@
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
         <availabilityStatus>Достатньо</availabilityStatus>
-        <name>Комплект інсталяційний для унітазу Koer KT-0501-05 (з пан. змиву KT-0601-05 Чорна матова +звукоіз.) (KR5170)</name>
+        <name>Інсталяція для підвісного унітазу Koer KT-0501-05 500x165x1125mm з панеллю змиву KT-0601-05 чорна матова (KR5170)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR5170</vendorCode>
         <param name="Од. в упак.">1</param>
@@ -119455,7 +119455,7 @@
         <param name="Гарантійний період (міс)">120</param>
         <param name="Гарантія на комплектуючі (міс)">36</param>
         <param name="Додаткові характеристики">Наявність додаткових вертикальних опор немає</param>
-        <param name="Сумісність з комплектуючою">Сумісність з панелями змиву: KT-0601, KT-0602, KT-0603, KT-0604</param>
+        <param name="Сумісність з комплектуючою">Сумісна із панелями змиву: KT-0601, KT-0602, KT-0603, KT-0604, KT-0608, KT-0609, KT-0612</param>
         <param name="Особливості">Можливість зміни висоти, з панеллю змиву, чорна матова кнопка</param>
         <param name="Колір">Червоний</param>
         <param name="Колір панелі">Чорний матовий</param>
@@ -121675,7 +121675,7 @@
         <param name="Матеріал">Поліпропілен</param>
       </offer>
       <offer id="KR5179" available="true">
-        <url>https://ol.partners/products/instalyatsii-ta-klavishi/klavishi-zmivu-ta-komplektuyuchi/panel-zmivu-koer-kt060202-z-nerzhaviyuchoi-stali-sus304-kr5179</url>
+        <url>https://ol.partners/products/instalyatsii-ta-klavishi/klavishi-zmivu-ta-komplektuyuchi/panel-zmivu-koer-kt060202-240x160x10mm-z-nerzhaviyuchoi-stali-knopka-kvadratna-sus304-kr5179</url>
         <price>1274.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>bae524de-6825-4762-bea5-e2c2373606ee</categoryId>
@@ -121686,7 +121686,7 @@
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
         <availabilityStatus>Малий залишок</availabilityStatus>
-        <name>Панель змиву KOER KT-0602-02 з нержавіючої сталі SUS304 (KR5179)</name>
+        <name>Панель змиву Koer KT-0602-02 240x160x10mm з нержавіючої сталі, кнопка квадратна SUS304 (KR5179)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR5179</vendorCode>
         <param name="Од. в упак.">10</param>
@@ -121700,7 +121700,7 @@
         <param name="Висота (мм)">160</param>
         <param name="Комплектація">Панель змиву, кріплення.</param>
         <param name="Гарантійний період (міс)">24</param>
-        <param name="Сумісність з панеллю/інсталляцією">Сумісність з інсталяцією KT-0401/KT-0404/KT-0405/KT-0406</param>
+        <param name="Сумісність з панеллю/інсталляцією">Сумісна з інсталляціїєю KT-0401/ KT-0404 / KT-0405 / KT-0406 / KT-0409</param>
         <param name="Тип виробу">Панелі змиву для інсталяцій</param>
         <param name="Торгова марка">KOER</param>
         <param name="Країна виробник">Китай</param>
@@ -121831,7 +121831,7 @@
         <picture>https://ol.partners/Products/Photo/1DD3EEED-FE48-464E-8849-39F052C91F8A</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Душовий трап Koer FD30-70x1200 з нержавіючої сталі SUS304 70x1200мм (KR5216)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR5216</vendorCode>
@@ -123730,7 +123730,7 @@
         <param name="Колір">Білий (RAL 9016)</param>
       </offer>
       <offer id="KR5322" available="true">
-        <url>https://ol.partners/products/instalyatsii-ta-klavishi/klavishi-zmivu-ta-komplektuyuchi/panel-zmivu-koer-kt060403-240x160x10mm-plastikova-knopka-zakruglena-kr5322</url>
+        <url>https://ol.partners/products/instalyatsii-ta-klavishi/klavishi-zmivu-ta-komplektuyuchi/panel-zmivu-koer-kt060403-240x160x10mm-plastikova-knopka-zakruglena-kolir-biliy-kr5322</url>
         <price>870.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>bae524de-6825-4762-bea5-e2c2373606ee</categoryId>
@@ -123741,7 +123741,7 @@
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
         <availabilityStatus>Достатньо</availabilityStatus>
-        <name>Панель змиву Koer KT-0604-03 240x160x10mm пластикова, кнопка закруглена (KR5322)</name>
+        <name>Панель змиву Koer KT-0604-03 240x160x10mm пластикова, кнопка закруглена (колір білий) (KR5322)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR5322</vendorCode>
         <param name="Од. в упак.">10</param>
@@ -123764,7 +123764,7 @@
         <param name="Керування">Механічне</param>
         <param name="Матеріал">ABS-пластик</param>
         <param name="Гарантійний період (міс)">24</param>
-        <param name="Сумісність з панеллю/інсталляцією">Сумісність з інсталяцією KT-0401/KT-0404/KT-0405/KT-0406</param>
+        <param name="Сумісність з панеллю/інсталляцією">Сумісна з інсталляціїєю KT-0401/ KT-0404 / KT-0405 / KT-0406 / KT-0409</param>
       </offer>
       <offer id="KR5723" available="true">
         <url>https://ol.partners/products/instalyatsii-ta-klavishi/klavishi-zmivu-ta-komplektuyuchi/napovnyuvalniy-kutoviy-latunniy-klapan-dlya-bachka-instalyatsii-koer-kt0706-dlya-kt0401-kt0403-kt0404-kt0405-kt0406-kr5723</url>
@@ -127595,7 +127595,7 @@
         <param name="Довжина (мм)">411</param>
       </offer>
       <offer id="KR5168" available="true">
-        <url>https://ol.partners/products/instalyatsii-ta-klavishi/sistemi-instalyatsii/komplekt-instalyatsiyniy-dlya-unitazu-koer-kt050101-z-pan-zmivu-kt060101-khrom-zvukoiz-kr5168</url>
+        <url>https://ol.partners/products/instalyatsii-ta-klavishi/sistemi-instalyatsii/instalyatsiya-dlya-pidvisnogo-unitazu-koer-kt050101-500x165x1125mm-z-panellyu-zmivu-kt060101-khrom-kr5168</url>
         <price>6459.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>bae524de-6825-4762-bea5-e2c2373606ee</categoryId>
@@ -127622,7 +127622,7 @@
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
         <availabilityStatus>Достатньо</availabilityStatus>
-        <name>Комплект інсталяційний для унітазу Koer KT-0501-01 (з пан. змиву KT-0601-01 Хром + звукоіз.)  (KR5168)</name>
+        <name>Інсталяція для підвісного унітазу Koer KT-0501-01 500x165x1125mm з панеллю змиву KT-0601-01 хром (KR5168)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR5168</vendorCode>
         <param name="Од. в упак.">1</param>
@@ -127635,7 +127635,7 @@
         <param name="Призначення">Для унітазу</param>
         <param name="Вид виробу">Інсталяція для підвісного унітазу з панеллю змиву механічна</param>
         <param name="Серія">KT-0401</param>
-        <param name="Сумісність з комплектуючою">Сумісність з панелями змиву: KT-0601, KT-0602, KT-0603, KT-0604</param>
+        <param name="Сумісність з комплектуючою">Сумісна із панелями змиву: KT-0601, KT-0602, KT-0603, KT-0604, KT-0608, KT-0609, KT-0612</param>
         <param name="Комплектація">KOER KT-0601-01 Панель змиву пластикова, кнопка кругла (колір хром)</param>
         <param name="Гарантійний період (міс)">120</param>
         <param name="Гарантія на комплектуючі (міс)">36</param>
@@ -132801,7 +132801,7 @@
         <param name="Колір">Сірий</param>
       </offer>
       <offer id="KR5712" available="true">
-        <url>https://ol.partners/products/instalyatsii-ta-klavishi/klavishi-zmivu-ta-komplektuyuchi/panel-zmivu-plastikova-koer-kt060607-157x198x3mm-knopka-zakruglena-kolir-grafit-kr5712</url>
+        <url>https://ol.partners/products/instalyatsii-ta-klavishi/klavishi-zmivu-ta-komplektuyuchi/panel-zmivu-koer-kt060607-157x198x10mm-plastikova-knopka-zakruglena-kolir-grafit-kr5712</url>
         <price>1380.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>bae524de-6825-4762-bea5-e2c2373606ee</categoryId>
@@ -132812,7 +132812,7 @@
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
         <availabilityStatus>Достатньо</availabilityStatus>
-        <name>Панель змиву пластикова Koer KT-0606-07 157x198x3mm, кнопка закруглена (колір графіт) (KR5712)</name>
+        <name>Панель змиву Koer KT-0606-07 157x198x10mm пластикова, кнопка закруглена (колір графіт) (KR5712)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR5712</vendorCode>
         <param name="Од. в упак.">10</param>
@@ -132828,13 +132828,13 @@
         <param name="Тип виробу">Панелі змиву для інсталяцій</param>
         <param name="Ширина (мм)">157</param>
         <param name="Висота (мм)">198</param>
-        <param name="Розміри виробу (ВхШхГ)">198x157x3</param>
+        <param name="Розміри виробу (ВхШхГ)">198x157x10</param>
         <param name="Колір панелі">Графіт</param>
         <param name="Колір">Графіт</param>
         <param name="Форма кнопки зливу">Овальна</param>
         <param name="Комплектація">Панель змиву, кріплення.</param>
         <param name="Гарантійний період (міс)">24</param>
-        <param name="Сумісність з панеллю/інсталляцією">Сумісність з інсталяцією KT-0407</param>
+        <param name="Сумісність з панеллю/інсталляцією">Сумісна з інсталляціїєю KT-0407</param>
         <param name="Матеріал">ABS-пластик</param>
         <param name="Керування">Пневматичне</param>
       </offer>
@@ -137712,7 +137712,7 @@
         <picture>https://ol.partners/Products/Photo/C3C4A798-B441-486C-91BF-4F6E40A2ACCE</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Насос дренажний Koer KDN-1100 корпус нержавіюча сталь Н=10,5М, Q=13,5кбМ, P=1100 Вт (KP3356)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KP3356</vendorCode>
@@ -138433,7 +138433,7 @@
         <param name="Торгова марка">KOER</param>
       </offer>
       <offer id="KR5182" available="true">
-        <url>https://ol.partners/products/instalyatsii-ta-klavishi/klavishi-zmivu-ta-komplektuyuchi/panel-zmivu-koer-kt060216-plastikova-knopka-kvadratna-kr5182</url>
+        <url>https://ol.partners/products/instalyatsii-ta-klavishi/klavishi-zmivu-ta-komplektuyuchi/panel-zmivu-koer-kt060216-240x160x10mm-plastikova-knopka-kvadratna-kolir-chorniy-glyantseviy-kr5182</url>
         <price>994.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>bae524de-6825-4762-bea5-e2c2373606ee</categoryId>
@@ -138444,7 +138444,7 @@
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
         <availabilityStatus>Достатньо</availabilityStatus>
-        <name>Панель змиву KOER KT-0602-16 пластикова, кнопка квадратна (KR5182)</name>
+        <name>Панель змиву Koer KT-0602-16 240x160x10mm пластикова, кнопка квадратна (колір чорний глянцевий) (KR5182)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR5182</vendorCode>
         <param name="Од. в упак.">10</param>
@@ -138462,7 +138462,7 @@
         <param name="Ширина (мм)">240</param>
         <param name="Висота (мм)">160</param>
         <param name="Гарантійний період (міс)">24</param>
-        <param name="Сумісність з панеллю/інсталляцією">Сумісність з інсталяцією KT-0401/KT-0404/KT-0405/KT-0406</param>
+        <param name="Сумісність з панеллю/інсталляцією">Сумісна з інсталляціїєю KT-0401/ KT-0404 / KT-0405 / KT-0406 / KT-0409</param>
         <param name="Комплектація">Панель змиву, кріплення.</param>
         <param name="Керування">Механічне</param>
         <param name="Матеріал">ABS-пластик</param>
@@ -138979,7 +138979,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/252c4e82-2cb9-4eeb-b477-3c53801b5685/image_03.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Насосна станція Koer auto JET-100 (з пятерником) (KP2668)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KP2668</vendorCode>
@@ -141133,7 +141133,7 @@
         <param name="Діаметр підключення (дюйм)">3/4</param>
       </offer>
       <offer id="KR5715" available="true">
-        <url>https://ol.partners/products/instalyatsii-ta-klavishi/klavishi-zmivu-ta-komplektuyuchi/panel-zmivu-plastikova-koer-kt060712-157x198x3mm-knopka-kvadratna-kolir-matove-zoloto-kr5715</url>
+        <url>https://ol.partners/products/instalyatsii-ta-klavishi/klavishi-zmivu-ta-komplektuyuchi/panel-zmivu-koer-kt060712-157x198x10mm-plastikova-knopka-kvadratna-kolir-matove-zoloto-kr5715</url>
         <price>1587.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>bae524de-6825-4762-bea5-e2c2373606ee</categoryId>
@@ -141144,7 +141144,7 @@
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
         <availabilityStatus>Достатньо</availabilityStatus>
-        <name>Панель змиву пластикова Koer KT-0607-12 157x198x3mm, кнопка квадратна (колір матове золото) (KR5715)</name>
+        <name>Панель змиву Koer KT-0607-12 157x198x10mm пластикова, кнопка квадратна (колір матове золото) (KR5715)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR5715</vendorCode>
         <param name="Од. в упак.">10</param>
@@ -141162,12 +141162,12 @@
         <param name="Тип монтажу">Настінний</param>
         <param name="Ширина (мм)">157</param>
         <param name="Висота (мм)">198</param>
-        <param name="Розміри виробу (ВхШхГ)">198x157x3</param>
+        <param name="Розміри виробу (ВхШхГ)">198x157x10</param>
         <param name="Форма кнопки зливу">Прямокутна</param>
         <param name="Колір панелі">Золото матове</param>
         <param name="Колір">Золото матове</param>
         <param name="Комплектація">Панель змиву, кріплення.</param>
-        <param name="Сумісність з панеллю/інсталляцією">Сумісність з інсталяцією KT-0407</param>
+        <param name="Сумісність з панеллю/інсталляцією">Сумісна з інсталляціїєю KT-0407</param>
         <param name="Гарантійний період (міс)">24</param>
       </offer>
       <offer id="MI6141" available="true">
@@ -147932,13 +147932,13 @@
         <param name="Матеріал">ABS-пластик</param>
         <param name="Гарантійний період (міс)">24</param>
         <param name="Комплектація">Панель змиву, кріплення.</param>
-        <param name="Сумісність з панеллю/інсталляцією">Сумісність з інсталляціїєю KT-0401/ KT-0404 / KT-0405 / KT-0406 / KT-0409</param>
+        <param name="Сумісність з панеллю/інсталляцією">Сумісна з інсталляціїєю KT-0401/ KT-0404 / KT-0405 / KT-0406 / KT-0409</param>
         <param name="Колір панелі">Золото матове</param>
         <param name="Колір">Золото матове</param>
         <param name="Форма кнопки зливу">Лінійна прямокутна</param>
         <param name="Ширина (мм)">240</param>
         <param name="Висота (мм)">160</param>
-        <param name="Розміри виробу (ВхШхГ)">160х240х7</param>
+        <param name="Розміри виробу (ВхШхГ)">160x240x7</param>
         <param name="Тип виробу">Панелі змиву для інсталяцій</param>
         <param name="Країна виробник">Китай</param>
         <param name="Країна бренду">Чехія</param>
@@ -154777,7 +154777,7 @@
         <param name="Діаметр підключення (мм)">20</param>
       </offer>
       <offer id="KR5324" available="true">
-        <url>https://ol.partners/products/instalyatsii-ta-klavishi/klavishi-zmivu-ta-komplektuyuchi/panel-zmivu-koer-kt060405-240x160x10mm-plastikova-knopka-zakruglena-kr5324</url>
+        <url>https://ol.partners/products/instalyatsii-ta-klavishi/klavishi-zmivu-ta-komplektuyuchi/panel-zmivu-koer-kt060405-240x160x10mm-plastikova-knopka-zakruglena-kolir-chorniy-matoviy-kr5324</url>
         <price>1242.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>bae524de-6825-4762-bea5-e2c2373606ee</categoryId>
@@ -154787,7 +154787,7 @@
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
         <availabilityStatus>Достатньо</availabilityStatus>
-        <name>Панель змиву Koer KT-0604-05 240x160x10mm пластикова, кнопка закруглена (KR5324)</name>
+        <name>Панель змиву Koer KT-0604-05 240x160x10mm пластикова, кнопка закруглена (колір чорний матовий) (KR5324)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR5324</vendorCode>
         <param name="Од. в упак.">10</param>
@@ -154809,7 +154809,7 @@
         <param name="Країна бренду">Чехія</param>
         <param name="Торгова марка">KOER</param>
         <param name="Країна виробник">Китай</param>
-        <param name="Сумісність з панеллю/інсталляцією">Сумісність з інсталяцією KT-0401/KT-0404/KT-0405/KT-0406</param>
+        <param name="Сумісність з панеллю/інсталляцією">Сумісна з інсталляціїєю KT-0401/ KT-0404 / KT-0405 / KT-0406 / KT-0409</param>
         <param name="Гарантійний період (міс)">24</param>
       </offer>
       <offer id="WP0109" available="false">
@@ -155277,7 +155277,7 @@
         <param name="Колір">Рожевий</param>
       </offer>
       <offer id="KR5319" available="true">
-        <url>https://ol.partners/products/instalyatsii-ta-klavishi/klavishi-zmivu-ta-komplektuyuchi/panel-zmivu-koer-kt060301-240x160x10mm-plastikova-knopka-liniyna-kr5319</url>
+        <url>https://ol.partners/products/instalyatsii-ta-klavishi/klavishi-zmivu-ta-komplektuyuchi/panel-zmivu-koer-kt060301-240x160x10mm-plastikova-knopka-liniyna-kolir-khrom-kr5319</url>
         <price>1118.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>bae524de-6825-4762-bea5-e2c2373606ee</categoryId>
@@ -155288,7 +155288,7 @@
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
         <availabilityStatus>Достатньо</availabilityStatus>
-        <name>Панель змиву Koer KT-0603-01 240x160x10mm пластикова, кнопка лінійна (KR5319)</name>
+        <name>Панель змиву Koer KT-0603-01 240x160x10mm пластикова, кнопка лінійна (колір хром) (KR5319)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR5319</vendorCode>
         <param name="Од. в упак.">10</param>
@@ -155302,7 +155302,7 @@
         <param name="Торгова марка">KOER</param>
         <param name="Призначення">Для інсталяції</param>
         <param name="Серія">KT-0603</param>
-        <param name="Сумісність з панеллю/інсталляцією">Сумісність з інсталяцією KT-0401/KT-0404/KT-0405/KT-0406</param>
+        <param name="Сумісність з панеллю/інсталляцією">Сумісна з інсталляціїєю KT-0401/ KT-0404 / KT-0405 / KT-0406 / KT-0409</param>
         <param name="Гарантійний період (міс)">24</param>
         <param name="Керування">Механічне</param>
         <param name="Матеріал">ABS-пластик</param>
@@ -157766,13 +157766,13 @@
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
         <availabilityStatus>Достатньо</availabilityStatus>
-        <name>Інсталяція для підвісного унітазу Koer KT-0503-01 500x126x1150mm з панеллю змиву KT-0606-01 Хром (KR5347)</name>
+        <name>Інсталяція для підвісного унітазу Koer KT-0503-01 500x126x1150mm з панеллю змиву KT-0606-01 хром (KR5347)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR5347</vendorCode>
         <param name="Од. в упак.">1</param>
         <param name="Об'єм ящ.">0.093</param>
         <param name="Вага ящ.">16</param>
-        <param name="Резервуар для освіжаючих таблеток">Ні</param>
+        <param name="Резервуар для освіжаючих таблеток">Так</param>
         <param name="Товщина бачка (мм)">90</param>
         <param name="Матеріал кріплення">Латунне різблення</param>
         <param name="Підключення">Зліва / ззаду / зверху</param>
@@ -161026,13 +161026,13 @@
         <param name="Серія">KT-0609</param>
         <param name="Гарантійний період (міс)">24</param>
         <param name="Комплектація">Панель змиву, кріплення.</param>
-        <param name="Сумісність з панеллю/інсталляцією">Сумісність з інсталляціїєю KT-0401/ KT-0404 / KT-0405 / KT-0406 / KT-0409</param>
+        <param name="Сумісність з панеллю/інсталляцією">Сумісна з інсталляціїєю KT-0401/ KT-0404 / KT-0405 / KT-0406 / KT-0409</param>
         <param name="Форма кнопки зливу">Лінійна прямокутна</param>
         <param name="Колір">Графіт</param>
         <param name="Колір панелі">Графіт</param>
         <param name="Ширина (мм)">240</param>
         <param name="Висота (мм)">160</param>
-        <param name="Розміри виробу (ВхШхГ)">160х240х7</param>
+        <param name="Розміри виробу (ВхШхГ)">160x240x7</param>
         <param name="Керування">Механічне</param>
         <param name="Матеріал">ABS-пластик</param>
       </offer>
@@ -161835,7 +161835,7 @@
         <param name="Комбінований гідрозатвор (мм)">40,00</param>
       </offer>
       <offer id="KR5175" available="true">
-        <url>https://ol.partners/products/instalyatsii-ta-klavishi/klavishi-zmivu-ta-komplektuyuchi/panel-zmivu-koer-kt060103-plastikova-knopka-krugla-kr5175</url>
+        <url>https://ol.partners/products/instalyatsii-ta-klavishi/klavishi-zmivu-ta-komplektuyuchi/panel-zmivu-koer-kt060103-240x160x10mm-plastikova-knopka-krugla-kolir-biliy-kr5175</url>
         <price>621.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>bae524de-6825-4762-bea5-e2c2373606ee</categoryId>
@@ -161846,14 +161846,14 @@
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
         <availabilityStatus>Достатньо</availabilityStatus>
-        <name>Панель змиву KOER KT-0601-03 пластикова, кнопка кругла (KR5175)</name>
+        <name>Панель змиву Koer KT-0601-03 240x160x10mm пластикова, кнопка кругла (колір білий) (KR5175)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR5175</vendorCode>
         <param name="Од. в упак.">10</param>
         <param name="Об'єм ящ.">0.031</param>
         <param name="Вага ящ.">4.5</param>
         <param name="Гарантійний період (міс)">24</param>
-        <param name="Сумісність з панеллю/інсталляцією">Сумісність з інсталяцією KT-0401/KT-0404/KT-0405/KT-0406</param>
+        <param name="Сумісність з панеллю/інсталляцією">Сумісна з інсталляціїєю KT-0401/ KT-0404 / KT-0405 / KT-0406 / KT-0409</param>
         <param name="Комплектація">Панель змиву, кріплення.</param>
         <param name="Матеріал">ABS-пластик</param>
         <param name="Керування">Механічне</param>
@@ -162135,7 +162135,7 @@
         <param name="Країна бренду">Німеччина</param>
         <param name="Тип монтажу">На чашу унітазу</param>
       </offer>
-      <offer id="KP3159" available="true">
+      <offer id="KP3159" available="false">
         <url>https://ol.partners/products/truboprovodi-ta-zyednannya/fitingi/zyednannya-dlya-trub-z-polipropilenu/mufta-dlya-kolektora-koer-k0284pro-20x16x20mm-ppr-z-perekhodom-na-pex-kp3159</url>
         <price>92.00</price>
         <currencyId>UAH</currencyId>
@@ -162143,8 +162143,8 @@
         <picture>https://ol.partners/Products/Photo/6AD79B6D-A093-46BB-A0CB-99D445D627AF</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/b6cfafb5-d269-4e16-810f-3015ac14091e/Image_04_koer.jpg</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Муфта для колектора Koer K0284.Pro - 20x16x2.0mm PPR з переходом на PEX (KP3159)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KP3159</vendorCode>
@@ -162363,7 +162363,7 @@
         <param name="Діаметр входу 1 (дюйм)">1</param>
       </offer>
       <offer id="KR5181" available="true">
-        <url>https://ol.partners/products/instalyatsii-ta-klavishi/klavishi-zmivu-ta-komplektuyuchi/panel-zmivu-koer-kt060205-plastikova-knopka-kvadratna-kr5181</url>
+        <url>https://ol.partners/products/instalyatsii-ta-klavishi/klavishi-zmivu-ta-komplektuyuchi/panel-zmivu-koer-kt060205-240x160x10mm-plastikova-knopka-kvadratna-kolir-chorniy-matoviy-kr5181</url>
         <price>994.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>bae524de-6825-4762-bea5-e2c2373606ee</categoryId>
@@ -162375,7 +162375,7 @@
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
         <availabilityStatus>Достатньо</availabilityStatus>
-        <name>Панель змиву KOER KT-0602-05 пластикова, кнопка квадратна (KR5181)</name>
+        <name>Панель змиву Koer KT-0602-05 240x160x10mm пластикова, кнопка квадратна (колір чорний матовий) (KR5181)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR5181</vendorCode>
         <param name="Од. в упак.">10</param>
@@ -162391,7 +162391,7 @@
         <param name="Вид виробу">Панель змиву для механічної інсталяції</param>
         <param name="Гарантійний період (міс)">24</param>
         <param name="Комплектація">Панель змиву, кріплення.</param>
-        <param name="Сумісність з панеллю/інсталляцією">Сумісність з інсталяцією KT-0401/KT-0404/KT-0405/KT-0406</param>
+        <param name="Сумісність з панеллю/інсталляцією">Сумісна з інсталляціїєю KT-0401/ KT-0404 / KT-0405 / KT-0406 / KT-0409</param>
         <param name="Розміри виробу (ВхШхГ)">160x240x10</param>
         <param name="Ширина (мм)">240</param>
         <param name="Висота (мм)">160</param>
@@ -163348,7 +163348,7 @@
         <param name="Діаметр підключення (дюйм)">1/2</param>
       </offer>
       <offer id="KR5173" available="true">
-        <url>https://ol.partners/products/instalyatsii-ta-klavishi/sistemi-instalyatsii/komplekt-instalyatsiyniy-dlya-unitazu-koer-kt050205-z-pan-zmivu-kt060205-chorna-matova-zvukoiz-kr5173</url>
+        <url>https://ol.partners/products/instalyatsii-ta-klavishi/sistemi-instalyatsii/instalyatsiya-dlya-pidvisnogo-unitazu-koer-kt050205-500x165x1125mm-z-panellyu-zmivu-kt060205-chorna-matova-kr5173</url>
         <price>6583.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>bae524de-6825-4762-bea5-e2c2373606ee</categoryId>
@@ -163375,7 +163375,7 @@
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
         <availabilityStatus>Достатньо</availabilityStatus>
-        <name>Комплект інсталяційний для унітазу Koer KT-0502-05 (з пан. змиву KT-0602-05 Чорна матова +звукоіз.)  (KR5173)</name>
+        <name>Інсталяція для підвісного унітазу Koer KT-0502-05 500x165x1125mm з панеллю змиву KT-0602-05 чорна матова (KR5173)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR5173</vendorCode>
         <param name="Од. в упак.">1</param>
@@ -163409,7 +163409,7 @@
         <param name="Резервуар для освіжаючих таблеток">Ні</param>
         <param name="Регулювання змиву (л)">3 / 6</param>
         <param name="Можливість регулювання зливного коліна">Так - 3 положення</param>
-        <param name="Сумісність з комплектуючою">Сумісність з панелями змиву: KT-0601, KT-0602, KT-0603, KT-0604</param>
+        <param name="Сумісність з комплектуючою">Сумісна із панелями змиву: KT-0601, KT-0602, KT-0603, KT-0604, KT-0608, KT-0609, KT-0612</param>
         <param name="Комплектація">KOER KT-0602-05 Панель змиву пластикова, кнопка квадратна (колір чорний матовий)</param>
         <param name="Гарантія на комплектуючі (міс)">36</param>
         <param name="Додаткові характеристики">Наявність додаткових вертикальних опор немає</param>
@@ -165640,7 +165640,7 @@
         <param name="Поверхня">Глянцева</param>
       </offer>
       <offer id="KR5342" available="true">
-        <url>https://ol.partners/products/instalyatsii-ta-klavishi/klavishi-zmivu-ta-komplektuyuchi/panel-zmivu-plastikova-koer-kt060601-157x198x3mm-knopka-zakruglena-kr5342</url>
+        <url>https://ol.partners/products/instalyatsii-ta-klavishi/klavishi-zmivu-ta-komplektuyuchi/panel-zmivu-koer-kt060601-157x198x10mm-plastikova-knopka-zakruglena-kolir-khrom-kr5342</url>
         <price>870.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>bae524de-6825-4762-bea5-e2c2373606ee</categoryId>
@@ -165651,7 +165651,7 @@
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
         <availabilityStatus>Достатньо</availabilityStatus>
-        <name>Панель змиву пластикова Koer KT-0606-01 157x198x3mm, кнопка закруглена (KR5342)</name>
+        <name>Панель змиву Koer KT-0606-01 157x198x10mm пластикова, кнопка закруглена (колір хром) (KR5342)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR5342</vendorCode>
         <param name="Од. в упак.">10</param>
@@ -165670,9 +165670,9 @@
         <param name="Колір">Хром</param>
         <param name="Гарантійний період (міс)">24</param>
         <param name="Комплектація">Панель змиву, кріплення.</param>
-        <param name="Сумісність з панеллю/інсталляцією">Сумісність з інсталяцією KT-0407</param>
+        <param name="Сумісність з панеллю/інсталляцією">Сумісна з інсталляціїєю KT-0407</param>
         <param name="Висота (мм)">198</param>
-        <param name="Розміри виробу (ВхШхГ)">198x157x3</param>
+        <param name="Розміри виробу (ВхШхГ)">198x157x10</param>
         <param name="Ширина (мм)">157</param>
         <param name="Керування">Пневматичне</param>
         <param name="Матеріал">ABS-пластик</param>
@@ -167299,7 +167299,7 @@
         <param name="Матеріал виробу">Метал</param>
       </offer>
       <offer id="KR5325" available="true">
-        <url>https://ol.partners/products/instalyatsii-ta-klavishi/klavishi-zmivu-ta-komplektuyuchi/panel-zmivu-koer-kt060407-240x160x10mm-plastikova-knopka-zakruglena-kr5325</url>
+        <url>https://ol.partners/products/instalyatsii-ta-klavishi/klavishi-zmivu-ta-komplektuyuchi/panel-zmivu-koer-kt060407-240x160x10mm-plastikova-knopka-zakruglena-kolir-grafit-kr5325</url>
         <price>1615.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>bae524de-6825-4762-bea5-e2c2373606ee</categoryId>
@@ -167309,7 +167309,7 @@
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
         <availabilityStatus>Достатньо</availabilityStatus>
-        <name>Панель змиву Koer KT-0604-07 240x160x10mm пластикова, кнопка закруглена (KR5325)</name>
+        <name>Панель змиву Koer KT-0604-07 240x160x10mm пластикова, кнопка закруглена (колір графіт) (KR5325)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR5325</vendorCode>
         <param name="Од. в упак.">10</param>
@@ -167327,7 +167327,7 @@
         <param name="Серія">KT-0604</param>
         <param name="Тип виробу">Панелі змиву для інсталяцій</param>
         <param name="Гарантійний період (міс)">24</param>
-        <param name="Сумісність з панеллю/інсталляцією">Сумісність з інсталяцією KT-0401/KT-0404/KT-0405/KT-0406</param>
+        <param name="Сумісність з панеллю/інсталляцією">Сумісна з інсталляціїєю KT-0401/ KT-0404 / KT-0405 / KT-0406 / KT-0409</param>
         <param name="Колір">Графіт</param>
         <param name="Форма кнопки зливу">Лінійна закруглена</param>
         <param name="Колір панелі">Графіт</param>
@@ -169709,7 +169709,7 @@
       </offer>
       <offer id="KR5565" available="true">
         <url>https://ol.partners/products/sistemi-zakhistu/komplekti-zakhistu-vid-protikannya-vodi/sistema-kontrolyu-protikannya-vodi-koer-kr1502set-smart-kr5565</url>
-        <price>14114.00</price>
+        <price>13984.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>a3fca00e-0578-41a0-8f4d-59220071a9b0</categoryId>
         <picture>https://ol.partners/Products/Photo/5CEF8E3C-B2CB-45DD-8178-5BAB190067E8</picture>
@@ -171484,7 +171484,7 @@
         <param name="Матеріал виробу">Метал</param>
       </offer>
       <offer id="KR6126" available="true">
-        <url>https://ol.partners/products/instalyatsii-ta-klavishi/klavishi-zmivu-ta-komplektuyuchi/panel-zmivu-koer-kt060812-240x160x10mm-plastik-knopka-zakruglena-kolir-matove-zoloto-kr6126</url>
+        <url>https://ol.partners/products/instalyatsii-ta-klavishi/klavishi-zmivu-ta-komplektuyuchi/panel-zmivu-koer-kt060812-240x160x10mm-plastikova-knopka-zakruglena-kolir-matove-zoloto-kr6126</url>
         <price>1615.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>bae524de-6825-4762-bea5-e2c2373606ee</categoryId>
@@ -171498,7 +171498,7 @@
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
         <availabilityStatus>Достатньо</availabilityStatus>
-        <name>Панель змиву Koer KT-0608-12 240x160x10mm пластик., кнопка закруглена (колір матове золото) (KR6126)</name>
+        <name>Панель змиву Koer KT-0608-12 240x160x10mm пластикова, кнопка закруглена (колір матове золото) (KR6126)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR6126</vendorCode>
         <param name="Од. в упак.">10</param>
@@ -171515,12 +171515,12 @@
         <param name="Колір">Золото матове</param>
         <param name="Форма кнопки зливу">Лінійна закруглена</param>
         <param name="Колір панелі">Золото матове</param>
-        <param name="Розміри виробу (ВхШхГ)">160х240х10</param>
+        <param name="Розміри виробу (ВхШхГ)">160x240x10</param>
         <param name="Ширина (мм)">240</param>
         <param name="Висота (мм)">160</param>
         <param name="Матеріал">ABS-пластик</param>
         <param name="Керування">Механічне</param>
-        <param name="Сумісність з панеллю/інсталляцією">Сумісність з інсталляціїєю KT-0401/ KT-0404 / KT-0405 / KT-0406 / KT-0409</param>
+        <param name="Сумісність з панеллю/інсталляцією">Сумісна з інсталляціїєю KT-0401/ KT-0404 / KT-0405 / KT-0406 / KT-0409</param>
         <param name="Комплектація">Панель змиву, кріплення.</param>
         <param name="Гарантійний період (міс)">24</param>
       </offer>
@@ -174515,7 +174515,7 @@
         <param name="Комплектація">Мийка, сифон, кріплення, ущільнювальна стрічка, сітка</param>
       </offer>
       <offer id="KR6238" available="true">
-        <url>https://ol.partners/products/instalyatsii-ta-klavishi/klavishi-zmivu-ta-komplektuyuchi/panel-zmivu-koer-kt060602-157x198x3mm-plastikova-knopka-zakruglena-ss-color-kr6238</url>
+        <url>https://ol.partners/products/instalyatsii-ta-klavishi/klavishi-zmivu-ta-komplektuyuchi/panel-zmivu-koer-kt060602-157x198x10mm-plastikova-knopka-zakruglena-ss-color-kr6238</url>
         <price>1242.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>bae524de-6825-4762-bea5-e2c2373606ee</categoryId>
@@ -174526,7 +174526,7 @@
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
         <availabilityStatus>Достатньо</availabilityStatus>
-        <name>Панель змиву Koer KT-0606-02 157x198x3mm пластикова, кнопка закруглена (SS Color) (KR6238)</name>
+        <name>Панель змиву Koer KT-0606-02 157x198x10mm пластикова, кнопка закруглена (SS Color) (KR6238)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR6238</vendorCode>
         <param name="Од. в упак.">10</param>
@@ -174549,7 +174549,7 @@
         <param name="Колір">Нержавіюча сталь</param>
         <param name="Колір панелі">Нержавіюча сталь</param>
         <param name="Гарантійний період (міс)">24</param>
-        <param name="Сумісність з панеллю/інсталляцією">Сумісність з інсталяцією KT-0407</param>
+        <param name="Сумісність з панеллю/інсталляцією">Сумісна з інсталляціїєю KT-0407</param>
         <param name="Комплектація">Панель змиву, кріплення.</param>
       </offer>
       <offer id="KA0016" available="true">
@@ -178094,7 +178094,7 @@
         <param name="Особливості">Гідрозатвор 50 мм; Відвідна гнучка трубка до каналізації завдовжки 330-800 мм; Діаметр трубки для підключення до каналізації 40 40/50 мм; Діаметр корпусу круглого переливу 38 мм.</param>
       </offer>
       <offer id="KR5178" available="true">
-        <url>https://ol.partners/products/instalyatsii-ta-klavishi/klavishi-zmivu-ta-komplektuyuchi/panel-zmivu-koer-kt060201-plastikova-knopka-kvadratna-kr5178</url>
+        <url>https://ol.partners/products/instalyatsii-ta-klavishi/klavishi-zmivu-ta-komplektuyuchi/panel-zmivu-koer-kt060201-240x160x10mm-plastikova-knopka-kvadratna-kolir-khrom-kr5178</url>
         <price>932.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>bae524de-6825-4762-bea5-e2c2373606ee</categoryId>
@@ -178105,7 +178105,7 @@
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
         <availabilityStatus>Достатньо</availabilityStatus>
-        <name>Панель змиву KOER KT-0602-01 пластикова, кнопка квадратна (KR5178)</name>
+        <name>Панель змиву Koer KT-0602-01 240x160x10mm пластикова, кнопка квадратна (колір хром) (KR5178)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR5178</vendorCode>
         <param name="Од. в упак.">10</param>
@@ -178124,7 +178124,7 @@
         <param name="Країна виробник">Китай</param>
         <param name="Серія">KT-0602</param>
         <param name="Країна бренду">Чехія</param>
-        <param name="Сумісність з панеллю/інсталляцією">Сумісність з інсталяцією KT-0401/KT-0404/KT-0405/KT-0406</param>
+        <param name="Сумісність з панеллю/інсталляцією">Сумісна з інсталляціїєю KT-0401/ KT-0404 / KT-0405 / KT-0406 / KT-0409</param>
         <param name="Гарантійний період (міс)">24</param>
         <param name="Комплектація">Панель змиву, кріплення.</param>
         <param name="Розміри виробу (ВхШхГ)">160x240x10</param>
@@ -184100,7 +184100,7 @@
         <param name="Колір панелі">Графіт</param>
         <param name="Форма кнопки зливу">Лінійна закруглена</param>
         <param name="Колір">Графіт</param>
-        <param name="Розміри виробу (ВхШхГ)">160х240х10</param>
+        <param name="Розміри виробу (ВхШхГ)">160x240x10</param>
         <param name="Ширина (мм)">240</param>
         <param name="Висота (мм)">160</param>
         <param name="Матеріал">ABS-пластик</param>
@@ -184115,7 +184115,7 @@
         <param name="Тип монтажу">Настінний</param>
         <param name="Комплектація">Панель змиву, кріплення.</param>
         <param name="Гарантійний період (міс)">24</param>
-        <param name="Сумісність з панеллю/інсталляцією">Сумісність з інсталляціїєю KT-0401/ KT-0404 / KT-0405 / KT-0406 / KT-0409</param>
+        <param name="Сумісність з панеллю/інсталляцією">Сумісна з інсталляціїєю KT-0401/ KT-0404 / KT-0405 / KT-0406 / KT-0409</param>
       </offer>
     </offers>
   </shop>
