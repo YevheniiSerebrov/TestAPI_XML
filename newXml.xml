@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-05-31 03:41">
+<yml_catalog date="2026-06-01 03:56">
   <shop>
     <name>O&amp;L</name>
     <company>O&amp;L</company>
@@ -12943,8 +12943,8 @@
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR6157</vendorCode>
         <param name="Од. в упак.">20</param>
-        <param name="Об'єм ящ.">0</param>
-        <param name="Вага ящ.">0</param>
+        <param name="Об'єм ящ.">0.007</param>
+        <param name="Вага ящ.">2.6</param>
         <param name="Гарантійний період (міс)">12</param>
         <param name="Комплектація">Гачок, кріплення</param>
         <param name="Тип монтажу">Настінний</param>
@@ -74484,7 +74484,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/db516cff-1fe5-44da-802f-ff953273cc6a/image_01.jpg</picture>
         <vendor>GROHE</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Настінні куточки Grohe Rapid SL (3855800M)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>3855800M</vendorCode>
@@ -98494,7 +98494,7 @@
         <param name="C (мм)">80,00</param>
         <param name="B (мм)">47,00</param>
       </offer>
-      <offer id="1024682430" available="true">
+      <offer id="1024682430" available="false">
         <url>https://ol.partners/products/aksesuari-dlya-vannoi/yorzhiki-dlya-unitazu/tualetna-schitka-u-komplekti-grohe-essentials-1024682430</url>
         <price>4050.00</price>
         <currencyId>UAH</currencyId>
@@ -98502,8 +98502,8 @@
         <picture>https://ol.partners/Products/Photo/CBC5807A-2E03-4850-9203-26989FAF6B4C</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/04b37f2d-ce51-4d87-a3fa-36dd5184e10c/image_01.jpg</picture>
         <vendor>GROHE</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Туалетна щітка у комплекті Grohe Essentials (1024682430)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>1024682430</vendorCode>
@@ -108914,8 +108914,8 @@
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR5224</vendorCode>
         <param name="Од. в упак.">54</param>
-        <param name="Об'єм ящ.">0</param>
-        <param name="Вага ящ.">0</param>
+        <param name="Об'єм ящ.">0.085</param>
+        <param name="Вага ящ.">44.7</param>
         <param name="Клас захисту корпусів електронного обладнання">IP 64</param>
         <param name="Напруга мережі (V)">220</param>
         <param name="Максимальний тиск (бар)">40</param>
@@ -140487,8 +140487,8 @@
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>ZX6151</vendorCode>
         <param name="Од. в упак.">10</param>
-        <param name="Об'єм ящ.">0</param>
-        <param name="Вага ящ.">0</param>
+        <param name="Об'єм ящ.">0.09</param>
+        <param name="Вага ящ.">15.3</param>
         <param name="Торгова марка">ZERIX</param>
       </offer>
       <offer id="NF3073" available="true">
@@ -151171,7 +151171,7 @@
         <param name="Гарантійний період (міс)">12</param>
         <param name="Колір">Чорний</param>
       </offer>
-      <offer id="40460001" available="true">
+      <offer id="40460001" available="false">
         <url>https://ol.partners/products/aksesuari-dlya-vannoi/trimachi-dlya-rushnikiv/kiltse-dlya-rushnika-grohe-bau-cosmopolitan-neutral-40460001</url>
         <price>1566.00</price>
         <currencyId>UAH</currencyId>
@@ -151184,8 +151184,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/5b5b0dc4-9248-4a2d-99d3-476f62e44410/image_02.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/5b5b0dc4-9248-4a2d-99d3-476f62e44410/image_05.jpg</picture>
         <vendor>GROHE</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Кільце для рушника Grohe Bau Cosmopolitan Neutral (40460001)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>40460001</vendorCode>
@@ -154131,8 +154131,8 @@
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>ZX6150</vendorCode>
         <param name="Од. в упак.">10</param>
-        <param name="Об'єм ящ.">0</param>
-        <param name="Вага ящ.">0</param>
+        <param name="Об'єм ящ.">0.088</param>
+        <param name="Вага ящ.">12.2</param>
         <param name="Торгова марка">ZERIX</param>
       </offer>
       <offer id="KR2885" available="true">
@@ -159471,7 +159471,7 @@
         <param name="Підключення">Бокове</param>
         <param name="Колір">Білий (RAL 9016)</param>
       </offer>
-      <offer id="40824000" available="true">
+      <offer id="40824000" available="false">
         <url>https://ol.partners/products/zapchastini-dlya-zmishuvacha/donniy-klapan-dlya-rakovini/donniy-klapan-dlya-rakovini-universalniy-zbez-perelivu-grohe-40824000-avtomatichniy-slickslack-kolir-khrom-1-14-40824000</url>
         <price>1242.00</price>
         <currencyId>UAH</currencyId>
@@ -159480,8 +159480,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/f1ebfdea-9801-4e3a-b5c7-cec87846d40c/image_01.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/f1ebfdea-9801-4e3a-b5c7-cec87846d40c/image_02.jpg</picture>
         <vendor>GROHE</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Донний клапан для раковини універсальний (з/без переливу) GROHE 40824000 автоматичний (СLICK-СLACK) (Колір хром) 1 1/4'' (40824000)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>40824000</vendorCode>
@@ -159843,8 +159843,8 @@
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>ZX6152</vendorCode>
         <param name="Од. в упак.">10</param>
-        <param name="Об'єм ящ.">0</param>
-        <param name="Вага ящ.">0</param>
+        <param name="Об'єм ящ.">0.098</param>
+        <param name="Вага ящ.">15</param>
         <param name="Торгова марка">ZERIX</param>
       </offer>
       <offer id="KR3114" available="true">
