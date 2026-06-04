@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-06-03 03:58">
+<yml_catalog date="2026-06-04 03:53">
   <shop>
     <name>O&amp;L</name>
     <company>O&amp;L</company>
@@ -1179,7 +1179,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/7f135292-c3c2-450b-beb5-34c69ae8bf4b/image_02.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Колекторний блок з витратомірами та євроконусами Koer KR.1210-8 - 1"x8 WAYS (KR5270)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR5270</vendorCode>
@@ -4642,7 +4642,7 @@
         <param name="Матеріал">Поліпропілен</param>
         <param name="Тип з'єднання">Різьба-пайка</param>
         <param name="Тип">Згін-американка</param>
-        <param name="Вид виробу">Зганяння-американка</param>
+        <param name="Вид виробу">Згін-американка</param>
         <param name="Тип виробу">Труби та фітинги PPR</param>
         <param name="Країна бренду">Україна</param>
         <param name="Призначення">Для труб</param>
@@ -6190,7 +6190,7 @@
         <param name="Покриття">Немає</param>
         <param name="Модель">KR.341.WN</param>
         <param name="Тип виробу">Латунний фітинг</param>
-        <param name="Вид виробу">Зганяння-американка</param>
+        <param name="Вид виробу">Згін-американка</param>
         <param name="Призначення">Для труб</param>
         <param name="Тип">Згін-американка</param>
         <param name="Країна бренду">Чехія</param>
@@ -7785,15 +7785,15 @@
         <param name="Наявність кришки">Так</param>
         <param name="Матеріал комплектуючих">Корпус та ручка – сталь з антикорозійним покриттям, внутрішня чашка та щітка з поліпропілену.</param>
       </offer>
-      <offer id="KR4927" available="true">
+      <offer id="KR4927" available="false">
         <url>https://ol.partners/products/truboprovodi-ta-zyednannya/ustatkuvannya-dlya-montazhu/instrumenti-dlya-montazhu/nabir-aksialnogo-presinstrumentu-dlya-natyazhnogo-fitingu-ruchnoi-roboti-montazhu-koer-kawset100-kr4927</url>
         <price>13800.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>cccd3e1f-6b84-49c8-b342-dee61a5caf10</categoryId>
         <picture>https://ol.partners/Products/Photo/3C3ECB2E-5B15-4B0A-8844-214D8A4728E4</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Набір аксіального прес-інструменту для натяжного фітингу ручної роботи. монтажу Koer KAW.SET-100 (KR4927)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR4927</vendorCode>
@@ -12873,7 +12873,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/30789287-a8bb-4975-bef0-a34f87d543ba/image_01.jpg</picture>
         <vendor>EUROPRODUCT</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Сталевий радіатор EUROPRODUCT 22 x 600 x 1400 (бокове підключення) (EP6201)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>EP6201</vendorCode>
@@ -14251,8 +14251,8 @@
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR6190</vendorCode>
         <param name="Од. в упак.">10</param>
-        <param name="Об'єм ящ.">0</param>
-        <param name="Вага ящ.">0</param>
+        <param name="Об'єм ящ.">0.073</param>
+        <param name="Вага ящ.">12.4</param>
         <param name="Торгова марка">KOER</param>
         <param name="Модель">AS-0109-2-01</param>
         <param name="Тип виробу">Тримачі</param>
@@ -15412,7 +15412,7 @@
         <param name="Од. в упак.">120</param>
         <param name="Об'єм ящ.">0.018</param>
         <param name="Вага ящ.">20</param>
-        <param name="Вид виробу">Зганяння-американка</param>
+        <param name="Вид виробу">Згін-американка</param>
         <param name="Торгова марка">KOER</param>
         <param name="Тип виробу">Латунний фітинг</param>
         <param name="Країна бренду">Чехія</param>
@@ -16046,7 +16046,6 @@
         <param name="Призначення">Для труб</param>
         <param name="Тип виробу">Латунний фітинг</param>
         <param name="Країна бренду">Німеччина</param>
-        <param name="Вид виробу">Згін-американка</param>
         <param name="Колір">Сталевий</param>
         <param name="Покриття">Нікель</param>
         <param name="Діаметр підключення (дюйм)">3/4</param>
@@ -17792,7 +17791,7 @@
         <param name="Покриття">Нікель</param>
         <param name="Колір">Сталевий</param>
         <param name="Країна бренду">Німеччина</param>
-        <param name="Вид виробу">Зганяння-американка</param>
+        <param name="Вид виробу">Згін-американка</param>
         <param name="Модель">NFC.511</param>
         <param name="Торгова марка">NOLF</param>
         <param name="Призначення">Для труб</param>
@@ -18434,7 +18433,7 @@
         <param name="Об'єм ящ.">0.014</param>
         <param name="Вага ящ.">18.95</param>
         <param name="Модель">KR.341</param>
-        <param name="Вид виробу">Зганяння-американка</param>
+        <param name="Вид виробу">Згін-американка</param>
         <param name="Тип">Згін-американка</param>
         <param name="Торгова марка">KOER</param>
         <param name="Країна бренду">Чехія</param>
@@ -21538,7 +21537,7 @@
         <picture>https://ol.partners/Products/Photo/11A456EF-4D43-4FC6-96A3-F0C296B2A4B9</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Душовий трап з нержавіючої сталі SUS304 Koer FD29-70x850 (AC0678)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>AC0678</vendorCode>
@@ -25940,7 +25939,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/523f73f4-bcea-4fea-80f6-1c90baa00452/image_01.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Гідроакумулятор горизонтальний Koer KHTS-100 (100л, корпус-сталь 1,2 мм, фланець-нержавіюча сталь) (KP3148)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KP3148</vendorCode>
@@ -26291,7 +26290,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/5d0cd814-7fc2-48f2-a41c-d224539b0bc3/image_02.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Газова колонка KOER KWH.G0110 GRAY димохідна 10 л/хв, колір сірий (KR5555)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR5555</vendorCode>
@@ -28472,7 +28471,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/0cb78a82-211a-4e4a-8c1a-96c16b36addc/image_03.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Газова колонка KOER KWH.G0210 WHITE димохідна з модуляцієй 10 л/хв, колір білий (KR5556)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR5556</vendorCode>
@@ -29575,7 +29574,7 @@
         <param name="Модель">KR.342.CHR</param>
         <param name="Країна бренду">Чехія</param>
         <param name="Призначення">Для труб</param>
-        <param name="Вид виробу">Зганяння-американка</param>
+        <param name="Вид виробу">Згін-американка</param>
         <param name="Тип">Згін-американка</param>
         <param name="Торгова марка">KOER</param>
         <param name="Гарантійний період (міс)">84</param>
@@ -32136,7 +32135,7 @@
         <param name="Тип">Згін-американка</param>
         <param name="Торгова марка">KOER</param>
         <param name="Тип виробу">Латунний фітинг</param>
-        <param name="Вид виробу">Зганяння-американка</param>
+        <param name="Вид виробу">Згін-американка</param>
         <param name="Призначення">Для труб</param>
         <param name="Країна бренду">Чехія</param>
         <param name="B (мм)">33,50</param>
@@ -32334,7 +32333,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/82e79168-ea0b-4d24-8b4e-02959af167b8/image_02.jpg</picture>
         <vendor>MIXXUS</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Набір Mixxus SET-6045-200x1.0-PVD (мийка + змішувач + диспенсер) (MX0587)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>MX0587</vendorCode>
@@ -32379,7 +32378,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/ccdbe899-01f3-4beb-9167-d7c6fd48a3c2/image_10.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Відро для сміття сенсорне прямокутне Koer TC-020408-07 8 л колір графіт (KR5590)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR5590</vendorCode>
@@ -34189,8 +34188,8 @@
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR5694</vendorCode>
         <param name="Од. в упак.">70</param>
-        <param name="Об'єм ящ.">0</param>
-        <param name="Вага ящ.">0</param>
+        <param name="Об'єм ящ.">0.01</param>
+        <param name="Вага ящ.">13.4</param>
         <param name="Тип виробу">Латунний фітинг</param>
         <param name="Тип">Згін-американка</param>
         <param name="Торгова марка">KOER</param>
@@ -34228,7 +34227,7 @@
         <param name="H (мм)">47,50</param>
         <param name="D (мм)">19,20</param>
         <param name="Тип">Згін-американка</param>
-        <param name="Вид виробу">Зганяння-американка</param>
+        <param name="Вид виробу">Згін-американка</param>
         <param name="Країна бренду">Чехія</param>
         <param name="Тип виробу">Труби та фітинги PPR</param>
         <param name="Торгова марка">KOER</param>
@@ -35551,7 +35550,7 @@
         <picture>https://ol.partners/Products/Photo/AC77B800-415D-4E43-969E-A0FB0CED729F</picture>
         <vendor>KORADO</vendor>
         <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Радіатор сталевий Korado 22VK 500x1800 з нижнім підключенням (KO1070)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KO1070</vendorCode>
@@ -38020,7 +38019,7 @@
         <param name="Вага ящ.">17.2</param>
         <param name="Торгова марка">NOLF</param>
         <param name="Тип виробу">Латунний фітинг</param>
-        <param name="Вид виробу">Зганяння-американка</param>
+        <param name="Вид виробу">Згін-американка</param>
         <param name="Призначення">Для труб</param>
         <param name="Тип">Згін-американка</param>
         <param name="Модель">NFC.511-06</param>
@@ -39074,7 +39073,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/4941e350-c664-4eb6-979d-0e5ef3e1e9a8/image_01.jpg</picture>
         <vendor>EUROPRODUCT</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Сталевий радіатор Europroduct 22 x 600 x 1200 (бічне під'єднання) (EP6169)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>EP6169</vendorCode>
@@ -40139,7 +40138,7 @@
         <param name="C (мм)">14,00</param>
         <param name="Діаметр підключення (дюйм)">3/4</param>
         <param name="Країна бренду">Україна</param>
-        <param name="Вид виробу">Зганяння-американка</param>
+        <param name="Вид виробу">Згін-американка</param>
         <param name="Призначення">Для труб</param>
         <param name="Модель">EP.0422</param>
         <param name="Торгова марка">EUROPRODUCT</param>
@@ -43334,7 +43333,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/02bd41ba-894c-4d30-90ac-edcec6a4e6bb/image_02.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Колекторний блок з витратомірами та євроконусами Koer KR.1210-7 - 1"x7 WAYS (KR5269)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR5269</vendorCode>
@@ -43690,7 +43689,7 @@
         <param name="Об'єм ящ.">0.015</param>
         <param name="Вага ящ.">14.5</param>
         <param name="Модель">EP.0128</param>
-        <param name="Вид виробу">Зганяння-американка</param>
+        <param name="Вид виробу">Згін-американка</param>
         <param name="Тип">Згін-американка</param>
         <param name="Призначення">Для труб</param>
         <param name="Торгова марка">EUROPRODUCT</param>
@@ -44140,7 +44139,7 @@
         <param name="Вага ящ.">10.78</param>
         <param name="Призначення">Для труб</param>
         <param name="Країна бренду">Україна</param>
-        <param name="Вид виробу">Зганяння-американка</param>
+        <param name="Вид виробу">Згін-американка</param>
         <param name="Модель">EP.0072</param>
         <param name="Торгова марка">EUROPRODUCT</param>
         <param name="Тип">Згін-американка</param>
@@ -51283,7 +51282,7 @@
         <param name="Ширина (мм)">250</param>
         <param name="Гарантійний період (міс)">12</param>
       </offer>
-      <offer id="KP2775" available="false">
+      <offer id="KP2775" available="true">
         <url>https://ol.partners/products/aksesuari-ta-komplektuyuchi-dlya-kotliv/termostat-mekhanichniy-zanuryuvalniy-koer-kr1350-090c-kp2775</url>
         <price>388.00</price>
         <currencyId>UAH</currencyId>
@@ -51293,8 +51292,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/ffcb7de8-dd23-431a-978f-479a1a36578a/image_01.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/ffcb7de8-dd23-431a-978f-479a1a36578a/image_02.jpg</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Термостат механічний занурювальний Koer KR.1350 (0...+90*C) (KP2775)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KP2775</vendorCode>
@@ -51835,7 +51834,7 @@
         <param name="Колір">Сталевий</param>
         <param name="Покриття">Хром</param>
         <param name="Призначення">Для труб</param>
-        <param name="Вид виробу">Зганяння-американка</param>
+        <param name="Вид виробу">Згін-американка</param>
         <param name="Модель">KR.341.CHR</param>
         <param name="Торгова марка">KOER</param>
         <param name="Тип виробу">Латунний фітинг</param>
@@ -52506,7 +52505,7 @@
         <param name="Тип">Згін-американка</param>
         <param name="Торгова марка">EUROPRODUCT</param>
         <param name="Модель">EP.0074</param>
-        <param name="Вид виробу">Зганяння-американка</param>
+        <param name="Вид виробу">Згін-американка</param>
         <param name="Тип виробу">Труби та фітинги PPR</param>
         <param name="Діаметр підключення (мм)">32</param>
         <param name="Діаметр підключення (дюйм)">1</param>
@@ -52718,7 +52717,7 @@
         <param name="Особливості">Матеріал закладних деталей - Латунь CW617N нікельована</param>
         <param name="Торгова марка">KOER</param>
         <param name="Модель">K0134.PRO</param>
-        <param name="Вид виробу">Зганяння-американка</param>
+        <param name="Вид виробу">Згін-американка</param>
         <param name="Тип виробу">Труби та фітинги PPR</param>
         <param name="Країна бренду">Чехія</param>
         <param name="Тип">Згін-американка</param>
@@ -55272,7 +55271,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/4b8f4de4-4a40-4801-a7cf-59e8034ce2d1/image_04.jpg</picture>
         <vendor>MIXXUS</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Газова колонка Mixxus GWH-0112 BASIC WHITE димохідна 12 л/хв (WH0029)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>WH0029</vendorCode>
@@ -56384,7 +56383,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/8bd48321-266c-43bc-9c4a-0eb898a21dc3/image_02.jpg</picture>
         <vendor>MIXXUS</vendor>
         <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Водонагрівач 3 kW проточний, з індикатором температури, RESET, на мийку MIXXUS Electra 240-E (MI2749)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>MI2749</vendorCode>
@@ -56779,7 +56778,7 @@
         <param name="Тип">Згін-американка</param>
         <param name="Тип виробу">Латунний фітинг</param>
         <param name="Модель">NFC.521-10</param>
-        <param name="Вид виробу">Зганяння-американка</param>
+        <param name="Вид виробу">Згін-американка</param>
         <param name="Торгова марка">NOLF</param>
         <param name="Країна бренду">Німеччина</param>
         <param name="Призначення">Для труб</param>
@@ -59686,7 +59685,7 @@
         <param name="D (мм)">14,00</param>
         <param name="G (дюйм)">1/2</param>
         <param name="C (мм)">11,00</param>
-        <param name="Вид виробу">Зганяння-американка</param>
+        <param name="Вид виробу">Згін-американка</param>
         <param name="Тип виробу">Латунний фітинг</param>
         <param name="Призначення">Для труб</param>
         <param name="Тип">Згін-американка</param>
@@ -60382,7 +60381,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/cc8eb105-398b-47da-9933-d2d785477951/image_03.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Газова колонка KOER KWH.G0312 TURBO WHITE турбована 12 л/хв, колір білий (KR5557)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR5557</vendorCode>
@@ -60963,7 +60962,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/c6d0a149-6cf9-467c-8b83-7ed407f171cc/image_02.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Колекторний блок з витратомірами та євроконусами Koer KR.1210-6 - 1"x6 WAYS (KR5268)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR5268</vendorCode>
@@ -61637,7 +61636,7 @@
         <param name="Вага ящ.">27.75</param>
         <param name="Країна бренду">Україна</param>
         <param name="Торгова марка">EUROPRODUCT</param>
-        <param name="Вид виробу">Зганяння-американка</param>
+        <param name="Вид виробу">Згін-американка</param>
         <param name="Призначення">Для труб</param>
         <param name="Модель">EP.0421</param>
         <param name="Тип">Згін-американка</param>
@@ -61839,7 +61838,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/2d3e7548-5fc9-4d80-86e1-3ea85f686757/image_04.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Насосна станція Koer auto QB-80 24L (KP2762)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KP2762</vendorCode>
@@ -64824,7 +64823,7 @@
         <param name="Міжосьова відстань (мм)">180</param>
         <param name="Розміри виробу (ВхШхГ)">365x373x520</param>
       </offer>
-      <offer id="MP6479" available="true">
+      <offer id="MP6479" available="false">
         <url>https://ol.partners/products/keramika/rakovini/rakovina-pidvisnanakladna-mixxus-premium-quadro0202-600kh440kh120mm-otvir-pid-zmishuvach-pereliv-mp6479</url>
         <price>3657.00</price>
         <currencyId>UAH</currencyId>
@@ -64834,8 +64833,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/5449340d-e0bb-433f-8631-3b42b750c96c/image_09.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/5449340d-e0bb-433f-8631-3b42b750c96c/image_02.jpg</picture>
         <vendor>MIXXUS PREMIUM</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Раковина підвісна-накладна MIXXUS PREMIUM QUADRO-0202 600х440х120mm (отвір під змішувач, перелив) (MP6479)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>MP6479</vendorCode>
@@ -64987,8 +64986,8 @@
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>MP6719</vendorCode>
         <param name="Од. в упак.">1</param>
-        <param name="Об'єм ящ.">0</param>
-        <param name="Вага ящ.">0</param>
+        <param name="Об'єм ящ.">0.042</param>
+        <param name="Вага ящ.">17.6</param>
         <param name="Кількість вантажних місць">1</param>
         <param name="Вага брутто, кг">14,50</param>
         <param name="Об'єм, м3">0,04</param>
@@ -65697,7 +65696,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/84e7982c-4c04-4e63-9f1d-b79a3bfaafa0/image_03_KR2801.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Хомут трубний оцинкований Koer KCB.20 4 "(110-118) чорний (KR2801)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR2801</vendorCode>
@@ -66913,7 +66912,7 @@
         <param name="Модель">EP.0066</param>
         <param name="Тип">Згін-американка</param>
         <param name="Призначення">Для труб</param>
-        <param name="Вид виробу">Зганяння-американка</param>
+        <param name="Вид виробу">Згін-американка</param>
         <param name="Торгова марка">EUROPRODUCT</param>
         <param name="Тип виробу">Труби та фітинги PPR</param>
         <param name="Країна бренду">Україна</param>
@@ -69507,7 +69506,7 @@
         <param name="Об'єм ящ.">0.014</param>
         <param name="Вага ящ.">18.15</param>
         <param name="Призначення">Для труб</param>
-        <param name="Вид виробу">Зганяння-американка</param>
+        <param name="Вид виробу">Згін-американка</param>
         <param name="Модель">KR.341</param>
         <param name="Торгова марка">KOER</param>
         <param name="Тип виробу">Латунний фітинг</param>
@@ -69974,7 +69973,7 @@
         <param name="Колір">Сталевий</param>
         <param name="Гарантійний період (міс)">84</param>
       </offer>
-      <offer id="KP2776" available="false">
+      <offer id="KP2776" available="true">
         <url>https://ol.partners/products/aksesuari-ta-komplektuyuchi-dlya-kotliv/termostat-mekhanichniy-nakladniy-koer-kr1351-090c-kp2776</url>
         <price>372.00</price>
         <currencyId>UAH</currencyId>
@@ -69982,7 +69981,7 @@
         <picture>https://ol.partners/Products/Photo/D58BB39F-DD8D-4AB5-8ADE-158D0FBB5CB0</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/e5fd5c15-2a33-4715-ac66-c14acbaddf72/image_04_KR_1351.jpg</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>100</stock_quantity>
         <availabilityStatus>Достатньо</availabilityStatus>
         <name>Термостат механічний накладний Koer KR.1351 (0…+90*C) (KP2776)</name>
         <description>&lt;![CDATA[]]&gt;</description>
@@ -71737,7 +71736,7 @@
         <param name="Гарантійний період (міс)">84</param>
         <param name="Торгова марка">KOER</param>
         <param name="Призначення">Для труб</param>
-        <param name="Вид виробу">Зганяння-американка</param>
+        <param name="Вид виробу">Згін-американка</param>
         <param name="Тип виробу">Латунний фітинг</param>
         <param name="Тип">Згін-американка</param>
         <param name="Модель">KR.342</param>
@@ -78344,7 +78343,7 @@
         <param name="Діаметр підключення (дюйм)">2</param>
         <param name="d (мм)">61,80</param>
         <param name="Модель">K0140.PRO</param>
-        <param name="Вид виробу">Зганяння-американка</param>
+        <param name="Вид виробу">Згін-американка</param>
         <param name="Країна бренду">Чехія</param>
         <param name="Тип виробу">Труби та фітинги PPR</param>
         <param name="Тип">Згін-американка</param>
@@ -78936,7 +78935,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/e606d7a3-3b0a-4c7b-a0ee-660f109f0d32/image_02.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Колекторний блок з витратомірами та євроконусами Koer KR.1210-5 - 1"x5 WAYS (KR5267)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR5267</vendorCode>
@@ -79560,7 +79559,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/1c2259e6-811f-4853-892b-cd78e054d4a1/image_02.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Колекторний блок з витратомірами та євроконусами Koer KR.1210-12 - 1"x12 WAYS (KR5274)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR5274</vendorCode>
@@ -81044,7 +81043,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/0f92d007-20de-4408-aa78-0658e5ff43dc/image_02.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Колекторний блок з витратомірами та євроконусами Koer KR.1210-4 - 1"x4 WAYS (KR5266)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR5266</vendorCode>
@@ -82483,7 +82482,7 @@
         <param name="Модель">KR.342.CHR</param>
         <param name="Тип виробу">Латунний фітинг</param>
         <param name="Призначення">Для труб</param>
-        <param name="Вид виробу">Зганяння-американка</param>
+        <param name="Вид виробу">Згін-американка</param>
         <param name="Торгова марка">KOER</param>
         <param name="Країна бренду">Чехія</param>
         <param name="Тип">Згін-американка</param>
@@ -83150,7 +83149,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/7570c1ac-7bc2-4b2b-a648-264d29025113/image_04.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Газова колонка Koer KWH.G0110 WHITE димохідна 10 л/хв, колір білий (KR5553)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR5553</vendorCode>
@@ -83481,7 +83480,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/363f0e54-9fd4-49b5-8883-a4c717e096ac/image_01.jpg</picture>
         <vendor>GROHE</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Наповнюючий клапан Grohe Dally-Fvent (37095000)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>37095000</vendorCode>
@@ -83635,7 +83634,7 @@
         <param name="Робочий тиск (бар)">до 20</param>
         <param name="Матеріал виробу">Латунь/Латунь CW617N нікельована</param>
       </offer>
-      <offer id="KP3306" available="false">
+      <offer id="KP3306" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/nasosni-stantsii/nasosna-stantsiya-koer-msr-600-intelektualna-energozberigayucha-n62mq4kbmp600-vt-1x1-kp3306</url>
         <price>9690.00</price>
         <currencyId>UAH</currencyId>
@@ -83643,8 +83642,8 @@
         <picture>https://ol.partners/Products/Photo/C6D1C542-6603-43C5-8BAC-E15686CA30ED</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/292b6f26-753f-4dcc-ad16-cab79bcef0fd/image_01.jpg</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Насосна станція Koer MSR 600 інтелектуальна енергозберігаюча, Н=62М,Q=4кбМ,P=600 Вт, 1"x1" (KP3306)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KP3306</vendorCode>
@@ -84780,7 +84779,7 @@
         <param name="Колір">Сірий</param>
         <param name="Країна бренду">Україна</param>
         <param name="Призначення">Для труб</param>
-        <param name="Вид виробу">Зганяння-американка</param>
+        <param name="Вид виробу">Згін-американка</param>
         <param name="Тип">Згін-американка</param>
         <param name="Торгова марка">EUROPRODUCT</param>
         <param name="Тип виробу">Труби та фітинги PPR</param>
@@ -87711,7 +87710,7 @@
         <param name="Тип">Згін-американка</param>
         <param name="Країна бренду">Україна</param>
         <param name="Призначення">Для труб</param>
-        <param name="Вид виробу">Зганяння-американка</param>
+        <param name="Вид виробу">Згін-американка</param>
         <param name="Торгова марка">EUROPRODUCT</param>
         <param name="Модель">EP.0069</param>
         <param name="Тип з'єднання">Різьба-пайка</param>
@@ -88130,7 +88129,7 @@
         <param name="Призначення">Для труб</param>
         <param name="Торгова марка">EUROPRODUCT</param>
         <param name="Тип виробу">Труби та фітинги PPR</param>
-        <param name="Вид виробу">Зганяння-американка</param>
+        <param name="Вид виробу">Згін-американка</param>
         <param name="Тип">Згін-американка</param>
         <param name="Країна бренду">Україна</param>
         <param name="Модель">EP.0075</param>
@@ -89547,7 +89546,7 @@
         <param name="Країна бренду">Німеччина</param>
         <param name="Модель">NFC.511</param>
         <param name="Тип">Згін-американка</param>
-        <param name="Вид виробу">Зганяння-американка</param>
+        <param name="Вид виробу">Згін-американка</param>
         <param name="Торгова марка">NOLF</param>
         <param name="Призначення">Для труб</param>
         <param name="Гарантійний період (міс)">84</param>
@@ -90222,7 +90221,7 @@
         <param name="Гарантійний період (міс)">84</param>
         <param name="Тип">Згін-американка</param>
         <param name="Торгова марка">EUROPRODUCT</param>
-        <param name="Вид виробу">Зганяння-американка</param>
+        <param name="Вид виробу">Згін-американка</param>
         <param name="Тип виробу">Латунний фітинг</param>
         <param name="Призначення">Для труб</param>
         <param name="Модель">EP.0421</param>
@@ -91053,7 +91052,7 @@
         <param name="Сумісність з панеллю/інсталляцією">Сумісна з інсталляціїєю KT-0401/ KT-0404 / KT-0405 / KT-0406 / KT-0409</param>
         <param name="Гарантійний період (міс)">24</param>
       </offer>
-      <offer id="ZX4564" available="true">
+      <offer id="ZX4564" available="false">
         <url>https://ol.partners/products/miyki-dlya-kukhni/vrizni-miyki/miyka-kukhonna-zerix-zs4651s03-chorna-zx4564</url>
         <price>4520.00</price>
         <currencyId>UAH</currencyId>
@@ -91063,8 +91062,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/c06219d0-8899-4d9a-a88a-2725eab84c61/image_03.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/c06219d0-8899-4d9a-a88a-2725eab84c61/image_01.jpg</picture>
         <vendor>ZERIX</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Мийка кухонна Zerix ZS-4651S-03 Чорна (ZX4564)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>ZX4564</vendorCode>
@@ -92382,7 +92381,7 @@
         <param name="Країна бренду">Чехія</param>
         <param name="Модель">K0139.PRO</param>
         <param name="Призначення">Для труб</param>
-        <param name="Вид виробу">Зганяння-американка</param>
+        <param name="Вид виробу">Згін-американка</param>
         <param name="Тип виробу">Труби та фітинги PPR</param>
         <param name="Гарантійний період (міс)">84</param>
         <param name="Особливості">Матеріал закладних деталей - Латунь CW617N нікельована</param>
@@ -94787,7 +94786,7 @@
         <param name="D (мм)">24,10</param>
         <param name="Модель">K0130.PRO</param>
         <param name="Тип виробу">Труби та фітинги PPR</param>
-        <param name="Вид виробу">Зганяння-американка</param>
+        <param name="Вид виробу">Згін-американка</param>
         <param name="Призначення">Для труб</param>
         <param name="Країна бренду">Чехія</param>
         <param name="Тип">Згін-американка</param>
@@ -95404,7 +95403,7 @@
         <param name="Од. в упак.">60</param>
         <param name="Об'єм ящ.">0.03</param>
         <param name="Вага ящ.">26.35</param>
-        <param name="Вид виробу">Зганяння-американка</param>
+        <param name="Вид виробу">Згін-американка</param>
         <param name="Країна бренду">Україна</param>
         <param name="Тип">Згін-американка</param>
         <param name="Призначення">Для труб</param>
@@ -95780,7 +95779,7 @@
         <param name="Максимальний тиск (бар)">40,00</param>
         <param name="Тип виробу">Латунний фітинг</param>
         <param name="Торгова марка">KOER</param>
-        <param name="Вид виробу">Зганяння-американка</param>
+        <param name="Вид виробу">Згін-американка</param>
         <param name="Модель">KR.343</param>
         <param name="Країна бренду">Чехія</param>
         <param name="Призначення">Для труб</param>
@@ -96291,7 +96290,7 @@
         <param name="Вага ящ.">19.2</param>
         <param name="Тип з'єднання">Різьбовий</param>
         <param name="Матеріал">Латунь CW617N хромована</param>
-        <param name="Вид виробу">Зганяння-американка</param>
+        <param name="Вид виробу">Згін-американка</param>
         <param name="Тип">Згін-американка</param>
         <param name="Країна бренду">Чехія</param>
         <param name="Призначення">Для труб</param>
@@ -98298,7 +98297,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/9524ca69-88d0-467f-bb9a-ebdaa5a1a2ae/image_04.jpg</picture>
         <vendor>MIXXUS</vendor>
         <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Газова колонка MIXXUS GWH-0110 BASIC WHITE димохідна 10 л/хв (колір білий) (WH0022)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>WH0022</vendorCode>
@@ -100399,7 +100398,7 @@
         <param name="Вага ящ.">18.5</param>
         <param name="Покриття">Нікель</param>
         <param name="Колір">Сталевий</param>
-        <param name="Вид виробу">Зганяння-американка</param>
+        <param name="Вид виробу">Згін-американка</param>
         <param name="Модель">NFC.511</param>
         <param name="Тип">Згін-американка</param>
         <param name="Призначення">Для труб</param>
@@ -101046,7 +101045,7 @@
         <param name="Тип виробу">Латунний фітинг</param>
         <param name="Країна бренду">Чехія</param>
         <param name="Модель">KR.341</param>
-        <param name="Вид виробу">Зганяння-американка</param>
+        <param name="Вид виробу">Згін-американка</param>
         <param name="Торгова марка">KOER</param>
         <param name="Покриття">Нікель</param>
         <param name="Колір">Сталевий</param>
@@ -103571,7 +103570,7 @@
         <param name="Покриття">Нікель</param>
         <param name="Гарантійний період (міс)">84</param>
         <param name="Торгова марка">KOER</param>
-        <param name="Вид виробу">Зганяння-американка</param>
+        <param name="Вид виробу">Згін-американка</param>
         <param name="Модель">KR.343</param>
         <param name="Призначення">Для труб</param>
         <param name="Країна бренду">Чехія</param>
@@ -105264,6 +105263,35 @@
         <param name="Діаметр підключення (мм)">20</param>
         <param name="Колір">Сірий</param>
       </offer>
+      <offer id="KP0047" available="true">
+        <url>https://ol.partners/products/truboprovodi-ta-zyednannya/fitingi/zyednannya-dlya-trub-z-polipropilenu/mufta-reduktsiyna-vv-63x40-ppr-koer-k0039pro-kp0047</url>
+        <price>46.00</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>cccd3e1f-6b84-49c8-b342-dee61a5caf10</categoryId>
+        <picture>https://ol.partners/Products/Photo/04904586-E739-4FBB-B410-FB01C44CE456</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/c38c2a28-7022-4d78-b583-86451370a4fe/image_01.jpg</picture>
+        <vendor>KOER</vendor>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Достатньо</availabilityStatus>
+        <name>Муфта редукційна ВВ 63x40 PPR Koer K0039.PRO (KP0047)</name>
+        <description>&lt;![CDATA[]]&gt;</description>
+        <vendorCode>KP0047</vendorCode>
+        <param name="Од. в упак.">108</param>
+        <param name="Об'єм ящ.">0.045</param>
+        <param name="Вага ящ.">13.93</param>
+        <param name="Особливості">Стійкий до корозії та хімічних впливів</param>
+        <param name="Гарантійний період (міс)">84</param>
+        <param name="Країна бренду">Чехія</param>
+        <param name="Тип виробу">Труби та фітинги PPR</param>
+        <param name="Тип">Муфта</param>
+        <param name="Призначення">Для труб</param>
+        <param name="Модель">K0039.PRO</param>
+        <param name="Торгова марка">KOER</param>
+        <param name="Вид виробу">Муфта</param>
+        <param name="Тип з'єднання">Пайка</param>
+        <param name="Матеріал">Поліпропілен</param>
+        <param name="Колір">Сірий</param>
+      </offer>
       <offer id="KP0025" available="true">
         <url>https://ol.partners/products/truboprovodi-ta-zyednannya/fitingi/zyednannya-dlya-trub-z-polipropilenu/kut-90-25-ppr-koer-k0020pro-kp0025</url>
         <price>9.04</price>
@@ -105296,35 +105324,6 @@
         <param name="Модель">K0020.PRO</param>
         <param name="Гарантійний період (міс)">84</param>
         <param name="Особливості">Стійкий до корозії та хімічних впливів</param>
-        <param name="Колір">Сірий</param>
-      </offer>
-      <offer id="KP0047" available="true">
-        <url>https://ol.partners/products/truboprovodi-ta-zyednannya/fitingi/zyednannya-dlya-trub-z-polipropilenu/mufta-reduktsiyna-vv-63x40-ppr-koer-k0039pro-kp0047</url>
-        <price>46.00</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>cccd3e1f-6b84-49c8-b342-dee61a5caf10</categoryId>
-        <picture>https://ol.partners/Products/Photo/04904586-E739-4FBB-B410-FB01C44CE456</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/c38c2a28-7022-4d78-b583-86451370a4fe/image_01.jpg</picture>
-        <vendor>KOER</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
-        <name>Муфта редукційна ВВ 63x40 PPR Koer K0039.PRO (KP0047)</name>
-        <description>&lt;![CDATA[]]&gt;</description>
-        <vendorCode>KP0047</vendorCode>
-        <param name="Од. в упак.">108</param>
-        <param name="Об'єм ящ.">0.045</param>
-        <param name="Вага ящ.">13.93</param>
-        <param name="Особливості">Стійкий до корозії та хімічних впливів</param>
-        <param name="Гарантійний період (міс)">84</param>
-        <param name="Країна бренду">Чехія</param>
-        <param name="Тип виробу">Труби та фітинги PPR</param>
-        <param name="Тип">Муфта</param>
-        <param name="Призначення">Для труб</param>
-        <param name="Модель">K0039.PRO</param>
-        <param name="Торгова марка">KOER</param>
-        <param name="Вид виробу">Муфта</param>
-        <param name="Тип з'єднання">Пайка</param>
-        <param name="Матеріал">Поліпропілен</param>
         <param name="Колір">Сірий</param>
       </offer>
       <offer id="KR5018" available="true">
@@ -107923,7 +107922,7 @@
         <param name="Гарантійний період (міс)">84</param>
         <param name="Особливості">З вбудованим змішувальним вузлом і євроконусами</param>
       </offer>
-      <offer id="EP6172" available="false">
+      <offer id="EP6172" available="true">
         <url>https://ol.partners/products/radiatori-opalennya/stalevi-radiatori/staleviy-radiator-europroduct-22-x-600-x-1600-bokove-pidkl-ep6172</url>
         <price>5513.00</price>
         <currencyId>UAH</currencyId>
@@ -107931,8 +107930,8 @@
         <picture>https://ol.partners/Products/Photo/C294D591-DA86-4FEF-B013-092E0354E591</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/d6e7f180-8aa3-4243-86b4-bb95f2cb9dfc/image_01.jpg</picture>
         <vendor>EUROPRODUCT</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Сталевий радіатор Europroduct 22 x 600 x 1600 (бокове підкл.) (EP6172)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>EP6172</vendorCode>
@@ -109295,6 +109294,40 @@
         <param name="Діаметр підключення (дюйм)">1</param>
         <param name="E (мм)">210,00</param>
       </offer>
+      <offer id="KP0094" available="true">
+        <url>https://ol.partners/products/truboprovodi-ta-zyednannya/ustatkuvannya-dlya-montazhu/kriplennya-dlya-trub/kriplennya-dlya-ppr-trubi-63-koer-k0079pro-kp0094</url>
+        <price>17.48</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>cccd3e1f-6b84-49c8-b342-dee61a5caf10</categoryId>
+        <picture>https://ol.partners/Products/Photo/AB0E594A-FF80-4642-B32F-CEE6C09133AB</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/01922d92-8327-4c22-b566-b2c19da6b1d4/image_01.jpg</picture>
+        <vendor>KOER</vendor>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Достатньо</availabilityStatus>
+        <name>Кріплення для PPR труби 63 Koer K0079.PRO (KP0094)</name>
+        <description>&lt;![CDATA[]]&gt;</description>
+        <vendorCode>KP0094</vendorCode>
+        <param name="Од. в упак.">200</param>
+        <param name="Об'єм ящ.">0.045</param>
+        <param name="Вага ящ.">7.93</param>
+        <param name="Торгова марка">KOER</param>
+        <param name="Країна бренду">Чехія</param>
+        <param name="Призначення">Для труб</param>
+        <param name="Вид виробу">Кріплення</param>
+        <param name="Тип">Кріплення</param>
+        <param name="Модель">K0079.PRO</param>
+        <param name="Тип виробу">Труби та фітинги PPR</param>
+        <param name="Діаметр підключення (мм)">63</param>
+        <param name="d (мм)">66,40</param>
+        <param name="B (мм)">47,00</param>
+        <param name="L (мм)">88,60</param>
+        <param name="Розміри (мм)">63</param>
+        <param name="Матеріал виробу">Поліпропілен</param>
+        <param name="Тип з'єднання">Механічний</param>
+        <param name="Колір">Сірий</param>
+        <param name="Особливості">Стійкий до корозії та хімічних впливів</param>
+        <param name="Гарантійний період (міс)">84</param>
+      </offer>
       <offer id="KP0153" available="true">
         <url>https://ol.partners/products/truboprovodi-ta-zyednannya/ustatkuvannya-dlya-montazhu/montazhni-planki/planka-montazhna-20x1-2f-koer-k0127pro-kp0153</url>
         <price>128.00</price>
@@ -109332,40 +109365,6 @@
         <param name="Тип">Планка</param>
         <param name="Колір">Сірий</param>
         <param name="Особливості">Матеріал закладних деталей - Латунь CW617N нікельована</param>
-        <param name="Гарантійний період (міс)">84</param>
-      </offer>
-      <offer id="KP0094" available="true">
-        <url>https://ol.partners/products/truboprovodi-ta-zyednannya/ustatkuvannya-dlya-montazhu/kriplennya-dlya-trub/kriplennya-dlya-ppr-trubi-63-koer-k0079pro-kp0094</url>
-        <price>17.48</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>cccd3e1f-6b84-49c8-b342-dee61a5caf10</categoryId>
-        <picture>https://ol.partners/Products/Photo/AB0E594A-FF80-4642-B32F-CEE6C09133AB</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/01922d92-8327-4c22-b566-b2c19da6b1d4/image_01.jpg</picture>
-        <vendor>KOER</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
-        <name>Кріплення для PPR труби 63 Koer K0079.PRO (KP0094)</name>
-        <description>&lt;![CDATA[]]&gt;</description>
-        <vendorCode>KP0094</vendorCode>
-        <param name="Од. в упак.">200</param>
-        <param name="Об'єм ящ.">0.045</param>
-        <param name="Вага ящ.">7.93</param>
-        <param name="Торгова марка">KOER</param>
-        <param name="Країна бренду">Чехія</param>
-        <param name="Призначення">Для труб</param>
-        <param name="Вид виробу">Кріплення</param>
-        <param name="Тип">Кріплення</param>
-        <param name="Модель">K0079.PRO</param>
-        <param name="Тип виробу">Труби та фітинги PPR</param>
-        <param name="Діаметр підключення (мм)">63</param>
-        <param name="d (мм)">66,40</param>
-        <param name="B (мм)">47,00</param>
-        <param name="L (мм)">88,60</param>
-        <param name="Розміри (мм)">63</param>
-        <param name="Матеріал виробу">Поліпропілен</param>
-        <param name="Тип з'єднання">Механічний</param>
-        <param name="Колір">Сірий</param>
-        <param name="Особливості">Стійкий до корозії та хімічних впливів</param>
         <param name="Гарантійний період (міс)">84</param>
       </offer>
       <offer id="RAD095" available="true">
@@ -111427,7 +111426,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/2bfa0c42-3379-424b-b89f-0e6f3cbe8dbf/image_01.jpg</picture>
         <vendor>MIXXUS</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Водонагрівач "Квадрат" Mixxus EWH-14050 CUBE WET(Н) накопичувальний 50 л, мокрий тен 2,0 kW (WH0614)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>WH0614</vendorCode>
@@ -112981,7 +112980,7 @@
         <param name="Торгова марка">EUROPRODUCT</param>
         <param name="Модель">EP.0068</param>
         <param name="Тип виробу">Труби та фітинги PPR</param>
-        <param name="Вид виробу">Зганяння-американка</param>
+        <param name="Вид виробу">Згін-американка</param>
         <param name="Країна бренду">Україна</param>
         <param name="Призначення">Для труб</param>
         <param name="Гарантійний період (міс)">84</param>
@@ -113276,7 +113275,7 @@
         <param name="Торгова марка">EUROPRODUCT</param>
         <param name="Країна бренду">Україна</param>
         <param name="Тип виробу">Латунний фітинг</param>
-        <param name="Вид виробу">Зганяння-американка</param>
+        <param name="Вид виробу">Згін-американка</param>
         <param name="Тип">Згін-американка</param>
         <param name="Призначення">Для труб</param>
         <param name="C (мм)">15,00</param>
@@ -120199,7 +120198,7 @@
         <param name="Торгова марка">EUROPRODUCT</param>
         <param name="Призначення">Для труб</param>
         <param name="Країна бренду">Україна</param>
-        <param name="Вид виробу">Зганяння-американка</param>
+        <param name="Вид виробу">Згін-американка</param>
         <param name="Модель">EP.0421</param>
         <param name="Тип">Згін-американка</param>
         <param name="G (дюйм)">1 1/2</param>
@@ -121893,7 +121892,7 @@
         <param name="Торгова марка">EUROPRODUCT</param>
         <param name="Країна бренду">Україна</param>
         <param name="Модель">EP.0076</param>
-        <param name="Вид виробу">Зганяння-американка</param>
+        <param name="Вид виробу">Згін-американка</param>
         <param name="Тип виробу">Труби та фітинги PPR</param>
         <param name="Діаметр підключення (дюйм)">1 1/2</param>
         <param name="Діаметр підключення (мм)">50</param>
@@ -122329,8 +122328,8 @@
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR6191</vendorCode>
         <param name="Од. в упак.">4</param>
-        <param name="Об'єм ящ.">0</param>
-        <param name="Вага ящ.">0</param>
+        <param name="Об'єм ящ.">0.073</param>
+        <param name="Вага ящ.">16.6</param>
         <param name="Глибина (мм)">248</param>
         <param name="Ширина (мм)">647</param>
         <param name="Розміри виробу (ВхШхГ)">72x647x248</param>
@@ -123655,8 +123654,8 @@
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>ZX6085</vendorCode>
         <param name="Од. в упак.">36</param>
-        <param name="Об'єм ящ.">0</param>
-        <param name="Вага ящ.">0</param>
+        <param name="Об'єм ящ.">0.033</param>
+        <param name="Вага ящ.">12.4</param>
         <param name="Колір">Візерунок "Зигзаг" сірий</param>
         <param name="Форма">Квадратна</param>
         <param name="Тип монтажу">Настінний</param>
@@ -126505,7 +126504,7 @@
         <vendorCode>MP6727</vendorCode>
         <param name="Од. в упак.">1</param>
         <param name="Об'єм ящ.">0</param>
-        <param name="Вага ящ.">0</param>
+        <param name="Вага ящ.">1</param>
         <param name="Країна бренду">Німеччина</param>
         <param name="Торгова марка">MIXXUS PREMIUM</param>
         <param name="Тип монтажу">На чашу Генуя</param>
@@ -128779,7 +128778,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/54ff24b8-c5cb-4759-b88c-9d60c1e3883a/image_02.jpg</picture>
         <vendor>ZERIX</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Мийка кухонна ZERIX ZS-6550S-03 Чорна (ZX4540)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>ZX4540</vendorCode>
@@ -128952,7 +128951,7 @@
         <param name="Торгова марка">KOER</param>
         <param name="Тип виробу">Труби та фітинги PPR</param>
         <param name="Тип">Згін-американка</param>
-        <param name="Вид виробу">Зганяння-американка</param>
+        <param name="Вид виробу">Згін-американка</param>
         <param name="Модель">K0138.PRO</param>
         <param name="Країна бренду">Чехія</param>
         <param name="Колір">Сірий</param>
@@ -129538,7 +129537,7 @@
         <param name="Од. в упак.">10</param>
         <param name="Об'єм ящ.">0.013</param>
         <param name="Вага ящ.">8.84</param>
-        <param name="Вид виробу">Зганяння-американка</param>
+        <param name="Вид виробу">Згін-американка</param>
         <param name="Торгова марка">EUROPRODUCT</param>
         <param name="Модель">EP.0077</param>
         <param name="Призначення">Для труб</param>
@@ -131253,7 +131252,7 @@
         <param name="Вага ящ.">29.07</param>
         <param name="Модель">K0131.PRO</param>
         <param name="Тип">Згін-американка</param>
-        <param name="Вид виробу">Зганяння-американка</param>
+        <param name="Вид виробу">Згін-американка</param>
         <param name="Тип виробу">Труби та фітинги PPR</param>
         <param name="Країна бренду">Чехія</param>
         <param name="Призначення">Для труб</param>
@@ -132173,7 +132172,7 @@
         <param name="Тип виробу">Труби та фітинги PPR</param>
         <param name="Тип">Згін-американка</param>
         <param name="Торгова марка">KOER</param>
-        <param name="Вид виробу">Зганяння-американка</param>
+        <param name="Вид виробу">Згін-американка</param>
         <param name="Країна бренду">Чехія</param>
         <param name="Модель">K0137.PRO</param>
         <param name="Призначення">Для труб</param>
@@ -133002,7 +133001,7 @@
         <param name="Матеріал виробу">Сталь</param>
         <param name="Колір">Червоний</param>
       </offer>
-      <offer id="EP6171" available="false">
+      <offer id="EP6171" available="true">
         <url>https://ol.partners/products/radiatori-opalennya/stalevi-radiatori/staleviy-radiator-europroduct-22-x-600-x-1500-bichne-pidyednannya-ep6171</url>
         <price>5031.00</price>
         <currencyId>UAH</currencyId>
@@ -133010,8 +133009,8 @@
         <picture>https://ol.partners/Products/Photo/1AD58AA6-FEA0-4DF3-8DD4-C2C08B676DC8</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/edf56c41-9db4-4932-b6f6-c2e2377abbf6/image_01.jpg</picture>
         <vendor>EUROPRODUCT</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Сталевий радіатор Europroduct 22 x 600 x 1500 (бічне під'єднання) (EP6171)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>EP6171</vendorCode>
@@ -133247,7 +133246,7 @@
         <picture>https://ol.partners/Products/Photo/4ED7E33C-CE25-477D-AD6D-129CC21963DF</picture>
         <vendor>EUROPRODUCT</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Картридж із поліпропіленової нитки Europroduct EPV-02-2510-05 PP5 2,5"x10" (EP6231)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>EP6231</vendorCode>
@@ -134502,7 +134501,7 @@
         <param name="Країна бренду">Україна</param>
         <param name="Призначення">Для труб</param>
         <param name="Модель">EP.0067</param>
-        <param name="Вид виробу">Зганяння-американка</param>
+        <param name="Вид виробу">Згін-американка</param>
         <param name="Тип">Згін-американка</param>
         <param name="Торгова марка">EUROPRODUCT</param>
         <param name="Тип виробу">Труби та фітинги PPR</param>
@@ -135665,7 +135664,7 @@
         <param name="Особливості">Міцність корпусу для внутрішнього монтажу</param>
         <param name="Матеріал виробу">Цинк</param>
       </offer>
-      <offer id="KR6203" available="true">
+      <offer id="KR6203" available="false">
         <url>https://ol.partners/products/radiatori-opalennya/stalevi-radiatori/staleviy-radiator-koer-22-x-300-x-1400b-1886-vt2145-kgnizhnye-pidklyuchennyaz-termoklapz-universkriplennyam-kr6203</url>
         <price>6872.00</price>
         <currencyId>UAH</currencyId>
@@ -135673,8 +135672,8 @@
         <picture>https://ol.partners/Products/Photo/07CAF6B8-1E40-4E48-8A8F-2388B838CE67</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/35dfc8d8-1ec6-40ba-ba08-d4e482879136/image_02.jpg</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Сталевий радіатор Koer 22 x 300 x 1400B (1886 Вт,21,45 кг,нижнє підключення,з термоклап.,з універс.кріпленням) (KR6203)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR6203</vendorCode>
@@ -137235,7 +137234,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/7903e307-b057-4285-9633-0571ab79c600/image_01.jpg</picture>
         <vendor>GROHE</vendor>
         <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Комплект Grohe Set Унітаз ELLIPSE-0301-T3 + Інсталяція 38536001 + панель 38732000 (38536001ELLIPS0301T3)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>38536001ELLIPS0301T3</vendorCode>
@@ -141877,6 +141876,44 @@
         <param name="Гарантійний період (міс)">120</param>
         <param name="Вага нетто, кг">8,00</param>
       </offer>
+      <offer id="39683000" available="false">
+        <url>https://ol.partners/products/instalyatsii-ta-klavishi/sistemi-instalyatsii/bachok-prikhovanogo-montazhu-grohe-39683000</url>
+        <price>4950.00</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>bae524de-6825-4762-bea5-e2c2373606ee</categoryId>
+        <picture>https://ol.partners/Products/Photo/ACB12B53-D76E-46A6-914E-B628B37D4731</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/3fdeb1e2-c342-4f26-a27d-e505092f0248/image_02.jpg</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/3fdeb1e2-c342-4f26-a27d-e505092f0248/image_03.jpg</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/3fdeb1e2-c342-4f26-a27d-e505092f0248/image_01.jpg</picture>
+        <vendor>GROHE</vendor>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <name>Бачок прихованого монтажу Grohe (39683000)</name>
+        <description>&lt;![CDATA[]]&gt;</description>
+        <vendorCode>39683000</vendorCode>
+        <param name="Од. в упак.">1</param>
+        <param name="Об'єм ящ.">0</param>
+        <param name="Вага ящ.">0</param>
+        <param name="Країна бренду">Німеччина</param>
+        <param name="Торгова марка">GROHE</param>
+        <param name="Серія">Uniset</param>
+        <param name="Призначення">Для унітазу</param>
+        <param name="Тип виробу">Інсталяційні системи без панелі змиву</param>
+        <param name="Вид виробу">Інсталяційний бачок для унітазу пневматичний</param>
+        <param name="Тип монтажу">У стіну прихований</param>
+        <param name="MAX Монтажна висота (мм)">0</param>
+        <param name="Розміри виробу (ВхШхГ)">793x426x130</param>
+        <param name="MIN Монтажна висота (мм)">0</param>
+        <param name="Матеріал">ABS-пластик</param>
+        <param name="Матеріал бачка">ABS-пластик</param>
+        <param name="Матеріал кріплення">Латунне різблення</param>
+        <param name="Технологія виробництва бачка">Двокомпонентний. Бачок із двох частин</param>
+        <param name="Тип конструкції">Стандартна рамна. Одинарна рама</param>
+        <param name="Керування">Пневматичне</param>
+        <param name="Колір">Білий</param>
+        <param name="Комплектація">Без панелі змиву</param>
+        <param name="Гарантійний період (міс)">132</param>
+      </offer>
       <offer id="38840000" available="false">
         <url>https://ol.partners/products/instalyatsii-ta-klavishi/sistemi-instalyatsii/instalyatsiya-dlya-unitazu-grohe-rapid-sl-38840000</url>
         <price>6599.00</price>
@@ -141927,44 +141964,6 @@
         <param name="Гарантійний період (міс)">132</param>
         <param name="Комплектація">Без панелі змиву</param>
         <param name="Колір">Синій</param>
-      </offer>
-      <offer id="39683000" available="false">
-        <url>https://ol.partners/products/instalyatsii-ta-klavishi/sistemi-instalyatsii/bachok-prikhovanogo-montazhu-grohe-39683000</url>
-        <price>4950.00</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>bae524de-6825-4762-bea5-e2c2373606ee</categoryId>
-        <picture>https://ol.partners/Products/Photo/ACB12B53-D76E-46A6-914E-B628B37D4731</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/3fdeb1e2-c342-4f26-a27d-e505092f0248/image_02.jpg</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/3fdeb1e2-c342-4f26-a27d-e505092f0248/image_03.jpg</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/3fdeb1e2-c342-4f26-a27d-e505092f0248/image_01.jpg</picture>
-        <vendor>GROHE</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
-        <name>Бачок прихованого монтажу Grohe (39683000)</name>
-        <description>&lt;![CDATA[]]&gt;</description>
-        <vendorCode>39683000</vendorCode>
-        <param name="Од. в упак.">1</param>
-        <param name="Об'єм ящ.">0</param>
-        <param name="Вага ящ.">0</param>
-        <param name="Країна бренду">Німеччина</param>
-        <param name="Торгова марка">GROHE</param>
-        <param name="Серія">Uniset</param>
-        <param name="Призначення">Для унітазу</param>
-        <param name="Тип виробу">Інсталяційні системи без панелі змиву</param>
-        <param name="Вид виробу">Інсталяційний бачок для унітазу пневматичний</param>
-        <param name="Тип монтажу">У стіну прихований</param>
-        <param name="MAX Монтажна висота (мм)">0</param>
-        <param name="Розміри виробу (ВхШхГ)">793x426x130</param>
-        <param name="MIN Монтажна висота (мм)">0</param>
-        <param name="Матеріал">ABS-пластик</param>
-        <param name="Матеріал бачка">ABS-пластик</param>
-        <param name="Матеріал кріплення">Латунне різблення</param>
-        <param name="Технологія виробництва бачка">Двокомпонентний. Бачок із двох частин</param>
-        <param name="Тип конструкції">Стандартна рамна. Одинарна рама</param>
-        <param name="Керування">Пневматичне</param>
-        <param name="Колір">Білий</param>
-        <param name="Комплектація">Без панелі змиву</param>
-        <param name="Гарантійний період (міс)">132</param>
       </offer>
       <offer id="KR2932" available="true">
         <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/kolektori/kolektor-z-vbudovanim-zmish-vuzlom-koer-krs10119-1-kh9-sus304-i-yevrokonus-3416-kr2932</url>
@@ -142422,8 +142421,8 @@
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR6174</vendorCode>
         <param name="Од. в упак.">10</param>
-        <param name="Об'єм ящ.">0</param>
-        <param name="Вага ящ.">0</param>
+        <param name="Об'єм ящ.">0.015</param>
+        <param name="Вага ящ.">6.2</param>
         <param name="Тип виробу">Тримачі</param>
         <param name="Вид виробу">Тримач для туалетного паперу з полицею</param>
         <param name="Призначення">Для туалетного паперу</param>
@@ -147127,7 +147126,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/2be2584b-90a8-44c0-91db-3ac17544835b/image_02.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Газова колонка KOER KWH.G0410 WHITE димохідна з п'єзорозпалом 10 л/хв (колір білий) (KR5663)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR5663</vendorCode>
@@ -150304,24 +150303,6 @@
         <param name="Тип ручки">Вентиль</param>
         <param name="Колір">Сталевий</param>
       </offer>
-      <offer id="KR6402" available="true">
-        <url>https://ol.partners/products/kolino-90-dvoroztrubne-koer-kql282-pressinox-aisi-304-28x28-kr6402</url>
-        <price>331.00</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>cccd3e1f-6b84-49c8-b342-dee61a5caf10</categoryId>
-        <picture>https://ol.partners/Products/Photo/72EB5958-C304-40FC-8A85-1865D9F34BB9</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/f1bd49af-5c4a-4e9d-85df-cf01d13b1778/image_01.png</picture>
-        <vendor>KOER</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
-        <name>Коліно 90° дворозтрубне Koer KQ.L28-2 Press-Inox AISI 304 28x28 (KR6402)</name>
-        <description>&lt;![CDATA[]]&gt;</description>
-        <vendorCode>KR6402</vendorCode>
-        <param name="Од. в упак.">100</param>
-        <param name="Об'єм ящ.">0</param>
-        <param name="Вага ящ.">0</param>
-        <param name="Торгова марка">KOER</param>
-      </offer>
       <offer id="KP0147" available="true">
         <url>https://ol.partners/products/truboprovodi-ta-zyednannya/fitingi/zyednannya-dlya-trub-z-polipropilenu/kut-instalyatsiyniy-vr-20x12f-ppr-koer-k0123pro-kp0147</url>
         <price>52.00</price>
@@ -150358,6 +150339,24 @@
         <param name="Особливості">Матеріал закладних деталей - Латунь CW617N нікельована</param>
         <param name="Тип з'єднання">Різьба-пайка</param>
         <param name="Матеріал">Поліпропілен</param>
+      </offer>
+      <offer id="KR6402" available="true">
+        <url>https://ol.partners/products/kolino-90-dvoroztrubne-koer-kql282-pressinox-aisi-304-28x28-kr6402</url>
+        <price>331.00</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>cccd3e1f-6b84-49c8-b342-dee61a5caf10</categoryId>
+        <picture>https://ol.partners/Products/Photo/72EB5958-C304-40FC-8A85-1865D9F34BB9</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/f1bd49af-5c4a-4e9d-85df-cf01d13b1778/image_01.png</picture>
+        <vendor>KOER</vendor>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Достатньо</availabilityStatus>
+        <name>Коліно 90° дворозтрубне Koer KQ.L28-2 Press-Inox AISI 304 28x28 (KR6402)</name>
+        <description>&lt;![CDATA[]]&gt;</description>
+        <vendorCode>KR6402</vendorCode>
+        <param name="Од. в упак.">100</param>
+        <param name="Об'єм ящ.">0</param>
+        <param name="Вага ящ.">0</param>
+        <param name="Торгова марка">KOER</param>
       </offer>
       <offer id="WP0072" available="false">
         <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/krani/krani-kulovi/kran-kuloviy-sk-12-ggr-art-602-wp0072</url>
@@ -152022,7 +152021,7 @@
         <param name="Модель">KR.341.WN</param>
         <param name="Країна бренду">Чехія</param>
         <param name="Призначення">Для труб</param>
-        <param name="Вид виробу">Зганяння-американка</param>
+        <param name="Вид виробу">Згін-американка</param>
         <param name="Торгова марка">KOER</param>
         <param name="Тип">Згін-американка</param>
         <param name="Тип з'єднання">Різьбовий</param>
@@ -152285,7 +152284,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/f6aeafc4-b4d0-43c8-b26d-c584002d4aa5/image_01.jpg</picture>
         <vendor>EUROPRODUCT</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Сталевий радіатор EUROPRODUCT 22 x 500 x 700 (бокове підкл.) (EP4448)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>EP4448</vendorCode>
@@ -152731,7 +152730,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/e74ac99f-989c-4c77-8ccc-932785959fa8/image_01.jpg</picture>
         <vendor>EUROPRODUCT</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Сталевий радіатор Europroduct 22 x 600 x 400 (бічне під'єднання) (EP6161)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>EP6161</vendorCode>
@@ -152876,7 +152875,7 @@
         <param name="Тип виробу">Латунний фітинг</param>
         <param name="Модель">EP.0421</param>
         <param name="Торгова марка">EUROPRODUCT</param>
-        <param name="Вид виробу">Зганяння-американка</param>
+        <param name="Вид виробу">Згін-американка</param>
         <param name="Призначення">Для труб</param>
         <param name="Тип">Згін-американка</param>
         <param name="Матеріал">Латунь CW617N нікельована</param>
@@ -153741,7 +153740,7 @@
         <param name="Вага ящ.">11.9</param>
         <param name="Покриття">Нікель</param>
         <param name="Колір">Сталевий</param>
-        <param name="Вид виробу">Зганяння-американка</param>
+        <param name="Вид виробу">Згін-американка</param>
         <param name="Країна бренду">Чехія</param>
         <param name="Тип">Згін-американка</param>
         <param name="Модель">KR.342</param>
@@ -154039,7 +154038,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/2eef76ea-1bd6-4d76-a2de-5cdda4bbd13e/image_04_400-600_0.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Сталевий радіатор 22х300х600.S Koer (бок. підключення) (RAD069)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>RAD069</vendorCode>
@@ -154303,7 +154302,7 @@
         <param name="L (мм)">16,00</param>
         <param name="Діаметр підключення (мм)">20</param>
         <param name="G (дюйм)">1/2</param>
-        <param name="Вид виробу">Зганяння-американка</param>
+        <param name="Вид виробу">Згін-американка</param>
         <param name="Призначення">Для труб</param>
         <param name="Тип виробу">Труби та фітинги PPR</param>
         <param name="Модель">K0129.PRO</param>
@@ -154642,7 +154641,7 @@
         <param name="Додаткові характеристики">Солевміст води в діапазоні від 300 до 500 мкС/см</param>
         <param name="Максимальна температура робочої рідини (°C)">110</param>
       </offer>
-      <offer id="42300000" available="true">
+      <offer id="42300000" available="false">
         <url>https://ol.partners/products/instalyatsii-ta-klavishi/klavishi-zmivu-ta-komplektuyuchi/obmezhuvach-potoku-grohe-42300000</url>
         <price>432.00</price>
         <currencyId>UAH</currencyId>
@@ -154650,8 +154649,8 @@
         <picture>https://ol.partners/Products/Photo/0EC99738-0534-4BAC-A223-15B98730FCA6</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/7fe83c58-a184-41eb-a442-6eae835e3fc5/image_01.jpg</picture>
         <vendor>GROHE</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Обмежувач потоку Grohe (42300000)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>42300000</vendorCode>
@@ -157193,7 +157192,7 @@
         <param name="Модель">NFC.511-10</param>
         <param name="Країна бренду">Німеччина</param>
         <param name="Призначення">Для труб</param>
-        <param name="Вид виробу">Зганяння-американка</param>
+        <param name="Вид виробу">Згін-американка</param>
         <param name="Колір">Сталевий</param>
         <param name="Покриття">Нікель</param>
         <param name="Матеріал виробу">Латунь CW617N нікельована</param>
@@ -157505,7 +157504,7 @@
         <param name="Вага ящ.">18.35</param>
         <param name="Матеріал">Латунь CW617N нікельована</param>
         <param name="Тип з'єднання">Різьбовий</param>
-        <param name="Вид виробу">Зганяння-американка</param>
+        <param name="Вид виробу">Згін-американка</param>
         <param name="Країна бренду">Чехія</param>
         <param name="Призначення">Для труб</param>
         <param name="Тип виробу">Латунний фітинг</param>
@@ -158301,7 +158300,7 @@
         <param name="Призначення">Для труб</param>
         <param name="Тип виробу">Латунний фітинг</param>
         <param name="Тип">Згін-американка</param>
-        <param name="Вид виробу">Зганяння-американка</param>
+        <param name="Вид виробу">Згін-американка</param>
         <param name="Країна бренду">Україна</param>
         <param name="Матеріал">Латунь</param>
         <param name="Матеріал виробу">Латунь CW617N</param>
@@ -158509,7 +158508,7 @@
         <param name="A (мм)">51,50</param>
         <param name="Покриття">Хром</param>
         <param name="Колір">Сталевий</param>
-        <param name="Вид виробу">Зганяння-американка</param>
+        <param name="Вид виробу">Згін-американка</param>
         <param name="Призначення">Для труб</param>
         <param name="Модель">KR.342.CHR</param>
         <param name="Тип">Згін-американка</param>
@@ -159992,7 +159991,7 @@
         <param name="Тип виробу">Труби та фітинги PPR</param>
         <param name="Модель">K0136.PRO</param>
         <param name="Торгова марка">KOER</param>
-        <param name="Вид виробу">Зганяння-американка</param>
+        <param name="Вид виробу">Згін-американка</param>
         <param name="Матеріал">Поліпропілен</param>
         <param name="Тип з'єднання">Різьба-пайка</param>
         <param name="Діаметр підключення (мм)">25</param>
@@ -162182,7 +162181,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/53d82338-a69f-4491-b3c1-622f20bf9add/image_02.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Колекторний блок з витратомірами та євроконусами Koer KR.1210-3 - 1"x3 WAYS (KR5265)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR5265</vendorCode>
@@ -163413,7 +163412,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/397c76dc-ef88-43b8-b5b0-005b82f19e38/image_02_400-600_0.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Сталевий радіатор 22х300х500.S Koer (бок. підключення) (RAD068)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>RAD068</vendorCode>
@@ -165650,7 +165649,7 @@
         <param name="Тип з'єднання">Різьбовий</param>
         <param name="Матеріал">Латунь CW617N нікельована</param>
         <param name="Тип виробу">Латунний фітинг</param>
-        <param name="Вид виробу">Зганяння-американка</param>
+        <param name="Вид виробу">Згін-американка</param>
         <param name="Модель">KR.342</param>
         <param name="Торгова марка">KOER</param>
         <param name="Тип">Згін-американка</param>
@@ -165685,7 +165684,7 @@
         <param name="Країна бренду">Чехія</param>
         <param name="Призначення">Для труб</param>
         <param name="Торгова марка">KOER</param>
-        <param name="Вид виробу">Зганяння-американка</param>
+        <param name="Вид виробу">Згін-американка</param>
         <param name="Модель">KR.341</param>
         <param name="Покриття">Нікель</param>
         <param name="Колір">Сталевий</param>
@@ -167192,7 +167191,7 @@
         <param name="Тип виробу">Латунний фітинг</param>
         <param name="Країна бренду">Чехія</param>
         <param name="Торгова марка">KOER</param>
-        <param name="Вид виробу">Зганяння-американка</param>
+        <param name="Вид виробу">Згін-американка</param>
         <param name="Тип">Згін-американка</param>
         <param name="Призначення">Для труб</param>
         <param name="Модель">KR.341.CHR</param>
@@ -167594,8 +167593,8 @@
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR5691</vendorCode>
         <param name="Од. в упак.">90</param>
-        <param name="Об'єм ящ.">0</param>
-        <param name="Вага ящ.">0</param>
+        <param name="Об'єм ящ.">0.01</param>
+        <param name="Вага ящ.">13.6</param>
         <param name="Торгова марка">KOER</param>
         <param name="Тип">Згін-американка</param>
         <param name="Модель">KR.344</param>
@@ -169465,7 +169464,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/ff92791c-e607-4716-ac68-79b714c4de8d/image_05.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Насос поверхн. самовсмоктувальний Koer JET-200 (KP2764)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KP2764</vendorCode>
@@ -173899,7 +173898,6 @@
         <param name="Тип виробу">Латунний фітинг</param>
         <param name="Призначення">Для труб</param>
         <param name="Модель">NFC.511-08</param>
-        <param name="Вид виробу">Згін-американка</param>
         <param name="Тип">Згін-американка</param>
         <param name="Країна бренду">Німеччина</param>
         <param name="Торгова марка">NOLF</param>
@@ -174851,7 +174849,7 @@
         <param name="Модель">EP.0422</param>
         <param name="Країна бренду">Україна</param>
         <param name="Призначення">Для труб</param>
-        <param name="Вид виробу">Зганяння-американка</param>
+        <param name="Вид виробу">Згін-американка</param>
         <param name="Тип виробу">Латунний фітинг</param>
         <param name="Тип">Згін-американка</param>
         <param name="Торгова марка">EUROPRODUCT</param>
@@ -175486,7 +175484,7 @@
         <param name="Модель">22VK 300x1400</param>
         <param name="Колір">Білий (RAL 9016)</param>
       </offer>
-      <offer id="MI6692" available="false">
+      <offer id="MI6692" available="true">
         <url>https://ol.partners/products/keramika/unitazi/unitazkompakt-mixxus-wave0404r-630kh350kh805mm-sistema-zmivu-rimless-mi6692</url>
         <price>6900.00</price>
         <currencyId>UAH</currencyId>
@@ -175501,8 +175499,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/d94a60a4-0d4e-4ccb-9471-3cd769ac576b/image_12.png</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/d94a60a4-0d4e-4ccb-9471-3cd769ac576b/image_03.jpg</picture>
         <vendor>MIXXUS</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Унітаз-компакт Mixxus WAVE-0404-R 630х350х805mm, система змиву RIMLESS (MI6692)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>MI6692</vendorCode>
@@ -176146,7 +176144,7 @@
         <param name="Країна бренду">Чехія</param>
         <param name="Тип виробу">Латунний фітинг</param>
         <param name="Торгова марка">KOER</param>
-        <param name="Вид виробу">Зганяння-американка</param>
+        <param name="Вид виробу">Згін-американка</param>
         <param name="Діаметр підключення (дюйм)">1</param>
         <param name="G (дюйм)">1</param>
         <param name="B (мм)">41,70</param>
@@ -176219,7 +176217,7 @@
         <param name="Тип виробу">Труби та фітинги PPR</param>
         <param name="Торгова марка">EUROPRODUCT</param>
         <param name="Тип">Згін-американка</param>
-        <param name="Вид виробу">Зганяння-американка</param>
+        <param name="Вид виробу">Згін-американка</param>
         <param name="Матеріал">Поліпропілен</param>
         <param name="Тип з'єднання">Різьба-пайка</param>
         <param name="Діаметр підключення (мм)">50</param>
@@ -177342,7 +177340,7 @@
         <param name="L (мм)">26,00</param>
         <param name="Особливості">Матеріал закладних деталей - Латунь CW617N нікельована</param>
         <param name="Гарантійний період (міс)">84</param>
-        <param name="Вид виробу">Зганяння-американка</param>
+        <param name="Вид виробу">Згін-американка</param>
         <param name="Країна бренду">Чехія</param>
         <param name="Призначення">Для труб</param>
         <param name="Модель">K0133.PRO</param>
@@ -178131,7 +178129,7 @@
         <param name="Призначення">Для труб</param>
         <param name="Модель">KR.341</param>
         <param name="Торгова марка">KOER</param>
-        <param name="Вид виробу">Зганяння-американка</param>
+        <param name="Вид виробу">Згін-американка</param>
         <param name="A (мм)">86,00</param>
         <param name="Діаметр підключення (дюйм)">2</param>
         <param name="G (дюйм)">2</param>
@@ -180080,7 +180078,7 @@
         <picture>https://ol.partners/Products/Photo/FF7A1417-4AD0-42C3-8853-5703A3C33712</picture>
         <vendor>ZERIX</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Відро Zerix Plain MB0140 (40 літрів) (ZX4621)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>ZX4621</vendorCode>
@@ -184157,7 +184155,7 @@
         <param name="Тип виробу">Труби та фітинги PPR</param>
         <param name="Торгова марка">KOER</param>
         <param name="Призначення">Для труб</param>
-        <param name="Вид виробу">Зганяння-американка</param>
+        <param name="Вид виробу">Згін-американка</param>
         <param name="Колір">Сірий</param>
         <param name="Гарантійний період (міс)">84</param>
         <param name="Особливості">Матеріал закладних деталей - Латунь CW617N нікельована</param>
@@ -184299,7 +184297,7 @@
         <param name="Призначення">Для труб</param>
         <param name="Країна бренду">Німеччина</param>
         <param name="Тип виробу">Латунний фітинг</param>
-        <param name="Вид виробу">Зганяння-американка</param>
+        <param name="Вид виробу">Згін-американка</param>
         <param name="Модель">NFC.521-06</param>
         <param name="Тип">Згін-американка</param>
         <param name="Діаметр підключення (дюйм)">1/2</param>
