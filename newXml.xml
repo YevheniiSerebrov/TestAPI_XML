@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-06-05 03:38">
+<yml_catalog date="2026-06-06 03:21">
   <shop>
     <name>O&amp;L</name>
     <company>O&amp;L</company>
@@ -21020,15 +21020,15 @@
         <param name="Особливості">Виконаний у чорному захисному покритті для естетичної установки та підвищеної стійкості до корозії.</param>
         <param name="Колір">Чорний</param>
       </offer>
-      <offer id="ZX4636" available="false">
+      <offer id="ZX4636" available="true">
         <url>https://ol.partners/products/aksesuari-dlya-vannoi/yorzhiki-dlya-unitazu/yorzhik-dlya-unitazu-zerix-rich-me01s-zx4636</url>
         <price>299.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>98cef2a4-d106-4da2-9b4c-f8e66696fd13</categoryId>
         <picture>https://ol.partners/Products/Photo/67A33D60-6C1C-4592-94F0-DF7108BC108E</picture>
         <vendor>ZERIX</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Єрш для підлоги Zerix Rich ME01S (ZX4636)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>ZX4636</vendorCode>
@@ -21896,15 +21896,15 @@
         <param name="Колір">Сталевий</param>
         <param name="Тип виливу">Поворотний</param>
       </offer>
-      <offer id="AC0678" available="false">
+      <offer id="AC0678" available="true">
         <url>https://ol.partners/products/sifoni-trapi-dlya-dushu/zlivni-trapi/dushoviy-trap-z-nerzhaviyuchoi-stali-sus304-koer-fd2970x850-ac0678</url>
         <price>1995.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>e679a4a9-0158-4101-9206-332f81d1f22b</categoryId>
         <picture>https://ol.partners/Products/Photo/11A456EF-4D43-4FC6-96A3-F0C296B2A4B9</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Душовий трап з нержавіючої сталі SUS304 Koer FD29-70x850 (AC0678)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>AC0678</vendorCode>
@@ -89641,7 +89641,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/31f47ea5-c7c8-4a5b-94f8-7571b6bec197/image_06.jpg</picture>
         <vendor>GROHE</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Поличка-корзина Grohe Selection (41037000)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>41037000</vendorCode>
@@ -94756,7 +94756,7 @@
         <param name="Глибина чаші (мм)">215</param>
         <param name="Комплектація">Мийка, сифон, кріплення</param>
       </offer>
-      <offer id="KR5229" available="false">
+      <offer id="KR5229" available="true">
         <url>https://ol.partners/products/sifoni-trapi-dlya-dushu/zlivni-trapi/dushoviy-trap-koer-fd3070x650-z-nerzhaviyuchoi-stali-sus304-70x650mm-kr5229</url>
         <price>1803.00</price>
         <currencyId>UAH</currencyId>
@@ -94764,8 +94764,8 @@
         <picture>https://ol.partners/Products/Photo/B40C5739-8436-4511-9D92-572B7F88C226</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/299395e0-d3ee-4f6c-b728-8e20b62f6ce9/image_06.jpg</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Душовий трап Koer FD30-70x650 з нержавіючої сталі SUS304 70x650мм (KR5229)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR5229</vendorCode>
@@ -98936,7 +98936,7 @@
         <param name="Глибина (мм)">190</param>
         <param name="Висота (мм)">550</param>
       </offer>
-      <offer id="41035000" available="true">
+      <offer id="41035000" available="false">
         <url>https://ol.partners/products/aksesuari-dlya-vannoi/trimachi-dlya-rushnikiv/trimach-dlya-rushnikiv-grohe-selection-41035000</url>
         <price>4806.00</price>
         <currencyId>UAH</currencyId>
@@ -98951,8 +98951,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/6ac43924-956c-4cb1-92fe-ded4fd012e88/image_03.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/6ac43924-956c-4cb1-92fe-ded4fd012e88/image_08.jpg</picture>
         <vendor>GROHE</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Тримач для рушників Grohe Selection (41035000)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>41035000</vendorCode>
@@ -133172,7 +133172,7 @@
         <param name="Матеріал виробу">Сталь</param>
         <param name="Колір">Червоний</param>
       </offer>
-      <offer id="EP6171" available="false">
+      <offer id="EP6171" available="true">
         <url>https://ol.partners/products/radiatori-opalennya/stalevi-radiatori/staleviy-radiator-europroduct-22-x-600-x-1500-bichne-pidyednannya-ep6171</url>
         <price>5031.00</price>
         <currencyId>UAH</currencyId>
@@ -133180,8 +133180,8 @@
         <picture>https://ol.partners/Products/Photo/1AD58AA6-FEA0-4DF3-8DD4-C2C08B676DC8</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/edf56c41-9db4-4932-b6f6-c2e2377abbf6/image_01.jpg</picture>
         <vendor>EUROPRODUCT</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Сталевий радіатор Europroduct 22 x 600 x 1500 (бічне під'єднання) (EP6171)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>EP6171</vendorCode>
@@ -136025,7 +136025,7 @@
         <picture>https://ol.partners/Products/Photo/069745AD-2E11-40FF-A303-83D253897D9A</picture>
         <vendor>ZERIX</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Відро Zerix Strong MB0120 Black (20 літрів) (ZX4631)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>ZX4631</vendorCode>
@@ -136268,15 +136268,15 @@
         <param name="Колір">Сталевий</param>
         <param name="Покриття">Хром</param>
       </offer>
-      <offer id="MI8209" available="true">
+      <offer id="MI8209" available="false">
         <url>https://ol.partners/products/sifoni-trapi-dlya-dushu/armatura-dlya-unitaziv/armatura-posilena-spuskna-mixxus-as01-z-odnim-rezhimom-zlivu-knopka-khromovana-mi8209</url>
         <price>318.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>bae524de-6825-4762-bea5-e2c2373606ee</categoryId>
         <picture>https://ol.partners/Products/Photo/ED1BC812-5FAE-4690-8490-F2D516EFA7DB</picture>
         <vendor>MIXXUS</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Арматура посилена спускна Mixxus AS-01 з одним режимом зливу (кнопка хромована) (MI8209)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>MI8209</vendorCode>
@@ -154124,7 +154124,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/e48330c8-96c7-476b-9441-249c1ad9fe78/image_01.jpg</picture>
         <vendor>MIXXUS</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Мийка Mixxus MH5050 Micro Decor Brushed Gold (3.0/0.8) з нерж. сталі (колір матове золото) (MI8214)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>MI8214</vendorCode>
