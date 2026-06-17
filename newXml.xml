@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-06-16 03:58">
+<yml_catalog date="2026-06-17 04:00">
   <shop>
     <name>O&amp;L</name>
     <company>O&amp;L</company>
@@ -2588,20 +2588,20 @@
         <param name="Од. в упак.">40</param>
         <param name="Об'єм ящ.">0.12</param>
         <param name="Вага ящ.">20.4</param>
+        <param name="Висота (мм)">130</param>
+        <param name="Довжина (мм)">260</param>
+        <param name="Ширина (мм)">130</param>
         <param name="Вид виробу">Держатель для туалетной бумаги с крышкой</param>
         <param name="Торгова марка">ZERIX</param>
         <param name="Тип виробу">Тримачі</param>
-        <param name="Модель">LR1503-1</param>
         <param name="Країна бренду">Чехія</param>
         <param name="Тип монтажу">Настінний</param>
+        <param name="Модель">LR1503-1</param>
         <param name="Гарантійний період (міс)">12</param>
         <param name="Особливості">З кришкою та кошиком, висота кошика 10 см</param>
         <param name="Матеріал виробу">Метал</param>
         <param name="Покриття">Хром</param>
         <param name="Колір">Сталевий</param>
-        <param name="Ширина (мм)">130</param>
-        <param name="Довжина (мм)">260</param>
-        <param name="Висота (мм)">130</param>
       </offer>
       <offer id="KR5753" available="true">
         <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/krani/krani-kulovi/kran-kuloviy-gshv-koer-extreme-ke21532-1-14-fm-ruchka-vazhil-chervona-kr5753</url>
@@ -7269,7 +7269,7 @@
         <param name="Комплектація">Сифон, перехідна труба, розетка.</param>
       </offer>
       <offer id="KR2901" available="true">
-        <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/kontrolnovimiryuvalni-priladi-kvp/manometr-osovoi-koer-km611a-d-63mm-06-bar-1412-kr2901</url>
+        <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/kontrolnovimiryuvalni-priladi-kvp/manometr-osovoi-koer-km611a-d-63mm-06-bar-14kr2901</url>
         <price>157.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>e8bba9c2-db1f-41a1-a040-2c8ca1759747</categoryId>
@@ -7280,7 +7280,7 @@
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
         <availabilityStatus>Достатньо</availabilityStatus>
-        <name>Манометр осьової KOER KM.611A D 63мм (0-6 bar) 1/4''-1/2'' (KR2901)</name>
+        <name>Манометр осьової KOER KM.611A D 63мм (0-6 bar) 1/4'' (KR2901)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR2901</vendorCode>
         <param name="Од. в упак.">48</param>
@@ -7291,7 +7291,6 @@
         <param name="вказівна стрілка">Ні</param>
         <param name="Клас точності">1,6</param>
         <param name="Скло">Термостійке</param>
-        <param name="З'єднувальний діаметр 2 (дюйм)">1/2</param>
         <param name="Діаметр підключення (дюйм)">1/4</param>
         <param name="Діаметр (мм)">63</param>
         <param name="З'єднувальний діаметр (дюйм)">1/4</param>
@@ -10732,7 +10731,7 @@
         <param name="Об'єм ящ.">0</param>
         <param name="Вага ящ.">0</param>
         <param name="Тип конструкції">Червоне ущільнювальне кільце</param>
-        <param name="Діапазон температури робочого середовища Тр (°С)">від ?20°C до +200°C</param>
+        <param name="Діапазон температури робочого середовища Тр (°С)">від -20°C до +200°C</param>
         <param name="Тип з'єднання">Встановлення в прес-фітинг</param>
         <param name="Матеріал">FKM</param>
         <param name="Розміри (мм)">Для труби 15 мм</param>
@@ -11856,7 +11855,7 @@
         <param name="Діаметр умовного проходу (мм)">25,00</param>
       </offer>
       <offer id="KR0208" available="true">
-        <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/kontrolnovimiryuvalni-priladi-kvp/manometr-radialniy-koer-km502r-06-bar-d-50mm-1412-kr0208</url>
+        <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/kontrolnovimiryuvalni-priladi-kvp/manometr-radialniy-koer-km502r-06-bar-d-50mm-14-kr0208</url>
         <price>129.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>e8bba9c2-db1f-41a1-a040-2c8ca1759747</categoryId>
@@ -11872,7 +11871,6 @@
         <param name="Од. в упак.">100</param>
         <param name="Об'єм ящ.">0.017</param>
         <param name="Вага ящ.">7.5</param>
-        <param name="З'єднувальний діаметр 2 (дюйм)">1/2</param>
         <param name="Діаметр (мм)">50</param>
         <param name="З'єднувальний діаметр (дюйм)">1/4</param>
         <param name="Діаметр підключення (дюйм)">1/4</param>
@@ -12853,19 +12851,19 @@
         <param name="Країна бренду">Чехія</param>
         <param name="Тип виробу">Труби та фітинги PPR</param>
         <param name="Призначення">Для водопостачання, опалення</param>
+        <param name="Модель">K0156.PRO</param>
         <param name="Торгова марка">KOER</param>
         <param name="Вид виробу">Кран термостатичний</param>
-        <param name="Модель">K0156.PRO</param>
         <param name="L (мм)">18,00</param>
         <param name="H (мм)">99,00</param>
+        <param name="Розміри (мм)">25х3/4</param>
+        <param name="Діаметр (мм)">51</param>
         <param name="d (мм)">24,10</param>
         <param name="Діаметр підключення (дюйм)">3/4</param>
         <param name="D (мм)">35,70</param>
         <param name="Діаметр підключення (мм)">25</param>
-        <param name="Діаметр (мм)">51</param>
-        <param name="Розміри (мм)">25х3/4</param>
-        <param name="Особливості">Матеріал закладних деталей - Латунь CW617N нікельована</param>
         <param name="Гарантійний період (міс)">12</param>
+        <param name="Особливості">Матеріал закладних деталей - Латунь CW617N нікельована</param>
         <param name="Матеріал виробу">Поліпропілен</param>
         <param name="Тип з'єднання">Пайка</param>
         <param name="Колір">Сірий</param>
@@ -14026,16 +14024,16 @@
         <param name="Од. в упак.">40</param>
         <param name="Об'єм ящ.">0.019</param>
         <param name="Вага ящ.">13.5</param>
-        <param name="Торгова марка">KOER</param>
-        <param name="Тип виробу">Комплектуючі до радіаторів</param>
         <param name="Країна бренду">Чехія</param>
-        <param name="Модель">SET-04</param>
+        <param name="Тип виробу">Комплектуючі до радіаторів</param>
+        <param name="Торгова марка">KOER</param>
         <param name="Призначення">Використовується при встановленні алюмінієвих, біметалічних та сталевих панельних радіаторів.</param>
-        <param name="Діаметр входу 1 (дюйм)">3/4</param>
-        <param name="Діаметр входу 2 (дюйм)">3/4</param>
-        <param name="Гарантійний період (міс)">12</param>
-        <param name="Особливості">Міцний металевий кронштейн для стабільної фіксації радіатора. Сумісний з алюмінієвими та біметалевими радіаторами всіх стандартів.</param>
+        <param name="Модель">SET-04</param>
         <param name="Колір">Білий</param>
+        <param name="Діаметр входу 2 (дюйм)">3/4</param>
+        <param name="Діаметр входу 1 (дюйм)">3/4</param>
+        <param name="Особливості">Міцний металевий кронштейн для стабільної фіксації радіатора. Сумісний з алюмінієвими та біметалевими радіаторами всіх стандартів.</param>
+        <param name="Гарантійний період (міс)">12</param>
       </offer>
       <offer id="KP2882" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/nasosni-stantsii/nasosna-ministantsiya-vikhr-koer-kgp-125c-n35m-q24kbm-p370-vt-1x1-pidklpryame-kp2882</url>
@@ -14828,7 +14826,7 @@
         <param name="Од. в упак.">1000</param>
         <param name="Об'єм ящ.">0</param>
         <param name="Вага ящ.">0</param>
-        <param name="Діапазон температури робочого середовища Тр (°С)">від ?20°C до +200°C</param>
+        <param name="Діапазон температури робочого середовища Тр (°С)">від -20°C до +200°C</param>
         <param name="Тип з'єднання">Встановлення в прес-фітинг</param>
         <param name="Матеріал">FKM</param>
         <param name="Тип конструкції">Червоне ущільнювальне кільце</param>
@@ -16204,7 +16202,7 @@
         <param name="Об'єм ящ.">0</param>
         <param name="Вага ящ.">0</param>
         <param name="Тип конструкції">Червоне ущільнювальне кільце</param>
-        <param name="Діапазон температури робочого середовища Тр (°С)">від ?20°C до +200°C</param>
+        <param name="Діапазон температури робочого середовища Тр (°С)">від -20°C до +200°C</param>
         <param name="Тип з'єднання">Встановлення в прес-фітинг</param>
         <param name="Матеріал">FKM</param>
         <param name="Покриття">Немає</param>
@@ -17075,7 +17073,7 @@
         <param name="Розміри (мм)">Для труби 42 мм</param>
         <param name="Матеріал">HNBR</param>
         <param name="Тип конструкції">Жовте ущільнювальне кільце</param>
-        <param name="Діапазон температури робочого середовища Тр (°С)">від ?20°C до +110°C</param>
+        <param name="Діапазон температури робочого середовища Тр (°С)">від -20°C до +110°C</param>
         <param name="Тип з'єднання">Встановлення в прес-фітинг</param>
         <param name="Сумісність з комплектуючою">Прес-фітинги PRESS-INOX діаметром 42 мм</param>
         <param name="Область застосування">Системи водопостачання, опалення, технологічні та інженерні мережі</param>
@@ -19361,11 +19359,11 @@
         <param name="W (мм)">625</param>
         <param name="A (мм)">50,00</param>
         <param name="Торгова марка">EUROPRODUCT</param>
+        <param name="Модель">EP.S1100-12</param>
         <param name="Призначення">Розподіл контурів та регулювання витрат у системі опалення/теплої підлоги.</param>
         <param name="Країна бренду">Україна</param>
         <param name="Тип виробу">Колектори для систем опалення</param>
         <param name="Тип колектора">Для радіаторного розведення</param>
-        <param name="Модель">EP.S1100-12</param>
         <param name="Матеріал">Нержавіюча сталь SUS 304</param>
         <param name="Індикатор температури">Так</param>
         <param name="Температура експлуатації (° C)">110</param>
@@ -20658,8 +20656,9 @@
         <param name="Країна бренду">Чехія</param>
         <param name="Тип">Прямий</param>
         <param name="Тип виробу">Крани кульові</param>
-        <param name="Серія">EXTREME</param>
         <param name="Модель">KE.214-40</param>
+        <param name="Серія">EXTREME</param>
+        <param name="Діаметр підключення (дюйм)">1 1/2</param>
         <param name="Колір">Сталевий</param>
         <param name="Тип ручки">Важіль</param>
         <param name="Максимальний робочий тиск (бар)">25</param>
@@ -20667,7 +20666,6 @@
         <param name="Матеріал виробу">Латунь</param>
         <param name="Матеріал кульового затвора">Латунь</param>
         <param name="Тип приєднання">Різьбове</param>
-        <param name="Діаметр підключення (дюйм)">1 1/2</param>
       </offer>
       <offer id="SK0045" available="true">
         <url>https://ol.partners/products/truboprovodi-ta-zyednannya/fitingi/rizbovi-zyednannya/zghin-amerikanka-34-latun-kutoviy-sk-art-702-sk0045</url>
@@ -21278,8 +21276,8 @@
         <param name="Вага ящ.">14.5</param>
         <param name="Країна бренду">Україна</param>
         <param name="Тип виробу">Змінні картриджі</param>
-        <param name="Модель">EPV-08-2510</param>
         <param name="Призначення">Для води</param>
+        <param name="Модель">EPV-08-2510</param>
         <param name="Торгова марка">EUROPRODUCT</param>
         <param name="Максимальна температура води (°C)">45</param>
         <param name="Матеріал">Поліпропілен</param>
@@ -25563,26 +25561,26 @@
         <param name="Вага ящ.">7.6</param>
         <param name="Форма">Кругла</param>
         <param name="Розташування (орієнтація)">Універсальне</param>
-        <param name="Поверхня">Матова</param>
         <param name="Колір">Чорний матовий</param>
+        <param name="Поверхня">Матова</param>
         <param name="Ширина (мм)">355</param>
         <param name="Висота (мм)">120</param>
-        <param name="Глибина (мм)">355</param>
-        <param name="Розміри виробу (ВхШхГ)">120x355x355</param>
         <param name="Діапазон ширини (мм)">320-370</param>
+        <param name="Розміри виробу (ВхШхГ)">120x355x355</param>
+        <param name="Глибина (мм)">355</param>
         <param name="Торгова марка">MIXXUS PREMIUM</param>
+        <param name="Тип монтажу">На стільницю</param>
         <param name="Вид виробу">Раковина накладна</param>
         <param name="Серія">TOPPER</param>
         <param name="Тип виробу">Керамічні раковини</param>
-        <param name="Тип монтажу">На стільницю</param>
         <param name="Країна бренду">Німеччина</param>
         <param name="Гарантійний період (міс)">120</param>
+        <param name="Гарантія на комплектуючі (міс)">24</param>
         <param name="Кількість вантажних місць">1</param>
         <param name="Комплектація">Раковина, гарантійний талон</param>
         <param name="Вага нетто, кг">7,00</param>
         <param name="Вага брутто, кг">8,00</param>
         <param name="Об'єм, м3">0,02</param>
-        <param name="Гарантія на комплектуючі (міс)">24</param>
         <param name="Керування">Без керування</param>
         <param name="Є отвір під змішувач">Ні</param>
         <param name="Матеріал">Санітарна порцеляна</param>
@@ -30706,26 +30704,26 @@
         <param name="Од. в упак.">8</param>
         <param name="Об'єм ящ.">0.015</param>
         <param name="Вага ящ.">12</param>
-        <param name="Тип з'єднання">Внутрішня-зовнішня</param>
-        <param name="Максимальний робочий тиск (бар)">40</param>
-        <param name="Матеріал кульового затвора">Латунь</param>
-        <param name="Шар">Латунний</param>
-        <param name="Робоче середовище">Газ, вода, пара, гліколі 50%</param>
-        <param name="Робочий тиск (бар)">до 20</param>
-        <param name="Клас герметичності затвора">А</param>
-        <param name="Матеріал штоку">Латунь CW617N нікельована</param>
-        <param name="Матеріал виробу">Латунь CW617N нікельована</param>
-        <param name="Тип приєднання">Різьбове</param>
+        <param name="Модель">KR.215.G</param>
         <param name="Тип виробу">Крани кульові</param>
         <param name="Призначення">Газ, вода, пара, гліколі 50%</param>
         <param name="Тип">Прямий</param>
         <param name="Вид виробу">Кран кульовий для води</param>
         <param name="Країна бренду">Чехія</param>
         <param name="Торгова марка">KOER</param>
-        <param name="Модель">KR.215.G</param>
+        <param name="Тип ручки">Важіль</param>
         <param name="Покриття">Нікель</param>
         <param name="Колір">Сталевий</param>
-        <param name="Тип ручки">Важіль</param>
+        <param name="Тип з'єднання">Внутрішня-зовнішня</param>
+        <param name="Матеріал виробу">Латунь CW617N нікельована</param>
+        <param name="Матеріал штоку">Латунь CW617N нікельована</param>
+        <param name="Максимальний робочий тиск (бар)">40</param>
+        <param name="Матеріал кульового затвора">Латунь</param>
+        <param name="Шар">Латунний</param>
+        <param name="Робоче середовище">Газ, вода, пара, гліколі 50%</param>
+        <param name="Робочий тиск (бар)">до 20</param>
+        <param name="Клас герметичності затвора">А</param>
+        <param name="Тип приєднання">Різьбове</param>
         <param name="Особливості">Робочий тиск для газу – 3 бар; Робочий тиск для води – до 20 бар</param>
         <param name="Діаметр підключення (дюйм)">2</param>
       </offer>
@@ -31086,7 +31084,7 @@
         <param name="Розміри (мм)">Для труби 35 мм</param>
         <param name="Тип конструкції">Чорне ущільнювальне кільце</param>
         <param name="Матеріал">EPDM</param>
-        <param name="Діапазон температури робочого середовища Тр (°С)">від ?20°C до +110°C</param>
+        <param name="Діапазон температури робочого середовища Тр (°С)">від -20°C до +110°C</param>
         <param name="Тип з'єднання">Встановлення в прес-фітинг</param>
         <param name="Країна бренду">Чехія</param>
         <param name="Модель">KQ.0B35</param>
@@ -31372,7 +31370,7 @@
         <param name="Модель">KQ.0R28</param>
         <param name="Тип виробу">Система PRESS-INOX</param>
         <param name="Тип з'єднання">Встановлення в прес-фітинг</param>
-        <param name="Діапазон температури робочого середовища Тр (°С)">від ?20°C до +200°C</param>
+        <param name="Діапазон температури робочого середовища Тр (°С)">від -20°C до +200°C</param>
         <param name="Матеріал">FKM</param>
         <param name="Тип конструкції">Червоне ущільнювальне кільце</param>
         <param name="Покриття">Немає</param>
@@ -34052,14 +34050,14 @@
         <param name="Тип конструкції">Перфорована, з отворами під саморізи</param>
         <param name="Тип кріплення">Під саморізи</param>
         <param name="Матеріал виробу">Оцинкована сталь</param>
+        <param name="Покриття">Оцинкована</param>
         <param name="Країна бренду">Чехія</param>
+        <param name="Призначення">Для фіксації деталей у монтажних шинах, профілях, кронштейнах та опорах</param>
         <param name="Тип виробу">Пластина фіксуюча</param>
         <param name="Модель">KCI.0303</param>
-        <param name="Призначення">Для фіксації деталей у монтажних шинах, профілях, кронштейнах та опорах</param>
         <param name="Торгова марка">KOER</param>
         <param name="Область застосування">Сантехніка, опалення, вентиляція, кондиціонування, інженерні мережі</param>
         <param name="Сумісність з комплектуючою">Монтажні шини, профілі, саморізи, кронштейни</param>
-        <param name="Покриття">Оцинкована</param>
       </offer>
       <offer id="40804000" available="true">
         <url>https://ol.partners/products/aksesuari-dlya-vannoi/politsi-u-vannu/politsya-dlya-rushnikiv-u-vannu-grohe-selection-cube-40804000</url>
@@ -35200,32 +35198,32 @@
         <param name="Од. в упак.">5</param>
         <param name="Об'єм ящ.">0.066</param>
         <param name="Вага ящ.">14</param>
-        <param name="Ширина (мм)">445</param>
-        <param name="Висота (мм)">37</param>
-        <param name="Глибина (мм)">360</param>
-        <param name="Розміри виробу (ВхШхГ)">37x445x360</param>
-        <param name="Країна бренду">Німеччина</param>
-        <param name="Серія">ELLIPSE</param>
-        <param name="Тип виробу">Комплектуючі та запчастини для кераміки</param>
-        <param name="Країна виробник">Німеччина</param>
-        <param name="Тип монтажу">На чашу унітазу</param>
-        <param name="Торгова марка">MIXXUS PREMIUM</param>
-        <param name="Вид виробу">Сидіння-кришка для унітазу</param>
         <param name="Модель">SEAT COVER ELLIPSE-2005 GRAY</param>
-        <param name="Форма">Заокруглена</param>
-        <param name="Поверхня">Матова</param>
-        <param name="Розташування (орієнтація)">Універсальне</param>
-        <param name="Колір">Графіт</param>
-        <param name="Гарантійний період (міс)">24</param>
-        <param name="Комплектація">Сидіння-кришка, кріплення</param>
-        <param name="Сумісність з комплектуючою">Сумісна з: MIXXUS PREMIUM ELLIPSE-0309-T1 GRAY Унітаз підвісний 530x360x350mm система змиву TORNADO 1.0 (MP6655).</param>
+        <param name="Вид виробу">Сидіння-кришка для унітазу</param>
+        <param name="Торгова марка">MIXXUS PREMIUM</param>
+        <param name="Тип монтажу">На чашу унітазу</param>
+        <param name="Країна виробник">Німеччина</param>
+        <param name="Тип виробу">Комплектуючі та запчастини для кераміки</param>
+        <param name="Серія">ELLIPSE</param>
+        <param name="Країна бренду">Німеччина</param>
+        <param name="Вага нетто, кг">2,50</param>
+        <param name="Вага брутто, кг">3,00</param>
         <param name="Кількість вантажних місць">1</param>
         <param name="Об'єм, м3">0,02</param>
-        <param name="Вага брутто, кг">3,00</param>
-        <param name="Вага нетто, кг">2,50</param>
-        <param name="Сидіння">Slim Duroplast/Soft-close/Quick relase</param>
-        <param name="Матеріал">Дюропласт</param>
+        <param name="Сумісність з комплектуючою">Сумісна з: MIXXUS PREMIUM ELLIPSE-0309-T1 GRAY Унітаз підвісний 530x360x350mm система змиву TORNADO 1.0 (MP6655).</param>
+        <param name="Комплектація">Сидіння-кришка, кріплення</param>
+        <param name="Гарантійний період (міс)">24</param>
+        <param name="Розміри виробу (ВхШхГ)">37x445x360</param>
+        <param name="Глибина (мм)">360</param>
+        <param name="Ширина (мм)">445</param>
+        <param name="Висота (мм)">37</param>
+        <param name="Колір">Графіт</param>
+        <param name="Розташування (орієнтація)">Універсальне</param>
+        <param name="Поверхня">Матова</param>
+        <param name="Форма">Заокруглена</param>
         <param name="Керування">Механічне</param>
+        <param name="Матеріал">Дюропласт</param>
+        <param name="Сидіння">Slim Duroplast/Soft-close/Quick relase</param>
       </offer>
       <offer id="KP0109" available="true">
         <url>https://ol.partners/products/truboprovodi-ta-zyednannya/fitingi/zyednannya-dlya-trub-z-polipropilenu/zyednuvalna-mufta-vr-40x114f-ppr-koer-k0091pro-kp0109</url>
@@ -36075,8 +36073,8 @@
         <param name="Розміри виробу (ВхШхГ)">160x240x32</param>
         <param name="Висота (мм)">160</param>
         <param name="Форма кнопки зливу">Квадратна</param>
-        <param name="Колір">Графіт</param>
         <param name="Колір панелі">Графіт</param>
+        <param name="Колір">Графіт</param>
         <param name="Сумісність з панеллю/інсталляцією">Сумісна з інсталляціїєю KT-0408</param>
         <param name="Гарантійний період (міс)">24</param>
         <param name="Комплектація">Панель змиву, кріплення.</param>
@@ -37643,7 +37641,7 @@
         <param name="Колір">Чорний</param>
       </offer>
       <offer id="KR0210" available="true">
-        <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/kontrolnovimiryuvalni-priladi-kvp/manometr-aksialniy-koer-km611a-04-bar-d-63mm-1412-kr0210</url>
+        <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/kontrolnovimiryuvalni-priladi-kvp/manometr-aksialniy-koer-km611a-04-bar-d-63mm-14-kr0210</url>
         <price>157.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>e8bba9c2-db1f-41a1-a040-2c8ca1759747</categoryId>
@@ -37654,7 +37652,7 @@
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
         <availabilityStatus>Достатньо</availabilityStatus>
-        <name>Манометр аксіальний (KOER KM.611A) (0-4 bar), D 63мм, 1/4''-1/2'' (KR0210)</name>
+        <name>Манометр аксіальний (KOER KM.611A) (0-4 bar), D 63мм, 1/4'' (KR0210)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR0210</vendorCode>
         <param name="Од. в упак.">100</param>
@@ -37662,7 +37660,6 @@
         <param name="Вага ящ.">15.3</param>
         <param name="З'єднувальний діаметр (дюйм)">1/4</param>
         <param name="Діаметр (мм)">63</param>
-        <param name="З'єднувальний діаметр 2 (дюйм)">1/2</param>
         <param name="Діаметр підключення (дюйм)">1/4</param>
         <param name="Тип виробу">Манометри, термометри, термоманометри</param>
         <param name="Модель">KM.611A</param>
@@ -39574,22 +39571,22 @@
         <param name="Од. в упак.">160</param>
         <param name="Об'єм ящ.">0.009</param>
         <param name="Вага ящ.">13.2</param>
+        <param name="Колір">Сталевий</param>
+        <param name="Покриття">Хром</param>
         <param name="Призначення">Для труб</param>
         <param name="Торгова марка">EUROPRODUCT</param>
         <param name="Тип виробу">Латунний фітинг</param>
-        <param name="Країна бренду">Україна</param>
-        <param name="Тип">Подовжувач</param>
         <param name="Вид виробу">Подовжувач</param>
+        <param name="Тип">Подовжувач</param>
+        <param name="Країна бренду">Україна</param>
         <param name="Модель">EP.E040.Chr</param>
-        <param name="Тип з'єднання">Різьбовий</param>
-        <param name="Номінальний тиск (бар)">40,00</param>
-        <param name="Матеріал">Латунь CW617N</param>
         <param name="Матеріал виробу">Латунь CW617N хромована</param>
-        <param name="Діаметр підключення (дюйм)">1/2</param>
-        <param name="Розміри (мм)">40</param>
+        <param name="Тип з'єднання">Різьбовий</param>
+        <param name="Матеріал">Латунь CW617N</param>
+        <param name="Номінальний тиск (бар)">40,00</param>
         <param name="Гарантійний період (міс)">84</param>
-        <param name="Покриття">Хром</param>
-        <param name="Колір">Сталевий</param>
+        <param name="Розміри (мм)">40</param>
+        <param name="Діаметр підключення (дюйм)">1/2</param>
       </offer>
       <offer id="KR3411" available="false">
         <url>https://ol.partners/products/sifoni-trapi-dlya-dushu/sifoni/sifon-dlya-rakovini-koer-bt0201-bez-vipusku-pid-donniy-klapan-bez-revizii-kolir-khrom-1-14-kr3411</url>
@@ -39683,28 +39680,28 @@
         <param name="Од. в упак.">8</param>
         <param name="Об'єм ящ.">0.213</param>
         <param name="Вага ящ.">22.65</param>
+        <param name="Діаметр (мм)">220</param>
+        <param name="Глибина (мм)">220</param>
+        <param name="Розміри виробу (ВхШхГ)">820x220x220</param>
+        <param name="Висота (мм)">820</param>
+        <param name="Ширина (мм)">220</param>
         <param name="Тип виробу">Йоржики</param>
+        <param name="Призначення">Для унітазу</param>
+        <param name="Країна виробник">Туреччина</param>
         <param name="Серія">KIT</param>
         <param name="Вид виробу">Йоржик підлоговий</param>
-        <param name="Країна бренду">Чехія</param>
         <param name="Тип монтажу">Підлоговий</param>
-        <param name="Країна виробник">Туреччина</param>
-        <param name="Призначення">Для унітазу</param>
+        <param name="Країна бренду">Чехія</param>
         <param name="Торгова марка">ZERIX</param>
+        <param name="Форма">Кругла</param>
+        <param name="Колір">Білий</param>
+        <param name="Поверхня">Матова</param>
         <param name="Комплектація">Колба, йоржик, тримач, інструкція</param>
         <param name="Гарантійний період (міс)">12</param>
-        <param name="Колір">Білий</param>
-        <param name="Форма">Кругла</param>
-        <param name="Поверхня">Матова</param>
         <param name="Тип конструкції">Закрита</param>
-        <param name="Матеріал комплектуючих">Корпус та ручка – сталь з антикорозійним покриттям, внутрішня чашка та щітка з поліпропілену.</param>
-        <param name="Матеріал">Нержавіюча сталь</param>
         <param name="Наявність кришки">Так</param>
-        <param name="Глибина (мм)">220</param>
-        <param name="Ширина (мм)">220</param>
-        <param name="Висота (мм)">820</param>
-        <param name="Розміри виробу (ВхШхГ)">820x220x220</param>
-        <param name="Діаметр (мм)">220</param>
+        <param name="Матеріал">Нержавіюча сталь</param>
+        <param name="Матеріал комплектуючих">Корпус та ручка – сталь з антикорозійним покриттям, внутрішня чашка та щітка з поліпропілену.</param>
       </offer>
       <offer id="KP0008" available="true">
         <url>https://ol.partners/products/truboprovodi-ta-zyednannya/fitingi/zyednannya-dlya-trub-z-polipropilenu/zyednuvalna-mufta-63-ppr-koer-k0006pro-kp0008</url>
@@ -42400,7 +42397,7 @@
         <param name="Матеріал">HNBR</param>
         <param name="Тип конструкції">Жовте ущільнювальне кільце</param>
         <param name="Тип з'єднання">Встановлення в прес-фітинг</param>
-        <param name="Діапазон температури робочого середовища Тр (°С)">від ?20°C до +110°C</param>
+        <param name="Діапазон температури робочого середовища Тр (°С)">від -20°C до +110°C</param>
         <param name="Область застосування">Системи водопостачання, опалення, технологічні та інженерні мережі</param>
         <param name="Сумісність з комплектуючою">Прес-фітинги PRESS-INOX діаметром 28 мм</param>
         <param name="Колір">Жовтий</param>
@@ -44528,30 +44525,30 @@
         <param name="Од. в упак.">1</param>
         <param name="Об'єм ящ.">0.014</param>
         <param name="Вага ящ.">7.6</param>
-        <param name="Жорсткість води (мг-екв/л)">&lt;20</param>
-        <param name="Тиск (бар)">10,00</param>
-        <param name="pH теплоносія">8-9,5</param>
-        <param name="Тепловіддача (Вт)">510</param>
-        <param name="Максимальний робочий тиск (атм)">10</param>
-        <param name="Вміст зважених речовин (мг/л)">&lt;20</param>
-        <param name="Теплоносій">Вода та незамерзаючі рідини</param>
-        <param name="Тип різби">Внутрішня</param>
-        <param name="Підключення">Нижнє</param>
-        <param name="Матеріал">Сталь</param>
         <param name="Вміст кисню (мкг/л)">&lt;20</param>
+        <param name="Жорсткість води (мг-екв/л)">&lt;20</param>
+        <param name="Матеріал">Сталь</param>
+        <param name="Підключення">Нижнє</param>
+        <param name="Тип різби">Внутрішня</param>
+        <param name="Тиск (бар)">10,00</param>
+        <param name="Теплоносій">Вода та незамерзаючі рідини</param>
+        <param name="pH теплоносія">8-9,5</param>
+        <param name="Вміст зважених речовин (мг/л)">&lt;20</param>
+        <param name="Максимальний робочий тиск (атм)">10</param>
+        <param name="Тепловіддача (Вт)">510</param>
+        <param name="Країна бренду">Чехія</param>
+        <param name="Тип виробу">Сталеві радіатори</param>
+        <param name="Торгова марка">KOER</param>
+        <param name="Тип (Клас)">22</param>
+        <param name="Модель">22х300х400.B</param>
         <param name="Вага (кг)">7,02</param>
-        <param name="Об'єм (л)">1,44</param>
         <param name="Висота (мм)">300</param>
-        <param name="Довжина (мм)">400</param>
+        <param name="Об'єм (л)">1,44</param>
         <param name="Міжосьова відстань (мм)">249</param>
+        <param name="Довжина (мм)">400</param>
         <param name="Упаковка">Термоусаджувальна плівка і фірмова упаковка</param>
         <param name="Гарантійний період (міс)">120</param>
         <param name="Комплектація">Термоклапан Oventrop (Німеччина), 2 кронштейна для кріплення, відведення повітря (кран Маєвського), 2 заглушки, 4 шурупа з дюбелем, 4 пластикових фіксатора-прокладки</param>
-        <param name="Тип виробу">Сталеві радіатори</param>
-        <param name="Торгова марка">KOER</param>
-        <param name="Модель">22х300х400.B</param>
-        <param name="Тип (Клас)">22</param>
-        <param name="Країна бренду">Чехія</param>
         <param name="Колір">Білий (RAL 9016)</param>
       </offer>
       <offer id="KR6326" available="true">
@@ -45989,8 +45986,8 @@
         <param name="Об'єм ящ.">0</param>
         <param name="Вага ящ.">0</param>
         <param name="Гарантійний період (міс)">12</param>
-        <param name="Комплектація">Утримувач, кріплення.</param>
         <param name="Особливості">GROHE StarLight® Technology - хромоване зносостійке покриття. GROHE QuickFix® – економія до 40% витрат часу на монтаж.</param>
+        <param name="Комплектація">Утримувач, кріплення.</param>
         <param name="Колір">Сталевий</param>
         <param name="Покриття">Хром</param>
         <param name="Поверхня">Глянцева</param>
@@ -45998,8 +45995,8 @@
         <param name="Тип">Настінний</param>
         <param name="Тип виробу">Тримачі</param>
         <param name="Країна бренду">Німеччина</param>
-        <param name="Вид виробу">Тримач для склянки, мильниці</param>
         <param name="Торгова марка">GROHE</param>
+        <param name="Вид виробу">Тримач для склянки, мильниці</param>
         <param name="Матеріал виробу">Метал</param>
         <param name="Розміри виробу (ВхШхГ)">30х56х66</param>
       </offer>
@@ -46499,13 +46496,13 @@
         <param name="Тип затвору">Комбінований</param>
         <param name="Пропускна здатність (л/хв)">30,00</param>
         <param name="Діаметр випускного отвору (мм)">40,00</param>
-        <param name="Монтажна глибина (мм)">100-155</param>
         <param name="Комбінований гідрозатвор (мм)">40,00</param>
+        <param name="Монтажна глибина (мм)">100-155</param>
         <param name="Торгова марка">KOER</param>
         <param name="Вид виробу">Лінійні трапи</param>
         <param name="Країна бренду">Чехія</param>
-        <param name="Тип виробу">Трапи для душу</param>
         <param name="Модель">FD20</param>
+        <param name="Тип виробу">Трапи для душу</param>
         <param name="Ширина (мм)">70</param>
         <param name="Довжина (мм)">800</param>
         <param name="Комплектація">Водовідвідний жолоб, решітка, гідроізоляційна стрічка, що відповідає жолобу, комбінований гідрозатвор SMART, опорні ноги, монтажний гачок</param>
@@ -50620,7 +50617,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/9b622d99-dfa0-4623-a07e-751e2dc51d92/PM0620-PLAMIX-PVM-34-FM-1.jpg</picture>
         <vendor>PLAMIX</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Кран кульовий Plamix PVM-3/4" FM PVC (PM0620)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>PM0620</vendorCode>
@@ -57247,7 +57244,7 @@
         <param name="Од. в упак.">1000</param>
         <param name="Об'єм ящ.">0</param>
         <param name="Вага ящ.">0</param>
-        <param name="Діапазон температури робочого середовища Тр (°С)">від ?20°C до +110°C</param>
+        <param name="Діапазон температури робочого середовища Тр (°С)">від -20°C до +110°C</param>
         <param name="Матеріал">EPDM</param>
         <param name="Тип конструкції">Чорне ущільнювальне кільце</param>
         <param name="Тип з'єднання">Встановлення в прес-фітинг</param>
@@ -58039,15 +58036,15 @@
         <param name="Од. в упак.">72</param>
         <param name="Об'єм ящ.">0.012</param>
         <param name="Вага ящ.">5</param>
+        <param name="Колір">Червоний</param>
         <param name="Особливості">Вимірювання витрати рідини чи газу</param>
-        <param name="Діаметр підключення (дюйм)">1/2</param>
+        <param name="Матеріал виробу">Латунь/Поліамід</param>
+        <param name="Тип виробу">Водяна тепла підлога</param>
         <param name="Країна бренду">Чехія</param>
         <param name="Торгова марка">KOER</param>
         <param name="Призначення">для колекторних блоків</param>
         <param name="Модель">KR.1155</param>
-        <param name="Тип виробу">Водяна тепла підлога</param>
-        <param name="Матеріал виробу">Латунь/Поліамід</param>
-        <param name="Колір">Червоний</param>
+        <param name="Діаметр підключення (дюйм)">1/2</param>
       </offer>
       <offer id="NF3019" available="true">
         <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/kolektori/kolektorniy-blok-z-vitratomirami-nolf-nf210005s-1x5-korpus-nerzhaviyucha-stal-nf3019</url>
@@ -60541,24 +60538,24 @@
         <param name="Тиск (бар)">10,00</param>
         <param name="Жорсткість води (мг-екв/л)">&lt;20</param>
         <param name="Тепловіддача (Вт)">772</param>
+        <param name="Матеріал">Сталь</param>
+        <param name="Теплоносій">Вода та незамерзаючі рідини</param>
         <param name="Вміст зважених речовин (мг/л)">&lt;20</param>
+        <param name="Тип різби">Внутрішня</param>
+        <param name="pH теплоносія">8-9,5</param>
+        <param name="Максимальний робочий тиск (атм)">10</param>
         <param name="Вміст кисню (мкг/л)">&lt;20</param>
         <param name="Підключення">Нижнє</param>
-        <param name="Максимальний робочий тиск (атм)">10</param>
-        <param name="pH теплоносія">8-9,5</param>
-        <param name="Тип різби">Внутрішня</param>
-        <param name="Теплоносій">Вода та незамерзаючі рідини</param>
-        <param name="Матеріал">Сталь</param>
-        <param name="Міжосьова відстань (мм)">449</param>
-        <param name="Довжина (мм)">400</param>
-        <param name="Вага (кг)">10,79</param>
-        <param name="Висота (мм)">500</param>
         <param name="Об'єм (л)">2,16</param>
-        <param name="Торгова марка">KOER</param>
-        <param name="Тип (Клас)">22</param>
-        <param name="Тип виробу">Сталеві радіатори</param>
-        <param name="Країна бренду">Чехія</param>
+        <param name="Міжосьова відстань (мм)">449</param>
+        <param name="Висота (мм)">500</param>
+        <param name="Вага (кг)">10,79</param>
+        <param name="Довжина (мм)">400</param>
         <param name="Модель">22х500х400.B</param>
+        <param name="Торгова марка">KOER</param>
+        <param name="Країна бренду">Чехія</param>
+        <param name="Тип виробу">Сталеві радіатори</param>
+        <param name="Тип (Клас)">22</param>
         <param name="Колір">Білий (RAL 9016)</param>
       </offer>
       <offer id="MP6550" available="true">
@@ -63878,7 +63875,7 @@
         <param name="Область застосування">Системи водопостачання, опалення, технологічні та інженерні мережі</param>
         <param name="Сумісність з комплектуючою">Прес-фітинги PRESS-INOX діаметром 42 мм</param>
         <param name="Тип конструкції">Чорне ущільнювальне кільце</param>
-        <param name="Діапазон температури робочого середовища Тр (°С)">від ?20°C до +110°C</param>
+        <param name="Діапазон температури робочого середовища Тр (°С)">від -20°C до +110°C</param>
         <param name="Матеріал">EPDM</param>
         <param name="Тип з'єднання">Встановлення в прес-фітинг</param>
         <param name="Розміри (мм)">Для труби 42 мм</param>
@@ -64231,36 +64228,36 @@
         <param name="Од. в упак.">10</param>
         <param name="Об'єм ящ.">0.068</param>
         <param name="Вага ящ.">9.1</param>
-        <param name="Тип відкриття/закриття зливного отвору">Напівавтоматичний</param>
-        <param name="Матеріал">ABS-пластик</param>
-        <param name="Сумісний з донним клапаном">Так</param>
-        <param name="Матеріал комплектуючих">Панель для переливу з нержавіючої сталі, латунний злив, пластикова труба, прокладка силікон</param>
-        <param name="Діаметр випуску (дюйм)">1 1/2"</param>
-        <param name="Наявність ревізії для сифону">Не передбачено</param>
-        <param name="Максимальна температура води (°C)">95</param>
-        <param name="Монтажна глибина (мм)">315</param>
-        <param name="Вихід під пральну машину">Ні</param>
-        <param name="Пропускна здатність (л/хв)">34,00</param>
-        <param name="Діаметр патрубка (відвід) в каналізацію">Відвід трубний 40/50 мм під кутом 45°</param>
-        <param name="Загальна висота монтажа (мм)">650,00</param>
-        <param name="Наявність переливу">Так, гофротруба</param>
-        <param name="Діаметр випускного отвору (мм)">40,00</param>
-        <param name="Тип випуску під донний клапан">Різьбовий</param>
         <param name="Тип затвору">Мокрий (гідрозатвор)</param>
-        <param name="Країна бренду">Чехія</param>
-        <param name="Призначення">Для ванни</param>
-        <param name="Серія">BD-04</param>
-        <param name="Модель">BD-04-01</param>
-        <param name="Торгова марка">KOER</param>
-        <param name="Тип виробу">Сифони для ванни</param>
-        <param name="Тип монтажу">Прихований на зливний отвір ванни</param>
+        <param name="Тип випуску під донний клапан">Різьбовий</param>
+        <param name="Діаметр випускного отвору (мм)">40,00</param>
+        <param name="Наявність переливу">Так, гофротруба</param>
+        <param name="Загальна висота монтажа (мм)">650,00</param>
+        <param name="Діаметр патрубка (відвід) в каналізацію">Відвід трубний 40/50 мм під кутом 45°</param>
+        <param name="Пропускна здатність (л/хв)">34,00</param>
+        <param name="Вихід під пральну машину">Ні</param>
+        <param name="Монтажна глибина (мм)">315</param>
+        <param name="Максимальна температура води (°C)">95</param>
+        <param name="Наявність ревізії для сифону">Не передбачено</param>
+        <param name="Діаметр випуску (дюйм)">1 1/2"</param>
+        <param name="Матеріал комплектуючих">Панель для переливу з нержавіючої сталі, латунний злив, пластикова труба, прокладка силікон</param>
+        <param name="Сумісний з донним клапаном">Так</param>
+        <param name="Матеріал">ABS-пластик</param>
+        <param name="Тип відкриття/закриття зливного отвору">Напівавтоматичний</param>
         <param name="Вид виробу">Сифон для ванни з переливом (Напівавтомат)</param>
+        <param name="Тип монтажу">Прихований на зливний отвір ванни</param>
+        <param name="Тип виробу">Сифони для ванни</param>
+        <param name="Торгова марка">KOER</param>
+        <param name="Модель">BD-04-01</param>
+        <param name="Серія">BD-04</param>
+        <param name="Призначення">Для ванни</param>
+        <param name="Країна бренду">Чехія</param>
         <param name="Країна виробник">Китай</param>
-        <param name="Діаметр підключення (дюйм)">1 1/2</param>
-        <param name="Діаметр (мм)">70</param>
-        <param name="Колір">Хром</param>
-        <param name="Гарантійний період (міс)">24</param>
         <param name="Комплектація">Сифон, накладки, випуск, перелив, гофрована труба, перехідна труба.</param>
+        <param name="Гарантійний період (міс)">24</param>
+        <param name="Колір">Хром</param>
+        <param name="Діаметр (мм)">70</param>
+        <param name="Діаметр підключення (дюйм)">1 1/2</param>
       </offer>
       <offer id="KR6153" available="true">
         <url>https://ol.partners/products/aksesuari-dlya-vannoi/gachki-dlya-rushnikiv/gachok-koer-as0101101-kolir-khrom-glyanets-kr6153</url>
@@ -67481,7 +67478,7 @@
         <param name="Тип конструкції">Червоне ущільнювальне кільце</param>
         <param name="Тип з'єднання">Встановлення в прес-фітинг</param>
         <param name="Матеріал">FKM</param>
-        <param name="Діапазон температури робочого середовища Тр (°С)">від ?20°C до +200°C</param>
+        <param name="Діапазон температури робочого середовища Тр (°С)">від -20°C до +200°C</param>
         <param name="Торгова марка">KOER</param>
         <param name="Країна бренду">Чехія</param>
         <param name="Модель">KQ.0R35</param>
@@ -68598,7 +68595,7 @@
         <param name="Діаметр підключення (дюйм)">3/8</param>
         <param name="Колір">Білий</param>
       </offer>
-      <offer id="KR2801" available="false">
+      <offer id="KR2801" available="true">
         <url>https://ol.partners/products/truboprovodi-ta-zyednannya/ustatkuvannya-dlya-montazhu/khomuti-na-trubi/khomut-trubniy-otsinkovaniy-koer-kcb20-4-110118-chorniy-kr2801</url>
         <price>104.00</price>
         <currencyId>UAH</currencyId>
@@ -68606,8 +68603,8 @@
         <picture>https://ol.partners/Products/Photo/5B06D8C2-E570-41FF-A6E9-C3E6F9C9E2EE</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/84e7982c-4c04-4e63-9f1d-b79a3bfaafa0/image_03_KR2801.jpg</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Хомут трубний оцинкований Koer KCB.20 4 "(110-118) чорний (KR2801)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR2801</vendorCode>
@@ -68776,8 +68773,8 @@
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>ZX6095</vendorCode>
         <param name="Од. в упак.">36</param>
-        <param name="Об'єм ящ.">0</param>
-        <param name="Вага ящ.">0</param>
+        <param name="Об'єм ящ.">0.033</param>
+        <param name="Вага ящ.">11.8</param>
         <param name="Колір">Білий 3-Д</param>
         <param name="Форма">Квадратна</param>
         <param name="Умови експлуатації та догляд">1. Рекомендується прати не рідше 1 разу на місяць у ручному режимі при температурі не більше 30°С. 2. Для збереження зовнішнього вигляду виробу рекомендується споліскувати фіранку після прийому душу. 3. При появі плісняви рекомендується замочити фіранку в розчині прального порошку з теплою водою та невеликої кількості відбілювача на 30-40 хв, після чого прати у ручному режимі за температури 30 °С. Якщо через нетривалий час цвіль з'явиться знову, рекомендується замінити виріб на новий.</param>
@@ -70414,7 +70411,7 @@
         <param name="Країна бренду">Чехія</param>
         <param name="Сумісність з комплектуючою">Прес-фітинги PRESS-INOX діаметром 35 мм</param>
         <param name="Область застосування">Системи водопостачання, опалення, технологічні та інженерні мережі</param>
-        <param name="Діапазон температури робочого середовища Тр (°С)">від ?20°C до +110°C</param>
+        <param name="Діапазон температури робочого середовища Тр (°С)">від -20°C до +110°C</param>
         <param name="Тип конструкції">Жовте ущільнювальне кільце</param>
         <param name="Тип з'єднання">Встановлення в прес-фітинг</param>
         <param name="Матеріал">HNBR</param>
@@ -72673,7 +72670,7 @@
         <param name="Матеріал">Латунь CW617N</param>
       </offer>
       <offer id="KR0205" available="true">
-        <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/kontrolnovimiryuvalni-priladi-kvp/manometr-radialniy-koer-km610r-010-bar-d-63mm-1412-kr0205</url>
+        <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/kontrolnovimiryuvalni-priladi-kvp/manometr-radialniy-koer-km610r-010-bar-d-63mm-14-kr0205</url>
         <price>157.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>e8bba9c2-db1f-41a1-a040-2c8ca1759747</categoryId>
@@ -72683,14 +72680,13 @@
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
         <availabilityStatus>Достатньо</availabilityStatus>
-        <name>Манометр радіальний (KOER KM.610R) (0-10 bar), D 63мм, 1/4''-1/2'' (KR0205)</name>
+        <name>Манометр радіальний (KOER KM.610R) (0-10 bar), D 63мм, 1/4'' (KR0205)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR0205</vendorCode>
         <param name="Од. в упак.">100</param>
         <param name="Об'єм ящ.">0.024</param>
         <param name="Вага ящ.">14.2</param>
         <param name="Діаметр (мм)">63</param>
-        <param name="З'єднувальний діаметр 2 (дюйм)">1/2</param>
         <param name="Діаметр підключення (дюйм)">1/4</param>
         <param name="З'єднувальний діаметр (дюйм)">1/4</param>
         <param name="Модель">KM.610R</param>
@@ -75290,26 +75286,26 @@
         <param name="Вага ящ.">15.1</param>
         <param name="Торгова марка">KOER</param>
         <param name="Тип">Прямий</param>
-        <param name="Вид виробу">Кран кульовий для води</param>
-        <param name="Призначення">Газ, вода, пара, гліколі 50%</param>
-        <param name="Модель">KR.217.G</param>
-        <param name="Країна бренду">Чехія</param>
         <param name="Тип виробу">Крани кульові</param>
+        <param name="Вид виробу">Кран кульовий для води</param>
+        <param name="Країна бренду">Чехія</param>
+        <param name="Модель">KR.217.G</param>
+        <param name="Призначення">Газ, вода, пара, гліколі 50%</param>
+        <param name="Особливості">Робочий тиск для газу – 3 бар; Робочий тиск для води – до 20 бар</param>
+        <param name="Максимальний робочий тиск (бар)">40</param>
         <param name="Робоче середовище">Газ, вода, пара, гліколі 50%</param>
+        <param name="Робочий тиск (бар)">до 20</param>
+        <param name="Клас герметичності затвора">А</param>
         <param name="Матеріал виробу">Латунь CW617N нікельована</param>
+        <param name="Тип приєднання">Різьбове</param>
+        <param name="Тип з'єднання">Внутрішня-внутрішня</param>
         <param name="Шар">Латунний</param>
         <param name="Матеріал кульового затвора">Латунь</param>
         <param name="Матеріал штоку">Латунь CW617N нікельована</param>
-        <param name="Тип з'єднання">Внутрішня-внутрішня</param>
-        <param name="Тип приєднання">Різьбове</param>
-        <param name="Клас герметичності затвора">А</param>
-        <param name="Робочий тиск (бар)">до 20</param>
-        <param name="Максимальний робочий тиск (бар)">40</param>
         <param name="Тип ручки">Метелик</param>
         <param name="Колір">Сталевий</param>
         <param name="Покриття">Нікель</param>
         <param name="Діаметр підключення (дюйм)">1/2</param>
-        <param name="Особливості">Робочий тиск для газу – 3 бар; Робочий тиск для води – до 20 бар</param>
       </offer>
       <offer id="WH0010" available="false">
         <url>https://ol.partners/products/boyleri/vodonagrivach-tsilindr-mixxus-ewh01080-round-dry-nakopich-80-l-sukhiy-ten-2-kw-wh0010</url>
@@ -77409,7 +77405,7 @@
         <param name="Матеріал">HNBR</param>
         <param name="Тип конструкції">Жовте ущільнювальне кільце</param>
         <param name="Тип з'єднання">Встановлення в прес-фітинг</param>
-        <param name="Діапазон температури робочого середовища Тр (°С)">від ?20°C до +110°C</param>
+        <param name="Діапазон температури робочого середовища Тр (°С)">від -20°C до +110°C</param>
         <param name="Розміри (мм)">Для труби 18 мм</param>
         <param name="Покриття">Немає</param>
         <param name="Колір">Жовтий</param>
@@ -78001,7 +77997,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/ae3ee5ea-79ff-414c-917a-5f8c5c4e5f09/image_01.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Фільтр грубої очистки 32 PPR Koer K0148.PRO (KP0187)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KP0187</vendorCode>
@@ -78958,18 +78954,18 @@
         <param name="Модель">A8103</param>
         <param name="Торгова марка">ZERIX</param>
         <param name="Вид виробу">Тримач для туалетного паперу з полицею</param>
-        <param name="Тип виробу">Тримачі</param>
         <param name="Тип монтажу">Настінний</param>
+        <param name="Тип виробу">Тримачі</param>
         <param name="Країна бренду">Чехія</param>
         <param name="Колір">Білий</param>
         <param name="Покриття">Хром</param>
-        <param name="Особливості">З полицею</param>
-        <param name="Гарантійний період (міс)">12</param>
-        <param name="Довжина (мм)">170</param>
-        <param name="Ширина (мм)">130</param>
-        <param name="Висота (мм)">90</param>
         <param name="Матеріал виробу">Пластик</param>
         <param name="Матеріал кріплення">Метал</param>
+        <param name="Висота (мм)">90</param>
+        <param name="Ширина (мм)">130</param>
+        <param name="Довжина (мм)">170</param>
+        <param name="Особливості">З полицею</param>
+        <param name="Гарантійний період (міс)">12</param>
       </offer>
       <offer id="KR6164" available="true">
         <url>https://ol.partners/products/aksesuari-dlya-vannoi/sklyanki-dlya-zubnikh-schitok/stakan-odinarniy-nastinniy-koer-as010307-sklo-kolir-grafit-kr6164</url>
@@ -81385,7 +81381,7 @@
         <param name="Покриття">Немає</param>
         <param name="Матеріал">FKM</param>
         <param name="Тип конструкції">Червоне ущільнювальне кільце</param>
-        <param name="Діапазон температури робочого середовища Тр (°С)">від ?20°C до +200°C</param>
+        <param name="Діапазон температури робочого середовища Тр (°С)">від -20°C до +200°C</param>
         <param name="Тип з'єднання">Встановлення в прес-фітинг</param>
         <param name="Розміри (мм)">Для труби 18 мм</param>
         <param name="Область застосування">Системи водопостачання, опалення, технологічні та інженерні мережі</param>
@@ -82229,8 +82225,8 @@
         <param name="Робочий тиск (бар)">до 16</param>
         <param name="Колір">Сталевий</param>
         <param name="Покриття">Нікель</param>
-        <param name="Особливості">Робоча температура теплоносія - 110°С</param>
         <param name="Гарантійний період (міс)">84</param>
+        <param name="Особливості">Робоча температура теплоносія - 110°С</param>
       </offer>
       <offer id="MP6654" available="true">
         <url>https://ol.partners/products/keramika/unitazi/unitaz-pidvisniy-mixxus-premium-ellipse0308t3-gray-490x360x360mm-sistema-zmivu-tornado-30-mp6654</url>
@@ -82446,26 +82442,26 @@
         <param name="Вага ящ.">4.7</param>
         <param name="Торгова марка">KOER</param>
         <param name="Країна виробник">Китай</param>
+        <param name="Вид виробу">Тримач для паперових рушників</param>
         <param name="Тип виробу">Тримачі</param>
         <param name="Модель">AS-0108-12</param>
-        <param name="Тип монтажу">Настінний</param>
-        <param name="Серія">AS-01</param>
         <param name="Призначення">Для паперових рушників</param>
-        <param name="Вид виробу">Тримач для паперових рушників</param>
+        <param name="Серія">AS-01</param>
+        <param name="Тип монтажу">Настінний</param>
         <param name="Країна бренду">Чехія</param>
-        <param name="Комплектація">Тримач для паперових рушників, кріплення</param>
-        <param name="Гарантійний період (міс)">12</param>
+        <param name="Форма">Півкільце</param>
+        <param name="Колір">Золото матове</param>
         <param name="Антипалець">Так</param>
         <param name="Поверхня">Брашована</param>
-        <param name="Колір">Золото матове</param>
-        <param name="Форма">Півкільце</param>
-        <param name="Тип конструкції">Форма тримача півкільце</param>
-        <param name="Матеріал">Нержавіюча сталь SUS 304</param>
-        <param name="Матеріал комплектуючих">Нержавіюча сталь SUS304, цинковий сплав</param>
-        <param name="Ширина (мм)">189</param>
-        <param name="Розміри виробу (ВхШхГ)">133x189x130</param>
         <param name="Висота (мм)">133</param>
+        <param name="Розміри виробу (ВхШхГ)">133x189x130</param>
+        <param name="Ширина (мм)">189</param>
         <param name="Глибина (мм)">130</param>
+        <param name="Матеріал комплектуючих">Нержавіюча сталь SUS304, цинковий сплав</param>
+        <param name="Матеріал">Нержавіюча сталь SUS 304</param>
+        <param name="Тип конструкції">Форма тримача півкільце</param>
+        <param name="Комплектація">Тримач для паперових рушників, кріплення</param>
+        <param name="Гарантійний період (міс)">12</param>
       </offer>
       <offer id="CH6146" available="false">
         <url>https://ol.partners/products/sifoni-trapi-dlya-dushu/zlivni-trapi/dushoviy-trap-iz-nerzhaviyuchoi-stali-champion-drain0110x10180-100x100mm-pryame-vidvedennya-ch6146</url>
@@ -82811,22 +82807,22 @@
         <param name="Модель">ELW08-EW</param>
         <param name="Країна виробник">Китай</param>
         <param name="Тип виробу">Проточні водонагрівачі</param>
+        <param name="Торгова марка">ZERIX</param>
         <param name="Тип монтажу">Настінний</param>
         <param name="Країна бренду">Чехія</param>
-        <param name="Вихід кабелю">Знизу</param>
         <param name="Призначення">Для ванни</param>
-        <param name="Торгова марка">ZERIX</param>
+        <param name="Вихід кабелю">Знизу</param>
+        <param name="Комплектація">Водонагрівач, шланг 120 см, ручна лійка розміром 6х17 см, тримач для лійки, кріпильний елемент, керівництво по монтажу та експлуатації, кабель довжиною 1.2 м.</param>
         <param name="Гарантійний період (міс)">12</param>
         <param name="Особливості">З картриджним девіатором, виходом для лійки, хромований вилив</param>
-        <param name="Комплектація">Водонагрівач, шланг 120 см, ручна лійка розміром 6х17 см, тримач для лійки, кріпильний елемент, керівництво по монтажу та експлуатації, кабель довжиною 1.2 м.</param>
         <param name="Нагріваючий елемент">ELH-3000</param>
         <param name="Клас захисту корпусів електронного обладнання">IPX4</param>
         <param name="Є УЗВ">Ні</param>
         <param name="Потужність (кВт)">3,30</param>
-        <param name="Частота струму (Гц)">50</param>
         <param name="Індикатор температури">Так</param>
-        <param name="Матеріал виробу">Пластик</param>
+        <param name="Частота струму (Гц)">50</param>
         <param name="Напруга мережі (V)">220-240</param>
+        <param name="Матеріал виробу">Пластик</param>
         <param name="Довжина кабелю (м)">1,20</param>
         <param name="З'єднувальний діаметр (дюйм)">1/2</param>
         <param name="Довжина виливу (мм)">190</param>
@@ -91966,7 +91962,7 @@
         <param name="З'єднувальний діаметр (дюйм)">1/2</param>
       </offer>
       <offer id="KR0203" available="true">
-        <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/kontrolnovimiryuvalni-priladi-kvp/manometr-radialniy-koer-km610r-04-bar-d-63mm-1412-kr0203</url>
+        <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/kontrolnovimiryuvalni-priladi-kvp/manometr-radialniy-koer-km610r-04-bar-d-63mm-14-kr0203</url>
         <price>157.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>e8bba9c2-db1f-41a1-a040-2c8ca1759747</categoryId>
@@ -91976,7 +91972,7 @@
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
         <availabilityStatus>Достатньо</availabilityStatus>
-        <name>Манометр радіальний (KOER KM.610R) (0-4 bar), D 63мм, 1/4''-1/2'' (KR0203)</name>
+        <name>Манометр радіальний (KOER KM.610R) (0-4 bar), D 63мм, 1/4'' (KR0203)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR0203</vendorCode>
         <param name="Од. в упак.">100</param>
@@ -91990,7 +91986,6 @@
         <param name="З'єднувальний діаметр (дюйм)">1/4</param>
         <param name="Діаметр підключення (дюйм)">1/4</param>
         <param name="Діаметр (мм)">63</param>
-        <param name="З'єднувальний діаметр 2 (дюйм)">1/2</param>
         <param name="Тип виробу">Манометри, термометри, термоманометри</param>
         <param name="Вид виробу">Манометри</param>
         <param name="Модель">KM.610R</param>
@@ -94587,7 +94582,7 @@
         <param name="Температура експлуатації (° C)">35-70</param>
       </offer>
       <offer id="KR2903" available="false">
-        <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/kontrolnovimiryuvalni-priladi-kvp/manometr-radialniy-koer-km610r-d-63mm-06-bar-1412-kr2903</url>
+        <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/kontrolnovimiryuvalni-priladi-kvp/manometr-radialniy-koer-km610r-d-63mm-06-bar-14-kr2903</url>
         <price>157.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>e8bba9c2-db1f-41a1-a040-2c8ca1759747</categoryId>
@@ -94597,7 +94592,7 @@
         <vendor>KOER</vendor>
         <stock_quantity>0</stock_quantity>
         <availabilityStatus>Немає в наявності</availabilityStatus>
-        <name>Манометр радіальний KOER KM.610R D 63мм (0-6 bar) 1/4''-1/2'' (KR2903)</name>
+        <name>Манометр радіальний KOER KM.610R D 63мм (0-6 bar) 1/4'' (KR2903)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR2903</vendorCode>
         <param name="Од. в упак.">72</param>
@@ -94605,7 +94600,6 @@
         <param name="Вага ящ.">0</param>
         <param name="Діаметр (мм)">63</param>
         <param name="З'єднувальний діаметр (дюйм)">1/4</param>
-        <param name="З'єднувальний діаметр 2 (дюйм)">1/2</param>
         <param name="Діаметр підключення (дюйм)">1/4</param>
         <param name="Вид виробу">Манометри</param>
         <param name="Країна бренду">Чехія</param>
@@ -99754,7 +99748,7 @@
         <param name="Висота (мм)">55</param>
       </offer>
       <offer id="KR2902" available="false">
-        <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/kontrolnovimiryuvalni-priladi-kvp/manometr-radialniy-koer-km610r-d-63mm-010-bar-1412-kr2902</url>
+        <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/kontrolnovimiryuvalni-priladi-kvp/manometr-radialniy-koer-km610r-d-63mm-010-bar-14-kr2902</url>
         <price>157.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>e8bba9c2-db1f-41a1-a040-2c8ca1759747</categoryId>
@@ -99784,7 +99778,6 @@
         <param name="З'єднувальний діаметр (дюйм)">1/4</param>
         <param name="Діаметр (мм)">63</param>
         <param name="Діаметр підключення (дюйм)">1/4</param>
-        <param name="З'єднувальний діаметр 2 (дюйм)">1/2</param>
         <param name="Гарантійний період (міс)">12</param>
         <param name="Кінцевий тиск (бар)">10,00</param>
         <param name="Особливості">Надійний вимірювальний прилад із радіальним підключенням, що забезпечує точний та зручний контроль тиску в інженерних системах.</param>
@@ -105163,16 +105156,16 @@
         <param name="Жорсткість води (мг-екв/л)">&lt;20</param>
         <param name="Матеріал">Сталь</param>
         <param name="Вміст зважених речовин (мг/л)">&lt;20</param>
+        <param name="Теплоносій">Вода та незамерзаючі рідини</param>
         <param name="Тепловіддача (Вт)">1276</param>
         <param name="Вміст кисню (мкг/л)">&lt;20</param>
         <param name="Максимальний робочий тиск (атм)">10</param>
         <param name="Тиск (бар)">10,00</param>
-        <param name="Теплоносій">Вода та незамерзаючі рідини</param>
         <param name="pH теплоносія">8-9,5</param>
         <param name="Колір">Білий (RAL 9016)</param>
         <param name="Гарантійний період (міс)">120</param>
-        <param name="Упаковка">Термоусаджувальна плівка і фірмова упаковка</param>
         <param name="Комплектація">Термоклапан Oventrop (Німеччина), 2 кронштейна для кріплення, відведення повітря (кран Маєвського), 2 заглушки, 4 шурупа з дюбелем, 4 пластикових фіксатора-прокладки</param>
+        <param name="Упаковка">Термоусаджувальна плівка і фірмова упаковка</param>
         <param name="Торгова марка">KOER</param>
         <param name="Тип виробу">Сталеві радіатори</param>
         <param name="Тип (Клас)">22</param>
@@ -107853,26 +107846,26 @@
         <param name="Од. в упак.">3</param>
         <param name="Об'єм ящ.">0.042</param>
         <param name="Вага ящ.">18.7</param>
+        <param name="Колір">Сталевий</param>
+        <param name="Гарантійний період (міс)">84</param>
         <param name="Особливості">Максимальна температура робочого середовища 90°С</param>
         <param name="Макс. температура навколишнього середовища (°C)">50</param>
-        <param name="Гарантійний період (міс)">84</param>
         <param name="Тип виробу">Водяна тепла підлога</param>
-        <param name="Країна бренду">Чехія</param>
-        <param name="Призначення">Для теплої підлоги та систем опалення</param>
-        <param name="Торгова марка">KOER</param>
         <param name="Тип колектора">Для радіаторного розведення</param>
+        <param name="Торгова марка">KOER</param>
+        <param name="Призначення">Для теплої підлоги та систем опалення</param>
+        <param name="Країна бренду">Чехія</param>
         <param name="Модель">KR.1110-09</param>
+        <param name="E (мм)">210,00</param>
+        <param name="F (мм)">322</param>
+        <param name="C (мм)">50,00</param>
+        <param name="G1 (дюйм)">1</param>
         <param name="Кількість контурів">9</param>
         <param name="G2 (дюйм)">3/4</param>
-        <param name="G1 (дюйм)">1</param>
-        <param name="C (мм)">50,00</param>
-        <param name="F (мм)">322</param>
-        <param name="E (мм)">210,00</param>
         <param name="Діаметр підключення (дюйм)">1</param>
-        <param name="Робочий тиск (бар)">до 16</param>
-        <param name="Умовна пропускна здатність (м3/год)">2,50</param>
         <param name="Матеріал виробу">Латунь CW617N нікельована</param>
-        <param name="Колір">Сталевий</param>
+        <param name="Умовна пропускна здатність (м3/год)">2,50</param>
+        <param name="Робочий тиск (бар)">до 16</param>
       </offer>
       <offer id="KR2989" available="true">
         <url>https://ol.partners/products/truboprovodi-ta-zyednannya/fitingi/rizbovi-zyednannya/nipel-12-big-koer-wmn06wn-bez-nikelyu-kr2989</url>
@@ -108163,7 +108156,7 @@
         <param name="Область застосування">Системи водопостачання, опалення, технологічні та інженерні мережі</param>
         <param name="Сумісність з комплектуючою">Прес-фітинги PRESS-INOX діаметром 22 мм</param>
         <param name="Матеріал">EPDM</param>
-        <param name="Діапазон температури робочого середовища Тр (°С)">від ?20°C до +110°C</param>
+        <param name="Діапазон температури робочого середовища Тр (°С)">від -20°C до +110°C</param>
         <param name="Тип з'єднання">Встановлення в прес-фітинг</param>
         <param name="Тип конструкції">Чорне ущільнювальне кільце</param>
         <param name="Країна бренду">Чехія</param>
@@ -111555,7 +111548,7 @@
         <param name="Колір">Білий (RAL 9016)</param>
       </offer>
       <offer id="KR0207" available="true">
-        <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/kontrolnovimiryuvalni-priladi-kvp/manometr-radialniy-koer-km502r-04-bar-d-50mm-1412-kr0207</url>
+        <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/kontrolnovimiryuvalni-priladi-kvp/manometr-radialniy-koer-km502r-04-bar-d-50mm-14-kr0207</url>
         <price>129.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>e8bba9c2-db1f-41a1-a040-2c8ca1759747</categoryId>
@@ -111565,7 +111558,7 @@
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
         <availabilityStatus>Достатньо</availabilityStatus>
-        <name>Манометр радіальний (KOER KM.502R) (0-4 bar), D 50мм, 1/4''-1/2'' (KR0207)</name>
+        <name>Манометр радіальний (KOER KM.502R) (0-4 bar), D 50мм, 1/4'' (KR0207)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR0207</vendorCode>
         <param name="Од. в упак.">100</param>
@@ -111581,7 +111574,6 @@
         <param name="Модель">KM.502R</param>
         <param name="Тип виробу">Манометри, термометри, термоманометри</param>
         <param name="Колір">Чорний</param>
-        <param name="З'єднувальний діаметр 2 (дюйм)">1/2</param>
         <param name="Діаметр підключення (дюйм)">1/4</param>
         <param name="Діаметр (мм)">50</param>
         <param name="З'єднувальний діаметр (дюйм)">1/4</param>
@@ -117198,18 +117190,18 @@
         <param name="Од. в упак.">48</param>
         <param name="Об'єм ящ.">0.053</param>
         <param name="Вага ящ.">9</param>
-        <param name="Тип виробу">Змінні картриджі</param>
-        <param name="Торгова марка">KOER</param>
-        <param name="Призначення">Для води</param>
-        <param name="Країна бренду">Чехія</param>
-        <param name="Модель">KV.0120</param>
-        <param name="Розміри (дюйм)">2,5"х10"</param>
-        <param name="Матеріал">Поліпропілен</param>
-        <param name="Мінімальний тиск (бар)">3,00</param>
-        <param name="Максимальна температура води (°C)">45</param>
-        <param name="Максимальний тиск (бар)">5,00</param>
-        <param name="Мінімальна температура води (°C)">4</param>
         <param name="Максимальна продуктивність (л/хв)">35</param>
+        <param name="Мінімальна температура води (°C)">4</param>
+        <param name="Максимальний тиск (бар)">5,00</param>
+        <param name="Матеріал">Поліпропілен</param>
+        <param name="Максимальна температура води (°C)">45</param>
+        <param name="Мінімальний тиск (бар)">3,00</param>
+        <param name="Тип виробу">Змінні картриджі</param>
+        <param name="Країна бренду">Чехія</param>
+        <param name="Призначення">Для води</param>
+        <param name="Модель">KV.0120</param>
+        <param name="Торгова марка">KOER</param>
+        <param name="Розміри (дюйм)">2,5"х10"</param>
         <param name="Особливості">Утримує частинки від 20 мкм</param>
       </offer>
       <offer id="MI8335" available="false">
@@ -120061,7 +120053,7 @@
         <param name="Покриття">Без покриття</param>
         <param name="Розміри (мм)">20(2.8mm)x16(2.2mm)x20(2.8mm)</param>
       </offer>
-      <offer id="KR3347" available="false">
+      <offer id="KR3347" available="true">
         <url>https://ol.partners/products/truboprovodi-ta-zyednannya/fitingi/rizbovi-zyednannya/shtutser-dlya-priyednannya-shlanga-koer-kfu06m10-12x10mm-m-kr3347</url>
         <price>47.00</price>
         <currencyId>UAH</currencyId>
@@ -120069,8 +120061,8 @@
         <picture>https://ol.partners/Products/Photo/985D1E44-2929-4BB4-8E63-6B86D1F1E6A7</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/a7868bfd-6ab8-4912-9514-dfb815ba0a1c/Image_04_koer_M.jpg</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Штуцер для приєднання шланга Koer KF.U06M-10 - 1/2"x10mm M (KR3347)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR3347</vendorCode>
@@ -128016,18 +128008,18 @@
         <param name="Вага ящ.">27</param>
         <param name="Країна бренду">Чехія</param>
         <param name="Торгова марка">KOER</param>
+        <param name="Тип виробу">Водяна тепла підлога</param>
         <param name="Модель">KR.S1011-05</param>
         <param name="Тип колектора">Для радіаторного розведення</param>
         <param name="Призначення">Для теплої підлоги та систем опалення</param>
-        <param name="Тип виробу">Водяна тепла підлога</param>
+        <param name="Робочий тиск (бар)">6</param>
         <param name="Матеріал виробу">Нержавіюча сталь SUS304</param>
         <param name="Матеріал кріплення">Латунь</param>
-        <param name="Робочий тиск (бар)">6</param>
         <param name="Колір">Сталевий</param>
+        <param name="Довжина (мм)">595</param>
+        <param name="Вага (кг)">6,50</param>
         <param name="Діаметр підключення (дюйм)">1</param>
         <param name="Кількість контурів">5</param>
-        <param name="Вага (кг)">6,50</param>
-        <param name="Довжина (мм)">595</param>
         <param name="Особливості">З вбудованим змішувальним вузлом і євроконусами</param>
         <param name="Гарантійний період (міс)">84</param>
       </offer>
@@ -128096,7 +128088,7 @@
         <param name="Тип з'єднання">Штуцер 1/2 - Гайка М-10</param>
         <param name="Кількість (шт)">2</param>
       </offer>
-      <offer id="KP0119" available="true">
+      <offer id="KP0119" available="false">
         <url>https://ol.partners/products/truboprovodi-ta-zyednannya/fitingi/zyednannya-dlya-trub-z-polipropilenu/zyednuvalna-mufta-zr-40x11-4m-ppr-koer-k0100pro-kp0119</url>
         <price>247.00</price>
         <currencyId>UAH</currencyId>
@@ -128104,8 +128096,8 @@
         <picture>https://ol.partners/Products/Photo/7EEAA3CF-DCB1-4080-A9C5-64B5DD76C460</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/e50a1cd8-0bea-4828-b87d-95a47e0281db/image_03_KP0119.jpg</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>З'єднувальна муфта ЗР 40x1.1 /4M PPR Koer K0100.PRO (KP0119)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KP0119</vendorCode>
@@ -128551,6 +128543,11 @@
         <param name="Од. в упак.">50</param>
         <param name="Об'єм ящ.">0.049</param>
         <param name="Вага ящ.">17</param>
+        <param name="Розміри виробу (ВхШхГ)">180x180</param>
+        <param name="Ширина (мм)">1800</param>
+        <param name="Висота (мм)">1800</param>
+        <param name="Колір">Візерунок "Квадрати" синьо-блакитні</param>
+        <param name="Форма">Квадратна</param>
         <param name="Тип монтажу">Настінний</param>
         <param name="Країна бренду">Китай</param>
         <param name="Країна виробник">Китай</param>
@@ -128559,13 +128556,8 @@
         <param name="Призначення">Текстиль для ванної</param>
         <param name="Тип виробу">Шторки для ванни</param>
         <param name="Вид виробу">Шторка-фіранка для ванни</param>
-        <param name="Ширина (мм)">1800</param>
-        <param name="Висота (мм)">1800</param>
-        <param name="Розміри виробу (ВхШхГ)">180x180</param>
         <param name="Матеріал">PEVA (поліетиленвінілацетат)</param>
         <param name="Тип кріплення">Пластиковими кільцями до штанги</param>
-        <param name="Форма">Квадратна</param>
-        <param name="Колір">Візерунок "Квадрати" синьо-блакитні</param>
         <param name="Комплектація">Шторка, комплект пластикових кілець (12 штук), запаковані в пакет з тримачем</param>
         <param name="Гарантійний період (міс)">12</param>
         <param name="Умови експлуатації та догляд">1. Рекомендується прати не рідше 1 разу на місяць у ручному режимі при температурі не більше 30°С. 2. Для збереження зовнішнього вигляду виробу рекомендується споліскувати фіранку після прийому душу. 3. При появі плісняви рекомендується замочити фіранку в розчині прального порошку з теплою водою та невеликої кількості відбілювача на 30-40 хв, після чого прати у ручному режимі за температури 30 °С. Якщо через нетривалий час цвіль з'явиться знову, рекомендується замінити виріб на новий.</param>
@@ -134124,26 +134116,26 @@
         <param name="Форма">Прямокутна</param>
         <param name="Поверхня">Матова</param>
         <param name="Колір">Чорний матовий</param>
+        <param name="Глибина (мм)">344</param>
         <param name="Розміри виробу (ВхШхГ)">39x427x344</param>
         <param name="Висота (мм)">39</param>
         <param name="Ширина (мм)">427</param>
-        <param name="Глибина (мм)">344</param>
+        <param name="Вид виробу">Сидіння-кришка для унітазу</param>
+        <param name="Серія">QUADRO</param>
+        <param name="Країна бренду">Німеччина</param>
+        <param name="Тип монтажу">На чашу унітазу</param>
+        <param name="Тип виробу">Комплектуючі та запчастини для кераміки</param>
+        <param name="Торгова марка">MIXXUS PREMIUM</param>
         <param name="Об'єм, м3">0,02</param>
         <param name="Сумісність з комплектуючою">Сумісний з: MIXXUS PREMIUM QUADRO-0301-T3 BLACK Унітаз підвісний 490х340х360mm система змиву TORNADO 30 (MP6587)</param>
         <param name="Комплектація">Сидіння-кришка, кріплення</param>
         <param name="Вага брутто, кг">3,00</param>
         <param name="Гарантійний період (міс)">24</param>
-        <param name="Вага нетто, кг">2,50</param>
         <param name="Кількість вантажних місць">1</param>
+        <param name="Вага нетто, кг">2,50</param>
         <param name="Сидіння">Slim Duroplast/Soft-close/Quick relase</param>
         <param name="Керування">Механічне</param>
         <param name="Матеріал">Дюропласт</param>
-        <param name="Серія">QUADRO</param>
-        <param name="Країна бренду">Німеччина</param>
-        <param name="Тип монтажу">На чашу унітазу</param>
-        <param name="Тип виробу">Комплектуючі та запчастини для кераміки</param>
-        <param name="Вид виробу">Сидіння-кришка для унітазу</param>
-        <param name="Торгова марка">MIXXUS PREMIUM</param>
       </offer>
       <offer id="KR6405" available="true">
         <url>https://ol.partners/products/truboprovodi-ta-zyednannya/fitingi/presfitingi-iz-nerzhaviyuchoi-stali-pressinox/kolino-90-dvoroztrubne-koer-kql542-pressinox-aisi-304-54x54-kr6405</url>
@@ -135164,7 +135156,7 @@
         <param name="Розміри (мм)">Для труби 54 мм</param>
         <param name="Тип з'єднання">Встановлення в прес-фітинг</param>
         <param name="Тип конструкції">Жовте ущільнювальне кільце</param>
-        <param name="Діапазон температури робочого середовища Тр (°С)">від ?20°C до +110°C</param>
+        <param name="Діапазон температури робочого середовища Тр (°С)">від -20°C до +110°C</param>
         <param name="Матеріал">HNBR</param>
         <param name="Сумісність з комплектуючою">Прес-фітинги PRESS-INOX діаметром 54 мм</param>
         <param name="Область застосування">Системи водопостачання, опалення, технологічні та інженерні мережі</param>
@@ -138322,7 +138314,7 @@
         <param name="Об'єм ящ.">0</param>
         <param name="Вага ящ.">0</param>
         <param name="Тип конструкції">Чорне ущільнювальне кільце</param>
-        <param name="Діапазон температури робочого середовища Тр (°С)">від ?20°C до +110°C</param>
+        <param name="Діапазон температури робочого середовища Тр (°С)">від -20°C до +110°C</param>
         <param name="Тип з'єднання">Встановлення в прес-фітинг</param>
         <param name="Матеріал">EPDM</param>
         <param name="Сумісність з комплектуючою">Прес-фітинги PRESS-INOX діаметром 28 мм</param>
@@ -139767,14 +139759,14 @@
         <param name="Наявність PVD покриття">Так</param>
         <param name="Виконання">Універсальна</param>
         <param name="Довжина (мм)">500</param>
-        <param name="Ширина (мм)">450</param>
         <param name="Глибина чаші (мм)">215</param>
+        <param name="Ширина (мм)">450</param>
         <param name="Кількість отворів">2 отвори</param>
         <param name="Є отвір під змішувач">Так</param>
+        <param name="Матеріал виробу">Нержавіюча сталь</param>
+        <param name="Кількість чаш (шт)">1</param>
         <param name="Є крило для посуду">Ні</param>
         <param name="Товщина мийки (мм)">3.0/0.8</param>
-        <param name="Кількість чаш (шт)">1</param>
-        <param name="Матеріал виробу">Нержавіюча сталь</param>
         <param name="Вид виробу">HANDMADE мийки</param>
         <param name="Країна бренду">Німеччина</param>
         <param name="Торгова марка">MIXXUS</param>
@@ -142141,17 +142133,17 @@
         <param name="Од. в упак.">5</param>
         <param name="Об'єм ящ.">0.09</param>
         <param name="Вага ящ.">32.3</param>
+        <param name="Колір">Синій</param>
+        <param name="Країна бренду">Україна</param>
         <param name="Вид виробу">Паяльник</param>
         <param name="Призначення">Для PPR труб</param>
         <param name="Торгова марка">EUROPRODUCT</param>
-        <param name="Країна бренду">Україна</param>
         <param name="Модель">EP.WM06</param>
         <param name="Тип виробу">Труби та фітинги PPR</param>
-        <param name="Матеріал виробу">Алюміній</param>
-        <param name="Потужність (Вт)">1000</param>
-        <param name="Гарантійний період (міс)">12</param>
         <param name="Особливості">Оснащений плоскими антипригарними насадками</param>
-        <param name="Колір">Синій</param>
+        <param name="Гарантійний період (міс)">12</param>
+        <param name="Потужність (Вт)">1000</param>
+        <param name="Матеріал виробу">Алюміній</param>
       </offer>
       <offer id="RAD129" available="false">
         <url>https://ol.partners/products/radiatori-opalennya/stalevi-radiatori/staleviy-radiator-33kh500kh1800s-koer-bok-pidklyuchennya-rad129</url>
@@ -145614,10 +145606,10 @@
         <param name="Вага ящ.">15.1</param>
         <param name="A (дюйм)">1/2</param>
         <param name="D (мм)">13,00</param>
+        <param name="C (мм)">33,00</param>
+        <param name="З'єднувальний діаметр (дюйм)">1/2</param>
         <param name="B (мм)">85,00</param>
         <param name="Діаметр підключення (дюйм)">1/2</param>
-        <param name="З'єднувальний діаметр (дюйм)">1/2</param>
-        <param name="C (мм)">33,00</param>
         <param name="Торгова марка">KOER</param>
         <param name="Вид виробу">Повітровідвідники</param>
         <param name="Країна бренду">Чехія</param>
@@ -148822,33 +148814,33 @@
         <param name="Од. в упак.">4</param>
         <param name="Об'єм ящ.">0.21</param>
         <param name="Вага ящ.">13.9</param>
-        <param name="Тип конструкції">Закрита</param>
-        <param name="Наявність педалі">Так</param>
-        <param name="Наявність кришки">Так</param>
-        <param name="Наявність внутрішнього баку">Так</param>
-        <param name="Матеріал комплектуючих">Нержавіюча сталь SUS410 0,3мм, ABS-пластик, внутрішнє відро - поліпропілен</param>
-        <param name="Механізм відкривання кришки">Натискний на педаль</param>
-        <param name="Тип кришки">З механізмом відкривання</param>
-        <param name="Матеріал">Нержавіюча сталь</param>
-        <param name="Глибина (мм)">240</param>
-        <param name="Діаметр (мм)">240</param>
-        <param name="Розміри виробу (ВхШхГ)">500x240x240</param>
-        <param name="Ширина (мм)">240</param>
-        <param name="Об'єм (л)">20,00</param>
         <param name="Висота (мм)">500</param>
-        <param name="Форма">Кругла</param>
-        <param name="Поверхня">Глянцева</param>
-        <param name="Колір">Хром</param>
-        <param name="Серія">PLAIN</param>
-        <param name="Вид виробу">Відро для сміття без плавного закриття</param>
-        <param name="Призначення">Для сміття</param>
-        <param name="Тип виробу">Відра для сміття</param>
-        <param name="Країна бренду">Чехія</param>
-        <param name="Торгова марка">ZERIX</param>
-        <param name="Країна виробник">Туреччина</param>
+        <param name="Глибина (мм)">240</param>
+        <param name="Об'єм (л)">20,00</param>
+        <param name="Ширина (мм)">240</param>
+        <param name="Розміри виробу (ВхШхГ)">500x240x240</param>
+        <param name="Діаметр (мм)">240</param>
+        <param name="Матеріал">Нержавіюча сталь</param>
+        <param name="Тип кришки">З механізмом відкривання</param>
+        <param name="Тип конструкції">Закрита</param>
+        <param name="Механізм відкривання кришки">Натискний на педаль</param>
+        <param name="Матеріал комплектуючих">Нержавіюча сталь SUS410 0,3мм, ABS-пластик, внутрішнє відро - поліпропілен</param>
+        <param name="Наявність внутрішнього баку">Так</param>
+        <param name="Наявність кришки">Так</param>
+        <param name="Наявність педалі">Так</param>
         <param name="Тип монтажу">Підлоговий</param>
+        <param name="Країна виробник">Туреччина</param>
+        <param name="Торгова марка">ZERIX</param>
+        <param name="Країна бренду">Чехія</param>
+        <param name="Тип виробу">Відра для сміття</param>
+        <param name="Призначення">Для сміття</param>
+        <param name="Вид виробу">Відро для сміття без плавного закриття</param>
+        <param name="Серія">PLAIN</param>
         <param name="Комплектація">Корпус відра з кришкою, внутрішнє відро</param>
         <param name="Гарантійний період (міс)">12</param>
+        <param name="Форма">Кругла</param>
+        <param name="Колір">Хром</param>
+        <param name="Поверхня">Глянцева</param>
       </offer>
       <offer id="EP2943" available="true">
         <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/krani/krani-kulovi/kran-kuloviy-europroduct-ep221-12-ff-ggv-yellow-ruchka-vazhil-zhovta-ep2943</url>
@@ -149343,7 +149335,7 @@
         <param name="Гарантійний період (міс)">84</param>
       </offer>
       <offer id="KR0204" available="true">
-        <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/kontrolnovimiryuvalni-priladi-kvp/manometr-radialniy-koer-km610r-06-bar-d-63mm-1412-kr0204</url>
+        <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/kontrolnovimiryuvalni-priladi-kvp/manometr-radialniy-koer-km610r-06-bar-d-63mm-14-kr0204</url>
         <price>157.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>e8bba9c2-db1f-41a1-a040-2c8ca1759747</categoryId>
@@ -149353,22 +149345,21 @@
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
         <availabilityStatus>Достатньо</availabilityStatus>
-        <name>Манометр радіальний (KOER KM.610R) (0-6 bar), D 63мм, 1/4''-1/2'' (KR0204)</name>
+        <name>Манометр радіальний (KOER KM.610R) (0-6 bar), D 63мм, 1/4'' (KR0204)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR0204</vendorCode>
         <param name="Од. в упак.">100</param>
         <param name="Об'єм ящ.">0.024</param>
         <param name="Вага ящ.">14.2</param>
-        <param name="З'єднувальний діаметр 2 (дюйм)">1/2</param>
-        <param name="Діаметр (мм)">63</param>
-        <param name="Діаметр підключення (дюйм)">1/4</param>
-        <param name="З'єднувальний діаметр (дюйм)">1/4</param>
         <param name="Призначення">Контролює тиск у системі опалення та водопостачання.</param>
         <param name="Модель">KM.610R</param>
         <param name="Вид виробу">Манометри</param>
         <param name="Країна бренду">Чехія</param>
         <param name="Торгова марка">KOER</param>
         <param name="Тип виробу">Манометри, термометри, термоманометри</param>
+        <param name="Діаметр (мм)">63</param>
+        <param name="Діаметр підключення (дюйм)">1/4</param>
+        <param name="З'єднувальний діаметр (дюйм)">1/4</param>
         <param name="Особливості">Надійний вимірювальний прилад із радіальним підключенням, що забезпечує точний та зручний контроль тиску в інженерних системах.</param>
         <param name="Кінцевий тиск (бар)">6,00</param>
         <param name="Гарантійний період (міс)">12</param>
@@ -149532,15 +149523,15 @@
         <param name="Од. в упак.">75</param>
         <param name="Об'єм ящ.">0.107</param>
         <param name="Вага ящ.">17.4</param>
-        <param name="Торгова марка">ZERIX</param>
-        <param name="Країна виробник">Китай</param>
-        <param name="Тип виробу">Шланги для пральної машини</param>
-        <param name="Призначення">Для заливу води</param>
-        <param name="Країна бренду">Чехія</param>
         <param name="Модель">SDF-200</param>
-        <param name="Довжина шланга (см)">200</param>
-        <param name="Розтяжний шланг">Ні</param>
+        <param name="Країна бренду">Чехія</param>
+        <param name="Торгова марка">ZERIX</param>
+        <param name="Призначення">Для заливу води</param>
+        <param name="Тип виробу">Шланги для пральної машини</param>
+        <param name="Країна виробник">Китай</param>
         <param name="Матеріал виробу">EPDM</param>
+        <param name="Розтяжний шланг">Ні</param>
+        <param name="Довжина шланга (см)">200</param>
         <param name="Діаметр підключення (дюйм)">3/4</param>
         <param name="Колір">Сірий</param>
       </offer>
@@ -150814,22 +150805,22 @@
         <param name="Од. в упак.">20</param>
         <param name="Об'єм ящ.">0.035</param>
         <param name="Вага ящ.">15</param>
-        <param name="Модель">EP.0601</param>
-        <param name="Країна бренду">Україна</param>
-        <param name="Торгова марка">EUROPRODUCT</param>
-        <param name="Призначення">Змішування та розподіл потоків у системі опалення.</param>
-        <param name="Вид виробу">Клапан триходовий роздільний</param>
-        <param name="Тип виробу">Клапани</param>
+        <param name="З'єднувальний діаметр (дюйм)">1</param>
+        <param name="C (мм)">41,00</param>
+        <param name="Діаметр підключення (дюйм)">1</param>
         <param name="B (мм)">124,20</param>
         <param name="A (мм)">130,00</param>
-        <param name="Діаметр підключення (дюйм)">1</param>
-        <param name="C (мм)">41,00</param>
-        <param name="З'єднувальний діаметр (дюйм)">1</param>
-        <param name="Робочий тиск (бар)">до 10</param>
-        <param name="Матеріал виробу">Латунь CW617N нікельована</param>
-        <param name="Тип приєднання">Різьбове</param>
-        <param name="Особливості">Латунний радіаторний клапан з термостатичною вставкою, розрахований на робочий тиск до 10 бар та температуру теплоносія до 110 °C, забезпечує точне регулювання потоку та сумісний із стандартними термоголовками.</param>
+        <param name="Вид виробу">Клапан триходовий роздільний</param>
+        <param name="Модель">EP.0601</param>
+        <param name="Призначення">Змішування та розподіл потоків у системі опалення.</param>
+        <param name="Тип виробу">Клапани</param>
+        <param name="Країна бренду">Україна</param>
+        <param name="Торгова марка">EUROPRODUCT</param>
         <param name="Колір">Сталевий</param>
+        <param name="Тип приєднання">Різьбове</param>
+        <param name="Матеріал виробу">Латунь CW617N нікельована</param>
+        <param name="Робочий тиск (бар)">до 10</param>
+        <param name="Особливості">Латунний радіаторний клапан з термостатичною вставкою, розрахований на робочий тиск до 10 бар та температуру теплоносія до 110 °C, забезпечує точне регулювання потоку та сумісний із стандартними термоголовками.</param>
       </offer>
       <offer id="38661000" available="false">
         <url>https://ol.partners/products/instalyatsii-ta-klavishi/sistemi-instalyatsii/zmivniy-bachok-gd-2-grohe-gd2-38661000</url>
@@ -151004,7 +150995,6 @@
         <param name="Діаметр (мм)">51</param>
         <param name="Діаметр підключення (дюйм)">1/4</param>
         <param name="З'єднувальний діаметр (дюйм)">1/4</param>
-        <param name="З'єднувальний діаметр 2 (дюйм)">1/2</param>
         <param name="Країна бренду">Чехія</param>
         <param name="Вид виробу">Манометри</param>
         <param name="Тип виробу">Манометри, термометри, термоманометри</param>
@@ -151571,6 +151561,15 @@
         <param name="Од. в упак.">30</param>
         <param name="Об'єм ящ.">0</param>
         <param name="Вага ящ.">0</param>
+        <param name="Серія">PRESS-INOX</param>
+        <param name="Країна бренду">Чехія</param>
+        <param name="Призначення">Для з’єднання або ремонтного стикування ділянок трубопроводу</param>
+        <param name="Тип">Муфта</param>
+        <param name="Вид виробу">Муфта насувна</param>
+        <param name="Модель">KQ.C54</param>
+        <param name="Торгова марка">KOER</param>
+        <param name="Тип виробу">Система PRESS-INOX</param>
+        <param name="Тип з'єднання">Прес-з'єднання</param>
         <param name="Коефіцієнт лінійного теплового розширення (1/°С)">0,163 х 10-4</param>
         <param name="Межа плинності сталі (бар)">2100</param>
         <param name="Профіль прес-насадок інструменту">V</param>
@@ -151584,21 +151583,12 @@
         <param name="Максимальний тиск на розрив (бар)">24</param>
         <param name="Коефіцієнт теплопровідності стінок, Вт/м К">16,20</param>
         <param name="Щільність сталі (г/см3)">8,00</param>
-        <param name="Тип з'єднання">Прес-з'єднання</param>
         <param name="Колір">Сталевий</param>
         <param name="Покриття">Без покриття</param>
         <param name="Особливості">Стійкість до виривання. Стійкість до прокручування. Швидкий монтаж Підходить для роботи у важкодоступних місцях. Витримує вібрації та підвищені навантаження. Не вимагає підтягування або перевірки після завершення монтажу.</param>
         <param name="Сумісність з комплектуючою">Труби та прес-фітинги PRESS-INOX відповідного діаметра</param>
         <param name="Додаткові характеристики">На фітингу нанесено червоний індикатор обтиску</param>
         <param name="Область застосування">Водопостачання, опалення, технологічні та інженерні мережі</param>
-        <param name="Призначення">Для з’єднання або ремонтного стикування ділянок трубопроводу</param>
-        <param name="Тип">Муфта</param>
-        <param name="Вид виробу">Муфта насувна</param>
-        <param name="Модель">KQ.C54</param>
-        <param name="Торгова марка">KOER</param>
-        <param name="Країна бренду">Чехія</param>
-        <param name="Серія">PRESS-INOX</param>
-        <param name="Тип виробу">Система PRESS-INOX</param>
         <param name="Розміри (мм)">54x54</param>
       </offer>
       <offer id="MI6530" available="true">
@@ -153913,12 +153903,12 @@
         <param name="Гарантійний період (міс)">24</param>
         <param name="Додаткові характеристики">Універсальне підключення (нижнє та бічне), латунне різьблення</param>
         <param name="Вид виробу">Арматура наповнювальна для підлогового унітазу</param>
+        <param name="Торгова марка">KOER</param>
         <param name="Призначення">Для унітазу</param>
         <param name="Серія">KT-0101</param>
         <param name="Тип виробу">Зливна арматура</param>
         <param name="Тип монтажу">У бачок унітазу</param>
         <param name="Країна бренду">Чехія</param>
-        <param name="Торгова марка">KOER</param>
         <param name="Керування">Механічне</param>
         <param name="Матеріал кріплення">Латунне різблення</param>
         <param name="Матеріал">Поліпропілен</param>
@@ -155136,7 +155126,7 @@
         <param name="Гарантійний період (міс)">12</param>
       </offer>
       <offer id="KR0206" available="false">
-        <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/kontrolnovimiryuvalni-priladi-kvp/manometr-radialniy-koer-km621r-04-bar-d-63mm-1412-kr0206</url>
+        <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/kontrolnovimiryuvalni-priladi-kvp/manometr-radialniy-koer-km621r-04-bar-d-63mm-14-kr0206</url>
         <price>144.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>e8bba9c2-db1f-41a1-a040-2c8ca1759747</categoryId>
@@ -155145,7 +155135,7 @@
         <vendor>KOER</vendor>
         <stock_quantity>0</stock_quantity>
         <availabilityStatus>Немає в наявності</availabilityStatus>
-        <name>Манометр радіальний (KOER KM.621R) (0-4 bar), D 63мм, 1/4''-1/2'' (KR0206)</name>
+        <name>Манометр радіальний (KOER KM.621R) (0-4 bar), D 63мм, 1/4" (KR0206)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR0206</vendorCode>
         <param name="Од. в упак.">100</param>
@@ -155158,7 +155148,6 @@
         <param name="Клас точності">1,6</param>
         <param name="Діаметр підключення (дюйм)">1/4</param>
         <param name="З'єднувальний діаметр (дюйм)">1/4</param>
-        <param name="З'єднувальний діаметр 2 (дюйм)">1/2</param>
         <param name="Діаметр (мм)">63</param>
         <param name="Тип виробу">Манометри, термометри, термоманометри</param>
         <param name="Торгова марка">KOER</param>
@@ -158845,7 +158834,7 @@
         <param name="Додаткові характеристики">Солевміст води в діапазоні від 300 до 500 мкС/см</param>
         <param name="Максимальна температура робочої рідини (°C)">110</param>
       </offer>
-      <offer id="42300000" available="false">
+      <offer id="42300000" available="true">
         <url>https://ol.partners/products/instalyatsii-ta-klavishi/klavishi-zmivu-ta-komplektuyuchi/obmezhuvach-potoku-grohe-42300000</url>
         <price>432.00</price>
         <currencyId>UAH</currencyId>
@@ -158853,8 +158842,8 @@
         <picture>https://ol.partners/Products/Photo/0EC99738-0534-4BAC-A223-15B98730FCA6</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/7fe83c58-a184-41eb-a442-6eae835e3fc5/image_01.jpg</picture>
         <vendor>GROHE</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Обмежувач потоку Grohe (42300000)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>42300000</vendorCode>
@@ -158964,7 +158953,7 @@
         <param name="Тип з'єднання">Встановлення в прес-фітинг</param>
         <param name="Тип конструкції">Чорне ущільнювальне кільце</param>
         <param name="Матеріал">EPDM</param>
-        <param name="Діапазон температури робочого середовища Тр (°С)">від ?20°C до +110°C</param>
+        <param name="Діапазон температури робочого середовища Тр (°С)">від -20°C до +110°C</param>
         <param name="Розміри (мм)">Для труби 15 мм</param>
         <param name="Країна бренду">Чехія</param>
         <param name="Тип">Ущільнювальне кільце</param>
@@ -160605,7 +160594,7 @@
         <param name="Гарантійний період (міс)">12</param>
       </offer>
       <offer id="KR0209" available="true">
-        <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/kontrolnovimiryuvalni-priladi-kvp/manometr-radialniy-koer-km502r-010-bar-d-50mm-1412-kr0209</url>
+        <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/kontrolnovimiryuvalni-priladi-kvp/manometr-radialniy-koer-km502r-010-bar-d-50mm-14-kr0209</url>
         <price>129.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>e8bba9c2-db1f-41a1-a040-2c8ca1759747</categoryId>
@@ -160615,13 +160604,12 @@
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
         <availabilityStatus>Достатньо</availabilityStatus>
-        <name>Манометр радіальний (KOER KM.502R) (0-10 bar), D 50мм, 1/4''-1/2'' (KR0209)</name>
+        <name>Манометр радіальний (KOER KM.502R) (0-10 bar), D 50мм, 1/4'' (KR0209)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR0209</vendorCode>
         <param name="Од. в упак.">100</param>
         <param name="Об'єм ящ.">0.019</param>
         <param name="Вага ящ.">7.5</param>
-        <param name="З'єднувальний діаметр 2 (дюйм)">1/2</param>
         <param name="З'єднувальний діаметр (дюйм)">1/4</param>
         <param name="Діаметр (мм)">50</param>
         <param name="Діаметр підключення (дюйм)">1/4</param>
@@ -163373,13 +163361,13 @@
         <param name="Од. в упак.">20</param>
         <param name="Об'єм ящ.">0.016</param>
         <param name="Вага ящ.">3.7</param>
+        <param name="Тип монтажу">Настінний</param>
+        <param name="Торгова марка">ZERIX</param>
         <param name="Країна бренду">Чехія</param>
         <param name="Тип виробу">Тримачі</param>
         <param name="Серія">AFB</param>
         <param name="Модель">0115-2</param>
         <param name="Вид виробу">Планка з гачками</param>
-        <param name="Торгова марка">ZERIX</param>
-        <param name="Тип монтажу">Настінний</param>
         <param name="Матеріал виробу">Метал</param>
         <param name="Гарантійний період (міс)">12</param>
         <param name="Особливості">З двома рухомими гачками</param>
@@ -165475,23 +165463,23 @@
         <param name="Сидіння у комплекті">Ні</param>
         <param name="Комплектація">Чаша унітазу, комплект кріплень чаші унітазу</param>
         <param name="Гарантія на комплектуючі (міс)">24</param>
-        <param name="Запчастина до цілого товару">Mixxus Wave-0402-T3 Унітаз-компакт 650x350x830mm система змиву Tornado 3.0 (MI7037)</param>
         <param name="Сумісність з комплектуючою">Сумісний з: Mixxus Seat Cover Wave-2003 Сидіння-кришка для унітазу 420х335х30mm дюропластове швидкознімне з мікроліфтом (MI7039); Mixxus Wave-0402-T3 Tank Бачок до унітазу-компакту 650x350x830 у комплекті зі зливною арматурою (MI8333)</param>
+        <param name="Запчастина до цілого товару">Mixxus Wave-0402-T3 Унітаз-компакт 650x350x830mm система змиву Tornado 3.0 (MI7037)</param>
         <param name="Розміри виробу (ВхШхГ)">400x350x650</param>
-        <param name="Ширина (мм)">350</param>
-        <param name="Висота (мм)">400</param>
         <param name="Глибина (мм)">650</param>
+        <param name="Висота (мм)">400</param>
+        <param name="Ширина (мм)">350</param>
         <param name="Діаметр випускного отвору (мм)">100,00</param>
+        <param name="Напрямок випуску">Горизонтальний</param>
+        <param name="Метод установки зливного бачка">Поверх унітазу</param>
         <param name="Вид системи змиву">TORNADO 3.0</param>
         <param name="Функція біде">Ні</param>
-        <param name="Матеріал">Санфарфор</param>
         <param name="Зливний вихід">Один отвір ліворуч біля краю безобідкової чаші з технологією змиву Tornado 3</param>
-        <param name="Метод установки зливного бачка">Поверх унітазу</param>
-        <param name="Напрямок випуску">Горизонтальний</param>
+        <param name="Матеріал">Санфарфор</param>
         <param name="Колір">Білий</param>
         <param name="Форма">Заокруглена</param>
-        <param name="Поверхня">Глянцева</param>
         <param name="Розташування (орієнтація)">Універсальне</param>
+        <param name="Поверхня">Глянцева</param>
       </offer>
       <offer id="MX1954" available="true">
         <url>https://ol.partners/products/aksesuari-dlya-vannoi/dozator-dlya-ridkogo-mila/dozator-dlya-miynogo-zasobu-vrizniy-mixxus-dis01sus-black-z-nerzhstali-sus304-300-ml-chorniy-mx1954</url>
@@ -167690,31 +167678,31 @@
         <param name="Од. в упак.">1</param>
         <param name="Об'єм ящ.">0.018</param>
         <param name="Вага ящ.">8.4</param>
+        <param name="Модель">22х300х500.S</param>
+        <param name="Країна бренду">Чехія</param>
+        <param name="Тип виробу">Сталеві радіатори</param>
+        <param name="Торгова марка">KOER</param>
+        <param name="Тип (Клас)">22</param>
         <param name="Підключення">Бокове</param>
         <param name="Матеріал">Сталь</param>
         <param name="Вміст кисню (мкг/л)">&lt;20</param>
         <param name="Тиск (бар)">10,00</param>
-        <param name="Жорсткість води (мг-екв/л)">&lt;20</param>
-        <param name="Тепловіддача (Вт)">638</param>
-        <param name="pH теплоносія">8-9,5</param>
-        <param name="Максимальний робочий тиск (атм)">10</param>
-        <param name="Теплоносій">Вода та незамерзаючі рідини</param>
         <param name="Вміст зважених речовин (мг/л)">&lt;20</param>
+        <param name="Жорсткість води (мг-екв/л)">&lt;20</param>
+        <param name="Теплоносій">Вода та незамерзаючі рідини</param>
+        <param name="Максимальний робочий тиск (атм)">10</param>
+        <param name="Тепловіддача (Вт)">638</param>
         <param name="Тип різби">Внутрішня</param>
+        <param name="pH теплоносія">8-9,5</param>
         <param name="Колір">Білий (RAL 9016)</param>
         <param name="Гарантійний період (міс)">120</param>
         <param name="Комплектація">2 кронштейна для кріплення, відведення повітря (кран Маєвського), заглушка, 4 шурупа з дюбелем, 4 пластикових фіксатора-прокладки</param>
         <param name="Упаковка">Термоусаджувальна плівка і фірмова упаковка</param>
+        <param name="Висота (мм)">300</param>
+        <param name="Міжосьова відстань (мм)">249</param>
         <param name="Вага (кг)">8,44</param>
         <param name="Довжина (мм)">500</param>
         <param name="Об'єм (л)">1,80</param>
-        <param name="Міжосьова відстань (мм)">249</param>
-        <param name="Висота (мм)">300</param>
-        <param name="Торгова марка">KOER</param>
-        <param name="Тип виробу">Сталеві радіатори</param>
-        <param name="Країна бренду">Чехія</param>
-        <param name="Модель">22х300х500.S</param>
-        <param name="Тип (Клас)">22</param>
       </offer>
       <offer id="RAD106" available="false">
         <url>https://ol.partners/products/radiatori-opalennya/stalevi-radiatori/staleviy-radiator-22kh300kh1300b-koer-nizhnye-pidklyuchennya-rad106</url>
@@ -169679,9 +169667,9 @@
         <param name="Об'єм ящ.">0.047</param>
         <param name="Вага ящ.">14.4</param>
         <param name="D (мм)">73,80</param>
+        <param name="H (мм)">52,00</param>
         <param name="L (мм)">33,00</param>
         <param name="Діаметр підключення (мм)">75</param>
-        <param name="H (мм)">52,00</param>
         <param name="Модель">K0231.PRO</param>
         <param name="Вид виробу">Заглушка</param>
         <param name="Торгова марка">KOER</param>
@@ -171599,13 +171587,13 @@
         <param name="Сумісність з комплектуючою">Труби діаметром 59,7-63,6 мм, різьбові елементи із зовнішньою різьбою</param>
         <param name="Область застосування">Водопостачання, технічні та інженерні мережі</param>
         <param name="Гарантійний період (міс)">84</param>
+        <param name="Торгова марка">KOER</param>
         <param name="Вид виробу"> Муфта чавунна з внутрішнім різьбленням</param>
         <param name="Тип">Муфта</param>
         <param name="Тип виробу">Чавунний фітінг</param>
         <param name="Модель">KCI.C20F</param>
         <param name="Країна бренду">Чехія</param>
         <param name="Призначення">Для компресійного з’єднання трубопроводу з різьбовими елементами</param>
-        <param name="Торгова марка">KOER</param>
         <param name="Діаметр підключення (дюйм)">2</param>
         <param name="Розміри (мм)">2"Fx59,7-63,6</param>
         <param name="Колір">Сталевий</param>
@@ -176324,7 +176312,7 @@
         <param name="Тип з'єднання">Встановлення в прес-фітинг</param>
         <param name="Матеріал">FKM</param>
         <param name="Тип конструкції">Червоне ущільнювальне кільце</param>
-        <param name="Діапазон температури робочого середовища Тр (°С)">від ?20°C до +200°C</param>
+        <param name="Діапазон температури робочого середовища Тр (°С)">від -20°C до +200°C</param>
         <param name="Область застосування">Системи водопостачання, опалення, технологічні та інженерні мережі</param>
         <param name="Сумісність з комплектуючою">Прес-фітинги PRESS-INOX діаметром 22 мм</param>
       </offer>
@@ -177872,7 +177860,7 @@
         <param name="Призначення">Для забезпечення герметичності з’єднання у прес-фітингах PRESS-INOX</param>
         <param name="Тип конструкції">Жовте ущільнювальне кільце</param>
         <param name="Тип з'єднання">Встановлення в прес-фітинг</param>
-        <param name="Діапазон температури робочого середовища Тр (°С)">від ?20°C до +110°C</param>
+        <param name="Діапазон температури робочого середовища Тр (°С)">від -20°C до +110°C</param>
         <param name="Матеріал">HNBR</param>
         <param name="Колір">Жовтий</param>
         <param name="Покриття">Немає</param>
@@ -180668,10 +180656,10 @@
         <param name="Торгова марка">EUROPRODUCT</param>
         <param name="Тип">Згін-американка</param>
         <param name="Вид виробу">Згін-американка</param>
+        <param name="Матеріал">Поліпропілен</param>
+        <param name="Тип з'єднання">Різьба-пайка</param>
         <param name="Діаметр підключення (мм)">50</param>
         <param name="Діаметр підключення (дюйм)">1 1/2</param>
-        <param name="Тип з'єднання">Різьба-пайка</param>
-        <param name="Матеріал">Поліпропілен</param>
         <param name="Колір">Сірий</param>
       </offer>
       <offer id="40758001" available="true">
@@ -181329,21 +181317,21 @@
         <param name="Тип ручки">Важіль</param>
         <param name="Колір">Жовтий</param>
         <param name="Вага (г)">575,00</param>
+        <param name="A (мм)">74,00</param>
+        <param name="G (мм)">47,00</param>
         <param name="Діаметр підключення (дюйм)">1 1/2</param>
         <param name="B (мм)">72,00</param>
-        <param name="G (мм)">47,00</param>
-        <param name="A (мм)">74,00</param>
         <param name="C (мм)">134,00</param>
         <param name="Країна виробник">Україна</param>
+        <param name="Модель">Аrt. 602</param>
+        <param name="Країна бренду">Україна</param>
+        <param name="Торгова марка">САНКОМ</param>
         <param name="Призначення">Для води</param>
+        <param name="Тип виробу">Крани кульові</param>
         <param name="Тип">Прямий</param>
         <param name="Вид виробу">Кран кульовий для води</param>
-        <param name="Тип виробу">Крани кульові</param>
-        <param name="Торгова марка">САНКОМ</param>
-        <param name="Країна бренду">Україна</param>
-        <param name="Модель">Аrt. 602</param>
-        <param name="Тип приєднання">Різьбове</param>
         <param name="Матеріал виробу">Латунь</param>
+        <param name="Тип приєднання">Різьбове</param>
       </offer>
       <offer id="KF0048" available="true">
         <url>https://ol.partners/products/truboprovodi-ta-zyednannya/fitingi/rizbovi-zyednannya/perekhidnik-konnektor-12-kh1-koer-kfa0610-kf0048</url>
@@ -183617,7 +183605,7 @@
         <param name="Діаметр підключення (дюйм)">1/2</param>
       </offer>
       <offer id="KR0212" available="true">
-        <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/kontrolnovimiryuvalni-priladi-kvp/manometr-aksialniy-koer-km611a-010-bar-d-63mm-1412-kr0212</url>
+        <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/kontrolnovimiryuvalni-priladi-kvp/manometr-aksialniy-koer-km611a-010-bar-d-63mm-14-kr0212</url>
         <price>184.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>e8bba9c2-db1f-41a1-a040-2c8ca1759747</categoryId>
@@ -183628,7 +183616,7 @@
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
         <availabilityStatus>Достатньо</availabilityStatus>
-        <name>Манометр аксіальний (KOER KM.611A) (0-10 bar), D 63мм, 1/4''-1/2'' (KR0212)</name>
+        <name>Манометр аксіальний (KOER KM.611A) (0-10 bar), D 63мм, 1/4'' (KR0212)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR0212</vendorCode>
         <param name="Од. в упак.">144</param>
@@ -183637,7 +183625,6 @@
         <param name="З'єднувальний діаметр (дюйм)">1/4</param>
         <param name="Діаметр (мм)">63</param>
         <param name="Діаметр підключення (дюйм)">1/4</param>
-        <param name="З'єднувальний діаметр 2 (дюйм)">1/2</param>
         <param name="Тип приєднання">Різьбове</param>
         <param name="Скло">Термостійке</param>
         <param name="Клас точності">1,6</param>
@@ -183977,30 +183964,30 @@
         <param name="Од. в упак.">1</param>
         <param name="Об'єм ящ.">0</param>
         <param name="Вага ящ.">0</param>
-        <param name="Вага (кг)">16,01</param>
-        <param name="Довжина (мм)">1000</param>
-        <param name="Об'єм (л)">3,60</param>
-        <param name="Висота (мм)">300</param>
-        <param name="Тип виробу">Сталеві радіатори</param>
-        <param name="Країна бренду">Чехія</param>
-        <param name="Модель">22 x 300 x 1000B</param>
-        <param name="Торгова марка">KOER</param>
-        <param name="Тип (Клас)">22</param>
+        <param name="Максимальний робочий тиск (атм)">10</param>
+        <param name="Тиск (бар)">10,00</param>
+        <param name="pH теплоносія">8-9,5</param>
         <param name="Підключення">Нижнє</param>
         <param name="Вміст зважених речовин (мг/л)">&lt;5</param>
         <param name="Вміст кисню (мкг/л)">&lt;20</param>
         <param name="Теплоносій">Вода та незамерзаючі рідини</param>
-        <param name="Жорсткість води (мг-екв/л)">&lt;7</param>
-        <param name="Тип різби">Внутрішня</param>
-        <param name="Матеріал">Сталь</param>
         <param name="Тепловіддача (Вт)">1347</param>
-        <param name="pH теплоносія">8-9,5</param>
-        <param name="Тиск (бар)">10,00</param>
-        <param name="Максимальний робочий тиск (атм)">10</param>
-        <param name="Колір">Білий (RAL 9016)</param>
-        <param name="Комплектація">Термоклапан, кронштейна для кріплення, відвідник повітря (кран Маєвського), заглушки, шурупи з дюбелями</param>
-        <param name="Гарантійний період (міс)">120</param>
+        <param name="Жорсткість води (мг-екв/л)">&lt;7</param>
+        <param name="Матеріал">Сталь</param>
+        <param name="Тип різби">Внутрішня</param>
+        <param name="Вага (кг)">16,01</param>
+        <param name="Довжина (мм)">1000</param>
+        <param name="Висота (мм)">300</param>
+        <param name="Об'єм (л)">3,60</param>
+        <param name="Тип виробу">Сталеві радіатори</param>
+        <param name="Тип (Клас)">22</param>
+        <param name="Країна бренду">Чехія</param>
+        <param name="Торгова марка">KOER</param>
+        <param name="Модель">22 x 300 x 1000B</param>
         <param name="Упаковка">Термоусаджувальна плівка і фірмова упаковка</param>
+        <param name="Гарантійний період (міс)">120</param>
+        <param name="Комплектація">Термоклапан, кронштейна для кріплення, відвідник повітря (кран Маєвського), заглушки, шурупи з дюбелями</param>
+        <param name="Колір">Білий (RAL 9016)</param>
       </offer>
       <offer id="40691001" available="false">
         <url>https://ol.partners/products/filtri-ochischennya-vodi/komplektuyuchi-dlya-filtriv-vodi/filtr-magniy-grohe-blue-accessories-40691001</url>
@@ -187085,7 +187072,7 @@
         <param name="Призначення">Для забезпечення герметичності з’єднання у прес-фітингах PRESS-INOX</param>
         <param name="Розміри (мм)">Для труби 15 мм</param>
         <param name="Матеріал">HNBR</param>
-        <param name="Діапазон температури робочого середовища Тр (°С)">від ?20°C до +110°C</param>
+        <param name="Діапазон температури робочого середовища Тр (°С)">від -20°C до +110°C</param>
         <param name="Тип з'єднання">Встановлення в прес-фітинг</param>
         <param name="Тип конструкції">Жовте ущільнювальне кільце</param>
       </offer>
@@ -187737,15 +187724,15 @@
         <param name="Торгова марка">ZERIX</param>
         <param name="Вид виробу">Гранітні мийки для кухні</param>
       </offer>
-      <offer id="SK0111" available="true">
+      <offer id="SK0111" available="false">
         <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/povitryavidvodchik/vozdushnik-dlya-radiatora-kran-mayevskogo-12-sk-latun-sk0111</url>
         <price>23.92</price>
         <currencyId>UAH</currencyId>
         <categoryId>e8bba9c2-db1f-41a1-a040-2c8ca1759747</categoryId>
         <picture>https://ol.partners/Products/Photo/DB56422F-9373-41D5-89F7-8DE0DBC18DAA</picture>
         <vendor>САНКОМ</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Воздушник для радіатора (Кран Маєвського) 1/2" СК (латунь) (SK0111)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>SK0111</vendorCode>
@@ -188360,7 +188347,7 @@
         <param name="Матеріал">EPDM</param>
         <param name="Тип з'єднання">Встановлення в прес-фітинг</param>
         <param name="Тип конструкції">Чорне ущільнювальне кільце</param>
-        <param name="Діапазон температури робочого середовища Тр (°С)">від ?20°C до +110°C</param>
+        <param name="Діапазон температури робочого середовища Тр (°С)">від -20°C до +110°C</param>
         <param name="Колір">Чорний</param>
         <param name="Покриття">Немає</param>
       </offer>
