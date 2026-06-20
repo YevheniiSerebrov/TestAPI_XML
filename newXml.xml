@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-06-19 04:11">
+<yml_catalog date="2026-06-20 03:33">
   <shop>
     <name>O&amp;L</name>
     <company>O&amp;L</company>
@@ -70837,7 +70837,7 @@
         <param name="Гарантійний період (міс)">60</param>
         <param name="Особливості">Збалансування витрати. Візуальний контроль. Рівномірний нагрів. З витратомірами</param>
       </offer>
-      <offer id="WH0618" available="false">
+      <offer id="WH0618" available="true">
         <url>https://ol.partners/products/boyleri/vodonagrivach-kvadrat-mixxus-ewh15080-cube-dry-nakopichuvalniy-80-l-sukhiy-ten-20-kw-wh0618</url>
         <price>9723.00</price>
         <currencyId>UAH</currencyId>
@@ -70848,8 +70848,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/aa3f0293-73f2-4528-89ab-791f80ce3b4b/image_04.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/aa3f0293-73f2-4528-89ab-791f80ce3b4b/image_02.jpg</picture>
         <vendor>MIXXUS</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Водонагрівач "Квадрат" Mixxus EWH-15080 CUBE DRY  накопичувальний 80 л, сухий тен 2,0 kW (WH0618)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>WH0618</vendorCode>
@@ -86642,15 +86642,15 @@
         <param name="Установка">Вертикальна</param>
         <param name="Форма">Циліндрична</param>
       </offer>
-      <offer id="EP6116" available="true">
+      <offer id="EP6116" available="false">
         <url>https://ol.partners/products/truboprovodi-ta-zyednannya/ustatkuvannya-dlya-montazhu/payalniki-dlya-ppr-trub/zachistka-ruchna-dlya-armovanikh-trub-europroduct-epwp020-ppr-2025mm-ep6116</url>
         <price>199.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>cccd3e1f-6b84-49c8-b342-dee61a5caf10</categoryId>
         <picture>https://ol.partners/Products/Photo/2C62B157-F40F-4B63-838F-E53E628D1710</picture>
         <vendor>EUROPRODUCT</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Зачистка ручна для армованих труб Europroduct EP.WP020 PPR 20/25mm (EP6116)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>EP6116</vendorCode>
@@ -126791,15 +126791,15 @@
         <param name="Тип ручки">Метелик</param>
         <param name="Діаметр підключення (дюйм)">1</param>
       </offer>
-      <offer id="KR5216" available="false">
+      <offer id="KR5216" available="true">
         <url>https://ol.partners/products/sifoni-trapi-dlya-dushu/zlivni-trapi/dushoviy-trap-koer-fd3070x1200-z-nerzhaviyuchoi-stali-sus304-70x1200mm-kr5216</url>
         <price>2924.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>e679a4a9-0158-4101-9206-332f81d1f22b</categoryId>
         <picture>https://ol.partners/Products/Photo/1DD3EEED-FE48-464E-8849-39F052C91F8A</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Душовий трап Koer FD30-70x1200 з нержавіючої сталі SUS304 70x1200мм (KR5216)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR5216</vendorCode>
@@ -160476,52 +160476,6 @@
         <param name="Вага брутто, кг">3,00</param>
         <param name="Гарантійний період (міс)">24</param>
       </offer>
-      <offer id="KR6333" available="true">
-        <url>https://ol.partners/products/truboprovodi-ta-zyednannya/fitingi/presfitingi-iz-nerzhaviyuchoi-stali-pressinox/vstavka-perekhidna-reduktsiyna-zv-koer-kqi5435-pressinox-aisi-304-54x35-kr6333</url>
-        <price>892.00</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>cccd3e1f-6b84-49c8-b342-dee61a5caf10</categoryId>
-        <picture>https://ol.partners/Products/Photo/BD0F25CB-0A8E-4B7E-90BC-17DE448B773D</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/94c7301f-3f2c-40bb-aed4-4593eef5c0f5/image_01.jpg</picture>
-        <vendor>KOER</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
-        <name>Вставка перехідна редукційна ЗВ Koer KQ.I5435 Press-Inox AISI 304 54x35 (KR6333)</name>
-        <description>&lt;![CDATA[]]&gt;</description>
-        <vendorCode>KR6333</vendorCode>
-        <param name="Од. в упак.">50</param>
-        <param name="Об'єм ящ.">0</param>
-        <param name="Вага ящ.">0</param>
-        <param name="Країна бренду">Чехія</param>
-        <param name="Вид виробу">Вставка перехідна редукційна</param>
-        <param name="Тип">Вставка перехідна редукційна</param>
-        <param name="Торгова марка">KOER</param>
-        <param name="Тип виробу">Система PRESS-INOX</param>
-        <param name="Модель">KQ.I5435</param>
-        <param name="Серія">PRESS-INOX</param>
-        <param name="Призначення">Для переходу між трубами або фітингами різних діаметрів</param>
-        <param name="Розміри (мм)">54x35</param>
-        <param name="Матеріал">Нержавіюча сталь AISI 304</param>
-        <param name="Межа плинності сталі (бар)">2100</param>
-        <param name="Міцність сталі на розрив (бар)">5200</param>
-        <param name="Діапазон температури робочого середовища Тр (°С)">до +120°C (при використанні ущільнювальних кілець з EPDM) / до +140°C (при використанні ущільнювальних кілець FKM)</param>
-        <param name="Коефіцієнт лінійного теплового розширення (1/°С)">0,163 х 10-4</param>
-        <param name="Тип конструкції">Редукційна вставка</param>
-        <param name="Профіль прес-насадок інструменту">V</param>
-        <param name="Тип з'єднання">Прес-з'єднання</param>
-        <param name="Модуль пружності сталі (ГПа)">193</param>
-        <param name="Максимальний тиск на розрив (бар)">24</param>
-        <param name="Максимальний робочий тиск (бар)">16</param>
-        <param name="Коефіцієнт теплопровідності стінок, Вт/м К">16,20</param>
-        <param name="Щільність сталі (г/см3)">8,00</param>
-        <param name="Середній термін служби (років)">50</param>
-        <param name="Колір">Сталевий</param>
-        <param name="Покриття">Без покриття</param>
-        <param name="Особливості">Стійкість до виривання. Стійкість до прокручування. Швидкий монтаж Підходить для роботи у важкодоступних місцях. Витримує вібрації та підвищені навантаження. Не вимагає підтягування або перевірки після завершення монтажу.</param>
-        <param name="Область застосування">Водопостачання, опалення, технологічні та інженерні мережі</param>
-        <param name="Сумісність з комплектуючою">Труби та прес-фітинги PRESS-INOX відповідного діаметра</param>
-        <param name="Додаткові характеристики">На фітингу нанесено червоний індикатор обтиску</param>
-      </offer>
       <offer id="KR6435" available="true">
         <url>https://ol.partners/products/truboprovodi-ta-zyednannya/fitingi/presfitingi-iz-nerzhaviyuchoi-stali-pressinox/kolino-45-dvoroztrubne-koer-kqb282-pressinox-aisi-304-28x28-kr6435</url>
         <price>284.00</price>
@@ -160567,6 +160521,52 @@
         <param name="Колір">Сталевий</param>
         <param name="Покриття">Без покриття</param>
         <param name="Розміри (мм)">28x28</param>
+      </offer>
+      <offer id="KR6333" available="true">
+        <url>https://ol.partners/products/truboprovodi-ta-zyednannya/fitingi/presfitingi-iz-nerzhaviyuchoi-stali-pressinox/vstavka-perekhidna-reduktsiyna-zv-koer-kqi5435-pressinox-aisi-304-54x35-kr6333</url>
+        <price>892.00</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>cccd3e1f-6b84-49c8-b342-dee61a5caf10</categoryId>
+        <picture>https://ol.partners/Products/Photo/BD0F25CB-0A8E-4B7E-90BC-17DE448B773D</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/94c7301f-3f2c-40bb-aed4-4593eef5c0f5/image_01.jpg</picture>
+        <vendor>KOER</vendor>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Достатньо</availabilityStatus>
+        <name>Вставка перехідна редукційна ЗВ Koer KQ.I5435 Press-Inox AISI 304 54x35 (KR6333)</name>
+        <description>&lt;![CDATA[]]&gt;</description>
+        <vendorCode>KR6333</vendorCode>
+        <param name="Од. в упак.">50</param>
+        <param name="Об'єм ящ.">0</param>
+        <param name="Вага ящ.">0</param>
+        <param name="Країна бренду">Чехія</param>
+        <param name="Вид виробу">Вставка перехідна редукційна</param>
+        <param name="Тип">Вставка перехідна редукційна</param>
+        <param name="Торгова марка">KOER</param>
+        <param name="Тип виробу">Система PRESS-INOX</param>
+        <param name="Модель">KQ.I5435</param>
+        <param name="Серія">PRESS-INOX</param>
+        <param name="Призначення">Для переходу між трубами або фітингами різних діаметрів</param>
+        <param name="Розміри (мм)">54x35</param>
+        <param name="Матеріал">Нержавіюча сталь AISI 304</param>
+        <param name="Межа плинності сталі (бар)">2100</param>
+        <param name="Міцність сталі на розрив (бар)">5200</param>
+        <param name="Діапазон температури робочого середовища Тр (°С)">до +120°C (при використанні ущільнювальних кілець з EPDM) / до +140°C (при використанні ущільнювальних кілець FKM)</param>
+        <param name="Коефіцієнт лінійного теплового розширення (1/°С)">0,163 х 10-4</param>
+        <param name="Тип конструкції">Редукційна вставка</param>
+        <param name="Профіль прес-насадок інструменту">V</param>
+        <param name="Тип з'єднання">Прес-з'єднання</param>
+        <param name="Модуль пружності сталі (ГПа)">193</param>
+        <param name="Максимальний тиск на розрив (бар)">24</param>
+        <param name="Максимальний робочий тиск (бар)">16</param>
+        <param name="Коефіцієнт теплопровідності стінок, Вт/м К">16,20</param>
+        <param name="Щільність сталі (г/см3)">8,00</param>
+        <param name="Середній термін служби (років)">50</param>
+        <param name="Колір">Сталевий</param>
+        <param name="Покриття">Без покриття</param>
+        <param name="Особливості">Стійкість до виривання. Стійкість до прокручування. Швидкий монтаж Підходить для роботи у важкодоступних місцях. Витримує вібрації та підвищені навантаження. Не вимагає підтягування або перевірки після завершення монтажу.</param>
+        <param name="Область застосування">Водопостачання, опалення, технологічні та інженерні мережі</param>
+        <param name="Сумісність з комплектуючою">Труби та прес-фітинги PRESS-INOX відповідного діаметра</param>
+        <param name="Додаткові характеристики">На фітингу нанесено червоний індикатор обтиску</param>
       </offer>
       <offer id="KP2644" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/sverdlovinni-nasosi/tsentrobizhniy-nasos-koer-4sdm-414-50m-pult-kp2644</url>
@@ -166492,14 +166492,14 @@
         <param name="Матеріал">Нержавіюча сталь</param>
         <param name="Гарантійний період (міс)">12</param>
       </offer>
-      <offer id="KR4938" available="true">
+      <offer id="KR4938" available="false">
         <url>https://ol.partners/products/radiatori-opalennya/sektsiyni-radiatori/radiator-sektsiyniy-koer-110-bimetal500-maxi-kr4938</url>
         <price>777.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>271f5959-3c31-47d1-81a4-4ed3ce39cde4</categoryId>
         <picture>https://ol.partners/Products/Photo/EA73FC3F-7316-434A-87DA-6AB79F7FE7A8</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>100</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <availabilityStatus>Достатньо</availabilityStatus>
         <name>Радіатор секційний Koer 110 Bimetal-500 Maxi (KR4938)</name>
         <description>&lt;![CDATA[]]&gt;</description>
@@ -174865,7 +174865,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/b6c64b1e-21b5-411e-bff6-aa7ad1d4eef1/image_01.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Відро для сміття з плавним закриттям прямокутне Koer TC-010206-02 6 л колір нержавійка (KR5594)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR5594</vendorCode>
