@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-06-21 04:05">
+<yml_catalog date="2026-06-22 04:05">
   <shop>
     <name>O&amp;L</name>
     <company>O&amp;L</company>
@@ -28,7 +28,7 @@
       <category id="21bf4c08-c3bf-4876-b970-58a97d3d985b">Дзеркала</category>
       <category id="acf670b1-cb69-42df-9bd9-ccc438f29831">Зарядні станції та генератори</category>
     </categories>
-    <offers count="5012">
+    <offers count="5018">
       <offer id="KR3409" available="true">
         <url>https://ol.partners/products/sifoni-trapi-dlya-dushu/sifoni/sifon-dlya-rakovini-koer-bt0103-bez-vipusku-pid-donniy-klapan-bez-revizii-kolir-biliy-1-14-kr3409</url>
         <price>1252.00</price>
@@ -9966,6 +9966,25 @@
         <param name="Колір">Сірий</param>
         <param name="Тип з'єднання">Пайка</param>
         <param name="Матеріал виробу">Поліпропілен</param>
+      </offer>
+      <offer id="KP3428" available="true">
+        <url>https://ol.partners/products/nasosi-ta-aksesuari/nasosni-stantsii/nasosna-ministantsiya-koer-pwz-250-vikhrova-intelektualna-h30m-q37-lkhv-p250-vt-1x1-kp3428</url>
+        <price>3910.00</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
+        <picture>https://ol.partners/Products/Photo/7739FD25-4A44-4401-A61C-2B1D63F2EA62</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/01274f0d-fd15-416d-ba90-6f48874f98d4/image_03.jpg</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/01274f0d-fd15-416d-ba90-6f48874f98d4/image_02.jpg</picture>
+        <vendor>KOER</vendor>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Достатньо</availabilityStatus>
+        <name>Насосна міністанція Koer PWZ 250 вихрова інтелектуальна H=30М, Q=37 л/хв, P=250 Вт, 1"x1" (KP3428)</name>
+        <description>&lt;![CDATA[]]&gt;</description>
+        <vendorCode>KP3428</vendorCode>
+        <param name="Од. в упак.">1</param>
+        <param name="Об'єм ящ.">0</param>
+        <param name="Вага ящ.">0</param>
+        <param name="Торгова марка">KOER</param>
       </offer>
       <offer id="EP4027" available="true">
         <url>https://ol.partners/products/truboprovodi-ta-zyednannya/ustatkuvannya-dlya-montazhu/montazhni-planki/planka-montazhna-europroduct-ep0102-25x2x1-2f-ep4027</url>
@@ -21453,6 +21472,25 @@
         <param name="Матеріал">Поліпропілен</param>
         <param name="Тип з'єднання">Пайка</param>
         <param name="Діаметр підключення (мм)">20</param>
+      </offer>
+      <offer id="KP3431" available="true">
+        <url>https://ol.partners/products/nasosi-ta-aksesuari/nasosni-stantsii/nasosna-ministantsiya-koer-pwz-750-vikhrova-intelektualna-h50m-q56-lkhv-p750-vt-1x1-kp3431</url>
+        <price>5190.00</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
+        <picture>https://ol.partners/Products/Photo/77F40CD0-859A-489A-B1A5-0856F7B94926</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/96f20034-e595-47ed-9369-8d50f154ce7c/image_02.jpg</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/96f20034-e595-47ed-9369-8d50f154ce7c/image_03.jpg</picture>
+        <vendor>KOER</vendor>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Достатньо</availabilityStatus>
+        <name>Насосна міністанція Koer PWZ 750 вихрова інтелектуальна H=50М, Q=56 л/хв, P=750 Вт, 1"x1" (KP3431)</name>
+        <description>&lt;![CDATA[]]&gt;</description>
+        <vendorCode>KP3431</vendorCode>
+        <param name="Од. в упак.">1</param>
+        <param name="Об'єм ящ.">0</param>
+        <param name="Вага ящ.">0</param>
+        <param name="Торгова марка">KOER</param>
       </offer>
       <offer id="RAD232" available="false">
         <url>https://ol.partners/products/radiatori-opalennya/stalevi-radiatori/staleviy-radiator-11kh500kh400s-koer-bok-pidklyuchennya-rad232</url>
@@ -36576,6 +36614,25 @@
         <param name="Особливості">Стійкість до виривання. Стійкість до прокручування. Швидкий монтаж Підходить для роботи у важкодоступних місцях. Витримує вібрації та підвищені навантаження. Не вимагає підтягування або перевірки після завершення монтажу.</param>
         <param name="Область застосування">Водопостачання, опалення, технологічні та інженерні мережі</param>
         <param name="Розміри (мм)">22x15x22</param>
+      </offer>
+      <offer id="KP3427" available="true">
+        <url>https://ol.partners/products/nasosi-ta-aksesuari/nasosni-stantsii/nasosna-ministantsiya-koer-pwz-125-vikhrova-intelektualna-h24m-q33-lkhv-p125-vt-1x1-kp3427</url>
+        <price>3760.00</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
+        <picture>https://ol.partners/Products/Photo/DA6922AA-C6E4-4125-AFC9-9CD723A3CE74</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/293d4bff-3a23-4e09-89a3-2ad92e1a91c6/image_02.jpg</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/293d4bff-3a23-4e09-89a3-2ad92e1a91c6/image_03.jpg</picture>
+        <vendor>KOER</vendor>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Достатньо</availabilityStatus>
+        <name>Насосна міністанція Koer PWZ 125 вихрова інтелектуальна H=24М, Q=33 л/хв, P=125 Вт, 1"x1" (KP3427)</name>
+        <description>&lt;![CDATA[]]&gt;</description>
+        <vendorCode>KP3427</vendorCode>
+        <param name="Од. в упак.">1</param>
+        <param name="Об'єм ящ.">0</param>
+        <param name="Вага ящ.">0</param>
+        <param name="Торгова марка">KOER</param>
       </offer>
       <offer id="KR5721" available="true">
         <url>https://ol.partners/products/sifoni-trapi-dlya-dushu/armatura-dlya-unitaziv/armatura-napovnyuvalna-koer-kt1102-dlya-instalyatsii-kt0401-kt0403-kt0404-kt0405-kt0406-kr5721</url>
@@ -78011,6 +78068,25 @@
         <param name="Матеріал">Сталь</param>
         <param name="Колір">Білий (RAL 9016)</param>
       </offer>
+      <offer id="KP3429" available="true">
+        <url>https://ol.partners/products/nasosi-ta-aksesuari/nasosni-stantsii/nasosna-ministantsiya-koer-pwz-370-vikhrova-intelektualna-h36m-q40-lkhv-p370-vt-1x1-kp3429</url>
+        <price>4070.00</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
+        <picture>https://ol.partners/Products/Photo/D586C0F3-4EB5-4908-9E84-31A5E657918B</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/7034a945-5b40-474c-9356-74fa5c2e28b8/image_02.jpg</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/7034a945-5b40-474c-9356-74fa5c2e28b8/image_03.jpg</picture>
+        <vendor>KOER</vendor>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Достатньо</availabilityStatus>
+        <name>Насосна міністанція Koer PWZ 370 вихрова інтелектуальна H=36М, Q=40 л/хв, P=370 Вт, 1"x1" (KP3429)</name>
+        <description>&lt;![CDATA[]]&gt;</description>
+        <vendorCode>KP3429</vendorCode>
+        <param name="Од. в упак.">1</param>
+        <param name="Об'єм ящ.">0</param>
+        <param name="Вага ящ.">0</param>
+        <param name="Торгова марка">KOER</param>
+      </offer>
       <offer id="ZX6101" available="true">
         <url>https://ol.partners/products/aksesuari-dlya-vannoi/shtangi-teleskopichni/shtanga-dlya-shtorki-kutova-zerix-crsa90x90-90x90cm-nerzhaviyucha-stal-zx6101</url>
         <price>368.00</price>
@@ -104856,6 +104932,25 @@
         <param name="Матеріал">ABS-пластик</param>
         <param name="Комплектація">Корпус фільтру; кронштейн; сервісний ключ; шурупи для кріплення кронштейна до корпусу фільтра; картридж нитка</param>
         <param name="Додаткові характеристики">Матеріал різьблення - латунь</param>
+      </offer>
+      <offer id="KP3430" available="true">
+        <url>https://ol.partners/products/nasosi-ta-aksesuari/nasosni-stantsii/nasosna-ministantsiya-koer-pwz-550-vikhrova-intelektualna-h42m-q50-lkhv-p550-vt-1x1-kp3430</url>
+        <price>4890.00</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
+        <picture>https://ol.partners/Products/Photo/BF6C3039-FC01-48C4-8288-A85D89142EC7</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/33e23198-813c-4503-b258-fc4d8be76c22/image_02.jpg</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/33e23198-813c-4503-b258-fc4d8be76c22/image_03.jpg</picture>
+        <vendor>KOER</vendor>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Достатньо</availabilityStatus>
+        <name>Насосна міністанція Koer PWZ 550 вихрова інтелектуальна H=42М, Q=50 л/хв, P=550 Вт, 1"x1" (KP3430)</name>
+        <description>&lt;![CDATA[]]&gt;</description>
+        <vendorCode>KP3430</vendorCode>
+        <param name="Од. в упак.">1</param>
+        <param name="Об'єм ящ.">0</param>
+        <param name="Вага ящ.">0</param>
+        <param name="Торгова марка">KOER</param>
       </offer>
       <offer id="NF3105" available="true">
         <url>https://ol.partners/products/truboprovodi-ta-zyednannya/fitingi/rizbovi-zyednannya/kut-nolf-nfcl06fmn12-mf-nikelovaniy-nf3105</url>
@@ -149515,7 +149610,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/6932fd22-e302-4aec-9ccb-ab8455f8ba1f/image_05.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Душовий трап із нержавіючої сталі SUS304 Koer FD20-70x750 (KR4744)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR4744</vendorCode>
@@ -184639,6 +184734,26 @@
         <param name="Максимальна температура води (°C)">95</param>
         <param name="Наявність переливу">Без функції перелива</param>
         <param name="Колір">Білий</param>
+      </offer>
+      <offer id="MA0112" available="true">
+        <url>https://ol.partners/products/kut-montazhniy-master-20x34f-ma0112</url>
+        <price>82.00</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>cccd3e1f-6b84-49c8-b342-dee61a5caf10</categoryId>
+        <picture>https://ol.partners/Products/Photo/0D18D886-4C52-426D-9442-73C029C2F57E</picture>
+        <vendor>MASTER</vendor>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Достатньо</availabilityStatus>
+        <name>Кут монтажний Master 20x3/4F (MA0112)</name>
+        <description>&lt;![CDATA[]]&gt;</description>
+        <vendorCode>MA0112</vendorCode>
+        <param name="Од. в упак.">60</param>
+        <param name="Об'єм ящ.">0</param>
+        <param name="Вага ящ.">0</param>
+        <param name="Торгова марка">MASTER</param>
+        <param name="Тип виробу">Обтискний фітинг</param>
+        <param name="Країна бренду">Китай</param>
+        <param name="Країна виробник">Китай</param>
       </offer>
       <offer id="KP2775" available="true">
         <url>https://ol.partners/products/aksesuari-ta-komplektuyuchi-dlya-kotliv/termostat-mekhanichniy-zanuryuvalniy-koer-kr1350-090c-kp2775</url>
