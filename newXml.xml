@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-06-23 03:27">
+<yml_catalog date="2026-06-24 03:28">
   <shop>
     <name>O&amp;L</name>
     <company>O&amp;L</company>
@@ -5120,6 +5120,34 @@
         <param name="Форма">Кругла</param>
         <param name="Поверхня">Матова</param>
       </offer>
+      <offer id="KR4954" available="true">
+        <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/zvorotniy-klapan/zvorotniy-klapan-koer-kr173n-12-nikelovaniy-kr4954</url>
+        <price>165.00</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>85089059-b2ea-414c-a0f0-0cb7187f4e74</categoryId>
+        <picture>https://ol.partners/Products/Photo/7AE5F818-6603-4AFD-B90A-CE4FB8A5F041</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/fbd0e362-dec2-4c20-ba9a-967e925b364f/KR4954-KOER-KR.173.N---12-.jpg</picture>
+        <vendor>KOER</vendor>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Достатньо</availabilityStatus>
+        <name>Зворотний клапан Koer KR.173.N - 1/2" (нікельований) (KR4954)</name>
+        <description>&lt;![CDATA[]]&gt;</description>
+        <vendorCode>KR4954</vendorCode>
+        <param name="Од. в упак.">160</param>
+        <param name="Об'єм ящ.">0.025</param>
+        <param name="Вага ящ.">20.5</param>
+        <param name="Діаметр підключення (дюйм)">1/2</param>
+        <param name="Колір">Сталевий</param>
+        <param name="Покриття">Нікель</param>
+        <param name="Матеріал виробу">Латунь CW617N нікельована</param>
+        <param name="Тип з'єднання">Внутрішня-внутрішня</param>
+        <param name="Тип приєднання">Різьбове</param>
+        <param name="Країна бренду">Чехія</param>
+        <param name="Торгова марка">KOER</param>
+        <param name="Модель">173.N</param>
+        <param name="Призначення">для води</param>
+        <param name="Тип виробу">Клапан зворотній</param>
+      </offer>
       <offer id="ZX5047" available="true">
         <url>https://ol.partners/products/aksesuari-dlya-vannoi/gachki-dlya-rushnikiv/gachok-dlya-rushnika-zerix-afb01051-zx5047</url>
         <price>133.00</price>
@@ -5150,34 +5178,6 @@
         <param name="Колір">Сталевий</param>
         <param name="Гарантійний період (міс)">12</param>
         <param name="Матеріал виробу">Метал</param>
-      </offer>
-      <offer id="KR4954" available="true">
-        <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/zvorotniy-klapan/zvorotniy-klapan-koer-kr173n-12-nikelovaniy-kr4954</url>
-        <price>165.00</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>85089059-b2ea-414c-a0f0-0cb7187f4e74</categoryId>
-        <picture>https://ol.partners/Products/Photo/7AE5F818-6603-4AFD-B90A-CE4FB8A5F041</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/fbd0e362-dec2-4c20-ba9a-967e925b364f/KR4954-KOER-KR.173.N---12-.jpg</picture>
-        <vendor>KOER</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
-        <name>Зворотний клапан Koer KR.173.N - 1/2" (нікельований) (KR4954)</name>
-        <description>&lt;![CDATA[]]&gt;</description>
-        <vendorCode>KR4954</vendorCode>
-        <param name="Од. в упак.">160</param>
-        <param name="Об'єм ящ.">0.025</param>
-        <param name="Вага ящ.">20.5</param>
-        <param name="Діаметр підключення (дюйм)">1/2</param>
-        <param name="Колір">Сталевий</param>
-        <param name="Покриття">Нікель</param>
-        <param name="Матеріал виробу">Латунь CW617N нікельована</param>
-        <param name="Тип з'єднання">Внутрішня-внутрішня</param>
-        <param name="Тип приєднання">Різьбове</param>
-        <param name="Країна бренду">Чехія</param>
-        <param name="Торгова марка">KOER</param>
-        <param name="Модель">173.N</param>
-        <param name="Призначення">для води</param>
-        <param name="Тип виробу">Клапан зворотній</param>
       </offer>
       <offer id="KR6187" available="true">
         <url>https://ol.partners/products/aksesuari-dlya-vannoi/trimachi-dlya-rushnikiv/trimach-dlya-rushnikiv-odinarniy-koer-as0109107-648mm-kolir-grafit-kr6187</url>
@@ -6343,47 +6343,6 @@
         <param name="Комплектація">Набір сполучних муфт кабелю з термоусадкою, ізоляційна стрічка, пульт управління</param>
         <param name="Максимально допустима кількість забруднень (г/м3)">150</param>
       </offer>
-      <offer id="KR4961" available="true">
-        <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/krani/krani-kulovi/kran-kuloviy-koer-kg204-34-ff-ggv-gaz-kr4961</url>
-        <price>372.00</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>85089059-b2ea-414c-a0f0-0cb7187f4e74</categoryId>
-        <picture>https://ol.partners/Products/Photo/001E816E-042F-49BB-B35E-E7A05095195E</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/12f9cbbe-782e-45c3-a52a-0ba8e463250f/image_05.jpg</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/12f9cbbe-782e-45c3-a52a-0ba8e463250f/image_01.jpg</picture>
-        <vendor>KOER</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
-        <name>Кран кульовий Koer KG.204 - 3/4" FF ГГВ (газ) (KR4961)</name>
-        <description>&lt;![CDATA[]]&gt;</description>
-        <vendorCode>KR4961</vendorCode>
-        <param name="Од. в упак.">48</param>
-        <param name="Об'єм ящ.">0.016</param>
-        <param name="Вага ящ.">18</param>
-        <param name="Робочий тиск (бар)">до 20</param>
-        <param name="Максимальний робочий тиск (бар)">40</param>
-        <param name="Тип з'єднання">Внутрішня-внутрішня</param>
-        <param name="Матеріал штоку">Латунь CW617N нікельована</param>
-        <param name="Матеріал виробу">Латунь CW617N нікельована</param>
-        <param name="Шар">Латунний</param>
-        <param name="Матеріал кульового затвора">Латунь</param>
-        <param name="Робоче середовище">Газ, вода, пара, гліколі 50%</param>
-        <param name="Тип приєднання">Різьбове</param>
-        <param name="Клас герметичності затвора">А</param>
-        <param name="Призначення">Для газу</param>
-        <param name="Вид виробу">Кран кульовий для газу</param>
-        <param name="Тип виробу">Крани кульові</param>
-        <param name="Торгова марка">KOER</param>
-        <param name="Модель">KG.204</param>
-        <param name="Країна бренду">Чехія</param>
-        <param name="Тип">Прямий</param>
-        <param name="Діаметр підключення (дюйм)">3/4</param>
-        <param name="Додаткові характеристики">Максимальний робочий тиск для газу – 3 бар</param>
-        <param name="Особливості">Робочий тиск для газу – 3 бар; Робочий тиск для води – до 20 бар</param>
-        <param name="Покриття">Нікель</param>
-        <param name="Колір">Сталевий</param>
-        <param name="Тип ручки">Важіль</param>
-      </offer>
       <offer id="KP2888" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/poverkhneviy-nasos/nasos-poverkhneviy-vidtsentroviy-koer-thf6b1-kp2888</url>
         <price>8740.00</price>
@@ -6428,6 +6387,47 @@
         <param name="Торгова марка">KOER</param>
         <param name="Гарантійний період (міс)">36</param>
         <param name="Максимальна температура робочої рідини (°C)">40</param>
+      </offer>
+      <offer id="KR4961" available="true">
+        <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/krani/krani-kulovi/kran-kuloviy-koer-kg204-34-ff-ggv-gaz-kr4961</url>
+        <price>372.00</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>85089059-b2ea-414c-a0f0-0cb7187f4e74</categoryId>
+        <picture>https://ol.partners/Products/Photo/001E816E-042F-49BB-B35E-E7A05095195E</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/12f9cbbe-782e-45c3-a52a-0ba8e463250f/image_05.jpg</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/12f9cbbe-782e-45c3-a52a-0ba8e463250f/image_01.jpg</picture>
+        <vendor>KOER</vendor>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Достатньо</availabilityStatus>
+        <name>Кран кульовий Koer KG.204 - 3/4" FF ГГВ (газ) (KR4961)</name>
+        <description>&lt;![CDATA[]]&gt;</description>
+        <vendorCode>KR4961</vendorCode>
+        <param name="Од. в упак.">48</param>
+        <param name="Об'єм ящ.">0.016</param>
+        <param name="Вага ящ.">18</param>
+        <param name="Робочий тиск (бар)">до 20</param>
+        <param name="Максимальний робочий тиск (бар)">40</param>
+        <param name="Тип з'єднання">Внутрішня-внутрішня</param>
+        <param name="Матеріал штоку">Латунь CW617N нікельована</param>
+        <param name="Матеріал виробу">Латунь CW617N нікельована</param>
+        <param name="Шар">Латунний</param>
+        <param name="Матеріал кульового затвора">Латунь</param>
+        <param name="Робоче середовище">Газ, вода, пара, гліколі 50%</param>
+        <param name="Тип приєднання">Різьбове</param>
+        <param name="Клас герметичності затвора">А</param>
+        <param name="Призначення">Для газу</param>
+        <param name="Вид виробу">Кран кульовий для газу</param>
+        <param name="Тип виробу">Крани кульові</param>
+        <param name="Торгова марка">KOER</param>
+        <param name="Модель">KG.204</param>
+        <param name="Країна бренду">Чехія</param>
+        <param name="Тип">Прямий</param>
+        <param name="Діаметр підключення (дюйм)">3/4</param>
+        <param name="Додаткові характеристики">Максимальний робочий тиск для газу – 3 бар</param>
+        <param name="Особливості">Робочий тиск для газу – 3 бар; Робочий тиск для води – до 20 бар</param>
+        <param name="Покриття">Нікель</param>
+        <param name="Колір">Сталевий</param>
+        <param name="Тип ручки">Важіль</param>
       </offer>
       <offer id="31552SD1" available="false">
         <url>https://ol.partners/products/miyki-dlya-kukhni/vrizni-miyki/miyka-dlya-kukhni-iz-nerzhaviyuchoi-stali-grohe-k200-31552sd1</url>
@@ -12254,43 +12254,6 @@
         <param name="Гарантійний період (міс)">84</param>
         <param name="Особливості">Стійка до високих температур та тиску</param>
       </offer>
-      <offer id="KR5759" available="true">
-        <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/krani/krani-kulovi/kran-kuloviy-gshm-koer-extreme-ke21815-12-fm-ruchka-metelik-chervona-kr5759</url>
-        <price>250.00</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>85089059-b2ea-414c-a0f0-0cb7187f4e74</categoryId>
-        <picture>https://ol.partners/Products/Photo/A1E0FB08-FA55-40AC-B3F5-60BE442245AA</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/0cc1184e-958a-4e7d-94b2-067d15324e17/image_02.jpg</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/0cc1184e-958a-4e7d-94b2-067d15324e17/image_03.jpg</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/0cc1184e-958a-4e7d-94b2-067d15324e17/image_05.jpg</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/0cc1184e-958a-4e7d-94b2-067d15324e17/image_04.jpg</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/0cc1184e-958a-4e7d-94b2-067d15324e17/image_01.jpg</picture>
-        <vendor>KOER</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
-        <name>Кран кульовий ГШМ Koer Extreme KE.218-15 - 1/2" FM ручка "метелик" червона (KR5759)</name>
-        <description>&lt;![CDATA[]]&gt;</description>
-        <vendorCode>KR5759</vendorCode>
-        <param name="Од. в упак.">80</param>
-        <param name="Об'єм ящ.">0</param>
-        <param name="Вага ящ.">0</param>
-        <param name="Матеріал виробу">Латунь</param>
-        <param name="Матеріал кульового затвора">Латунь</param>
-        <param name="Тип приєднання">Різьбове</param>
-        <param name="Максимальний робочий тиск (бар)">64</param>
-        <param name="Тип з'єднання">Внутрішня-зовнішня</param>
-        <param name="Діаметр підключення (дюйм)">1/2</param>
-        <param name="Колір">Сталевий</param>
-        <param name="Тип ручки">Метелик</param>
-        <param name="Модель">KE.218-15</param>
-        <param name="Призначення">Для води</param>
-        <param name="Країна бренду">Чехія</param>
-        <param name="Тип виробу">Крани кульові</param>
-        <param name="Серія">EXTREME</param>
-        <param name="Торгова марка">KOER</param>
-        <param name="Вид виробу">Кран кульовий для води</param>
-        <param name="Тип">Прямий</param>
-      </offer>
       <offer id="KR2835" available="true">
         <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/kolektori/kolektor-dlya-teploi-pidlogi-z-fitingom-koer-kr11252-34x2-ways-kr2835</url>
         <price>397.00</price>
@@ -12327,6 +12290,43 @@
         <param name="A (мм)">93,00</param>
         <param name="Гарантійний період (міс)">84</param>
         <param name="Особливості">Робоча температура теплоносія – 110 ℃</param>
+      </offer>
+      <offer id="KR5759" available="true">
+        <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/krani/krani-kulovi/kran-kuloviy-gshm-koer-extreme-ke21815-12-fm-ruchka-metelik-chervona-kr5759</url>
+        <price>250.00</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>85089059-b2ea-414c-a0f0-0cb7187f4e74</categoryId>
+        <picture>https://ol.partners/Products/Photo/A1E0FB08-FA55-40AC-B3F5-60BE442245AA</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/0cc1184e-958a-4e7d-94b2-067d15324e17/image_02.jpg</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/0cc1184e-958a-4e7d-94b2-067d15324e17/image_03.jpg</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/0cc1184e-958a-4e7d-94b2-067d15324e17/image_05.jpg</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/0cc1184e-958a-4e7d-94b2-067d15324e17/image_04.jpg</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/0cc1184e-958a-4e7d-94b2-067d15324e17/image_01.jpg</picture>
+        <vendor>KOER</vendor>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Достатньо</availabilityStatus>
+        <name>Кран кульовий ГШМ Koer Extreme KE.218-15 - 1/2" FM ручка "метелик" червона (KR5759)</name>
+        <description>&lt;![CDATA[]]&gt;</description>
+        <vendorCode>KR5759</vendorCode>
+        <param name="Од. в упак.">80</param>
+        <param name="Об'єм ящ.">0</param>
+        <param name="Вага ящ.">0</param>
+        <param name="Матеріал виробу">Латунь</param>
+        <param name="Матеріал кульового затвора">Латунь</param>
+        <param name="Тип приєднання">Різьбове</param>
+        <param name="Максимальний робочий тиск (бар)">64</param>
+        <param name="Тип з'єднання">Внутрішня-зовнішня</param>
+        <param name="Діаметр підключення (дюйм)">1/2</param>
+        <param name="Колір">Сталевий</param>
+        <param name="Тип ручки">Метелик</param>
+        <param name="Модель">KE.218-15</param>
+        <param name="Призначення">Для води</param>
+        <param name="Країна бренду">Чехія</param>
+        <param name="Тип виробу">Крани кульові</param>
+        <param name="Серія">EXTREME</param>
+        <param name="Торгова марка">KOER</param>
+        <param name="Вид виробу">Кран кульовий для води</param>
+        <param name="Тип">Прямий</param>
       </offer>
       <offer id="WP3305" available="true">
         <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/filtr-gruboi-ochistki/filtr-gruboi-ochistki-z-vushkom-latun-waterpro-wp20020-34-wp3305</url>
@@ -12485,7 +12485,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/a4fa47b6-40e6-4f08-a700-c12f32376e0c/image_07.jpg</picture>
         <vendor>MIXXUS</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Газова колонка MIXXUS GWH-0210 BASIC BLACK димохідна 10 л/хв (колір чорний) (WH0023)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>WH0023</vendorCode>
@@ -41724,7 +41724,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/78cbdb98-b087-407b-bc6b-992a7c282713/image_03.jpg</picture>
         <vendor>ZERIX</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Мийка кухонна Zerix Z510-06-180P (polish) (ZS0559)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>ZS0559</vendorCode>
@@ -51411,7 +51411,7 @@
         <param name="Ширина (мм)">500</param>
         <param name="Висота (мм)">700</param>
       </offer>
-      <offer id="PM0620" available="true">
+      <offer id="PM0620" available="false">
         <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/krani/krani-kulovi/kran-kuloviy-plamix-pvm34-fm-pvc-pm0620</url>
         <price>36.00</price>
         <currencyId>UAH</currencyId>
@@ -51419,8 +51419,8 @@
         <picture>https://ol.partners/Products/Photo/23A5C698-8371-4CB3-91AF-63AD0C55DFE1</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/9b622d99-dfa0-4623-a07e-751e2dc51d92/PM0620-PLAMIX-PVM-34-FM-1.jpg</picture>
         <vendor>PLAMIX</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Кран кульовий Plamix PVM-3/4" FM PVC (PM0620)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>PM0620</vendorCode>
@@ -58542,7 +58542,7 @@
         <param name="Країна бренду">Чехія</param>
         <param name="Торгова марка">KOER</param>
       </offer>
-      <offer id="41038000" available="true">
+      <offer id="41038000" available="false">
         <url>https://ol.partners/products/aksesuari-dlya-vannoi/politsi-u-vannu/politsya-u-vannu-kutova-grohe-selection-41038000</url>
         <price>5778.00</price>
         <currencyId>UAH</currencyId>
@@ -58552,8 +58552,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/2c373ce1-59ae-4eb3-b9d7-f3540ba4141a/image_03.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/2c373ce1-59ae-4eb3-b9d7-f3540ba4141a/image_02.jpg</picture>
         <vendor>GROHE</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Поличка-корзина кутова Grohe Selection (41038000)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>41038000</vendorCode>
@@ -59324,7 +59324,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/f2919e71-8690-487a-a074-0bef9e5b7afc/image_03.jpg</picture>
         <vendor>ZERIX</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Мийка кухонна Zerix ZS-7950S-03 Чорна (ZX4580)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>ZX4580</vendorCode>
@@ -109431,7 +109431,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/187e9262-3bec-4ef0-8699-b4f3187959ed/image_01.jpg</picture>
         <vendor>ZERIX</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Мийка кухонна Zerix ZS-6243S-03 Чорна (ZX4572)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>ZX4572</vendorCode>
@@ -118134,7 +118134,7 @@
         <param name="Матеріал">ABS-пластик</param>
         <param name="Керування">Пневматичне</param>
       </offer>
-      <offer id="WH0614" available="true">
+      <offer id="WH0614" available="false">
         <url>https://ol.partners/products/boyleri/vodonagrivach-kvadrat-mixxus-ewh14050-cube-wetn-nakopichuvalniy-50-l-mokriy-ten-20-kw-wh0614</url>
         <price>7789.00</price>
         <currencyId>UAH</currencyId>
@@ -118146,8 +118146,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/2bfa0c42-3379-424b-b89f-0e6f3cbe8dbf/image_06.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/2bfa0c42-3379-424b-b89f-0e6f3cbe8dbf/image_01.jpg</picture>
         <vendor>MIXXUS</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Водонагрівач "Квадрат" Mixxus EWH-14050 CUBE WET(Н) накопичувальний 50 л, мокрий тен 2,0 kW (WH0614)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>WH0614</vendorCode>
@@ -128238,7 +128238,7 @@
         <param name="Кількість контурів">10</param>
         <param name="Діаметр підключення (дюйм)">1</param>
       </offer>
-      <offer id="MP6718" available="true">
+      <offer id="MP6718" available="false">
         <url>https://ol.partners/products/keramika/rakovini/rakovina-pidvisnanakladna-mixxus-premium-quadro0203-500x420x130mm-otvir-pid-zmishuvach-pereliv-mp6718</url>
         <price>3105.00</price>
         <currencyId>UAH</currencyId>
@@ -128253,8 +128253,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/a0166232-131a-4af2-b226-5aa1f92b7baa/image_04.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/a0166232-131a-4af2-b226-5aa1f92b7baa/image_03.jpg</picture>
         <vendor>MIXXUS PREMIUM</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Раковина підвісна-накладна Mixxus Premium  QUADRO-0203 500x420x130mm (отвір під змішувач, перелив) (MP6718)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>MP6718</vendorCode>
@@ -129300,7 +129300,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/d7000596-d5de-4204-a088-2923cb6849d0/image_01.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Сифон для ванни Koer BD-03-01 автоматичний (Click-Clack) з переливом, без ревізії (Колір хром) 1 1/2'' (KR5441)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR5441</vendorCode>
@@ -133161,15 +133161,15 @@
         <param name="Матеріал">Поліпропілен</param>
         <param name="Колір">Сірий</param>
       </offer>
-      <offer id="TR0013" available="true">
+      <offer id="TR0013" available="false">
         <url>https://ol.partners/products/truboprovodi-ta-zyednannya/trubi/metaloplastikovi-trubi/truba-metaloplastikova-16-pexal-100-m-tr0013</url>
         <price>34.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>cccd3e1f-6b84-49c8-b342-dee61a5caf10</categoryId>
         <picture>https://ol.partners/Products/Photo/2FD6EF81-E3D1-477C-B3C2-2E62D3DCC3A3</picture>
         <vendor>PEXAL</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Труба металопластикова 16 Pexal (100 м) (TR0013)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>TR0013</vendorCode>
@@ -138611,15 +138611,15 @@
         <param name="Діаметр підключення (дюйм)">1/2х3/4</param>
         <param name="Гарантійний період (міс)">84</param>
       </offer>
-      <offer id="EP6231" available="true">
+      <offer id="EP6231" available="false">
         <url>https://ol.partners/products/filtri-ochischennya-vodi/komplektuyuchi-dlya-filtriv-vodi/kartridzh-iz-polipropilenovoi-nitki-europroduct-epv02251005-pp5-25x10-ep6231</url>
         <price>54.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>d191ae68-f2ee-4472-8036-e37d06c8ffc9</categoryId>
         <picture>https://ol.partners/Products/Photo/4ED7E33C-CE25-477D-AD6D-129CC21963DF</picture>
         <vendor>EUROPRODUCT</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Картридж із поліпропіленової нитки Europroduct EPV-02-2510-05 PP5 2,5"x10" (EP6231)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>EP6231</vendorCode>
@@ -138968,6 +138968,75 @@
         <param name="Колір">Чорний</param>
         <param name="Розміри (мм)">Для труби 28 мм</param>
       </offer>
+      <offer id="KP0251" available="true">
+        <url>https://ol.partners/products/nasosi-ta-aksesuari/tsirkulyatsiyni-nasosi/nasos-tsirkulyatsiyniy-vidtsentr-koer-kpgrs25-6130-kp0251</url>
+        <price>1780.00</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
+        <picture>https://ol.partners/Products/Photo/9A977C17-2CA2-4715-B94E-FB216A37EA29</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/f79d69dd-b921-484f-b5a0-0b796114df36/image_06.jpg</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/f79d69dd-b921-484f-b5a0-0b796114df36/image_05.jpg</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/f79d69dd-b921-484f-b5a0-0b796114df36/image_04.jpg</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/f79d69dd-b921-484f-b5a0-0b796114df36/image_03_KP0251.jpg</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/f79d69dd-b921-484f-b5a0-0b796114df36/image_01.jpg</picture>
+        <vendor>KOER</vendor>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Достатньо</availabilityStatus>
+        <name>Насос циркуляційний відцентр. Koer KP.GRS-25 / 6-130 (KP0251)</name>
+        <description>&lt;![CDATA[]]&gt;</description>
+        <vendorCode>KP0251</vendorCode>
+        <param name="Од. в упак.">8</param>
+        <param name="Об'єм ящ.">0.036</param>
+        <param name="Вага ящ.">22.1</param>
+        <param name="Мінімальна температура робочої рідини (°C)">4</param>
+        <param name="Клас енергоефективності">A</param>
+        <param name="Швидкість (об/хв)">2850</param>
+        <param name="Режим роботи">S1, тривалий</param>
+        <param name="Потужність (Вт)">93</param>
+        <param name="Напір при режимі 3 (м)">6,00</param>
+        <param name="Клас захисту корпусів електронного обладнання">IP44</param>
+        <param name="Напруга мережі (V)">220</param>
+        <param name="Потужність при режимі 2 (P1, Вт)">68</param>
+        <param name="Перекачувальні середовища">Прісна вода</param>
+        <param name="Матеріал обмотки статора">Мідь</param>
+        <param name="Рівень шуму (дБ)">&lt;20</param>
+        <param name="Матеріал вала двигуна">Кераміка</param>
+        <param name="Потужність (кВт)">0,09</param>
+        <param name="Матеріал робочого колеса">Технополімер</param>
+        <param name="Продуктивність при режимі 3 (м3/год)">3,30</param>
+        <param name="Частота струму (Гц)">50</param>
+        <param name="Клас термостійкості">F</param>
+        <param name="Потужність при режимі 1 (P1, Вт)">40</param>
+        <param name="Максимальний напір (м)">6</param>
+        <param name="Кількість швидкостей">3</param>
+        <param name="Мін. температура навколишнього середовища (°C)">5</param>
+        <param name="Різьба накидної гайки (дюйм)">1 1/2</param>
+        <param name="Продуктивність (л/хв)">55,00</param>
+        <param name="Вологість навколишнього повітря (%)">&lt;20</param>
+        <param name="Тип приєднання">Різьбове</param>
+        <param name="Потужність при режимі 3 (P1, Вт)">93</param>
+        <param name="Якість води">Чиста</param>
+        <param name="Максимальна статичний тиск (бар)">10,00</param>
+        <param name="Матеріал виробу">Чавун</param>
+        <param name="Захист від перегріву (Вбудований датчик перегріву)">Так</param>
+        <param name="Мінімальна статичний тиск (бар)">0,90</param>
+        <param name="Тип ротора">Мокрий</param>
+        <param name="Макс. температура навколишнього середовища (°C)">40</param>
+        <param name="Особливості">Як перекачується може використовуватися вода і гліколесодержащіе рідини (до 50%) для запобігання деформації трубопроводу через замерзання</param>
+        <param name="Комплектація">Кабель</param>
+        <param name="Упаковка">Картонна коробка</param>
+        <param name="Максимально допустима кількість забруднень (г/м3)">0</param>
+        <param name="Максимальна температура робочої рідини (°C)">110</param>
+        <param name="Діаметр виходу 1 (дюйм)">1 1/2</param>
+        <param name="Діаметр входу 1 (дюйм)">1 1/2</param>
+        <param name="Монтажна довжина (мм)">130</param>
+        <param name="Діаметр умовного проходу (мм)">25</param>
+        <param name="Модель">KP.GRS-25/6-130</param>
+        <param name="Тип">Відцентровий</param>
+        <param name="Тип виробу">Циркуляційний насос</param>
+        <param name="Торгова марка">KOER</param>
+        <param name="Країна бренду">Чехія</param>
+      </offer>
       <offer id="EP2948" available="true">
         <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/krani/krani-kulovi/kran-kuloviy-1-14-gshr-europroduct-ep210-ep2948</url>
         <price>541.00</price>
@@ -139040,75 +139109,6 @@
         <param name="Матеріал виробу">Метал</param>
         <param name="Колір">Сталевий</param>
         <param name="Покриття">Хром</param>
-      </offer>
-      <offer id="KP0251" available="true">
-        <url>https://ol.partners/products/nasosi-ta-aksesuari/tsirkulyatsiyni-nasosi/nasos-tsirkulyatsiyniy-vidtsentr-koer-kpgrs25-6130-kp0251</url>
-        <price>1780.00</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
-        <picture>https://ol.partners/Products/Photo/9A977C17-2CA2-4715-B94E-FB216A37EA29</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/f79d69dd-b921-484f-b5a0-0b796114df36/image_06.jpg</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/f79d69dd-b921-484f-b5a0-0b796114df36/image_05.jpg</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/f79d69dd-b921-484f-b5a0-0b796114df36/image_04.jpg</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/f79d69dd-b921-484f-b5a0-0b796114df36/image_03_KP0251.jpg</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/f79d69dd-b921-484f-b5a0-0b796114df36/image_01.jpg</picture>
-        <vendor>KOER</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
-        <name>Насос циркуляційний відцентр. Koer KP.GRS-25 / 6-130 (KP0251)</name>
-        <description>&lt;![CDATA[]]&gt;</description>
-        <vendorCode>KP0251</vendorCode>
-        <param name="Од. в упак.">8</param>
-        <param name="Об'єм ящ.">0.036</param>
-        <param name="Вага ящ.">22.1</param>
-        <param name="Мінімальна температура робочої рідини (°C)">4</param>
-        <param name="Клас енергоефективності">A</param>
-        <param name="Швидкість (об/хв)">2850</param>
-        <param name="Режим роботи">S1, тривалий</param>
-        <param name="Потужність (Вт)">93</param>
-        <param name="Напір при режимі 3 (м)">6,00</param>
-        <param name="Клас захисту корпусів електронного обладнання">IP44</param>
-        <param name="Напруга мережі (V)">220</param>
-        <param name="Потужність при режимі 2 (P1, Вт)">68</param>
-        <param name="Перекачувальні середовища">Прісна вода</param>
-        <param name="Матеріал обмотки статора">Мідь</param>
-        <param name="Рівень шуму (дБ)">&lt;20</param>
-        <param name="Матеріал вала двигуна">Кераміка</param>
-        <param name="Потужність (кВт)">0,09</param>
-        <param name="Матеріал робочого колеса">Технополімер</param>
-        <param name="Продуктивність при режимі 3 (м3/год)">3,30</param>
-        <param name="Частота струму (Гц)">50</param>
-        <param name="Клас термостійкості">F</param>
-        <param name="Потужність при режимі 1 (P1, Вт)">40</param>
-        <param name="Максимальний напір (м)">6</param>
-        <param name="Кількість швидкостей">3</param>
-        <param name="Мін. температура навколишнього середовища (°C)">5</param>
-        <param name="Різьба накидної гайки (дюйм)">1 1/2</param>
-        <param name="Продуктивність (л/хв)">55,00</param>
-        <param name="Вологість навколишнього повітря (%)">&lt;20</param>
-        <param name="Тип приєднання">Різьбове</param>
-        <param name="Потужність при режимі 3 (P1, Вт)">93</param>
-        <param name="Якість води">Чиста</param>
-        <param name="Максимальна статичний тиск (бар)">10,00</param>
-        <param name="Матеріал виробу">Чавун</param>
-        <param name="Захист від перегріву (Вбудований датчик перегріву)">Так</param>
-        <param name="Мінімальна статичний тиск (бар)">0,90</param>
-        <param name="Тип ротора">Мокрий</param>
-        <param name="Макс. температура навколишнього середовища (°C)">40</param>
-        <param name="Особливості">Як перекачується може використовуватися вода і гліколесодержащіе рідини (до 50%) для запобігання деформації трубопроводу через замерзання</param>
-        <param name="Комплектація">Кабель</param>
-        <param name="Упаковка">Картонна коробка</param>
-        <param name="Максимально допустима кількість забруднень (г/м3)">0</param>
-        <param name="Максимальна температура робочої рідини (°C)">110</param>
-        <param name="Діаметр виходу 1 (дюйм)">1 1/2</param>
-        <param name="Діаметр входу 1 (дюйм)">1 1/2</param>
-        <param name="Монтажна довжина (мм)">130</param>
-        <param name="Діаметр умовного проходу (мм)">25</param>
-        <param name="Модель">KP.GRS-25/6-130</param>
-        <param name="Тип">Відцентровий</param>
-        <param name="Тип виробу">Циркуляційний насос</param>
-        <param name="Торгова марка">KOER</param>
-        <param name="Країна бренду">Чехія</param>
       </offer>
       <offer id="KR5697" available="true">
         <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/reduktor-tisku-vodi/reduktor-tisku-koer-kr1253-1-kr5697</url>
@@ -144808,7 +144808,7 @@
         <picture>https://ol.partners/Products/Photo/D08F86C5-EEEA-4119-BD6A-92C3208D8293</picture>
         <vendor>EUROPRODUCT</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Картридж із поліпропіленової нитки Europroduct EPV-02-2510-10 PP10 2,5"x10" (EP6232)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>EP6232</vendorCode>
