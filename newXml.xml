@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-06-24 03:28">
+<yml_catalog date="2026-06-25 03:26">
   <shop>
     <name>O&amp;L</name>
     <company>O&amp;L</company>
@@ -36902,8 +36902,8 @@
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR6138</vendorCode>
         <param name="Од. в упак.">10</param>
-        <param name="Об'єм ящ.">0</param>
-        <param name="Вага ящ.">0</param>
+        <param name="Об'єм ящ.">0.072</param>
+        <param name="Вага ящ.">8.4</param>
         <param name="Матеріал">ABS-пластик</param>
         <param name="Керування">Пневматичне</param>
         <param name="Тип виробу">Панелі змиву для інсталяцій</param>
@@ -37763,7 +37763,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/4325c19d-50cb-46d5-89d0-8f6a915e8d80/image_08.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Відро для сміття з плавним закриттям прямокутне Koer TC-010210-08 10 л колір білий (KR5598)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR5598</vendorCode>
@@ -43287,12 +43287,13 @@
         <categoryId>21bf4c08-c3bf-4876-b970-58a97d3d985b</categoryId>
         <picture>https://ol.partners/Products/Photo/ED7361F1-2349-4883-83C3-284F3DB29FFC</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/245d8527-738b-40dc-b792-a05722e6d978/image_06.jpg</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/245d8527-738b-40dc-b792-a05722e6d978/image_02.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/245d8527-738b-40dc-b792-a05722e6d978/image_04.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/245d8527-738b-40dc-b792-a05722e6d978/image_08.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/245d8527-738b-40dc-b792-a05722e6d978/image_03.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/245d8527-738b-40dc-b792-a05722e6d978/image_05.jpg</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/245d8527-738b-40dc-b792-a05722e6d978/image_01.png</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/245d8527-738b-40dc-b792-a05722e6d978/image_07.jpg</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/245d8527-738b-40dc-b792-a05722e6d978/image_02.jpg</picture>
         <vendor>ZERIX</vendor>
         <stock_quantity>100</stock_quantity>
         <availabilityStatus>Достатньо</availabilityStatus>
@@ -47956,15 +47957,15 @@
         <param name="Гарантійний період (міс)">12</param>
         <param name="Матеріал виробу">Пластик</param>
       </offer>
-      <offer id="KO1060" available="true">
+      <offer id="KO1060" available="false">
         <url>https://ol.partners/products/radiatori-opalennya/stalevi-radiatori/radiator-staleviy-korado-22vk-500x800-z-nizhnim-pidklyuchennyam-ko1060</url>
         <price>7224.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>271f5959-3c31-47d1-81a4-4ed3ce39cde4</categoryId>
         <picture>https://ol.partners/Products/Photo/859AA121-B445-4B28-B4C1-1CAB09E99933</picture>
         <vendor>KORADO</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Радіатор сталевий Korado 22VK 500x800 з нижнім підключенням (KO1060)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KO1060</vendorCode>
@@ -49961,7 +49962,7 @@
         <param name="Гарантійний період (міс)">120</param>
         <param name="Гарантія на комплектуючі (міс)">24</param>
         <param name="Кількість вантажних місць">2</param>
-        <param name="Сумісність з комплектуючою">Сумісний з: 1. Mixxus Premium Seat Cover Ellipse-Bevel-Wave-2001 Сидіння-кришка для унітазу 463х361х50mm дюропластове швидкознімне з мікроліфтом (MP6609). 2. Mixxus Premium Button-1801-1/2" Комплект арматури: спускна 2-х кнопочна + наповнювальна з нижнім підведенням, пластикове різьблення 1/2" (MP6607).</param>
+        <param name="Сумісність з комплектуючою">Сумісний з: 1. MIXXUS PREMIUM SEAT COVER ELLIPSE-WAVE-2001 Сидіння-кришка для унітазу 428х361х50mm дюропластове швидкознімне з мікроліфтом (MP6610). 2. MIXXUS PREMIUM BUTTON-1801-1/2" Комплект арматури: СПУСКНА 2-х кнопочна + НАПОВНЮВАЛЬНА з НИЖНІМ підведенням, пластикове різьблення 1/2" (MP6607).</param>
         <param name="Вага нетто, кг">45,00</param>
         <param name="Тип виробу">Унітази</param>
         <param name="Торгова марка">MIXXUS PREMIUM</param>
@@ -51411,7 +51412,7 @@
         <param name="Ширина (мм)">500</param>
         <param name="Висота (мм)">700</param>
       </offer>
-      <offer id="PM0620" available="false">
+      <offer id="PM0620" available="true">
         <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/krani/krani-kulovi/kran-kuloviy-plamix-pvm34-fm-pvc-pm0620</url>
         <price>36.00</price>
         <currencyId>UAH</currencyId>
@@ -51419,8 +51420,8 @@
         <picture>https://ol.partners/Products/Photo/23A5C698-8371-4CB3-91AF-63AD0C55DFE1</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/9b622d99-dfa0-4623-a07e-751e2dc51d92/PM0620-PLAMIX-PVM-34-FM-1.jpg</picture>
         <vendor>PLAMIX</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Кран кульовий Plamix PVM-3/4" FM PVC (PM0620)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>PM0620</vendorCode>
@@ -102398,7 +102399,7 @@
         <param name="Матеріал виробу">Оцинкована сталь</param>
         <param name="Колір">Білий</param>
       </offer>
-      <offer id="31577SD1" available="true">
+      <offer id="31577SD1" available="false">
         <url>https://ol.partners/products/miyki-dlya-kukhni/vrizni-miyki/miyka-dlya-kukhni-iz-nerzhaviyuchoi-stali-grohe-k700u-31577sd1</url>
         <price>19080.00</price>
         <currencyId>UAH</currencyId>
@@ -102408,8 +102409,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/40760d5b-ec8a-4332-9310-ce2332443fab/image_02.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/40760d5b-ec8a-4332-9310-ce2332443fab/image_01.jpg</picture>
         <vendor>GROHE</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Мийка для кухні із нержавіючої сталі Grohe K700U (31577SD1)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>31577SD1</vendorCode>
@@ -106502,7 +106503,7 @@
         <picture>https://ol.partners/Products/Photo/93E9B42E-8E1A-4ECB-B72C-AC8A283118BB</picture>
         <vendor>UNIPAK</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Анаер. клейовий герметик Unipak UNITEC Hot 50мл. (UP0588)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>UP0588</vendorCode>
@@ -110516,7 +110517,7 @@
         <param name="Гарантійний період (міс)">24</param>
         <param name="Керування">Електронне</param>
       </offer>
-      <offer id="ZX3247" available="false">
+      <offer id="ZX3247" available="true">
         <url>https://ol.partners/products/aksesuari-dlya-vannoi/dozator-dlya-ridkogo-mila/dozator-dlya-ridkogo-mila-zerix-d1000sus-nastinniy-zx3247</url>
         <price>746.00</price>
         <currencyId>UAH</currencyId>
@@ -110526,8 +110527,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/708fc446-24f1-469d-92e4-3c5bfbad8d4c/mage_01.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/708fc446-24f1-469d-92e4-3c5bfbad8d4c/mage_02.jpg</picture>
         <vendor>ZERIX</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Дозатор для рідкого мила Zerix D-1000-SUS настінний (ZX3247)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>ZX3247</vendorCode>
@@ -114003,7 +114004,7 @@
         <param name="D (мм)">48,90</param>
         <param name="Колір">Сірий</param>
       </offer>
-      <offer id="40535000" available="true">
+      <offer id="40535000" available="false">
         <url>https://ol.partners/products/aksesuari-dlya-vannoi/dozator-dlya-ridkogo-mila/dozator-dlya-miyuchogo-zasobu-grohe-40535000</url>
         <price>4050.00</price>
         <currencyId>UAH</currencyId>
@@ -114017,8 +114018,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/38809947-786b-47fe-bdc7-0a2f2406e7d7/image_02.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/38809947-786b-47fe-bdc7-0a2f2406e7d7/image_04.jpg</picture>
         <vendor>GROHE</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Дозатор для миючого засобу Grohe (40535000)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>40535000</vendorCode>
@@ -126843,7 +126844,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/e7806f5e-088d-4991-a22f-83ba77d1d333/image_04.png</picture>
         <vendor>MIXXUS PREMIUM</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Система управління змивом пісуара Mixxus Premium BEVEL-2301 з ІЧ датчиком, батар.+адаптер 220В (MP6683)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>MP6683</vendorCode>
@@ -138611,15 +138612,15 @@
         <param name="Діаметр підключення (дюйм)">1/2х3/4</param>
         <param name="Гарантійний період (міс)">84</param>
       </offer>
-      <offer id="EP6231" available="false">
+      <offer id="EP6231" available="true">
         <url>https://ol.partners/products/filtri-ochischennya-vodi/komplektuyuchi-dlya-filtriv-vodi/kartridzh-iz-polipropilenovoi-nitki-europroduct-epv02251005-pp5-25x10-ep6231</url>
         <price>54.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>d191ae68-f2ee-4472-8036-e37d06c8ffc9</categoryId>
         <picture>https://ol.partners/Products/Photo/4ED7E33C-CE25-477D-AD6D-129CC21963DF</picture>
         <vendor>EUROPRODUCT</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Картридж із поліпропіленової нитки Europroduct EPV-02-2510-05 PP5 2,5"x10" (EP6231)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>EP6231</vendorCode>
@@ -153477,7 +153478,7 @@
         <param name="Комплектація">Сидіння-кришка, кріплення</param>
         <param name="Вага нетто, кг">2,50</param>
         <param name="Кількість вантажних місць">1</param>
-        <param name="Сумісність з комплектуючою">Сумісна з: MIXXUS PREMIUM ELLIPSE-0401-T1 Унітаз-компакт 630х390х840mm система змиву TORNADO 10 (MP6467); MIXXUS PREMIUM WAVE-0401-R Унітаз-компакт 610х390х830mm система змиву RIMLESS (MP6604)</param>
+        <param name="Сумісність з комплектуючою">Сумісна з: MIXXUS PREMIUM ELLIPSE-0401-T1 (компл.в 2 ящ) Унітаз-компакт 630х390х840mm система змиву TORNADO 1.0 (MP6467); MIXXUS PREMIUM WAVE-0401-R (компл.в 2 ящ) Унітаз-компакт 610х390х830mm система змиву RIMLESS (MP6604); MIXXUS PREMIUM BEVEL-0401-T1 (компл.в 2 ящ) Унітаз-компакт 625х390х845mm система змиву TORNADO 1.0 (MP6473).</param>
         <param name="Гарантійний період (міс)">24</param>
         <param name="Глибина (мм)">361</param>
         <param name="Висота (мм)">50</param>
@@ -166607,14 +166608,14 @@
         <param name="Матеріал">Нержавіюча сталь</param>
         <param name="Гарантійний період (міс)">12</param>
       </offer>
-      <offer id="KR4938" available="false">
+      <offer id="KR4938" available="true">
         <url>https://ol.partners/products/radiatori-opalennya/sektsiyni-radiatori/radiator-sektsiyniy-koer-110-bimetal500-maxi-kr4938</url>
         <price>777.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>271f5959-3c31-47d1-81a4-4ed3ce39cde4</categoryId>
         <picture>https://ol.partners/Products/Photo/EA73FC3F-7316-434A-87DA-6AB79F7FE7A8</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>100</stock_quantity>
         <availabilityStatus>Достатньо</availabilityStatus>
         <name>Радіатор секційний Koer 110 Bimetal-500 Maxi (KR4938)</name>
         <description>&lt;![CDATA[]]&gt;</description>
@@ -183632,15 +183633,15 @@
         <param name="Особливості">Робочий тиск для газу – 3 бар; Робочий тиск для води – до 20 бар</param>
         <param name="Діаметр підключення (дюйм)">1/2</param>
       </offer>
-      <offer id="48101000" available="true">
+      <offer id="48101000" available="false">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/zapchastini-ta-aksesuari-dlya-nasosiv/pompa-grohe-48101000</url>
         <price>2655.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>98cef2a4-d106-4da2-9b4c-f8e66696fd13</categoryId>
         <picture>https://ol.partners/Products/Photo/D284ECA4-9E83-4344-8EB7-FC0F7CD6EC29</picture>
         <vendor>GROHE</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Помпа Grohe (48101000)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>48101000</vendorCode>
