@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-06-28 03:39">
+<yml_catalog date="2026-06-29 03:45">
   <shop>
     <name>O&amp;L</name>
     <company>O&amp;L</company>
@@ -27782,15 +27782,15 @@
         <param name="Діаметр підключення (мм)">25</param>
         <param name="Діаметр (мм)">25</param>
       </offer>
-      <offer id="EP5002" available="false">
+      <offer id="EP5002" available="true">
         <url>https://ol.partners/products/truboprovodi-ta-zyednannya/trubi/polipropilenovi-trubi-ppr/truba-europroduct-ppr-pn16-32x44-40-m-ep5002</url>
         <price>64.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>cccd3e1f-6b84-49c8-b342-dee61a5caf10</categoryId>
         <picture>https://ol.partners/Products/Photo/71D0A58E-E263-469B-94BD-070FB1FCA17A</picture>
         <vendor>EUROPRODUCT</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Труба Europroduct PPR PN16 32x4,4 (40 м) (EP5002)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>EP5002</vendorCode>
@@ -58971,7 +58971,7 @@
         <param name="Вага (г)">59,00</param>
         <param name="Розміри (мм)">20</param>
       </offer>
-      <offer id="WH0029" available="true">
+      <offer id="WH0029" available="false">
         <url>https://ol.partners/products/gazovi-kolonki/gazova-kolonka-mixxus-gwh0112-basic-white-dimokhidna-12-lkhv-wh0029</url>
         <price>6440.00</price>
         <currencyId>UAH</currencyId>
@@ -58984,8 +58984,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/4b8f4de4-4a40-4801-a7cf-59e8034ce2d1/image_03.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/4b8f4de4-4a40-4801-a7cf-59e8034ce2d1/image_04.jpg</picture>
         <vendor>MIXXUS</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Газова колонка Mixxus GWH-0112 BASIC WHITE димохідна 12 л/хв (WH0029)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>WH0029</vendorCode>
@@ -89705,7 +89705,7 @@
         <param name="Тип з'єднання">Пайка</param>
         <param name="Колір">Сірий</param>
       </offer>
-      <offer id="37095000" available="true">
+      <offer id="37095000" available="false">
         <url>https://ol.partners/products/instalyatsii-ta-klavishi/sistemi-instalyatsii/napovnyuyuchiy-klapan-grohe-dallyfvent-37095000</url>
         <price>2052.00</price>
         <currencyId>UAH</currencyId>
@@ -89713,8 +89713,8 @@
         <picture>https://ol.partners/Products/Photo/E8B13B6D-CC5B-4A0A-9D7D-96DCC8BAD123</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/363f0e54-9fd4-49b5-8883-a4c717e096ac/image_01.jpg</picture>
         <vendor>GROHE</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Наповнюючий клапан Grohe Dally-Fvent (37095000)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>37095000</vendorCode>
@@ -101559,6 +101559,7 @@
         <currencyId>UAH</currencyId>
         <categoryId>e679a4a9-0158-4101-9206-332f81d1f22b</categoryId>
         <picture>https://ol.partners/Products/Photo/C508E5EA-5FFF-4927-A7B5-AF729F671CFC</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/04d663cf-6bc4-4d58-a72a-6b22dbf068fb/image_02.png</picture>
         <vendor>ZERIX</vendor>
         <stock_quantity>100</stock_quantity>
         <availabilityStatus>Достатньо</availabilityStatus>
@@ -111007,7 +111008,7 @@
         <param name="Торгова марка">KOER</param>
         <param name="Тип виробу">Латунний фітинг</param>
       </offer>
-      <offer id="1022562430" available="true">
+      <offer id="1022562430" available="false">
         <url>https://ol.partners/products/aksesuari-dlya-vannoi/sklyanki-dlya-zubnikh-schitok/stakan-sklyaniy-z-trimachem-grohe-essentials-1022562430</url>
         <price>3186.00</price>
         <currencyId>UAH</currencyId>
@@ -111015,8 +111016,8 @@
         <picture>https://ol.partners/Products/Photo/F9C3DE19-26FD-40DC-873E-1F0518AB9DDE</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/ab95c9dc-5ae3-4015-b666-b13050c71d64/image_01.jpg</picture>
         <vendor>GROHE</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Стакан скляний з тримачем Grohe Essentials (1022562430)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>1022562430</vendorCode>
@@ -144801,15 +144802,15 @@
         <param name="Матеріал">Поліпропілен</param>
         <param name="Колір">Сірий</param>
       </offer>
-      <offer id="EP6232" available="true">
+      <offer id="EP6232" available="false">
         <url>https://ol.partners/products/filtri-ochischennya-vodi/komplektuyuchi-dlya-filtriv-vodi/kartridzh-iz-polipropilenovoi-nitki-europroduct-epv02251010-pp10-25x10-ep6232</url>
         <price>54.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>d191ae68-f2ee-4472-8036-e37d06c8ffc9</categoryId>
         <picture>https://ol.partners/Products/Photo/D08F86C5-EEEA-4119-BD6A-92C3208D8293</picture>
         <vendor>EUROPRODUCT</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Картридж із поліпропіленової нитки Europroduct EPV-02-2510-10 PP10 2,5"x10" (EP6232)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>EP6232</vendorCode>
@@ -157582,7 +157583,7 @@
         <param name="Колір">Сталевий</param>
         <param name="Особливості">Збалансування витрати. Візуальний контроль. Рівномірний нагрів. З витратомірами</param>
       </offer>
-      <offer id="38505000" available="true">
+      <offer id="38505000" available="false">
         <url>https://ol.partners/products/instalyatsii-ta-klavishi/klavishi-zmivu-ta-komplektuyuchi/panel-zmivu-grohe-skate-air-dlya-unitazu-vertikalna-38505000</url>
         <price>1839.00</price>
         <currencyId>UAH</currencyId>
@@ -157597,8 +157598,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/223e6b15-c927-46bb-89cc-e7e79d9d2460/image_05.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/223e6b15-c927-46bb-89cc-e7e79d9d2460/image_07.jpg</picture>
         <vendor>GROHE</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Панель змиву Grohe Skate Air для унітазу вертикальна (38505000)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>38505000</vendorCode>
@@ -170001,7 +170002,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/4ccd662e-d417-465b-a679-4c43da0ade0e/image_07.jpg</picture>
         <vendor>MIXXUS PREMIUM</vendor>
         <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Раковина підвісна-накладна MIXXUS PREMIUM QUADRO-0201 500х440х120mm (отвір під змішувач, перелив) (MP6478)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>MP6478</vendorCode>
@@ -176369,7 +176370,7 @@
         <param name="Гарантійний період (міс)">120</param>
         <param name="Вага нетто, кг">31,00</param>
       </offer>
-      <offer id="1022572430" available="true">
+      <offer id="1022572430" available="false">
         <url>https://ol.partners/products/aksesuari-dlya-vannoi/dozator-dlya-ridkogo-mila/dozator-dlya-ridkogo-mila-grohe-essentials-1022572430</url>
         <price>4590.00</price>
         <currencyId>UAH</currencyId>
@@ -176377,8 +176378,8 @@
         <picture>https://ol.partners/Products/Photo/BEA9FD4C-A184-4B68-B0DB-5D1035CD5211</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/8f97a233-79f9-494b-8606-166e79ea2de9/image_01.jpg</picture>
         <vendor>GROHE</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Дозатор для рідкого мила Grohe Essentials (1022572430)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>1022572430</vendorCode>
