@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-07-02 03:27">
+<yml_catalog date="2026-07-03 02:50">
   <shop>
     <name>O&amp;L</name>
     <company>O&amp;L</company>
@@ -39271,7 +39271,7 @@
         <param name="Покриття">Нікель</param>
         <param name="Колір">Сталевий</param>
       </offer>
-      <offer id="WH0026" available="true">
+      <offer id="WH0026" available="false">
         <url>https://ol.partners/products/gazovi-kolonki/gazova-kolonka-mixxus-gwh0510-basic-glass-dimokhidna-10-lkhv-panel-zi-skla-z-malyunkom-wh0026</url>
         <price>5472.00</price>
         <currencyId>UAH</currencyId>
@@ -39284,8 +39284,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/00c8b4c8-62b6-4a19-813e-6b6e63ed9fcc/image_07.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/00c8b4c8-62b6-4a19-813e-6b6e63ed9fcc/image_03.jpg</picture>
         <vendor>MIXXUS</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Газова колонка MIXXUS GWH-0510 BASIC GLASS димохідна 10 л/хв (панель зі скла з малюнком) (WH0026)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>WH0026</vendorCode>
@@ -44475,7 +44475,7 @@
         <param name="Особливості">Комплектація з гільзою під датчик температури для автоматичного регулювання</param>
         <param name="Матеріал виробу">Латунь CW617N нікельована</param>
       </offer>
-      <offer id="KR2779" available="true">
+      <offer id="KR2779" available="false">
         <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/zvorotniy-klapan/klapan-zvorotniy-koer-nikelovaniy-34-koer-kr172n-kr2779</url>
         <price>233.00</price>
         <currencyId>UAH</currencyId>
@@ -44484,8 +44484,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/a46afaa9-b6b2-450d-ba02-c1de44869319/image_01.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/a46afaa9-b6b2-450d-ba02-c1de44869319/image_03.jpg</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Клапан зворотний Koer (нікельований) 3/4" (Koer KR.172.N) (KR2779)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR2779</vendorCode>
@@ -54612,7 +54612,7 @@
         <param name="Особливості">Стійка до високих температур та тиску</param>
         <param name="Колір">Сірий</param>
       </offer>
-      <offer id="1021652430" available="true">
+      <offer id="1021652430" available="false">
         <url>https://ol.partners/products/aksesuari-dlya-vannoi/dozator-dlya-ridkogo-mila/dozator-ridkogo-mila-grohe-contemporary-1021652430</url>
         <price>3942.00</price>
         <currencyId>UAH</currencyId>
@@ -54621,8 +54621,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/984d1b9a-9fd8-4c14-8586-092a4318f981/image_02.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/984d1b9a-9fd8-4c14-8586-092a4318f981/image_03.jpg</picture>
         <vendor>GROHE</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Дозатор рідкого мила Grohe Contemporary (1021652430)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>1021652430</vendorCode>
@@ -140057,15 +140057,15 @@
         <param name="Діаметр підключення (дюйм)">1/2х3/4</param>
         <param name="Гарантійний період (міс)">84</param>
       </offer>
-      <offer id="EP6231" available="true">
+      <offer id="EP6231" available="false">
         <url>https://ol.partners/products/filtri-ochischennya-vodi/komplektuyuchi-dlya-filtriv-vodi/kartridzh-iz-polipropilenovoi-nitki-europroduct-epv02251005-pp5-25x10-ep6231</url>
         <price>54.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>d191ae68-f2ee-4472-8036-e37d06c8ffc9</categoryId>
         <picture>https://ol.partners/Products/Photo/4ED7E33C-CE25-477D-AD6D-129CC21963DF</picture>
         <vendor>EUROPRODUCT</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Картридж із поліпропіленової нитки Europroduct EPV-02-2510-05 PP5 2,5"x10" (EP6231)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>EP6231</vendorCode>
@@ -146329,15 +146329,15 @@
         <param name="Матеріал">Поліпропілен</param>
         <param name="Колір">Сірий</param>
       </offer>
-      <offer id="EP6232" available="true">
+      <offer id="EP6232" available="false">
         <url>https://ol.partners/products/filtri-ochischennya-vodi/komplektuyuchi-dlya-filtriv-vodi/kartridzh-iz-polipropilenovoi-nitki-europroduct-epv02251010-pp10-25x10-ep6232</url>
         <price>54.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>d191ae68-f2ee-4472-8036-e37d06c8ffc9</categoryId>
         <picture>https://ol.partners/Products/Photo/D08F86C5-EEEA-4119-BD6A-92C3208D8293</picture>
         <vendor>EUROPRODUCT</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Картридж із поліпропіленової нитки Europroduct EPV-02-2510-10 PP10 2,5"x10" (EP6232)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>EP6232</vendorCode>
@@ -180771,7 +180771,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/c916d91b-7522-4c08-a366-a5c97267ffa8/image_01.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Кран поливу з коннектором для швидкого підключення 1/2" (Koer KR.257) (KR2750)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR2750</vendorCode>
