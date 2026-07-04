@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-07-03 02:50">
+<yml_catalog date="2026-07-04 02:46">
   <shop>
     <name>O&amp;L</name>
     <company>O&amp;L</company>
@@ -14747,8 +14747,8 @@
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KP0208</vendorCode>
         <param name="Од. в упак.">72</param>
-        <param name="Об'єм ящ.">0.024</param>
-        <param name="Вага ящ.">17.74</param>
+        <param name="Об'єм ящ.">72</param>
+        <param name="Вага ящ.">0.024</param>
         <param name="d (мм)">24,10</param>
         <param name="D (мм)">34,50</param>
         <param name="L (мм)">18,00</param>
@@ -17915,8 +17915,8 @@
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR0233</vendorCode>
         <param name="Од. в упак.">60</param>
-        <param name="Об'єм ящ.">0.056</param>
-        <param name="Вага ящ.">19</param>
+        <param name="Об'єм ящ.">60</param>
+        <param name="Вага ящ.">0.056</param>
         <param name="Призначення">Для водопостачання та опалення</param>
         <param name="Вид виробу">Труба</param>
         <param name="Тип виробу">Труби та фітинги PPR</param>
@@ -20412,8 +20412,8 @@
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KP2908</vendorCode>
         <param name="Од. в упак.">612</param>
-        <param name="Об'єм ящ.">0.047</param>
-        <param name="Вага ящ.">13.5</param>
+        <param name="Об'єм ящ.">612</param>
+        <param name="Вага ящ.">0.047</param>
         <param name="Тип з'єднання">Пайка</param>
         <param name="Матеріал">Поліпропілен</param>
         <param name="Призначення">Для труб</param>
@@ -29190,7 +29190,7 @@
         <param name="Матеріал">Латунь CW617N</param>
         <param name="Тип з'єднання">Різьбовий</param>
       </offer>
-      <offer id="WH0025" available="true">
+      <offer id="WH0025" available="false">
         <url>https://ol.partners/products/gazovi-kolonki/gazova-kolonka-mixxus-gwh0410-basic-glass-dimokhidna-10-lkhv-panel-zi-skla-z-malyunkom-wh0025</url>
         <price>5228.00</price>
         <currencyId>UAH</currencyId>
@@ -29203,8 +29203,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/da44ae55-e20d-444e-a967-8ad939e9a39d/image_03.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/da44ae55-e20d-444e-a967-8ad939e9a39d/image_04.jpg</picture>
         <vendor>MIXXUS</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Газова колонка MIXXUS GWH-0410 BASIC GLASS димохідна 10 л/хв (панель зі скла з малюнком) (WH0025)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>WH0025</vendorCode>
@@ -37284,8 +37284,8 @@
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KP0202</vendorCode>
         <param name="Од. в упак.">72</param>
-        <param name="Об'єм ящ.">0.024</param>
-        <param name="Вага ящ.">16.56</param>
+        <param name="Об'єм ящ.">72</param>
+        <param name="Вага ящ.">0.024</param>
         <param name="Особливості">Матеріал закладних деталей комбінованих фітингів: Латунь CW617N нікельована</param>
         <param name="Гарантійний період (міс)">12</param>
         <param name="Вид виробу">Кран радіаторний</param>
@@ -39381,8 +39381,8 @@
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KP2572</vendorCode>
         <param name="Од. в упак.">80</param>
-        <param name="Об'єм ящ.">0.045</param>
-        <param name="Вага ящ.">15.9</param>
+        <param name="Об'єм ящ.">80</param>
+        <param name="Вага ящ.">0.045</param>
         <param name="Матеріал">Поліпропілен</param>
         <param name="Тип з'єднання">Пайка</param>
         <param name="D1 (мм)">31,00</param>
@@ -42476,7 +42476,7 @@
         <param name="Ширина (мм)">495</param>
         <param name="Габарити чаші (мм)">390</param>
       </offer>
-      <offer id="KR6205" available="true">
+      <offer id="KR6205" available="false">
         <url>https://ol.partners/products/radiatori-opalennya/stalevi-radiatori/staleviy-radiator-koer-22-x-300-x-1600b-2155-vt2417-kgnizhnye-pidklyuchennyaz-termoklapz-universkriplennyam-kr6205</url>
         <price>7797.00</price>
         <currencyId>UAH</currencyId>
@@ -42484,8 +42484,8 @@
         <picture>https://ol.partners/Products/Photo/4D513FBF-20CA-4319-978E-6E01410CE7CF</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/a0bfa090-9e2d-4eac-931c-0b25eb113bef/image_02.jpg</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Сталевий радіатор Koer 22 x 300 x 1600B (2155 Вт,24,17 кг,нижнє підключення,з термоклап.,з універс.кріпленням) (KR6205)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR6205</vendorCode>
@@ -42815,8 +42815,8 @@
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KP0185</vendorCode>
         <param name="Од. в упак.">150</param>
-        <param name="Об'єм ящ.">0.024</param>
-        <param name="Вага ящ.">13.1</param>
+        <param name="Об'єм ящ.">150</param>
+        <param name="Вага ящ.">0.024</param>
         <param name="Особливості">Стійкий до корозії та хімічних впливів</param>
         <param name="Гарантійний період (міс)">84</param>
         <param name="Вид виробу">Фільтр</param>
@@ -54935,8 +54935,8 @@
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>MP6598</vendorCode>
         <param name="Од. в упак.">1</param>
-        <param name="Об'єм ящ.">0.106</param>
-        <param name="Вага ящ.">28</param>
+        <param name="Об'єм ящ.">1</param>
+        <param name="Вага ящ.">0.106</param>
         <param name="Розміри виробу (ВхШхГ)">425x360x580</param>
         <param name="Глибина (мм)">580</param>
         <param name="Висота (мм)">425</param>
@@ -68208,7 +68208,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/24c304f3-1fb2-4ad5-a7f0-1d35c69ada53/image_04.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Відро для сміття сенсорне прямокутне Koer TC-020408-02 8 л колір нержавійка (KR5588)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR5588</vendorCode>
@@ -75541,8 +75541,8 @@
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR0232</vendorCode>
         <param name="Од. в упак.">100</param>
-        <param name="Об'єм ящ.">0.056</param>
-        <param name="Вага ящ.">19.5</param>
+        <param name="Об'єм ящ.">100</param>
+        <param name="Вага ящ.">0.056</param>
         <param name="Особливості">Стійка до високих температур та тиску</param>
         <param name="Гарантійний період (міс)">84</param>
         <param name="Товщина стінки (мм)">3,40</param>
@@ -77666,13 +77666,13 @@
         <picture>https://cdn.olinfrastructure.com/productfile/97bb9ecf-8dfb-4507-b414-3728a8df3935/image_01.jpg</picture>
         <vendor>MIXXUS PREMIUM</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Біде підлогове Mixxus Premium STYLE-0601 520х345х395mm (MP6603)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>MP6603</vendorCode>
         <param name="Од. в упак.">1</param>
-        <param name="Об'єм ящ.">0.086</param>
-        <param name="Вага ящ.">24.5</param>
+        <param name="Об'єм ящ.">1</param>
+        <param name="Вага ящ.">0.086</param>
         <param name="Функція біде">Так</param>
         <param name="Діаметр випускного отвору (мм)">45,00</param>
         <param name="Матеріал">Санітарна порцеляна</param>
@@ -78937,8 +78937,8 @@
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KP2586</vendorCode>
         <param name="Од. в упак.">27</param>
-        <param name="Об'єм ящ.">0.047</param>
-        <param name="Вага ящ.">10.9</param>
+        <param name="Об'єм ящ.">27</param>
+        <param name="Вага ящ.">0.047</param>
         <param name="Матеріал">Поліпропілен</param>
         <param name="Тип з'єднання">Пайка</param>
         <param name="Торгова марка">KOER</param>
@@ -91335,8 +91335,8 @@
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KP0078</vendorCode>
         <param name="Од. в упак.">240</param>
-        <param name="Об'єм ящ.">0.045</param>
-        <param name="Вага ящ.">13.27</param>
+        <param name="Об'єм ящ.">240</param>
+        <param name="Вага ящ.">0.045</param>
         <param name="d (мм)">24,10</param>
         <param name="L (мм)">98,00</param>
         <param name="Діаметр підключення (мм)">25</param>
@@ -93552,7 +93552,7 @@
         <picture>https://ol.partners/Products/Photo/E67D900F-F6C4-440F-B69A-86B9671BEDE8</picture>
         <vendor>EUROPRODUCT</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Кут 45 40x40 PPR Europroduct EP.0023 (EP4074)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>EP4074</vendorCode>
@@ -99262,7 +99262,7 @@
         <param name="Діаметр підключення (дюйм)">1/2</param>
         <param name="Колір">Сталевий</param>
       </offer>
-      <offer id="41076000" available="true">
+      <offer id="41076000" available="false">
         <url>https://ol.partners/products/aksesuari-dlya-vannoi/yorzhiki-dlya-unitazu/yorzh-dlya-unitazu-grohe-selection-41076000</url>
         <price>8586.00</price>
         <currencyId>UAH</currencyId>
@@ -99270,8 +99270,8 @@
         <picture>https://ol.partners/Products/Photo/21F08072-66D9-4055-A0A7-EA9CF21563DD</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/354712de-7b0e-4b87-8526-4c9b6263f13e/image_01.jpg</picture>
         <vendor>GROHE</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Йорж для унітазу Grohe Selection (41076000)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>41076000</vendorCode>
@@ -109170,8 +109170,8 @@
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KP2916</vendorCode>
         <param name="Од. в упак.">40</param>
-        <param name="Об'єм ящ.">0.047</param>
-        <param name="Вага ящ.">11</param>
+        <param name="Об'єм ящ.">40</param>
+        <param name="Вага ящ.">0.047</param>
         <param name="Гарантійний період (міс)">84</param>
         <param name="Особливості">Повторнорозбірна, зручний монтаж, стійка до корозії та високих температур.</param>
         <param name="Тип з'єднання">Пайка</param>
@@ -110213,8 +110213,8 @@
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KP0032</vendorCode>
         <param name="Од. в упак.">240</param>
-        <param name="Об'єм ящ.">0.045</param>
-        <param name="Вага ящ.">10.06</param>
+        <param name="Об'єм ящ.">240</param>
+        <param name="Вага ящ.">0.045</param>
         <param name="Особливості">Матеріал закладних деталей - Латунь CW617N нікельована</param>
         <param name="Гарантійний період (міс)">84</param>
         <param name="Модель">K0026.PRO</param>
@@ -117147,8 +117147,8 @@
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KP0094</vendorCode>
         <param name="Од. в упак.">200</param>
-        <param name="Об'єм ящ.">0.045</param>
-        <param name="Вага ящ.">7.93</param>
+        <param name="Об'єм ящ.">200</param>
+        <param name="Вага ящ.">0.045</param>
         <param name="Торгова марка">KOER</param>
         <param name="Країна бренду">Чехія</param>
         <param name="Призначення">Для труб</param>
@@ -123558,42 +123558,37 @@
         <param name="Колір">Білий</param>
         <param name="Тип виливу">Поворотний</param>
       </offer>
-      <offer id="KB0016" available="true">
-        <url>https://ol.partners/products/nasosi-ta-aksesuari/gidroakumulyatori-dlya-sistem-vodopostachannya/gidroakumulyator-koer-kvts100-vertikalniy-100-l-korpusstal-12mm-flanetsnerzhaviyka-kb0016</url>
-        <price>4780.00</price>
+      <offer id="KB0006" available="true">
+        <url>https://ol.partners/products/nasosi-ta-aksesuari/rozshiryuvalni-baki-dlya-sistem-opalennya/bak-rozshiryuvalniy-dlya-sistemi-opalennya-koer-bv8-vertikalniy-kb0006</url>
+        <price>700.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
-        <picture>https://ol.partners/Products/Photo/4A934349-F744-4FD5-B0D7-93977DA6C9D9</picture>
+        <picture>https://ol.partners/Products/Photo/216F55B3-81A4-4E1A-96E0-E14519CEAD71</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/48882c4a-c66f-4b9e-ae3b-73a772016178/image_03.jpg</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/48882c4a-c66f-4b9e-ae3b-73a772016178/image_04.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
         <availabilityStatus>Достатньо</availabilityStatus>
-        <name>Гідроакумулятор Koer KVTS-100 вертикальний 100 л (корпус-сталь 1,2мм), фланець-нержавійка (KB0016)</name>
+        <name>Бак розширювальний для системи опалення Koer BV8 (вертикальний) (KB0006)</name>
         <description>&lt;![CDATA[]]&gt;</description>
-        <vendorCode>KB0016</vendorCode>
+        <vendorCode>KB0006</vendorCode>
         <param name="Од. в упак.">1</param>
-        <param name="Об'єм ящ.">0.164</param>
-        <param name="Вага ящ.">12.8</param>
-        <param name="Колір">Чорний</param>
-        <param name="Покриття">Фарба + лак</param>
+        <param name="Об'єм ящ.">0.016</param>
+        <param name="Вага ящ.">2</param>
+        <param name="Упаковка">Картонна коробка</param>
+        <param name="Максимальна температура робочої рідини (°C)">99</param>
+        <param name="Гарантійний період (міс)">12</param>
+        <param name="Комплектація">Інструкція</param>
+        <param name="Вага (кг)">2,74</param>
+        <param name="Діаметр корпусу насоса (мм)">330</param>
+        <param name="Діаметр виходу 1 (дюйм)">3/4</param>
+        <param name="Об'єм бака (л)">8,00</param>
+        <param name="Діаметр входу 1 (дюйм)">3/4</param>
         <param name="Матеріал виробу">Сталь</param>
-        <param name="Тип приєднання">Різьбове</param>
-        <param name="Якість води">Чиста</param>
-        <param name="Перекачувальні середовища">Прісна вода</param>
-        <param name="Мін. температура навколишнього середовища (°C)">5</param>
-        <param name="Мінімальна температура робочої рідини (°C)">4</param>
-        <param name="Захист від перегріву (Вбудований датчик перегріву)">Ні</param>
-        <param name="Напруга мережі (V)">230</param>
-        <param name="Максимальний робочий тиск (бар)">8</param>
-        <param name="Частота струму (Гц)">50</param>
-        <param name="Тип виробу">Гідроакумулятор для систем водопостачання</param>
+        <param name="Мінімальна температура робочої рідини (°C)">5</param>
         <param name="Країна бренду">Чехія</param>
+        <param name="Тип виробу">Розширювальний бак для систем опалення</param>
         <param name="Торгова марка">KOER</param>
-        <param name="Установка">Вертикальна</param>
-        <param name="Гарантійний період (міс)">24</param>
-        <param name="Максимальна температура робочої рідини (°C)">90</param>
-        <param name="Додаткові характеристики">Товщина металу гідроакумулятора – 1.2 мм.</param>
-        <param name="Діаметр входу 1 (дюйм)">1</param>
-        <param name="Об'єм бака (л)">100,00</param>
       </offer>
       <offer id="KP3135" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/sverdlovinni-nasosi/vibratsiyniy-nasos-nizhniy-zabir-vodi-koer-kvp-601-obmotkamid-kp3135</url>
@@ -123633,37 +123628,42 @@
         <param name="Торгова марка">KOER</param>
         <param name="Довжина кабелю (м)">10,00</param>
       </offer>
-      <offer id="KB0006" available="true">
-        <url>https://ol.partners/products/nasosi-ta-aksesuari/rozshiryuvalni-baki-dlya-sistem-opalennya/bak-rozshiryuvalniy-dlya-sistemi-opalennya-koer-bv8-vertikalniy-kb0006</url>
-        <price>700.00</price>
+      <offer id="KB0016" available="true">
+        <url>https://ol.partners/products/nasosi-ta-aksesuari/gidroakumulyatori-dlya-sistem-vodopostachannya/gidroakumulyator-koer-kvts100-vertikalniy-100-l-korpusstal-12mm-flanetsnerzhaviyka-kb0016</url>
+        <price>4780.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
-        <picture>https://ol.partners/Products/Photo/216F55B3-81A4-4E1A-96E0-E14519CEAD71</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/48882c4a-c66f-4b9e-ae3b-73a772016178/image_03.jpg</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/48882c4a-c66f-4b9e-ae3b-73a772016178/image_04.jpg</picture>
+        <picture>https://ol.partners/Products/Photo/4A934349-F744-4FD5-B0D7-93977DA6C9D9</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
         <availabilityStatus>Достатньо</availabilityStatus>
-        <name>Бак розширювальний для системи опалення Koer BV8 (вертикальний) (KB0006)</name>
+        <name>Гідроакумулятор Koer KVTS-100 вертикальний 100 л (корпус-сталь 1,2мм), фланець-нержавійка (KB0016)</name>
         <description>&lt;![CDATA[]]&gt;</description>
-        <vendorCode>KB0006</vendorCode>
+        <vendorCode>KB0016</vendorCode>
         <param name="Од. в упак.">1</param>
-        <param name="Об'єм ящ.">0.016</param>
-        <param name="Вага ящ.">2</param>
-        <param name="Упаковка">Картонна коробка</param>
-        <param name="Максимальна температура робочої рідини (°C)">99</param>
-        <param name="Гарантійний період (міс)">12</param>
-        <param name="Комплектація">Інструкція</param>
-        <param name="Вага (кг)">2,74</param>
-        <param name="Діаметр корпусу насоса (мм)">330</param>
-        <param name="Діаметр виходу 1 (дюйм)">3/4</param>
-        <param name="Об'єм бака (л)">8,00</param>
-        <param name="Діаметр входу 1 (дюйм)">3/4</param>
+        <param name="Об'єм ящ.">0.164</param>
+        <param name="Вага ящ.">12.8</param>
+        <param name="Колір">Чорний</param>
+        <param name="Покриття">Фарба + лак</param>
         <param name="Матеріал виробу">Сталь</param>
-        <param name="Мінімальна температура робочої рідини (°C)">5</param>
+        <param name="Тип приєднання">Різьбове</param>
+        <param name="Якість води">Чиста</param>
+        <param name="Перекачувальні середовища">Прісна вода</param>
+        <param name="Мін. температура навколишнього середовища (°C)">5</param>
+        <param name="Мінімальна температура робочої рідини (°C)">4</param>
+        <param name="Захист від перегріву (Вбудований датчик перегріву)">Ні</param>
+        <param name="Напруга мережі (V)">230</param>
+        <param name="Максимальний робочий тиск (бар)">8</param>
+        <param name="Частота струму (Гц)">50</param>
+        <param name="Тип виробу">Гідроакумулятор для систем водопостачання</param>
         <param name="Країна бренду">Чехія</param>
-        <param name="Тип виробу">Розширювальний бак для систем опалення</param>
         <param name="Торгова марка">KOER</param>
+        <param name="Установка">Вертикальна</param>
+        <param name="Гарантійний період (міс)">24</param>
+        <param name="Максимальна температура робочої рідини (°C)">90</param>
+        <param name="Додаткові характеристики">Товщина металу гідроакумулятора – 1.2 мм.</param>
+        <param name="Діаметр входу 1 (дюйм)">1</param>
+        <param name="Об'єм бака (л)">100,00</param>
       </offer>
       <offer id="ZX4601" available="false">
         <url>https://ol.partners/products/miyki-dlya-kukhni/vrizni-miyki/miyka-kukhonna-zerix-zs5751s13-grafitova-zx4601</url>
@@ -127939,15 +127939,15 @@
         <param name="Тип ручки">Метелик</param>
         <param name="Діаметр підключення (дюйм)">1</param>
       </offer>
-      <offer id="KR5216" available="true">
+      <offer id="KR5216" available="false">
         <url>https://ol.partners/products/sifoni-trapi-dlya-dushu/zlivni-trapi/dushoviy-trap-koer-fd3070x1200-z-nerzhaviyuchoi-stali-sus304-70x1200mm-kr5216</url>
         <price>2924.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>e679a4a9-0158-4101-9206-332f81d1f22b</categoryId>
         <picture>https://ol.partners/Products/Photo/1DD3EEED-FE48-464E-8849-39F052C91F8A</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Душовий трап Koer FD30-70x1200 з нержавіючої сталі SUS304 70x1200мм (KR5216)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR5216</vendorCode>
@@ -128264,7 +128264,7 @@
         <picture>https://ol.partners/Products/Photo/FC31C328-251A-45B1-8636-77BE1FAD1BCE</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Насосна станція Koer MASTER 400 інтелектуальна енергозберігаюча, Н=42М,Q=4кбМ,P=400 Вт, 1"x1" (KP3305)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KP3305</vendorCode>
@@ -128931,8 +128931,8 @@
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KP0034</vendorCode>
         <param name="Од. в упак.">72</param>
-        <param name="Об'єм ящ.">0.045</param>
-        <param name="Вага ящ.">9.05</param>
+        <param name="Об'єм ящ.">72</param>
+        <param name="Вага ящ.">0.045</param>
         <param name="Тип">Хрестовина</param>
         <param name="Вид виробу">Хрестовина</param>
         <param name="Модель">K0028.PRO</param>
@@ -133641,8 +133641,8 @@
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KP0211</vendorCode>
         <param name="Од. в упак.">90</param>
-        <param name="Об'єм ящ.">0.024</param>
-        <param name="Вага ящ.">20.92</param>
+        <param name="Об'єм ящ.">90</param>
+        <param name="Вага ящ.">0.024</param>
         <param name="Вид виробу">Кран радіаторний</param>
         <param name="Країна бренду">Чехія</param>
         <param name="Тип">Прямий</param>
@@ -140057,15 +140057,15 @@
         <param name="Діаметр підключення (дюйм)">1/2х3/4</param>
         <param name="Гарантійний період (міс)">84</param>
       </offer>
-      <offer id="EP6231" available="false">
+      <offer id="EP6231" available="true">
         <url>https://ol.partners/products/filtri-ochischennya-vodi/komplektuyuchi-dlya-filtriv-vodi/kartridzh-iz-polipropilenovoi-nitki-europroduct-epv02251005-pp5-25x10-ep6231</url>
         <price>54.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>d191ae68-f2ee-4472-8036-e37d06c8ffc9</categoryId>
         <picture>https://ol.partners/Products/Photo/4ED7E33C-CE25-477D-AD6D-129CC21963DF</picture>
         <vendor>EUROPRODUCT</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Картридж із поліпропіленової нитки Europroduct EPV-02-2510-05 PP5 2,5"x10" (EP6231)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>EP6231</vendorCode>
@@ -141724,8 +141724,8 @@
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KP0207</vendorCode>
         <param name="Од. в упак.">90</param>
-        <param name="Об'єм ящ.">0.024</param>
-        <param name="Вага ящ.">17.27</param>
+        <param name="Об'єм ящ.">90</param>
+        <param name="Вага ящ.">0.024</param>
         <param name="Торгова марка">KOER</param>
         <param name="Тип виробу">Труби та фітинги PPR</param>
         <param name="Тип">Кутовий</param>
@@ -146329,15 +146329,15 @@
         <param name="Матеріал">Поліпропілен</param>
         <param name="Колір">Сірий</param>
       </offer>
-      <offer id="EP6232" available="false">
+      <offer id="EP6232" available="true">
         <url>https://ol.partners/products/filtri-ochischennya-vodi/komplektuyuchi-dlya-filtriv-vodi/kartridzh-iz-polipropilenovoi-nitki-europroduct-epv02251010-pp10-25x10-ep6232</url>
         <price>54.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>d191ae68-f2ee-4472-8036-e37d06c8ffc9</categoryId>
         <picture>https://ol.partners/Products/Photo/D08F86C5-EEEA-4119-BD6A-92C3208D8293</picture>
         <vendor>EUROPRODUCT</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Картридж із поліпропіленової нитки Europroduct EPV-02-2510-10 PP10 2,5"x10" (EP6232)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>EP6232</vendorCode>
@@ -151000,14 +151000,14 @@
         <param name="Тип конструкції">Фіксована до стіни</param>
         <param name="Матеріал">Нержавіюча сталь</param>
       </offer>
-      <offer id="ZX4619" available="false">
+      <offer id="ZX4619" available="true">
         <url>https://ol.partners/products/aksesuari-dlya-vannoi/vidro-dlya-smittya/vidro-dlya-smittya-20-litriv-zerix-plain-mb0120-zx4619</url>
         <price>1151.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>98cef2a4-d106-4da2-9b4c-f8e66696fd13</categoryId>
         <picture>https://ol.partners/Products/Photo/1539EA85-E7A8-4050-AD42-550602E8EC0B</picture>
         <vendor>ZERIX</vendor>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>100</stock_quantity>
         <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Відро для сміття 20 літрів Zerix Plain MB0120 (ZX4619)</name>
         <description>&lt;![CDATA[]]&gt;</description>
@@ -151898,8 +151898,8 @@
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR0234</vendorCode>
         <param name="Од. в упак.">40</param>
-        <param name="Об'єм ящ.">0.056</param>
-        <param name="Вага ящ.">20</param>
+        <param name="Об'єм ящ.">40</param>
+        <param name="Вага ящ.">0.056</param>
         <param name="Торгова марка">KOER</param>
         <param name="Вид виробу">Труба</param>
         <param name="Країна бренду">Чехія</param>
@@ -153603,8 +153603,8 @@
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KP3249</vendorCode>
         <param name="Од. в упак.">28</param>
-        <param name="Об'єм ящ.">0.05</param>
-        <param name="Вага ящ.">14.1</param>
+        <param name="Об'єм ящ.">28</param>
+        <param name="Вага ящ.">0.05</param>
         <param name="Особливості">Стійкий до корозії та хімічних впливів</param>
         <param name="Гарантійний період (міс)">84</param>
         <param name="Комплектація">Фланець, бурт</param>
@@ -154455,7 +154455,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/2be2584b-90a8-44c0-91db-3ac17544835b/image_02.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Газова колонка KOER KWH.G0410 WHITE димохідна з п'єзорозпалом 10 л/хв (колір білий) (KR5663)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR5663</vendorCode>
@@ -162485,8 +162485,8 @@
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR5617</vendorCode>
         <param name="Од. в упак.">5</param>
-        <param name="Об'єм ящ.">0.063</param>
-        <param name="Вага ящ.">14</param>
+        <param name="Об'єм ящ.">5</param>
+        <param name="Вага ящ.">0.063</param>
         <param name="Розташування (орієнтація)">Універсальне</param>
         <param name="Поверхня">Глянцева</param>
         <param name="Колір">Білий</param>
@@ -174894,7 +174894,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/f3f6ebf9-edef-41ef-8cab-d720a19172db/image_03_KF0040.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Ніпель редукційний 1/2 "x1-1 / 2" Koer KF.N0616 (KF0040)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KF0040</vendorCode>
@@ -179535,7 +179535,7 @@
         <param name="Гарантійний період (міс)">24</param>
         <param name="Колір">Графітовий</param>
       </offer>
-      <offer id="KR5912" available="true">
+      <offer id="KR5912" available="false">
         <url>https://ol.partners/products/truboprovodi-ta-zyednannya/fitingi/chavunniy-fiting/mufta-zatiskna-iz-zovnishnoyu-rizboyu-koer-kcic12m-1-14mx400429-kr5912</url>
         <price>810.00</price>
         <currencyId>UAH</currencyId>
@@ -179546,8 +179546,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/b7a4f4c2-06e5-4dfb-a62a-9f31af80931c/image_04.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/b7a4f4c2-06e5-4dfb-a62a-9f31af80931c/image_02.jpg</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Муфта затискна із зовнішньою різьбою Koer KCI.C12M - 1 1/4"Мx40,0-42,9 (KR5912)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR5912</vendorCode>
