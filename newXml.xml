@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-07-04 02:46">
+<yml_catalog date="2026-07-05 02:56">
   <shop>
     <name>O&amp;L</name>
     <company>O&amp;L</company>
@@ -8065,11 +8065,9 @@
         <picture>https://cdn.olinfrastructure.com/productfile/5658fce6-60f5-49e3-92a6-e1d9242336fa/image_12.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/5658fce6-60f5-49e3-92a6-e1d9242336fa/image_01.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/5658fce6-60f5-49e3-92a6-e1d9242336fa/image_05.jpg</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/5658fce6-60f5-49e3-92a6-e1d9242336fa/image_03.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/5658fce6-60f5-49e3-92a6-e1d9242336fa/image_04.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/5658fce6-60f5-49e3-92a6-e1d9242336fa/image_10.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/5658fce6-60f5-49e3-92a6-e1d9242336fa/image_06.jpg</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/5658fce6-60f5-49e3-92a6-e1d9242336fa/image_04.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/5658fce6-60f5-49e3-92a6-e1d9242336fa/image_11.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
@@ -147596,7 +147594,6 @@
         <picture>https://cdn.olinfrastructure.com/productfile/12fee4d2-62dd-4040-997f-3a68910c08f4/image_01.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/12fee4d2-62dd-4040-997f-3a68910c08f4/image_02.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/12fee4d2-62dd-4040-997f-3a68910c08f4/image_04.jpg</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/12fee4d2-62dd-4040-997f-3a68910c08f4/image_10.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/12fee4d2-62dd-4040-997f-3a68910c08f4/image_08.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/12fee4d2-62dd-4040-997f-3a68910c08f4/image_11.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/12fee4d2-62dd-4040-997f-3a68910c08f4/image_16.jpg</picture>
@@ -153123,37 +153120,6 @@
         <param name="Гарантійний період (міс)">12</param>
         <param name="Колір">Білий</param>
       </offer>
-      <offer id="NF3195" available="true">
-        <url>https://ol.partners/products/truboprovodi-ta-zyednannya/fitingi/rizbovi-zyednannya/triynik-nolf-nfct06ffm12-ffm-nf3195</url>
-        <price>84.00</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>cccd3e1f-6b84-49c8-b342-dee61a5caf10</categoryId>
-        <picture>https://ol.partners/Products/Photo/B9B343A0-6E88-4420-91A9-BF1AD6C13479</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/11e3cbcb-9e4f-4915-b7f7-f50edd61dae5/image_02.jpg</picture>
-        <vendor>NOLF</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
-        <name>Трійник Nolf NFC.T06FFM-1/2'' FFM (NF3195)</name>
-        <description>&lt;![CDATA[]]&gt;</description>
-        <vendorCode>NF3195</vendorCode>
-        <param name="Од. в упак.">160</param>
-        <param name="Об'єм ящ.">0.022</param>
-        <param name="Вага ящ.">13.4</param>
-        <param name="Тип">Трійник</param>
-        <param name="Країна бренду">Німеччина</param>
-        <param name="Вид виробу">Трійник</param>
-        <param name="Модель">NFC.T06FFM</param>
-        <param name="Торгова марка">NOLF</param>
-        <param name="Призначення">Для труб</param>
-        <param name="Тип виробу">Латунний фітинг</param>
-        <param name="Покриття">Немає</param>
-        <param name="Колір">Латунний</param>
-        <param name="G (дюйм)">1/2</param>
-        <param name="Діаметр підключення (дюйм)">1/2</param>
-        <param name="Гарантійний період (міс)">84</param>
-        <param name="Тип з'єднання">Різьбовий</param>
-        <param name="Матеріал">Латунь CW617N</param>
-      </offer>
       <offer id="KR4762" available="true">
         <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/kontrolnovimiryuvalni-priladi-kvp/manometr-radialniy-koer-km630r-14-d-50mm-06-bar-rizba-zverkhu-korpusu-kr4762</url>
         <price>151.00</price>
@@ -153185,6 +153151,37 @@
         <param name="Призначення">Контролює тиск у системі опалення та водопостачання.</param>
         <param name="Торгова марка">KOER</param>
         <param name="Колір">Чорний</param>
+      </offer>
+      <offer id="NF3195" available="true">
+        <url>https://ol.partners/products/truboprovodi-ta-zyednannya/fitingi/rizbovi-zyednannya/triynik-nolf-nfct06ffm12-ffm-nf3195</url>
+        <price>84.00</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>cccd3e1f-6b84-49c8-b342-dee61a5caf10</categoryId>
+        <picture>https://ol.partners/Products/Photo/B9B343A0-6E88-4420-91A9-BF1AD6C13479</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/11e3cbcb-9e4f-4915-b7f7-f50edd61dae5/image_02.jpg</picture>
+        <vendor>NOLF</vendor>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Достатньо</availabilityStatus>
+        <name>Трійник Nolf NFC.T06FFM-1/2'' FFM (NF3195)</name>
+        <description>&lt;![CDATA[]]&gt;</description>
+        <vendorCode>NF3195</vendorCode>
+        <param name="Од. в упак.">160</param>
+        <param name="Об'єм ящ.">0.022</param>
+        <param name="Вага ящ.">13.4</param>
+        <param name="Тип">Трійник</param>
+        <param name="Країна бренду">Німеччина</param>
+        <param name="Вид виробу">Трійник</param>
+        <param name="Модель">NFC.T06FFM</param>
+        <param name="Торгова марка">NOLF</param>
+        <param name="Призначення">Для труб</param>
+        <param name="Тип виробу">Латунний фітинг</param>
+        <param name="Покриття">Немає</param>
+        <param name="Колір">Латунний</param>
+        <param name="G (дюйм)">1/2</param>
+        <param name="Діаметр підключення (дюйм)">1/2</param>
+        <param name="Гарантійний період (міс)">84</param>
+        <param name="Тип з'єднання">Різьбовий</param>
+        <param name="Матеріал">Латунь CW617N</param>
       </offer>
       <offer id="KR6269" available="true">
         <url>https://ol.partners/products/truboprovodi-ta-zyednannya/trubi/trubi-iz-nerzhaviyuchoi-stali-pressinox/truba-koer-kq1435-l4m-pressinox-aisi-304-35x15-kr6269</url>
