@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-07-05 02:56">
+<yml_catalog date="2026-07-06 03:23">
   <shop>
     <name>O&amp;L</name>
     <company>O&amp;L</company>
@@ -12525,7 +12525,7 @@
         <param name="Колір">Білий</param>
         <param name="Форма">Прямокутна</param>
       </offer>
-      <offer id="WH0023" available="true">
+      <offer id="WH0023" available="false">
         <url>https://ol.partners/products/gazovi-kolonki/gazova-kolonka-mixxus-gwh0210-basic-black-dimokhidna-10-lkhv-kolir-chorniy-wh0023</url>
         <price>5232.00</price>
         <currencyId>UAH</currencyId>
@@ -12538,8 +12538,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/a4fa47b6-40e6-4f08-a700-c12f32376e0c/image_04.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/a4fa47b6-40e6-4f08-a700-c12f32376e0c/image_07.jpg</picture>
         <vendor>MIXXUS</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Газова колонка MIXXUS GWH-0210 BASIC BLACK димохідна 10 л/хв (колір чорний) (WH0023)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>WH0023</vendorCode>
@@ -61690,8 +61690,8 @@
         <currencyId>UAH</currencyId>
         <categoryId>cccd3e1f-6b84-49c8-b342-dee61a5caf10</categoryId>
         <picture>https://ol.partners/Products/Photo/557EA4BA-DDB4-4A4A-A226-53745B775011</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/4086cd34-c031-4251-b984-d3cbb746afaf/image_02.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/4086cd34-c031-4251-b984-d3cbb746afaf/image_01.jpg</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/4086cd34-c031-4251-b984-d3cbb746afaf/image_03_KP0135.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
         <availabilityStatus>Достатньо</availabilityStatus>
@@ -61701,14 +61701,6 @@
         <param name="Од. в упак.">240</param>
         <param name="Об'єм ящ.">0.024</param>
         <param name="Вага ящ.">15.53</param>
-        <param name="В1 (мм)">27,50</param>
-        <param name="G (дюйм)">1/2</param>
-        <param name="В2 (мм)">36,00</param>
-        <param name="D (мм)">19,20</param>
-        <param name="Діаметр підключення (мм)">20</param>
-        <param name="d (мм)">19,20</param>
-        <param name="Діаметр підключення (дюйм)">1/2</param>
-        <param name="L (мм)">16,00</param>
         <param name="Матеріал">Поліпропілен</param>
         <param name="Тип з'єднання">Різьба-пайка</param>
         <param name="Тип виробу">Труби та фітинги PPR</param>
@@ -61718,6 +61710,8 @@
         <param name="Країна бренду">Чехія</param>
         <param name="Призначення">Для труб</param>
         <param name="Тип">Кут</param>
+        <param name="Діаметр підключення (мм)">20</param>
+        <param name="Діаметр підключення (дюйм)">1/2</param>
         <param name="Колір">Сірий</param>
         <param name="Гарантійний період (міс)">84</param>
         <param name="Особливості">Матеріал закладних деталей - Латунь CW617N нікельована</param>
@@ -64769,7 +64763,9 @@
         <categoryId>4a363165-8ca2-4875-a8aa-6401eaeb60b7</categoryId>
         <picture>https://ol.partners/Products/Photo/0664170D-1582-4978-938C-86E2067BD881</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/cc8eb105-398b-47da-9933-d2d785477951/image_04.jpg</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/cc8eb105-398b-47da-9933-d2d785477951/image_05.png</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/cc8eb105-398b-47da-9933-d2d785477951/image_01.jpg</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/cc8eb105-398b-47da-9933-d2d785477951/image_06.png</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/cc8eb105-398b-47da-9933-d2d785477951/image_02.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/cc8eb105-398b-47da-9933-d2d785477951/image_03.jpg</picture>
         <vendor>KOER</vendor>
@@ -75288,7 +75284,7 @@
         <param name="Вид виробу">Врізні мийки</param>
         <param name="Комплектація">Мийка, сифон, кріплення, ущільнювальна стрічка, сітка</param>
       </offer>
-      <offer id="WH0027" available="true">
+      <offer id="WH0027" available="false">
         <url>https://ol.partners/products/gazovi-kolonki/gazova-kolonka-mixxus-gwh0610-basic-glass-dimokhidna-10-lkhv-panel-zi-skla-z-malyunkom-wh0027</url>
         <price>5228.00</price>
         <currencyId>UAH</currencyId>
@@ -75301,8 +75297,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/d1169059-e5d3-4e47-be8d-1565a9d3c187/image_04.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/d1169059-e5d3-4e47-be8d-1565a9d3c187/image_06.jpg</picture>
         <vendor>MIXXUS</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Газова колонка MIXXUS GWH-0610 BASIC GLASS димохідна 10 л/хв (панель зі скла з малюнком) (WH0027)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>WH0027</vendorCode>
@@ -117673,7 +117669,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/80092360-18f4-47b1-ab7e-7c26be432c92/ZX4775-ZERIX-ELW45-E.-3,3-kW-3.jpg</picture>
         <vendor>ZERIX</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Проточний водонагрівач Zerix ELW45-E (з індик. темп.) (ZX4775)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>ZX4775</vendorCode>
@@ -153120,6 +153116,37 @@
         <param name="Гарантійний період (міс)">12</param>
         <param name="Колір">Білий</param>
       </offer>
+      <offer id="NF3195" available="true">
+        <url>https://ol.partners/products/truboprovodi-ta-zyednannya/fitingi/rizbovi-zyednannya/triynik-nolf-nfct06ffm12-ffm-nf3195</url>
+        <price>84.00</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>cccd3e1f-6b84-49c8-b342-dee61a5caf10</categoryId>
+        <picture>https://ol.partners/Products/Photo/B9B343A0-6E88-4420-91A9-BF1AD6C13479</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/11e3cbcb-9e4f-4915-b7f7-f50edd61dae5/image_02.jpg</picture>
+        <vendor>NOLF</vendor>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Достатньо</availabilityStatus>
+        <name>Трійник Nolf NFC.T06FFM-1/2'' FFM (NF3195)</name>
+        <description>&lt;![CDATA[]]&gt;</description>
+        <vendorCode>NF3195</vendorCode>
+        <param name="Од. в упак.">160</param>
+        <param name="Об'єм ящ.">0.022</param>
+        <param name="Вага ящ.">13.4</param>
+        <param name="Тип">Трійник</param>
+        <param name="Країна бренду">Німеччина</param>
+        <param name="Вид виробу">Трійник</param>
+        <param name="Модель">NFC.T06FFM</param>
+        <param name="Торгова марка">NOLF</param>
+        <param name="Призначення">Для труб</param>
+        <param name="Тип виробу">Латунний фітинг</param>
+        <param name="Покриття">Немає</param>
+        <param name="Колір">Латунний</param>
+        <param name="G (дюйм)">1/2</param>
+        <param name="Діаметр підключення (дюйм)">1/2</param>
+        <param name="Гарантійний період (міс)">84</param>
+        <param name="Тип з'єднання">Різьбовий</param>
+        <param name="Матеріал">Латунь CW617N</param>
+      </offer>
       <offer id="KR4762" available="true">
         <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/kontrolnovimiryuvalni-priladi-kvp/manometr-radialniy-koer-km630r-14-d-50mm-06-bar-rizba-zverkhu-korpusu-kr4762</url>
         <price>151.00</price>
@@ -153151,37 +153178,6 @@
         <param name="Призначення">Контролює тиск у системі опалення та водопостачання.</param>
         <param name="Торгова марка">KOER</param>
         <param name="Колір">Чорний</param>
-      </offer>
-      <offer id="NF3195" available="true">
-        <url>https://ol.partners/products/truboprovodi-ta-zyednannya/fitingi/rizbovi-zyednannya/triynik-nolf-nfct06ffm12-ffm-nf3195</url>
-        <price>84.00</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>cccd3e1f-6b84-49c8-b342-dee61a5caf10</categoryId>
-        <picture>https://ol.partners/Products/Photo/B9B343A0-6E88-4420-91A9-BF1AD6C13479</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/11e3cbcb-9e4f-4915-b7f7-f50edd61dae5/image_02.jpg</picture>
-        <vendor>NOLF</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
-        <name>Трійник Nolf NFC.T06FFM-1/2'' FFM (NF3195)</name>
-        <description>&lt;![CDATA[]]&gt;</description>
-        <vendorCode>NF3195</vendorCode>
-        <param name="Од. в упак.">160</param>
-        <param name="Об'єм ящ.">0.022</param>
-        <param name="Вага ящ.">13.4</param>
-        <param name="Тип">Трійник</param>
-        <param name="Країна бренду">Німеччина</param>
-        <param name="Вид виробу">Трійник</param>
-        <param name="Модель">NFC.T06FFM</param>
-        <param name="Торгова марка">NOLF</param>
-        <param name="Призначення">Для труб</param>
-        <param name="Тип виробу">Латунний фітинг</param>
-        <param name="Покриття">Немає</param>
-        <param name="Колір">Латунний</param>
-        <param name="G (дюйм)">1/2</param>
-        <param name="Діаметр підключення (дюйм)">1/2</param>
-        <param name="Гарантійний період (міс)">84</param>
-        <param name="Тип з'єднання">Різьбовий</param>
-        <param name="Матеріал">Латунь CW617N</param>
       </offer>
       <offer id="KR6269" available="true">
         <url>https://ol.partners/products/truboprovodi-ta-zyednannya/trubi/trubi-iz-nerzhaviyuchoi-stali-pressinox/truba-koer-kq1435-l4m-pressinox-aisi-304-35x15-kr6269</url>
@@ -167104,14 +167100,8 @@
         <param name="Тип виробу">Труби та фітинги PPR</param>
         <param name="Модель">K0114.PRO</param>
         <param name="Колір">Сірий</param>
-        <param name="L (мм)">18,00</param>
         <param name="Діаметр підключення (дюйм)">1/2</param>
-        <param name="d (мм)">24,10</param>
-        <param name="G (дюйм)">1/2</param>
-        <param name="В1 (мм)">28,00</param>
         <param name="Діаметр підключення (мм)">25</param>
-        <param name="D (мм)">24,10</param>
-        <param name="В2 (мм)">37,50</param>
         <param name="Особливості">Матеріал закладних деталей - Латунь CW617N нікельована</param>
         <param name="Гарантійний період (міс)">84</param>
         <param name="Матеріал">Поліпропілен</param>
@@ -177994,7 +177984,7 @@
         <param name="Тип приєднання">Різьбове</param>
         <param name="Матеріал виробу">Латунь</param>
       </offer>
-      <offer id="KF0112" available="true">
+      <offer id="KF0112" available="false">
         <url>https://ol.partners/products/truboprovodi-ta-zyednannya/fitingi/rizbovi-zyednannya/podovzhuvach-34-70mm-khrom-koer-kfe0870chr-kf0112</url>
         <price>295.00</price>
         <currencyId>UAH</currencyId>
@@ -178003,8 +177993,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/574d4795-91d2-4a76-a9ce-5c7144b23d13/image_03_KF0112.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/574d4795-91d2-4a76-a9ce-5c7144b23d13/image_01.jpg</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Подовжувач 3/4" 70мм (хром) Koer KF.E08-70.CHR (KF0112)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KF0112</vendorCode>
