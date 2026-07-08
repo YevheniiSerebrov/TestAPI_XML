@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-07-07 02:56">
+<yml_catalog date="2026-07-08 02:33">
   <shop>
     <name>O&amp;L</name>
     <company>O&amp;L</company>
@@ -578,7 +578,7 @@
         <param name="Модель">KR.531</param>
       </offer>
       <offer id="MI8335" available="false">
-        <url>https://ol.partners/products/keramika/bachki-dlya-unitazu/bachok-do-unitazukompaktu-mixxus-wave0404r-tank-630kh350kh805-zi-zlivnoyu-armaturoyu-mi8335</url>
+        <url>https://ol.partners/products/keramika/bachki-dlya-unitazu/bachok-do-unitazukompaktu-mixxus-wave0404r-tank-400x350x140-u-komplekti-zi-zlivnoyu-armaturoyu-mi8335</url>
         <price>3036.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>2e53263c-eb2d-4e24-80ae-a2a492d1a63a</categoryId>
@@ -665,7 +665,7 @@
         <param name="Колір">Чорний</param>
       </offer>
       <offer id="AC3568" available="true">
-        <url>https://ol.partners/products/zapchastini-dlya-zmishuvacha/donniy-klapan-dlya-rakovini/donniy-klapan-dlya-rakovini-bez-perelivu-mixxus-popup09-black-avtomatichniy-clickclack-chorna-keramichna-nakladka-1-14-ac3568</url>
+        <url>https://ol.partners/products/zapchastini-dlya-zmishuvacha/donniy-klapan-dlya-rakovini/donniy-klapan-dlya-rakovini-bez-perelivu-mixxus-popup09-black-avtomatichniy-clickclack-chorna-keram-nakladka-1-14-ac3568</url>
         <price>243.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>e679a4a9-0158-4101-9206-332f81d1f22b</categoryId>
@@ -1342,7 +1342,7 @@
         <param name="Колір">Нержавіюча сталь</param>
       </offer>
       <offer id="MI8389" available="true">
-        <url>https://ol.partners/products/miyki-dlya-kukhni/vrizni-miyki/miyka-z-nerzhaviyuchoi-stali-mixxus-ms6846set01-micro-decor-ss-color-3008-komplekt-nerzh-mi8389</url>
+        <url>https://ol.partners/products/miyki-dlya-kukhni/vrizni-miyki/miyka-z-nerzh-stali-mixxus-ms6846set01-micro-decor-ss-color-3008-komplekt-kolir-nerzhaviyka-mi8389</url>
         <price>3830.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>4b1ed2a0-7372-49d4-8570-7be730b86a84</categoryId>
@@ -2333,7 +2333,7 @@
         <param name="Форма">Прямокутна</param>
       </offer>
       <offer id="MI8357" available="false">
-        <url>https://ol.partners/products/keramika/unitazi/chasha-unitazukompaktu-mixxus-style0404t3-bowl-650x350x830-tornado-30-bez-sidinnya-mi8357</url>
+        <url>https://ol.partners/products/keramika/unitazi/chasha-unitazukompaktu-bez-sidinnya-mixxus-style0404t3-bowl-400x350x650-sistema-zmivu-tornado-30-mi8357</url>
         <price>3933.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>2e53263c-eb2d-4e24-80ae-a2a492d1a63a</categoryId>
@@ -3192,7 +3192,7 @@
         <param name="Гарантійний період (міс)">84</param>
       </offer>
       <offer id="MI8210" available="true">
-        <url>https://ol.partners/products/sifoni-trapi-dlya-dushu/armatura-dlya-unitaziv/komplekt-posilenikh-armatur-mixxus-ak01a-spuskna-1rezh-napovnyuvalna-z-nizhnim-pidvedennyam-mi8210</url>
+        <url>https://ol.partners/products/sifoni-trapi-dlya-dushu/armatura-dlya-unitaziv/komplekt-posilenikh-armatur-mixxus-ak01a-spuskna-1rezhim-napovnyuvalna-z-nizhnim-pidvedennyam-mi8210</url>
         <price>482.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>bae524de-6825-4762-bea5-e2c2373606ee</categoryId>
@@ -3265,7 +3265,7 @@
         <param name="Тип з'єднання">Внутрішня-зовнішня</param>
       </offer>
       <offer id="MX0577" available="true">
-        <url>https://ol.partners/products/miyki-dlya-kukhni/vrizni-miyki/miyka-mixxus-bronzova-mx5843200x10pvd-mx0577</url>
+        <url>https://ol.partners/products/miyki-dlya-kukhni/vrizni-miyki/miyka-mixxus-mx5843200x10pvdbronze-kolir-bronza-mx0577</url>
         <price>3554.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>4b1ed2a0-7372-49d4-8570-7be730b86a84</categoryId>
@@ -3690,7 +3690,7 @@
         <param name="Комплектація">Не комплектується відповідними фланцями</param>
       </offer>
       <offer id="MI8458" available="true">
-        <url>https://ol.partners/products/miyki-dlya-kukhni/bagatofunktsionalni-miyki/miyka-bagatofunktsionalna-mixxus-mh7546set08-micro-decor-ss-color-z-vbudovanim-zmishuvachem-z-nerzh-stali-mi8458</url>
+        <url>https://ol.partners/products/miyki-dlya-kukhni/bagatofunktsionalni-miyki/miyka-bagatofunktsionalna-z-vbudovanim-zmishuvachem-mixxus-mh7546set08-micro-decor-ss-color-z-nerzh-stali-mi8458</url>
         <price>9205.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>4b1ed2a0-7372-49d4-8570-7be730b86a84</categoryId>
@@ -4528,7 +4528,7 @@
         <param name="Колір">Білий</param>
       </offer>
       <offer id="MX0559" available="false">
-        <url>https://ol.partners/products/miyki-dlya-kukhni/integrovani-miyki/miyka-mixxus-mx4843220x10pvdgold-mx0559</url>
+        <url>https://ol.partners/products/miyki-dlya-kukhni/integrovani-miyki/miyka-mixxus-mx4843220x10pvdgold-kolir-zoloto-mx0559</url>
         <price>3899.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>4b1ed2a0-7372-49d4-8570-7be730b86a84</categoryId>
@@ -4798,7 +4798,7 @@
         <param name="Діаметр корпусу насоса (мм)">100</param>
       </offer>
       <offer id="MI8285" available="true">
-        <url>https://ol.partners/products/zapchastini-dlya-zmishuvacha/donniy-klapan-dlya-rakovini/donniy-klapan-dlya-rakovini-mixxus-popup10-1-14-universalniy-zbez-perel-slickslack-kolkhrom-mi8285</url>
+        <url>https://ol.partners/products/zapchastini-dlya-zmishuvacha/donniy-klapan-dlya-rakovini/donniy-klapan-dlya-rakovini-universalniy-zbez-perelivu-mixxus-popup10-avtomatichniy-clickclack-kolir-khrom-1-14-mi8285</url>
         <price>190.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>e679a4a9-0158-4101-9206-332f81d1f22b</categoryId>
@@ -6588,7 +6588,7 @@
         <param name="Гарантійний період (міс)">12</param>
       </offer>
       <offer id="MI8223" available="true">
-        <url>https://ol.partners/products/miyki-dlya-kukhni/integrovani-miyki/miyka-mixxus-mh6050-micro-decor-black-3008-z-nerzh-stali-kolir-chorniy-mi8223</url>
+        <url>https://ol.partners/products/miyki-dlya-kukhni/integrovani-miyki/miyka-z-nerzh-stali-mixxus-mh6050-micro-decor-black-3008-kolir-chorniy-mi8223</url>
         <price>4061.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>4b1ed2a0-7372-49d4-8570-7be730b86a84</categoryId>
@@ -6830,7 +6830,7 @@
         <param name="Поверхня">Глянцева</param>
       </offer>
       <offer id="MI6716" available="true">
-        <url>https://ol.partners/products/keramika/komplektuyuchi-do-keramichnoi-santekhniki/prixovane-kriplennya-dlya-pidvisnix-unitaziv-i-bide-mixxus-screw1901-mi6716</url>
+        <url>https://ol.partners/products/keramika/komplektuyuchi-do-keramichnoi-santekhniki/prikhovane-kriplennya-dlya-pidvisnikh-unitaziv-i-bide-mixxus-screw1901-mi6716</url>
         <price>518.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>2e53263c-eb2d-4e24-80ae-a2a492d1a63a</categoryId>
@@ -8380,7 +8380,7 @@
         <param name="Форма">Планка</param>
       </offer>
       <offer id="MI6327" available="true">
-        <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/krani/kran-dlya-pidklyuchennya-santekhpriboriv/kran-dlya-pidklyuchennya-santekhpriladiv-mixxus-ang0412x34-mi6327</url>
+        <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/krani/kran-dlya-pidklyuchennya-santekhpriboriv/kran-mixxus-premium-ang0412x34-dlya-pidklyuchennya-santekhpriladiv-kolir-khrom-mi6327</url>
         <price>207.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>85089059-b2ea-414c-a0f0-0cb7187f4e74</categoryId>
@@ -8780,7 +8780,7 @@
         <param name="Колір">Сталевий</param>
       </offer>
       <offer id="MI6057" available="true">
-        <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/krani/kran-dlya-pidklyuchennya-santekhpriboriv/kran-dlya-pidklyuchennya-santekhpriladiv-mixxus-val0712x34-z-nerzhstsus304-upakovka-blister-mi6057</url>
+        <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/krani/kran-dlya-pidklyuchennya-santekhpriboriv/kran-dlya-pidklyuchennya-santekhpriladiv-mixxus-val0712x34-z-nerzh-stali-sus304-kolir-nerzh-mi6057</url>
         <price>154.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>85089059-b2ea-414c-a0f0-0cb7187f4e74</categoryId>
@@ -9063,7 +9063,7 @@
         <param name="Особливості">Збалансування витрати. Візуальний контроль. Рівномірний нагрів. З витратомірами</param>
       </offer>
       <offer id="MI6511" available="false">
-        <url>https://ol.partners/products/protochni-vodonagrivachi/krani-vodonagrivachi/vodonagrivach-protochniy-mixxus-electra-770e-chrome-33-kw-z-kriplennyam-na-viliv-mi6511</url>
+        <url>https://ol.partners/products/protochni-vodonagrivachi/krani-vodonagrivachi/vodonagrivach-33-kw-protochniy-mixxus-electra-770e-chrome-z-indik-temp-z-kriplennyam-na-viliv-mi6511</url>
         <price>1104.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>4a363165-8ca2-4875-a8aa-6401eaeb60b7</categoryId>
@@ -9219,7 +9219,7 @@
       </offer>
       <offer id="KP2784" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/zapchastini-ta-aksesuari-dlya-nasosiv/kontroler-tisku-elektronniy-dlya-nasosa-koer-ks3-kutoviy-1kp2784</url>
-        <price>1000.00</price>
+        <price>1020.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/4EBD49E8-5A54-4046-BE45-EC6056FDB727</picture>
@@ -10753,15 +10753,15 @@
         <param name="Глибина (мм)">50</param>
         <param name="Гарантійний період (міс)">12</param>
       </offer>
-      <offer id="AC0722" available="true">
+      <offer id="AC0722" available="false">
         <url>https://ol.partners/products/sifoni-trapi-dlya-dushu/zlivni-trapi/zatvor-kombinovaniy-koer-fds03-dlya-dushovogo-trapu-z-povorotnoyu-osnovoyu-ac0722</url>
         <price>56.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>e679a4a9-0158-4101-9206-332f81d1f22b</categoryId>
         <picture>https://ol.partners/Products/Photo/AD36DCCD-3672-443A-B06C-7DD4B61104AB</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Затвор комбінований Koer FDS-03 для душового трапу з поворотною основою (AC0722)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>AC0722</vendorCode>
@@ -11206,7 +11206,7 @@
         <param name="Колір">Чорний</param>
       </offer>
       <offer id="MI6324" available="true">
-        <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/krani/kran-dlya-pidklyuchennya-santekhpriboriv/kran-dlya-pidklyuchennya-santekhpriladiv-mixxus-ang0112x12-mi6324</url>
+        <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/krani/kran-dlya-pidklyuchennya-santekhpriboriv/kran-mixxus-premium-ang0112x12-dlya-pidklyuchennya-santekhpriladiv-kolir-khrom-mi6324</url>
         <price>235.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>85089059-b2ea-414c-a0f0-0cb7187f4e74</categoryId>
@@ -12161,7 +12161,7 @@
         <param name="Гарантійний період (міс)">84</param>
       </offer>
       <offer id="MX0558" available="true">
-        <url>https://ol.partners/products/miyki-dlya-kukhni/integrovani-miyki/miyka-mixxus-mx4843220x10pvdbronze-mx0558</url>
+        <url>https://ol.partners/products/miyki-dlya-kukhni/integrovani-miyki/miyka-mixxus-mx4843220x10pvdbronze-kolir-bronza-mx0558</url>
         <price>3899.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>4b1ed2a0-7372-49d4-8570-7be730b86a84</categoryId>
@@ -14084,7 +14084,7 @@
         <param name="Діаметр підключення 2 (мм)">20</param>
       </offer>
       <offer id="MI6027" available="true">
-        <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/krani/kran-dlya-pidklyuchennya-santekhpriboriv/kran-dlya-pidklyuchennya-santekhpriladiv-mixxus-val0512x34-z-nerzh-stali-sus304-mi6027</url>
+        <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/krani/kran-dlya-pidklyuchennya-santekhpriboriv/kran-dlya-pidklyuchennya-santekhpriladiv-mixxus-val0512x34-z-nerzh-stali-sus304-kolir-nerzh-mi6027</url>
         <price>145.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>85089059-b2ea-414c-a0f0-0cb7187f4e74</categoryId>
@@ -14419,7 +14419,7 @@
         <param name="З'єднувальний діаметр 2 (дюйм)">3/4</param>
       </offer>
       <offer id="MI8456" available="true">
-        <url>https://ol.partners/products/miyki-dlya-kukhni/bagatofunktsionalni-miyki/miyka-bagatofunktsionalna-mixxus-mh7546set08-decor-graphite-z-vbudovanim-zmishuvachem-z-nerzh-stali-mi8456</url>
+        <url>https://ol.partners/products/miyki-dlya-kukhni/bagatofunktsionalni-miyki/miyka-bagatofunktsionalna-z-vbudovanim-zmishuvachem-mixxus-mh7546set08-decor-graphite-z-nerzh-stali-mi8456</url>
         <price>9205.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>4b1ed2a0-7372-49d4-8570-7be730b86a84</categoryId>
@@ -14884,7 +14884,7 @@
         <param name="Тип ручки">Метелик</param>
       </offer>
       <offer id="MX0560" available="true">
-        <url>https://ol.partners/products/miyki-dlya-kukhni/vrizni-miyki/miyka-mixxus-mx7844200x12satin-mx0560</url>
+        <url>https://ol.partners/products/miyki-dlya-kukhni/vrizni-miyki/miyka-mixxus-mx7844200x12satin-kolir-nerzh-mx0560</url>
         <price>3864.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>4b1ed2a0-7372-49d4-8570-7be730b86a84</categoryId>
@@ -16086,7 +16086,7 @@
         <param name="Додаткові характеристики">Накладка з нержавіючої сталі</param>
       </offer>
       <offer id="MI6216" available="true">
-        <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/krani/kran-dlya-pidklyuchennya-santekhpriboriv/kran-dlya-pidklyuchennya-santekhpriladiv-mixxus-val0812x12-z-nerzh-stali-sus304-siniy-mi6216</url>
+        <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/krani/kran-dlya-pidklyuchennya-santekhpriboriv/kran-dlya-pidklyuchennya-santekhpriladiv-mixxus-val0812x12-z-nerzh-stali-sus304-kolir-siniy-mi6216</url>
         <price>150.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>85089059-b2ea-414c-a0f0-0cb7187f4e74</categoryId>
@@ -16220,7 +16220,7 @@
         <param name="Гарантійний період (міс)">96</param>
       </offer>
       <offer id="MI7050" available="true">
-        <url>https://ol.partners/products/miyki-dlya-kukhni/vrizni-miyki/miyka-z-nerzhaviyuchoi-stali-mixxus-mh7849r-nanosilver-3008-kolir-nerzhaviyka-mi7050</url>
+        <url>https://ol.partners/products/miyki-dlya-kukhni/vrizni-miyki/miyka-z-nerzh-stali-mixxus-mh7849r-nanosilver-3008-kolir-nerzh-mi7050</url>
         <price>4313.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>4b1ed2a0-7372-49d4-8570-7be730b86a84</categoryId>
@@ -16918,7 +16918,7 @@
         <param name="Потужність (кВт)">3,30</param>
       </offer>
       <offer id="MI6026" available="false">
-        <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/krani/kran-dlya-pidklyuchennya-santekhpriboriv/kran-dlya-pidklyuchennya-santekhpriladiv-mixxus-val0412x12-z-nerzh-stali-sus304-mi6026</url>
+        <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/krani/kran-dlya-pidklyuchennya-santekhpriboriv/kran-dlya-pidklyuchennya-santekhpriladiv-mixxus-val0412x12-z-nerzh-stali-sus304-kolir-nerzh-mi6026</url>
         <price>125.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>85089059-b2ea-414c-a0f0-0cb7187f4e74</categoryId>
@@ -16980,7 +16980,7 @@
         <param name="Колір">Червоний</param>
       </offer>
       <offer id="MX0565" available="false">
-        <url>https://ol.partners/products/miyki-dlya-kukhni/vrizni-miyki/miyka-mixxus-mx7843220x10pvdblack-mx0565</url>
+        <url>https://ol.partners/products/miyki-dlya-kukhni/vrizni-miyki/miyka-mixxus-mx7843220x10pvdblack-kolir-chorniy-mx0565</url>
         <price>5244.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>4b1ed2a0-7372-49d4-8570-7be730b86a84</categoryId>
@@ -17109,7 +17109,7 @@
         <param name="G1 (дюйм)">1</param>
       </offer>
       <offer id="MI8323" available="false">
-        <url>https://ol.partners/products/keramika/bachki-dlya-unitazu/bachok-do-unitazukompaktu-mixxus-bevel0407t1-tank-630kh350kh795-zi-zlivnoyu-armaturoyu-mi8323</url>
+        <url>https://ol.partners/products/keramika/bachki-dlya-unitazu/bachok-do-unitazukompaktu-mixxus-bevel0407t1-tank-400x350x140-u-komplekti-zi-zlivnoyu-armaturoyu-mi8323</url>
         <price>3174.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>2e53263c-eb2d-4e24-80ae-a2a492d1a63a</categoryId>
@@ -19673,7 +19673,7 @@
         <param name="Кінцевий тиск (бар)">6,00</param>
       </offer>
       <offer id="MI6810" available="true">
-        <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/krani/kran-dlya-pidklyuchennya-santekhpriboriv/kran-dlya-pidklyuchennya-santekhpriladiv-mixxus-val0712x34-z-nerzhaviyuchoi-stali-sus304-mi6810</url>
+        <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/krani/kran-dlya-pidklyuchennya-santekhpriboriv/kran-dlya-pidklyuchennya-santekhpriladiv-mixxus-val0712x34-z-nerzh-stali-sus304-kolir-nerzh-mi6810</url>
         <price>154.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>85089059-b2ea-414c-a0f0-0cb7187f4e74</categoryId>
@@ -19884,7 +19884,7 @@
         <param name="Покриття">Без покриття</param>
       </offer>
       <offer id="MI8310" available="true">
-        <url>https://ol.partners/products/miyki-dlya-kukhni/integrovani-miyki/miyka-z-nerzhaviyuchoi-stali-mixxus-mh5045-decor-graphite-3008-kolir-grafit-mi8310</url>
+        <url>https://ol.partners/products/miyki-dlya-kukhni/integrovani-miyki/miyka-z-nerzh-stali-mixxus-mh5045-decor-graphite-3008-kolir-grafit-mi8310</url>
         <price>3571.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>4b1ed2a0-7372-49d4-8570-7be730b86a84</categoryId>
@@ -20317,7 +20317,7 @@
       </offer>
       <offer id="KP3235" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/poverkhneviy-nasos/nasos-poverkhneviy-bagatostupeneviy-koer-tcm5464808-kp3235</url>
-        <price>7390.00</price>
+        <price>7510.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/7CA88366-2A0C-4D3C-A334-CC6F03CE7C61</picture>
@@ -20944,7 +20944,7 @@
         <param name="Поверхня">Матова</param>
       </offer>
       <offer id="MI8192" available="true">
-        <url>https://ol.partners/products/sifoni-trapi-dlya-dushu/sifoni/sifon-dlya-kukhni-mixxus-sk05bl-3-12x40-z-plastikovoyu-sitkoyu-vidvedennyam-dlya-pralnoi-mashini-gnuchkim-pryamok-perelivom-mi8192</url>
+        <url>https://ol.partners/products/sifoni-trapi-dlya-dushu/sifoni/sifon-dlya-kukhni-mixxus-sk05bl-3-12x40-z-plastikovoyu-chornoyu-sitkoyu-vidvodom-dlya-pralnoi-mashini-gnuchkim-pryamokutnim-perelivom-mi8192</url>
         <price>256.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>e679a4a9-0158-4101-9206-332f81d1f22b</categoryId>
@@ -21126,7 +21126,7 @@
         <param name="Довжина (мм)">500</param>
       </offer>
       <offer id="MX1696" available="true">
-        <url>https://ol.partners/products/miyki-dlya-kukhni/bagatofunktsionalni-miyki/miyka-mixxus-premium-mh7246set01-nanoblack-z-vbudovanim-zmishuvachem-mx1696</url>
+        <url>https://ol.partners/products/miyki-dlya-kukhni/bagatofunktsionalni-miyki/miyka-z-vbudovanim-zmishuvachem-mixxus-premium-mh7246set01-nanoblack-z-nerzh-stali-kolir-grafit-mx1696</url>
         <price>6693.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>4b1ed2a0-7372-49d4-8570-7be730b86a84</categoryId>
@@ -22004,7 +22004,7 @@
         <param name="Діаметр підключення (дюйм)">1/2</param>
       </offer>
       <offer id="MI6330" available="true">
-        <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/krani/kran-dlya-pidklyuchennya-santekhpriboriv/kran-dlya-pidklyuchennya-santekhpriladiv-mixxus-ang0712x12-mi6330</url>
+        <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/krani/kran-dlya-pidklyuchennya-santekhpriboriv/kran-mixxus-premium-ang0712x12-dlya-pidklyuchennya-santekhpriladiv-kolir-khrom-mi6330</url>
         <price>194.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>85089059-b2ea-414c-a0f0-0cb7187f4e74</categoryId>
@@ -22182,7 +22182,7 @@
         <param name="Діапазон ширини (мм)">380-430</param>
       </offer>
       <offer id="MI8413" available="true">
-        <url>https://ol.partners/products/sifoni-trapi-dlya-dushu/armatura-dlya-unitaziv/komplekt-armaturi-mixxus-button180412-zlivna-2kh-knopkova-napovn-z-nizhnim-pidvedennyam-plast-rizblennya-12-mi8413</url>
+        <url>https://ol.partners/products/sifoni-trapi-dlya-dushu/armatura-dlya-unitaziv/komplekt-armaturi-mixxus-button180412-spuskna-2kh-knopochna-napovnyuvalna-z-nizhnim-pidvedennyam-plastikove-rizblennya-12-mi8413</url>
         <price>759.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>bae524de-6825-4762-bea5-e2c2373606ee</categoryId>
@@ -22415,7 +22415,7 @@
         <param name="Ширина (мм)">70</param>
       </offer>
       <offer id="MI6168" available="true">
-        <url>https://ol.partners/products/sifoni-trapi-dlya-dushu/zlivni-trapi/dushoviy-trap-z-nerzh-stali-sus304-mixxus-drain0550slim-black-30x500mm-chorniy-mi6168</url>
+        <url>https://ol.partners/products/sifoni-trapi-dlya-dushu/zlivni-trapi/dushoviy-trap-mixxus-drain0550slim-black-z-nerzh-stali-sus304-30x500mm-kolir-chorniy-mi6168</url>
         <price>1619.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>e679a4a9-0158-4101-9206-332f81d1f22b</categoryId>
@@ -22482,7 +22482,7 @@
         <param name="Колір">Синій</param>
       </offer>
       <offer id="MI6693" available="true">
-        <url>https://ol.partners/products/keramika/sidinnya-dlya-unitazu/sidinnyakrishka-dlya-unitazu-mixxus-seat-cover-wave2001-z-mikroliftom-430kh338kh35mm-mi6693</url>
+        <url>https://ol.partners/products/keramika/sidinnya-dlya-unitazu/sidinnyakrishka-dlya-unitazu-mixxus-seat-cover-wave2001-430kh338kh35mm-dyuroplastove-shvidkoznimne-z-mikroliftom-mi6693</url>
         <price>1794.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>2e53263c-eb2d-4e24-80ae-a2a492d1a63a</categoryId>
@@ -22525,7 +22525,7 @@
         <param name="Глибина (мм)">430</param>
       </offer>
       <offer id="MI8476" available="true">
-        <url>https://ol.partners/products/sifoni-trapi-dlya-dushu/armatura-dlya-unitaziv/komplekt-armaturi-mixxus-button180712-spuskna-2kh-knopochna-napovn-z-nizhnym-pidvedennyam-plastikove-rizblennya-12-mi8476</url>
+        <url>https://ol.partners/products/sifoni-trapi-dlya-dushu/armatura-dlya-unitaziv/komplekt-armaturi-mixxus-button180712-spuskna-2kh-knopochna-napovnyuvalna-z-nizhnim-pidvedennyam-plastikove-rizblennya-12-mi8476</url>
         <price>759.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>bae524de-6825-4762-bea5-e2c2373606ee</categoryId>
@@ -23139,7 +23139,7 @@
         <param name="Модель">KWH.E02-50VD</param>
       </offer>
       <offer id="MI8464" available="true">
-        <url>https://ol.partners/products/miyki-dlya-kukhni/bagatofunktsionalni-miyki/miyka-bagatofunktsionalna-mixxus-mh7546set06-decor-graphite-z-vbudovanim-zmishuvachem-z-nerzh-stali-mi8464</url>
+        <url>https://ol.partners/products/miyki-dlya-kukhni/bagatofunktsionalni-miyki/miyka-bagatofunktsionalna-z-vbudovanim-zmishuvachem-mixxus-mh7546set06-decor-graphite-z-nerzh-stali-mi8464</url>
         <price>10316.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>4b1ed2a0-7372-49d4-8570-7be730b86a84</categoryId>
@@ -23852,7 +23852,7 @@
         <param name="Тип ручки">Метелик</param>
       </offer>
       <offer id="MI6713" available="true">
-        <url>https://ol.partners/products/keramika/bide/bide-pidvisne-mixxus-quadro0502-520x360x290mm-mi6713</url>
+        <url>https://ol.partners/products/keramika/bide/bide-pidvisne-mixxus-quadro0502-520kh360kh290mm-mi6713</url>
         <price>5589.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>2e53263c-eb2d-4e24-80ae-a2a492d1a63a</categoryId>
@@ -23899,7 +23899,7 @@
         <param name="Розташування (орієнтація)">Універсальне</param>
       </offer>
       <offer id="MI8324" available="false">
-        <url>https://ol.partners/products/keramika/bachki-dlya-unitazu/bachok-do-unitazukompaktu-mixxus-bevel0404t3-tank-660kh360kh800-zi-zlivnoyu-armaturoyu-mi8324</url>
+        <url>https://ol.partners/products/keramika/bachki-dlya-unitazu/bachok-do-unitazukompaktu-mixxus-bevel0404t3-tank-400x360x140-u-komplekti-zi-zlivnoyu-armaturoyu-mi8324</url>
         <price>3864.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>2e53263c-eb2d-4e24-80ae-a2a492d1a63a</categoryId>
@@ -25461,7 +25461,7 @@
         <param name="Тип ручки">Метелик</param>
       </offer>
       <offer id="MI8232" available="false">
-        <url>https://ol.partners/products/protochni-vodonagrivachi/krani-vodonagrivachi/vodonagrivach-mixxus-electra-110ef-3-kw-protochniy-z-indikatorom-temp-reflektorniy-viliv-reset-na-miyku-mi8232</url>
+        <url>https://ol.partners/products/protochni-vodonagrivachi/krani-vodonagrivachi/vodonagrivach-33-kw-protochniy-mixxus-electra-110ef-z-indik-temp-reflektorniy-viliv-reset-na-miyku-mi8232</url>
         <price>1139.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>4a363165-8ca2-4875-a8aa-6401eaeb60b7</categoryId>
@@ -25539,7 +25539,7 @@
         <picture>https://ol.partners/Products/Photo/2BC3BED7-B5C6-43DF-BF22-204B6000E0FF</picture>
         <vendor>ZERIX</vendor>
         <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Мильниця настінна решітка Zerix Z1602-1 (ZX0524)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>ZX0524</vendorCode>
@@ -27171,7 +27171,7 @@
         <param name="Матеріал">Алюміній</param>
       </offer>
       <offer id="MX0583" available="false">
-        <url>https://ol.partners/products/miyki-dlya-kukhni/komplekt-dlya-kukhni-miyka-ta-zmishuvach/nabir-mixxus-set7843d220x10satin-miyka-zmishuvach-dispenser-sushka-dlya-posudu-mx0583</url>
+        <url>https://ol.partners/products/miyki-dlya-kukhni/komplekt-dlya-kukhni-miyka-ta-zmishuvach/komplekt-miyka-zmishuvach-dispenser-susharka-dlya-posudu-mixxus-set7843d220x10satin-kolir-nerzh-mx0583</url>
         <price>4554.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>4b1ed2a0-7372-49d4-8570-7be730b86a84</categoryId>
@@ -27182,7 +27182,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/1e548206-5260-40e1-ba82-c918241630ae/image_01.jpg</picture>
         <vendor>MIXXUS</vendor>
         <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Набір Mixxus SET-7843D-220x1.0-Satin (мийка + змішувач + диспенсер + сушка для посуду) (MX0583)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>MX0583</vendorCode>
@@ -27456,7 +27456,7 @@
         <param name="Комплектація">Мийка, сифон, кріплення, ущільнювальна стрічка, сітка</param>
       </offer>
       <offer id="MX0557" available="false">
-        <url>https://ol.partners/products/miyki-dlya-kukhni/integrovani-miyki/miyka-mixxus-mx4843220x10pvdblack-mx0557</url>
+        <url>https://ol.partners/products/miyki-dlya-kukhni/integrovani-miyki/miyka-mixxus-mx4843220x10pvdblack-kolir-chorniy-matoiy-mx0557</url>
         <price>3830.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>4b1ed2a0-7372-49d4-8570-7be730b86a84</categoryId>
@@ -27741,7 +27741,7 @@
         <param name="Колір">Нержавіюча сталь</param>
       </offer>
       <offer id="MX9577" available="true">
-        <url>https://ol.partners/products/miyki-dlya-kukhni/bagatofunktsionalni-miyki/miyka-bagatofunktsionalna-mixxus-mh7546set06sus304-decor-z-vbudovanim-zmishuvachem-mx9577</url>
+        <url>https://ol.partners/products/miyki-dlya-kukhni/bagatofunktsionalni-miyki/miyka-bagatofunktsionalna-z-vbudovanim-zmishuvachem-mixxus-mh7546set06sus304-decor-z-nerzh-stali-sus304-kolir-nerzh-mx9577</url>
         <price>10316.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>4b1ed2a0-7372-49d4-8570-7be730b86a84</categoryId>
@@ -29399,7 +29399,7 @@
         <param name="Розміри (мм)">1 1/2"Мx47,9-51,5</param>
       </offer>
       <offer id="MX1927" available="true">
-        <url>https://ol.partners/products/miyki-dlya-kukhni/integrovani-miyki/miyka-mixxus-mh5050-nanosilver-z-nerzh-stali-kolir-nerzh-mx1927</url>
+        <url>https://ol.partners/products/miyki-dlya-kukhni/integrovani-miyki/miyka-z-nerzh-stali-mixxus-mh5050-ss-color-3008-kolir-nerzh-mx1927</url>
         <price>2823.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>4b1ed2a0-7372-49d4-8570-7be730b86a84</categoryId>
@@ -29654,7 +29654,7 @@
         <param name="Серія">SIPHON-02</param>
       </offer>
       <offer id="MI2748" available="true">
-        <url>https://ol.partners/products/protochni-vodonagrivachi/krani-vodonagrivachi/protochniy-vodonagrivach-mixxus-electra-240e-red-z-indik-temp-mi2748</url>
+        <url>https://ol.partners/products/protochni-vodonagrivachi/krani-vodonagrivachi/vodonagrivach-3-kw-protochniy-mixxus-electra-240e-red-z-indik-temp-reset-na-miyku-kolir-chervoniy-mi2748</url>
         <price>1208.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>4a363165-8ca2-4875-a8aa-6401eaeb60b7</categoryId>
@@ -29794,7 +29794,7 @@
         <param name="Гарантійний період (міс)">60</param>
       </offer>
       <offer id="MI6701" available="true">
-        <url>https://ol.partners/products/keramika/unitazi/unitaz-pidvisniy-mixxus-ellipse0305t3-485x360x365mm-sistema-zmivu-tornado-30-mi6701</url>
+        <url>https://ol.partners/products/keramika/unitazi/unitaz-pidvisniy-mixxus-ellipse0305t3-485kh360kh365mm-sistema-zmivu-tornado-30-mi6701</url>
         <price>5175.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>2e53263c-eb2d-4e24-80ae-a2a492d1a63a</categoryId>
@@ -30584,7 +30584,7 @@
         <param name="Комплектація">Водонагрівач, кріпильний елемент, посібник з монтажу та експлуатації, кабель</param>
       </offer>
       <offer id="MX1945" available="true">
-        <url>https://ol.partners/products/aksesuari-dlya-kukhni/kilimki-dlya-sushinnya-posudu/kilimoksusharka-dlya-posudu-mixxus-rac01sus-black-na-miyku-z-nerzh-stali-sus304-mx1945</url>
+        <url>https://ol.partners/products/aksesuari-dlya-kukhni/kilimki-dlya-sushinnya-posudu/kilimoksusharka-dlya-posudu-mixxus-rac01sus-black-na-miyku-z-nerzh-stali-sus304-kolir-chorniy-mx1945</url>
         <price>479.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>4b1ed2a0-7372-49d4-8570-7be730b86a84</categoryId>
@@ -31230,7 +31230,7 @@
         <param name="Максимальна температура робочої рідини (°C)">40</param>
       </offer>
       <offer id="MI6636" available="true">
-        <url>https://ol.partners/products/rushnikosushki/komplektuyuchi-do-rushnikosushok/ten-elektrichniy-mixxus-teh0209-chrome-dlya-susharok-rushnikiv-900w-kolir-khrom-mi6636</url>
+        <url>https://ol.partners/products/rushnikosushki/komplektuyuchi-do-rushnikosushok/elektrichniy-ten-mixxus-teh0209-chrome-dlya-susharok-rushnikiv-900w-kolir-khrom-mi6636</url>
         <price>2466.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>40137948-7c36-4187-a598-0d50eb1df16f</categoryId>
@@ -31625,7 +31625,7 @@
         <param name="Розміри (мм)">18x18</param>
       </offer>
       <offer id="MX1938" available="true">
-        <url>https://ol.partners/products/miyki-dlya-kukhni/vrizni-miyki/miyka-mixxus-mh7849rhk-nanoblack-3009-z-nerzhaviyuchoi-stali-gliboke-krilo-z-pidstavkoyu-pid-nozhi-mx1938</url>
+        <url>https://ol.partners/products/miyki-dlya-kukhni/vrizni-miyki/miyka-z-nerzh-stali-mixxus-mh7849rhk-graphite3009-gliboke-krilo-z-pidstavkoyu-pid-nozhi-kolir-grafit-mx1938</url>
         <price>5486.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>4b1ed2a0-7372-49d4-8570-7be730b86a84</categoryId>
@@ -32403,7 +32403,7 @@
         <param name="C (мм)">131,00</param>
       </offer>
       <offer id="MI6056" available="true">
-        <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/krani/kran-dlya-pidklyuchennya-santekhpriboriv/kran-dlya-pidklyuchennya-santekhpriladiv-mixxus-val0612x12-z-nerzhstsus304-mi6056</url>
+        <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/krani/kran-dlya-pidklyuchennya-santekhpriboriv/kran-dlya-pidklyuchennya-santekhpriladiv-mixxus-val0612x12-z-nerzh-stali-sus304-kolir-nerzh-mi6056</url>
         <price>133.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>85089059-b2ea-414c-a0f0-0cb7187f4e74</categoryId>
@@ -33390,7 +33390,7 @@
         <param name="Комплектація">Мийка, сифон</param>
       </offer>
       <offer id="MX1929" available="true">
-        <url>https://ol.partners/products/miyki-dlya-kukhni/integrovani-miyki/miyka-mixxus-mh5050-decor-nanoblack-z-nerzh-stali-kolir-grafit-mx1929</url>
+        <url>https://ol.partners/products/miyki-dlya-kukhni/integrovani-miyki/miyka-z-nerzh-stali-mixxus-mh5050-decor-graphite3008-kolir-grafit-mx1929</url>
         <price>3640.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>4b1ed2a0-7372-49d4-8570-7be730b86a84</categoryId>
@@ -33688,7 +33688,7 @@
         <param name="Колір">Чорний</param>
       </offer>
       <offer id="MX1946" available="true">
-        <url>https://ol.partners/products/aksesuari-dlya-kukhni/kilimki-dlya-sushinnya-posudu/kilimoksusharka-dlya-posudu-mixxus-rac01sus-gray-na-miyku-z-nst-sus304-kol-siriy-mx1946</url>
+        <url>https://ol.partners/products/aksesuari-dlya-kukhni/kilimki-dlya-sushinnya-posudu/kilimoksusharka-dlya-posudu-mixxus-rac01sus-gray-na-miyku-z-nerzh-stali-sus304-kolir-siriy-mx1946</url>
         <price>479.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>4b1ed2a0-7372-49d4-8570-7be730b86a84</categoryId>
@@ -34436,7 +34436,7 @@
         <param name="Колір">Сталевий</param>
       </offer>
       <offer id="MX0573" available="true">
-        <url>https://ol.partners/products/miyki-dlya-kukhni/vrizni-miyki/miyka-mixxus-mx-304-6051200x12hmglass-mx0573</url>
+        <url>https://ol.partners/products/miyki-dlya-kukhni/vrizni-miyki/miyka-mixxus-mx3046051200x12hmglass-kolir-chorniy-glyantseviy-mx0573</url>
         <price>7429.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>4b1ed2a0-7372-49d4-8570-7be730b86a84</categoryId>
@@ -34543,7 +34543,7 @@
         <param name="Колір">Білий</param>
       </offer>
       <offer id="MI8333" available="false">
-        <url>https://ol.partners/products/keramika/bachki-dlya-unitazu/bachok-do-unitazukompaktu-mixxus-wave0402t3-tank-650x350x830-zi-zlivnoyu-armaturoyu-mi8333</url>
+        <url>https://ol.partners/products/keramika/bachki-dlya-unitazu/bachok-do-unitazukompaktu-mixxus-wave0402t3-tank-430x350x140-u-komplekti-zi-zlivnoyu-armaturoyu-mi8333</url>
         <price>3036.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>2e53263c-eb2d-4e24-80ae-a2a492d1a63a</categoryId>
@@ -34590,7 +34590,7 @@
         <param name="Висота (мм)">430</param>
       </offer>
       <offer id="MI6326" available="true">
-        <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/krani/kran-dlya-pidklyuchennya-santekhpriboriv/kran-dlya-pidklyuchennya-santekhpriladiv-mixxus-ang0312x12-mi6326</url>
+        <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/krani/kran-dlya-pidklyuchennya-santekhpriboriv/kran-mixxus-premium-ang0312x12-dlya-pidklyuchennya-santekhpriladiv-kolir-khrom-mi6326</url>
         <price>189.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>85089059-b2ea-414c-a0f0-0cb7187f4e74</categoryId>
@@ -34774,7 +34774,7 @@
         <param name="Діаметр підключення (мм)">32</param>
       </offer>
       <offer id="MI7099" available="true">
-        <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/krani/kran-dlya-pidklyuchennya-santekhpriboriv/kran-dlya-pidklyuchennya-santekhpriladiv-mixxus-val1012x34-z-nerzh-stali-sus304-siniy-mi7099</url>
+        <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/krani/kran-dlya-pidklyuchennya-santekhpriboriv/kran-dlya-pidklyuchennya-santekhpriladiv-mixxus-val1012x34-z-nerzh-stali-sus304-kolir-siniy-mi7099</url>
         <price>174.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>85089059-b2ea-414c-a0f0-0cb7187f4e74</categoryId>
@@ -34935,7 +34935,7 @@
         <param name="Країна бренду">Чехія</param>
       </offer>
       <offer id="MI6721" available="true">
-        <url>https://ol.partners/products/keramika/sidinnya-dlya-unitazu/sidinnyakrishka-dlya-unitazu-mixxus-seat-cover-bevel2002-z-mikroliftom-475x368x70mm-mi6721</url>
+        <url>https://ol.partners/products/keramika/sidinnya-dlya-unitazu/sidinnyakrishka-dlya-unitazu-mixxus-seat-cover-bevel2002-475kh368kh70mm-dyuroplastove-shvidkoznimne-z-mikroliftom-mi6721</url>
         <price>1794.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>2e53263c-eb2d-4e24-80ae-a2a492d1a63a</categoryId>
@@ -35038,7 +35038,7 @@
       </offer>
       <offer id="KP2785" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/zapchastini-ta-aksesuari-dlya-nasosiv/kontroler-tisku-elektronniy-dlya-nasosa-koer-ks8r-kp2785</url>
-        <price>1090.00</price>
+        <price>1110.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/ABCDD0F7-8BF6-46F1-A05A-73C3A3DC094C</picture>
@@ -35323,7 +35323,7 @@
         <param name="Колір">Сталевий</param>
       </offer>
       <offer id="MI6718" available="true">
-        <url>https://ol.partners/products/keramika/sidinnya-dlya-unitazu/sidinnyakrishka-dlya-unitazu-mixxus-seat-cover-bevel2001-z-mikroliftom-455x380x60mm-mi6718</url>
+        <url>https://ol.partners/products/keramika/sidinnya-dlya-unitazu/sidinnyakrishka-dlya-unitazu-mixxus-seat-cover-bevel2001-455kh380kh60mm-dyuroplastove-shvidkoznimne-z-mikroliftom-mi6718</url>
         <price>1794.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>2e53263c-eb2d-4e24-80ae-a2a492d1a63a</categoryId>
@@ -37785,7 +37785,7 @@
         <param name="Колір">Білий (RAL 9016)</param>
       </offer>
       <offer id="MI7155" available="true">
-        <url>https://ol.partners/products/aksesuari-dlya-vannoi/dozator-dlya-ridkogo-mila/dozator-dlya-miynogo-zasobu-vrizniy-mixxus-dis03sus-black-z-nerzhstali-sus304-300-ml-chorniy-mi7155</url>
+        <url>https://ol.partners/products/aksesuari-dlya-vannoi/dozator-dlya-ridkogo-mila/dispenser-dlya-miynogo-zasobu-vrizniy-mixxus-dis03sus-black-z-nerzh-stali-sus304-kolir-chorniy-300-ml-mi7155</url>
         <price>549.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>4b1ed2a0-7372-49d4-8570-7be730b86a84</categoryId>
@@ -38213,7 +38213,7 @@
         <param name="Гарантійний період (міс)">60</param>
       </offer>
       <offer id="MX1926" available="true">
-        <url>https://ol.partners/products/miyki-dlya-kukhni/integrovani-miyki/miyka-mixxus-mh5045-nanoblack-z-nerzh-stali-kolir-grafit-mx1926</url>
+        <url>https://ol.partners/products/miyki-dlya-kukhni/integrovani-miyki/miyka-z-nerzh-stali-mixxus-mh5045-graphite-3008-kolir-grafit-mx1926</url>
         <price>3371.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>4b1ed2a0-7372-49d4-8570-7be730b86a84</categoryId>
@@ -38723,7 +38723,7 @@
         <param name="Тип з'єднання">Пайка</param>
       </offer>
       <offer id="MI8318" available="false">
-        <url>https://ol.partners/products/keramika/bachki-dlya-unitazu/bachok-do-unitazukompaktu-mixxus-ellipse0403t3-tank-640kh360kh835-zi-zlivnoyu-armaturoyu-mi8318</url>
+        <url>https://ol.partners/products/keramika/bachki-dlya-unitazu/bachok-do-unitazukompaktu-mixxus-ellipse0403t3-tank-425x360x140-u-komplekti-zi-zlivnoyu-armaturoyu-mi8318</url>
         <price>3864.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>2e53263c-eb2d-4e24-80ae-a2a492d1a63a</categoryId>
@@ -38773,7 +38773,7 @@
         <param name="Кількість вантажних місць">1</param>
       </offer>
       <offer id="MI6631" available="true">
-        <url>https://ol.partners/products/rushnikosushki/komplektuyuchi-do-rushnikosushok/ten-elektrichniy-mixxus-teh0203-black-dlya-susharok-rushnikiv-300w-kolir-chorniy-mi6631</url>
+        <url>https://ol.partners/products/rushnikosushki/komplektuyuchi-do-rushnikosushok/elektrichniy-ten-mixxus-teh0203-black-dlya-susharok-rushnikiv-300w-kolir-chorniy-mi6631</url>
         <price>2098.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>40137948-7c36-4187-a598-0d50eb1df16f</categoryId>
@@ -40100,7 +40100,7 @@
         <param name="Колір">Білий (RAL 9016)</param>
       </offer>
       <offer id="MI6117" available="false">
-        <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/krani/kran-dlya-pidklyuchennya-santekhpriboriv/kran-dlya-pidklyuchennya-santekhpriladiv-mixxus-val0112x12-z-nerzhst-sus304-siniy-mi6117</url>
+        <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/krani/kran-dlya-pidklyuchennya-santekhpriboriv/kran-dlya-pidklyuchennya-santekhpriladiv-mixxus-val0112x12-z-nerzh-stali-sus304-kolir-siniy-mi6117</url>
         <price>125.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>85089059-b2ea-414c-a0f0-0cb7187f4e74</categoryId>
@@ -41691,7 +41691,7 @@
         <param name="Гарантійний період (міс)">84</param>
       </offer>
       <offer id="MI7038" available="true">
-        <url>https://ol.partners/products/keramika/sidinnya-dlya-unitazu/sidinnyakrishka-dlya-unitazu-mixxus-seat-cover-style2002-426kh339kh30mm-dyuroplast-z-mikroliftom-mi7038</url>
+        <url>https://ol.partners/products/keramika/sidinnya-dlya-unitazu/sidinnyakrishka-dlya-unitazu-mixxus-seat-cover-style2002-426kh339kh30mm-dyuroplastove-shvidkoznimne-z-mikroliftom-mi7038</url>
         <price>1794.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>2e53263c-eb2d-4e24-80ae-a2a492d1a63a</categoryId>
@@ -41959,7 +41959,7 @@
         <param name="Тип фіксації до поверхні">Гвинтове кріплення (на дюбелі)</param>
       </offer>
       <offer id="MI6719" available="true">
-        <url>https://ol.partners/products/keramika/sidinnya-dlya-unitazu/sidinnyakrishka-dlya-unitazu-mixxus-seat-cover-ellipse2001-z-mikroliftom-43x430x361mm-mi6719</url>
+        <url>https://ol.partners/products/keramika/sidinnya-dlya-unitazu/sidinnyakrishka-dlya-unitazu-mixxus-seat-cover-ellipse2001-455kh380kh60mm-dyuroplastove-shvidkoznimne-z-mikroliftom-mi6719</url>
         <price>1794.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>2e53263c-eb2d-4e24-80ae-a2a492d1a63a</categoryId>
@@ -45120,7 +45120,7 @@
         <param name="Колір">Сталевий</param>
       </offer>
       <offer id="MI6531" available="true">
-        <url>https://ol.partners/products/sifoni-trapi-dlya-dushu/zlivni-trapi/dushoviy-trap-mixxus-drain0680-black-z-plast-osnovoyu-i-nakladkoyu-iz-nerzh-stali-70x800mm-mi6531</url>
+        <url>https://ol.partners/products/sifoni-trapi-dlya-dushu/zlivni-trapi/dushoviy-trap-mixxus-drain0680-black-z-plastikovoyu-osnovoyu-i-nakladkoyu-iz-nerzh-stali-sus304-70x800mm-kolir-chorniy-mi6531</url>
         <price>1525.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>e679a4a9-0158-4101-9206-332f81d1f22b</categoryId>
@@ -45227,7 +45227,7 @@
         <param name="Монтажна глибина (мм)">100-155</param>
       </offer>
       <offer id="MI7041" available="true">
-        <url>https://ol.partners/products/miyki-dlya-kukhni/vrizni-miyki/miyka-z-nerzhaviyuchoi-stali-mixxus-mh5843-decor-nanosilver-3008-kolir-nerzhaviyka-mi7041</url>
+        <url>https://ol.partners/products/miyki-dlya-kukhni/vrizni-miyki/miyka-z-nerzh-stali-mixxus-mh5843-decor-ss-color-3008-kolir-nerzh-mi7041</url>
         <price>3099.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>4b1ed2a0-7372-49d4-8570-7be730b86a84</categoryId>
@@ -45625,7 +45625,7 @@
         <param name="Гарантійний період (міс)">84</param>
       </offer>
       <offer id="MI8198" available="true">
-        <url>https://ol.partners/products/sifoni-trapi-dlya-dushu/sifoni/sifon-dlya-kukhni-mixxus-sk07a-3-12x40-z-nerzhsitkoyu-gnuchkim-krug-perelivom-mi8198</url>
+        <url>https://ol.partners/products/sifoni-trapi-dlya-dushu/sifoni/sifon-dlya-kukhni-mixxus-sk07a-3-12x40-z-nerzhaviyuchoyu-sitkoyu-gnuchkim-kruglim-perelivom-mi8198</url>
         <price>514.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>e679a4a9-0158-4101-9206-332f81d1f22b</categoryId>
@@ -46086,7 +46086,7 @@
         <param name="Гарантійний період (міс)">12</param>
       </offer>
       <offer id="MI6732" available="true">
-        <url>https://ol.partners/products/keramika/sidinnya-dlya-unitazu/sidinnyakrishka-dlya-unitazu-mixxus-seat-cover-bevel2005-425kh363kh30mm-z-mikroliftom-mi6732</url>
+        <url>https://ol.partners/products/keramika/sidinnya-dlya-unitazu/sidinnyakrishka-dlya-unitazu-mixxus-seat-cover-bevel2005-425kh363kh30mm-dyuroplastove-shvidkoznimne-z-mikroliftom-mi6732</url>
         <price>1794.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>2e53263c-eb2d-4e24-80ae-a2a492d1a63a</categoryId>
@@ -46127,7 +46127,7 @@
         <param name="Матеріал">Дюропласт</param>
       </offer>
       <offer id="MI6029" available="true">
-        <url>https://ol.partners/products/zmishuvachi-ta-krani/monokran/kran-dlya-pitnoi-vodi-z-nerzh-stali-sus304-mixxus-mono07sus-filter-black-mi6029</url>
+        <url>https://ol.partners/products/zmishuvachi-ta-krani/monokran/kran-dlya-pitnoi-vodi-mixxus-mono07sus-filter-black-z-nerzh-stali-sus304-kolir-chorniy-mi6029</url>
         <price>449.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>d191ae68-f2ee-4472-8036-e37d06c8ffc9</categoryId>
@@ -46861,7 +46861,7 @@
         <param name="Робочий тиск (бар)">до 10</param>
       </offer>
       <offer id="MX1952" available="true">
-        <url>https://ol.partners/products/aksesuari-dlya-kukhni/rinzer-dlya-sklyanok/omivach-dlya-sklyanok-mixxus-was01-nanoblack-z-nerzh-stali-grafit-mx1952</url>
+        <url>https://ol.partners/products/aksesuari-dlya-kukhni/rinzer-dlya-sklyanok/omivach-dlya-sklyanok-mixxus-was01-graphite-z-nerzh-stali-kolir-grafit-mx1952</url>
         <price>963.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>4b1ed2a0-7372-49d4-8570-7be730b86a84</categoryId>
@@ -47066,7 +47066,7 @@
       </offer>
       <offer id="KP0246" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/tsirkulyatsiyni-nasosi/nasos-tsirkulyatsiyniy-vidtsentr-energosbereg-koer-kpn254180-kp0246</url>
-        <price>3510.00</price>
+        <price>3600.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/E8DDFAEE-A5D0-4E77-A0F8-D0B2B6B212FD</picture>
@@ -47330,7 +47330,7 @@
         <param name="Гарантійний період (міс)">84</param>
       </offer>
       <offer id="MI6515" available="true">
-        <url>https://ol.partners/products/sifoni-trapi-dlya-dushu/zlivni-trapi/dushoviy-trap-mixxus-drain0740-z-plast-osnovoyu-i-nakladkoyu-iz-nerzh-stali-sus304-70x400mm-mi6515</url>
+        <url>https://ol.partners/products/sifoni-trapi-dlya-dushu/zlivni-trapi/dushoviy-trap-mixxus-drain0740-z-plastikovoyu-osnovoyu-i-nakladkoyu-iz-nerzh-stali-sus304-70x400mm-kolir-nerzh-mi6515</url>
         <price>978.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>e679a4a9-0158-4101-9206-332f81d1f22b</categoryId>
@@ -48495,7 +48495,7 @@
         <param name="Колір">Білий</param>
       </offer>
       <offer id="MI8215" available="false">
-        <url>https://ol.partners/products/miyki-dlya-kukhni/integrovani-miyki/miyka-mixxus-mh5050-micro-decor-black-3008-z-nerzh-stali-kolir-chorniy-mi8215</url>
+        <url>https://ol.partners/products/miyki-dlya-kukhni/integrovani-miyki/miyka-z-nerzh-stali-mixxus-mh5050-micro-decor-black-3008-kolir-chorniy-mi8215</url>
         <price>3709.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>4b1ed2a0-7372-49d4-8570-7be730b86a84</categoryId>
@@ -48816,7 +48816,7 @@
         <param name="Гарантійний період (міс)">12</param>
       </offer>
       <offer id="MX0657" available="false">
-        <url>https://ol.partners/products/miyki-dlya-kukhni/vrizni-miyki/miyka-kukhonna-mixxus-mx6050185x10-satin-mx0657</url>
+        <url>https://ol.partners/products/miyki-dlya-kukhni/vrizni-miyki/miyka-mixxus-mx6050185x10satin-kolir-nerzh-mx0657</url>
         <price>3105.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>4b1ed2a0-7372-49d4-8570-7be730b86a84</categoryId>
@@ -49106,7 +49106,7 @@
         <param name="Колір">Сірий</param>
       </offer>
       <offer id="MI8199" available="true">
-        <url>https://ol.partners/products/sifoni-trapi-dlya-dushu/sifoni/sifon-dlya-kukhni-mixxus-sk07b-3-12x40-z-nerzhsitkoyu-vidvedennyam-dlya-pralnoi-mashini-gnuchkim-krug-perelivom-mi8199</url>
+        <url>https://ol.partners/products/sifoni-trapi-dlya-dushu/sifoni/sifon-dlya-kukhni-mixxus-sk07b-3-12x40-z-nerzhaviyuchoyu-sitkoyu-vidvodom-dlya-pralnoi-mashini-gnuchkim-kruglim-perelivom-mi8199</url>
         <price>537.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>e679a4a9-0158-4101-9206-332f81d1f22b</categoryId>
@@ -49352,7 +49352,7 @@
         <param name="З'єднувальний діаметр 2 (дюйм)">1/2</param>
       </offer>
       <offer id="AC3567" available="true">
-        <url>https://ol.partners/products/zapchastini-dlya-zmishuvacha/donniy-klapan-dlya-rakovini/donniy-klapan-dlya-rakovini-bez-perelivu-mixxus-popup09-white-avtomatichniy-clickclack-bila-keramichna-nakladka-1-14-ac3567</url>
+        <url>https://ol.partners/products/zapchastini-dlya-zmishuvacha/donniy-klapan-dlya-rakovini/donniy-klapan-dlya-rakovini-bez-perelivu-mixxus-popup09-white-avtomatichniy-clickclack-bila-keram-nakladka-1-14-ac3567</url>
         <price>228.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>e679a4a9-0158-4101-9206-332f81d1f22b</categoryId>
@@ -49617,7 +49617,7 @@
         <param name="Колір">Білий</param>
       </offer>
       <offer id="MI6691" available="true">
-        <url>https://ol.partners/products/keramika/sidinnya-dlya-unitazu/sidinnyakrishka-dlya-unitazu-mixxus-seat-cover-bevel2003-z-mikroliftom-420kh334kh36mm-mi6691</url>
+        <url>https://ol.partners/products/keramika/sidinnya-dlya-unitazu/sidinnyakrishka-dlya-unitazu-mixxus-seat-cover-bevel2003-420kh334kh36mm-dyuroplastove-shvidkoznimne-z-mikroliftom-mi6691</url>
         <price>1794.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>2e53263c-eb2d-4e24-80ae-a2a492d1a63a</categoryId>
@@ -49753,7 +49753,7 @@
         <param name="Колір">Сталевий</param>
       </offer>
       <offer id="MX0585" available="true">
-        <url>https://ol.partners/products/miyki-dlya-kukhni/komplekt-dlya-kukhni-miyka-ta-zmishuvach/nabir-mixxus-set7843d220x10pvd-miyka-zmishuvach-dispenser-mx0585</url>
+        <url>https://ol.partners/products/miyki-dlya-kukhni/komplekt-dlya-kukhni-miyka-ta-zmishuvach/komplekt-miyka-zmishuvach-dispenser-mixxus-set7843d220x10pvdblack-kolir-chorniy-mx0585</url>
         <price>6072.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>4b1ed2a0-7372-49d4-8570-7be730b86a84</categoryId>
@@ -50617,7 +50617,7 @@
         <param name="Макс. температура навколишнього середовища (°C)">55</param>
       </offer>
       <offer id="MI6632" available="true">
-        <url>https://ol.partners/products/rushnikosushki/komplektuyuchi-do-rushnikosushok/ten-elektrichniy-mixxus-teh0206-black-dlya-susharok-rushnikiv-600w-kolir-chorniy-mi6632</url>
+        <url>https://ol.partners/products/rushnikosushki/komplektuyuchi-do-rushnikosushok/elektrichniy-ten-mixxus-teh0206-black-dlya-susharok-rushnikiv-600w-kolir-chorniy-mi6632</url>
         <price>2172.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>40137948-7c36-4187-a598-0d50eb1df16f</categoryId>
@@ -51353,7 +51353,7 @@
         <param name="Колір">Білий (RAL 9016)</param>
       </offer>
       <offer id="MI7046" available="true">
-        <url>https://ol.partners/products/miyki-dlya-kukhni/vrizni-miyki/miyka-z-nerzhaviyuchoi-stali-mixxus-mh6350r-nanosilver-3008-kolir-nerzhaviyka-mi7046</url>
+        <url>https://ol.partners/products/miyki-dlya-kukhni/vrizni-miyki/miyka-z-nerzh-stali-mixxus-mh6350r-ss-color-3008-kolir-nerzh-mi7046</url>
         <price>4037.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>4b1ed2a0-7372-49d4-8570-7be730b86a84</categoryId>
@@ -51563,7 +51563,7 @@
         <param name="Гарантійний період (міс)">96</param>
       </offer>
       <offer id="MI3419" available="true">
-        <url>https://ol.partners/products/sifoni-trapi-dlya-dushu/zlivni-trapi/dushoviy-trap-iz-nerzhaviyuchoi-stali-sus304-mixxus-drain0210x1090-kutove-vidvedennya-mi3419</url>
+        <url>https://ol.partners/products/sifoni-trapi-dlya-dushu/zlivni-trapi/dushoviy-trap-mixxus-drain0210x1090-z-nerzh-stali-sus304-100x100mm-kutoviy-vidvid-kolir-nerzh-mi3419</url>
         <price>239.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>e679a4a9-0158-4101-9206-332f81d1f22b</categoryId>
@@ -51799,7 +51799,7 @@
         <param name="Колір">Білий (RAL 9016)</param>
       </offer>
       <offer id="MI6519" available="true">
-        <url>https://ol.partners/products/sifoni-trapi-dlya-dushu/zlivni-trapi/dushoviy-trap-mixxus-drain0780-z-plast-osnovoyu-i-nakladkoyu-iz-nerzh-stali-sus304-70x800mm-mi6519</url>
+        <url>https://ol.partners/products/sifoni-trapi-dlya-dushu/zlivni-trapi/dushoviy-trap-mixxus-drain0780-z-plastikovoyu-osnovoyu-i-nakladkoyu-iz-nerzh-stali-sus304-70x800mm-kolir-nerzh-mi6519</url>
         <price>1447.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>e679a4a9-0158-4101-9206-332f81d1f22b</categoryId>
@@ -52036,7 +52036,7 @@
         <param name="Діаметр підключення (дюйм)">2</param>
       </offer>
       <offer id="MI6218" available="true">
-        <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/krani/kran-dlya-pidklyuchennya-santekhpriboriv/kran-dlya-pidklyuchennya-santekhpriladiv-mixxus-val1012x34-z-nerzh-stali-sus304-siniy-mi6218</url>
+        <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/krani/kran-dlya-pidklyuchennya-santekhpriboriv/kran-dlya-pidklyuchennya-santekhpriladiv-mixxus-val1012x34-z-nerzh-stali-sus304-kolir-siniy-mi6218</url>
         <price>174.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>85089059-b2ea-414c-a0f0-0cb7187f4e74</categoryId>
@@ -52430,7 +52430,7 @@
         <param name="Колір">Сірий</param>
       </offer>
       <offer id="MX0567" available="false">
-        <url>https://ol.partners/products/miyki-dlya-kukhni/integrovani-miyki/miyka-mixxus-mx4645200x12handmade-mx0567</url>
+        <url>https://ol.partners/products/miyki-dlya-kukhni/integrovani-miyki/miyka-mixxus-mx4645200x12handmade-kolir-nerzh-mx0567</url>
         <price>3168.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>4b1ed2a0-7372-49d4-8570-7be730b86a84</categoryId>
@@ -52605,7 +52605,7 @@
         <param name="Комплектація">Полиця, кріплення, інструкція.</param>
       </offer>
       <offer id="MI6714" available="true">
-        <url>https://ol.partners/products/keramika/bide/bide-pidvisne-mixxus-ellipse0502-520x360x320mm-mi6714</url>
+        <url>https://ol.partners/products/keramika/bide/bide-pidvisne-mixxus-ellipse0502-520kh360kh320mm-mi6714</url>
         <price>5589.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>2e53263c-eb2d-4e24-80ae-a2a492d1a63a</categoryId>
@@ -52970,7 +52970,7 @@
         <param name="Гарантійний період (міс)">12</param>
       </offer>
       <offer id="MX9634" available="true">
-        <url>https://ol.partners/products/miyki-dlya-kukhni/integrovani-miyki/miyka-mixxus-premium-mh7545set05-nanosilver-3008-komplekt-nerzhaviyka-mx9634</url>
+        <url>https://ol.partners/products/miyki-dlya-kukhni/integrovani-miyki/miyka-z-nerzh-stali-mixxus-premium-mh7545set05-nanosilver-3008-komplekt-kolir-nerzh-mx9634</url>
         <price>4796.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>4b1ed2a0-7372-49d4-8570-7be730b86a84</categoryId>
@@ -53321,7 +53321,7 @@
         <param name="Особливості">Кількість повних оборотів ручки від положення "закрито" до "відкрито" 3 шт; Максимальна температура ручки 40?</param>
       </offer>
       <offer id="MX9632" available="true">
-        <url>https://ol.partners/products/miyki-dlya-kukhni/integrovani-miyki/miyka-mixxus-premium-mh7545set05-nanoblack-3008-komplekt-grafit-mx9632</url>
+        <url>https://ol.partners/products/miyki-dlya-kukhni/integrovani-miyki/miyka-z-nerzh-stali-komplekt-mixxus-premium-mh7545set05-nanoblack-3008-komplekt-kolir-grafit-mx9632</url>
         <price>5003.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>4b1ed2a0-7372-49d4-8570-7be730b86a84</categoryId>
@@ -54699,7 +54699,7 @@
         <param name="Колір">Білий (RAL 9016)</param>
       </offer>
       <offer id="MX1697" available="true">
-        <url>https://ol.partners/products/miyki-dlya-kukhni/bagatofunktsionalni-miyki/miyka-mixxus-premium-mh7246set01sus304-z-vbudovanim-zmishuvachem-mx1697</url>
+        <url>https://ol.partners/products/miyki-dlya-kukhni/bagatofunktsionalni-miyki/miyka-z-vbudovanim-zmishuvachem-mixxus-premium-mh7246set01sus304-z-nerzh-stali-sus304-kolir-nerzh-mx1697</url>
         <price>7038.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>4b1ed2a0-7372-49d4-8570-7be730b86a84</categoryId>
@@ -55054,7 +55054,7 @@
       </offer>
       <offer id="KP0247" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/tsirkulyatsiyni-nasosi/nasos-tsirkulyatsiyniy-energozb-koer-kpn25-6180-kp0247</url>
-        <price>3570.00</price>
+        <price>3660.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/791AF2E8-FC46-4756-8490-3BB736E1A3B0</picture>
@@ -56668,7 +56668,7 @@
         <param name="Колір">Сталевий</param>
       </offer>
       <offer id="MI6113" available="false">
-        <url>https://ol.partners/products/protochni-vodonagrivachi/krani-vodonagrivachi/protochniy-vodonagrivach-mixxus-electra-280ew-z-indik-temp-mi6113</url>
+        <url>https://ol.partners/products/protochni-vodonagrivachi/krani-vodonagrivachi/vodonagrivach-3-kw-protochniy-mixxus-electra-280ew-z-indik-temp-reset-na-stinu-z-liykoyu-mi6113</url>
         <price>1553.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>4a363165-8ca2-4875-a8aa-6401eaeb60b7</categoryId>
@@ -57080,7 +57080,7 @@
       </offer>
       <offer id="KP2793" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/sverdlovinni-nasosi/vikhroviy-nasos-z-pultom-koer-4skm200-kp2793</url>
-        <price>8480.00</price>
+        <price>8760.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/D2197716-4FFC-4DAF-B81B-EEE6B7AF2563</picture>
@@ -57476,7 +57476,7 @@
         <param name="Довжина (м)">25</param>
       </offer>
       <offer id="MI6169" available="true">
-        <url>https://ol.partners/products/sifoni-trapi-dlya-dushu/zlivni-trapi/dushoviy-trap-z-nerzh-stali-sus304-mixxus-drain0560slim-black-30x600-mm-chorniy-mi6169</url>
+        <url>https://ol.partners/products/sifoni-trapi-dlya-dushu/zlivni-trapi/dushoviy-trap-mixxus-drain0560slim-black-z-nerzh-stali-sus304-30x600mm-kolir-chorniy-mi6169</url>
         <price>1764.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>e679a4a9-0158-4101-9206-332f81d1f22b</categoryId>
@@ -57534,7 +57534,7 @@
         <param name="Колір">Сталевий</param>
       </offer>
       <offer id="MI6695" available="true">
-        <url>https://ol.partners/products/keramika/sidinnya-dlya-unitazu/sidinnyakrishka-dlya-unitazu-mixxus-seat-cover-wave2002-z-mikroliftom-420kh334kh36mm-mi6695</url>
+        <url>https://ol.partners/products/keramika/sidinnya-dlya-unitazu/sidinnyakrishka-dlya-unitazu-mixxus-seat-cover-wave2002-420kh334kh36mm-dyuroplastove-shvidkoznimne-z-mikroliftom-mi6695</url>
         <price>1794.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>2e53263c-eb2d-4e24-80ae-a2a492d1a63a</categoryId>
@@ -57609,7 +57609,7 @@
         <param name="Колір">Сірий</param>
       </offer>
       <offer id="MI6508" available="false">
-        <url>https://ol.partners/products/protochni-vodonagrivachi/krani-vodonagrivachi/vodonagrivach-protochniy-mixxus-electra-650e-33-kw-z-kriplennyam-na-viliv-mi6508</url>
+        <url>https://ol.partners/products/protochni-vodonagrivachi/krani-vodonagrivachi/vodonagrivach-33-kw-protochniy-mixxus-electra-650e-z-indik-temp-z-kriplennyam-na-viliv-mi6508</url>
         <price>932.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>4a363165-8ca2-4875-a8aa-6401eaeb60b7</categoryId>
@@ -58232,7 +58232,7 @@
         <param name="Розміри (мм)">22x15</param>
       </offer>
       <offer id="MX1935" available="true">
-        <url>https://ol.partners/products/miyki-dlya-kukhni/vrizni-miyki/miyka-mixxus-mh7849lhk-nanosilver-z-nst-gliboke-krilo-z-pidst-pid-nozhinerzh-mx1935</url>
+        <url>https://ol.partners/products/miyki-dlya-kukhni/vrizni-miyki/miyka-z-nerzh-stali-mixxus-mh7849lhk-ss-color3009-z-pidstavkoyu-pid-nozhi-kolir-nerzh-mx1935</url>
         <price>4382.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>4b1ed2a0-7372-49d4-8570-7be730b86a84</categoryId>
@@ -58269,7 +58269,7 @@
         <param name="Колір">Нержавіюча сталь</param>
       </offer>
       <offer id="MI8414" available="true">
-        <url>https://ol.partners/products/miyki-dlya-kukhni/bagatofunktsionalni-miyki/miyka-bagatofunktsionalna-mixxus-mh7546set06-micro-decor-graphite-z-vbudovanim-zmishuvachem-z-nerzhstali-mi8414</url>
+        <url>https://ol.partners/products/miyki-dlya-kukhni/bagatofunktsionalni-miyki/miyka-bagatofunktsionalna-z-vbudovanim-zmishuvachem-mixxus-mh7546set06-micro-decor-graphite-z-nerzh-stali-mi8414</url>
         <price>10316.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>4b1ed2a0-7372-49d4-8570-7be730b86a84</categoryId>
@@ -58431,7 +58431,7 @@
         <param name="Покриття">Хром</param>
       </offer>
       <offer id="MX0773" available="true">
-        <url>https://ol.partners/products/protochni-vodonagrivachi/krani-vodonagrivachi/protochniy-vodonagrivach-mixxus-electra-470ef-z-indik-temp-mx0773</url>
+        <url>https://ol.partners/products/protochni-vodonagrivachi/krani-vodonagrivachi/vodonagrivach-33-kw-protochniy-mixxus-electra-470ef-nerzhaviyucha-stal-z-indik-temp-reflektorniy-viliv-na-miyku-kolir-chorniy-mx0773</url>
         <price>1932.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>4a363165-8ca2-4875-a8aa-6401eaeb60b7</categoryId>
@@ -58884,7 +58884,7 @@
         <param name="Максимальна температура робочої рідини (°C)">110</param>
       </offer>
       <offer id="MX0561" available="true">
-        <url>https://ol.partners/products/miyki-dlya-kukhni/vrizni-miyki/miyka-mixxus-mx7844200x12pvdblack-mx0561</url>
+        <url>https://ol.partners/products/miyki-dlya-kukhni/vrizni-miyki/miyka-mixxus-mx7844200x12pvdblack-kolir-chorniy-mx0561</url>
         <price>4865.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>4b1ed2a0-7372-49d4-8570-7be730b86a84</categoryId>
@@ -60736,7 +60736,7 @@
         <param name="Розміри (мм)">16-2.2mm</param>
       </offer>
       <offer id="MI2749" available="false">
-        <url>https://ol.partners/products/protochni-vodonagrivachi/krani-vodonagrivachi/protochniy-vodonagrivach-mixxus-electra-240e-z-indik-temp-mi2749</url>
+        <url>https://ol.partners/products/protochni-vodonagrivachi/krani-vodonagrivachi/vodonagrivach-3-kw-protochniy-mixxus-electra-240e-z-indik-temp-reset-na-miyku-mi2749</url>
         <price>1311.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>4a363165-8ca2-4875-a8aa-6401eaeb60b7</categoryId>
@@ -61132,7 +61132,7 @@
         <param name="Гарантійний період (міс)">84</param>
       </offer>
       <offer id="MX0774" available="false">
-        <url>https://ol.partners/products/protochni-vodonagrivachi/krani-vodonagrivachi/protochniy-vodonagrivach-mixxus-electra-450e-z-indik-temp-mx0774</url>
+        <url>https://ol.partners/products/protochni-vodonagrivachi/krani-vodonagrivachi/vodonagrivach-33-kw-protochniy-mixxus-electra-450e-nerzhaviyucha-stal-z-indik-temp-na-miyku-mx0774</url>
         <price>1691.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>4a363165-8ca2-4875-a8aa-6401eaeb60b7</categoryId>
@@ -61471,7 +61471,7 @@
         <param name="Макс. температура навколишнього середовища (°C)">50</param>
       </offer>
       <offer id="MI6059" available="true">
-        <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/krani/kran-dlya-pidklyuchennya-santekhpriboriv/kran-dlya-pidklyuchennya-santekhpriladiv-mixxus-val0712x34-black-mi6059</url>
+        <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/krani/kran-dlya-pidklyuchennya-santekhpriboriv/kran-dlya-pidklyuchennya-santekhpriladiv-mixxus-val0712x34-black-z-nerzh-stali-sus304-kolir-chorniy-mi6059</url>
         <price>183.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>85089059-b2ea-414c-a0f0-0cb7187f4e74</categoryId>
@@ -61613,7 +61613,7 @@
         <param name="Комплектація">Три картриджі, комплект трубок для підключення системи, кран</param>
       </offer>
       <offer id="MX0564" available="true">
-        <url>https://ol.partners/products/miyki-dlya-kukhni/vrizni-miyki/miyka-mixxus-mx7843220x10satin-mx0564</url>
+        <url>https://ol.partners/products/miyki-dlya-kukhni/vrizni-miyki/miyka-mixxus-mx7843220x10satin-kolir-nerzh-mx0564</url>
         <price>4002.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>4b1ed2a0-7372-49d4-8570-7be730b86a84</categoryId>
@@ -63270,7 +63270,7 @@
       </offer>
       <offer id="KP2765" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/poverkhneviy-nasos/nasos-poverkhneviy-tsentrobizhniy-koer-2dk20-kp2765</url>
-        <price>6090.00</price>
+        <price>6330.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/4985FB92-6043-45F5-A5AF-0D7E8DBBEB99</picture>
@@ -63520,7 +63520,7 @@
         <param name="Діаметр підключення (дюйм)">3/8</param>
       </offer>
       <offer id="MX0556" available="false">
-        <url>https://ol.partners/products/miyki-dlya-kukhni/integrovani-miyki/miyka-mixxus-mx4843220x10satin-mx0556</url>
+        <url>https://ol.partners/products/miyki-dlya-kukhni/integrovani-miyki/miyka-mixxus-mx4843220x10satin-kolir-nerzh-mx0556</url>
         <price>2829.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>4b1ed2a0-7372-49d4-8570-7be730b86a84</categoryId>
@@ -63646,7 +63646,7 @@
         <param name="Діаметр підключення (дюйм)">1/2</param>
       </offer>
       <offer id="MI7154" available="true">
-        <url>https://ol.partners/products/aksesuari-dlya-vannoi/dozator-dlya-ridkogo-mila/dozator-dlya-miynogo-zasobu-vrizniy-mixxus-dis03sus-z-nerzh-stali-sus304-300-ml-mi7154</url>
+        <url>https://ol.partners/products/aksesuari-dlya-vannoi/dozator-dlya-ridkogo-mila/dispenser-dlya-miynogo-zasobu-vrizniy-mixxus-dis03sus-z-nerzh-stali-sus304-kolir-nerzhaviyuchoi-stali-300-ml-mi7154</url>
         <price>518.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>4b1ed2a0-7372-49d4-8570-7be730b86a84</categoryId>
@@ -65238,7 +65238,7 @@
         <param name="Тип кріплення">Пластиковими кільцями до штанги</param>
       </offer>
       <offer id="MI6703" available="true">
-        <url>https://ol.partners/products/keramika/unitazi/unitaz-pidvisniy-mixxus-bevel0303t3-485x360x365mm-sistema-zmivu-tornado-30-mi6703</url>
+        <url>https://ol.partners/products/keramika/unitazi/unitaz-pidvisniy-mixxus-bevel0303t3-485kh360kh365mm-sistema-zmivu-tornado-30-mi6703</url>
         <price>5175.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>2e53263c-eb2d-4e24-80ae-a2a492d1a63a</categoryId>
@@ -65290,7 +65290,7 @@
         <param name="Поверхня">Глянцева</param>
       </offer>
       <offer id="MX1943" available="true">
-        <url>https://ol.partners/products/miyki-dlya-kukhni/integrovani-miyki/miyka-mixxus-mh7050sk-nanosilver-3008-z-nst-zi-skhodinkoyu-dlya-sushz-pidstpid-nozhinerzhmx1943</url>
+        <url>https://ol.partners/products/miyki-dlya-kukhni/integrovani-miyki/miyka-z-nerzh-stali-mixxus-mh7050sk-nanosilver-3008-zi-skhodinkoyu-dlya-susharki-z-pidstavkoyu-pid-nozhi-kolir-nerzh-mx1943</url>
         <price>4520.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>4b1ed2a0-7372-49d4-8570-7be730b86a84</categoryId>
@@ -65908,7 +65908,7 @@
         <param name="Колір">Під граніт</param>
       </offer>
       <offer id="MI7097" available="true">
-        <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/krani/kran-dlya-pidklyuchennya-santekhpriboriv/kran-dlya-pidklyuchennya-santekhpriladiv-mixxus-val0812x12-z-nerzh-stali-sus304-siniy-mi7097</url>
+        <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/krani/kran-dlya-pidklyuchennya-santekhpriboriv/kran-dlya-pidklyuchennya-santekhpriladiv-mixxus-val0812x12-z-nerzh-stali-sus304-kolir-siniy-mi7097</url>
         <price>150.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>85089059-b2ea-414c-a0f0-0cb7187f4e74</categoryId>
@@ -66367,7 +66367,7 @@
         <param name="Торгова марка">KOER</param>
       </offer>
       <offer id="MI6164" available="true">
-        <url>https://ol.partners/products/sifoni-trapi-dlya-dushu/zlivni-trapi/dushoviy-trap-iz-nerzhaviyuchoi-stali-sus304-mixxus-drain0550slim-30x500-mm-mi6164</url>
+        <url>https://ol.partners/products/sifoni-trapi-dlya-dushu/zlivni-trapi/dushoviy-trap-mixxus-drain0550slim-z-nerzh-stali-sus304-30x500mm-kolir-nerzh-mi6164</url>
         <price>1576.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>e679a4a9-0158-4101-9206-332f81d1f22b</categoryId>
@@ -66485,7 +66485,7 @@
         <param name="Максимальна температура робочої рідини (°C)">40</param>
       </offer>
       <offer id="MI8219" available="true">
-        <url>https://ol.partners/products/miyki-dlya-kukhni/integrovani-miyki/miyka-mixxus-mh5843-micro-decor-black-3008-z-nerzh-stali-kolir-chorniy-mi8219</url>
+        <url>https://ol.partners/products/miyki-dlya-kukhni/integrovani-miyki/miyka-z-nerzh-stali-mixxus-mh5843-micro-decor-black-3008-kolir-chorniy-mi8219</url>
         <price>3830.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>4b1ed2a0-7372-49d4-8570-7be730b86a84</categoryId>
@@ -69262,7 +69262,7 @@
         <param name="Висота (мм)">120</param>
       </offer>
       <offer id="MI6706" available="true">
-        <url>https://ol.partners/products/keramika/unitazi/unitaz-pidvisniy-mixxus-ellipse0307t3-520x373x365mm-sistema-zmivu-tornado-30-mi6706</url>
+        <url>https://ol.partners/products/keramika/unitazi/unitaz-pidvisniy-mixxus-ellipse0307t3-520kh373kh365mm-sistema-zmivu-tornado-30-mi6706</url>
         <price>6072.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>2e53263c-eb2d-4e24-80ae-a2a492d1a63a</categoryId>
@@ -69434,7 +69434,7 @@
         <param name="Гарантійний період (міс)">12</param>
       </offer>
       <offer id="MI6625" available="true">
-        <url>https://ol.partners/products/rushnikosushki/komplektuyuchi-do-rushnikosushok/ten-elektrichniy-mixxus-teh0103-white-dlya-susharok-rushnikiv-300w-kolir-biliy-mi6625</url>
+        <url>https://ol.partners/products/rushnikosushki/komplektuyuchi-do-rushnikosushok/elektrichniy-ten-mixxus-teh0103-white-dlya-susharok-rushnikiv-300w-kolir-biliy-mi6625</url>
         <price>2098.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>40137948-7c36-4187-a598-0d50eb1df16f</categoryId>
@@ -69638,7 +69638,7 @@
         <param name="Макс. температура навколишнього середовища (°C)">40</param>
       </offer>
       <offer id="AC3564" available="true">
-        <url>https://ol.partners/products/zapchastini-dlya-zmishuvacha/donniy-klapan-dlya-rakovini/donniy-klapan-dlya-rakovini-z-perelivom-mixxus-popup08-white-avtomatichniy-clickclack-bila-keramichna-nakladka-1-14-ac3564</url>
+        <url>https://ol.partners/products/zapchastini-dlya-zmishuvacha/donniy-klapan-dlya-rakovini/donniy-klapan-dlya-rakovini-z-perelivom-mixxus-popup08-white-avtomatichniy-clickclack-bila-keram-nakladka-1-14-ac3564</url>
         <price>228.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>e679a4a9-0158-4101-9206-332f81d1f22b</categoryId>
@@ -71313,7 +71313,7 @@
         <param name="Колір">Сірий</param>
       </offer>
       <offer id="MX1932" available="true">
-        <url>https://ol.partners/products/miyki-dlya-kukhni/integrovani-miyki/miyka-mixxus-mh6050-nanosilver-z-nerzh-stali-kolir-nerzh-mx1932</url>
+        <url>https://ol.partners/products/miyki-dlya-kukhni/integrovani-miyki/miyka-z-nerzh-stali-mixxus-mh6050-ss-color-3008-kolir-nerzh-mx1932</url>
         <price>3137.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>4b1ed2a0-7372-49d4-8570-7be730b86a84</categoryId>
@@ -71349,7 +71349,7 @@
         <param name="Комплектація">Мийка, сифон, кріплення</param>
       </offer>
       <offer id="MX0570" available="false">
-        <url>https://ol.partners/products/miyki-dlya-kukhni/integrovani-miyki/miyka-mixxus-mx-304-4645200x12handmade-mx0570</url>
+        <url>https://ol.partners/products/miyki-dlya-kukhni/integrovani-miyki/miyka-mixxus-mx3044645200x12handmade-kolir-nerzh-mx0570</url>
         <price>3246.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>4b1ed2a0-7372-49d4-8570-7be730b86a84</categoryId>
@@ -72384,7 +72384,7 @@
         <param name="Особливості">З витратомірами</param>
       </offer>
       <offer id="MI8390" available="true">
-        <url>https://ol.partners/products/miyki-dlya-kukhni/vrizni-miyki/miyka-z-nerzhaviyuchoi-stali-mixxus-ms7546set01-micro-decor-graphite-3008-komplekt-grafit-mi8390</url>
+        <url>https://ol.partners/products/miyki-dlya-kukhni/vrizni-miyki/miyka-z-nerzh-stali-mixxus-ms7546set01-micro-decor-graphite-3008-komplekt-kolir-grafit-mi8390</url>
         <price>4106.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>4b1ed2a0-7372-49d4-8570-7be730b86a84</categoryId>
@@ -73403,7 +73403,7 @@
         <param name="Колір">Сірий</param>
       </offer>
       <offer id="MI7042" available="true">
-        <url>https://ol.partners/products/miyki-dlya-kukhni/vrizni-miyki/miyka-z-nerzhaviyuchoi-stali-mixxus-mh5843-decor-nanoblack-3008-kolir-grafit-mi7042</url>
+        <url>https://ol.partners/products/miyki-dlya-kukhni/vrizni-miyki/miyka-z-nerzh-stali-mixxus-mh5843-decor-graphite-3008-kolir-grafit-mi7042</url>
         <price>3761.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>4b1ed2a0-7372-49d4-8570-7be730b86a84</categoryId>
@@ -73512,7 +73512,7 @@
         <param name="Комплектація">Мийка, сифон, кріплення, ущільнювальна стрічка, сітка</param>
       </offer>
       <offer id="MI6161" available="false">
-        <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/krani/kran-dlya-pidklyuchennya-santekhpriboriv/kran-dlya-pidklyuchennya-santekhpriladiv-mixxus-val0412x12-z-nerzh-stali-mi6161</url>
+        <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/krani/kran-dlya-pidklyuchennya-santekhpriboriv/kran-dlya-pidklyuchennya-santekhpriladiv-mixxus-val0412x12-z-nerzh-stali-sus304-kolir-nerzh-mi6161</url>
         <price>125.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>85089059-b2ea-414c-a0f0-0cb7187f4e74</categoryId>
@@ -73540,7 +73540,7 @@
         <param name="Колір">Сталевий</param>
       </offer>
       <offer id="MI6720" available="true">
-        <url>https://ol.partners/products/keramika/sidinnya-dlya-unitazu/sidinnyakrishka-dlya-unitazu-mixxus-seat-cover-ellipse2002-z-mikroliftom-460x370x60mm-mi6720</url>
+        <url>https://ol.partners/products/keramika/sidinnya-dlya-unitazu/sidinnyakrishka-dlya-unitazu-mixxus-seat-cover-ellipse2002-460kh370kh60mm-dyuroplastove-shvidkoznimne-z-mikroliftom-mi6720</url>
         <price>1863.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>2e53263c-eb2d-4e24-80ae-a2a492d1a63a</categoryId>
@@ -73769,7 +73769,7 @@
         <param name="Діаметр підключення (дюйм)">1/2</param>
       </offer>
       <offer id="MI2828" available="false">
-        <url>https://ol.partners/products/protochni-vodonagrivachi/krani-vodonagrivachi/protochniy-vodonagrivach-mixxus-electra-240e-black-3-kw-mi2828</url>
+        <url>https://ol.partners/products/protochni-vodonagrivachi/krani-vodonagrivachi/vodonagrivach-3-kw-protochniy-mixxus-electra-240e-black-z-indik-temp-reset-na-miyku-kolir-chorniy-mi2828</url>
         <price>1208.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>4a363165-8ca2-4875-a8aa-6401eaeb60b7</categoryId>
@@ -74118,7 +74118,7 @@
         <param name="Діаметр підключення (дюйм)">1</param>
       </offer>
       <offer id="MI8457" available="true">
-        <url>https://ol.partners/products/miyki-dlya-kukhni/bagatofunktsionalni-miyki/miyka-bagatofunktsionalna-mixxus-mh7546set08-decor-ss-color-z-vbudovanim-zmishuvachem-z-nerzh-stali-mi8457</url>
+        <url>https://ol.partners/products/miyki-dlya-kukhni/bagatofunktsionalni-miyki/miyka-bagatofunktsionalna-z-vbudovanim-zmishuvachem-mixxus-mh7546set08-decor-ss-color-z-nerzh-stali-mi8457</url>
         <price>9205.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>4b1ed2a0-7372-49d4-8570-7be730b86a84</categoryId>
@@ -74465,7 +74465,7 @@
         <param name="Кількість (шт)">1</param>
       </offer>
       <offer id="MI8222" available="true">
-        <url>https://ol.partners/products/miyki-dlya-kukhni/integrovani-miyki/miyka-mixxus-mh6050-micro-decor-brushed-gold-3008-z-nerzh-stali-kolir-matove-zoloto-mi8222</url>
+        <url>https://ol.partners/products/miyki-dlya-kukhni/integrovani-miyki/miyka-z-nerzh-stali-mixxus-mh6050-micro-decor-brushed-gold-3008-kolir-matove-zoloto-mi8222</url>
         <price>4106.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>4b1ed2a0-7372-49d4-8570-7be730b86a84</categoryId>
@@ -74899,7 +74899,7 @@
         <param name="Гарантійний період (міс)">84</param>
       </offer>
       <offer id="MX1944" available="false">
-        <url>https://ol.partners/products/miyki-dlya-kukhni/integrovani-miyki/miyka-mixxus-mh7050sk-nanoblack-3008-z-nst-zi-skhodinkoyu-dlya-sushz-pidstpid-nozhigrafitmx1944</url>
+        <url>https://ol.partners/products/miyki-dlya-kukhni/integrovani-miyki/miyka-z-nerzh-stali-mixxus-mh7050sk-nanoblack-3008-zi-skhodinkoyu-dlya-susharki-z-pidstavkoyu-pid-nozhi-kolir-grafit-mx1944</url>
         <price>4796.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>4b1ed2a0-7372-49d4-8570-7be730b86a84</categoryId>
@@ -76518,7 +76518,7 @@
         <param name="Покриття">Нікель</param>
       </offer>
       <offer id="MX0588" available="false">
-        <url>https://ol.partners/products/miyki-dlya-kukhni/komplekt-dlya-kukhni-miyka-ta-zmishuvach/nabir-mixxus-set6045200x10pvd-miyka-zmishuvach-dispenser-mx0588</url>
+        <url>https://ol.partners/products/miyki-dlya-kukhni/komplekt-dlya-kukhni-miyka-ta-zmishuvach/komplekt-miyka-zmishuvach-dispenser-mixxus-set6045200x10pvdbronze-kolir-bronza-mx0588</url>
         <price>4796.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>4b1ed2a0-7372-49d4-8570-7be730b86a84</categoryId>
@@ -76713,7 +76713,7 @@
         <param name="Гарантійний період (міс)">84</param>
       </offer>
       <offer id="MI8233" available="false">
-        <url>https://ol.partners/products/protochni-vodonagrivachi/krani-vodonagrivachi/vodonagrivach-mixxus-electra-110e-3-kw-protochniy-z-indikatorom-temp-reset-na-miyku-mi8233</url>
+        <url>https://ol.partners/products/protochni-vodonagrivachi/krani-vodonagrivachi/vodonagrivach-33-kw-protochniy-mixxus-electra-110e-z-indik-temp-reset-na-miyku-mi8233</url>
         <price>1070.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>4a363165-8ca2-4875-a8aa-6401eaeb60b7</categoryId>
@@ -79417,7 +79417,7 @@
         <param name="Напруга мережі (V)">230</param>
       </offer>
       <offer id="MX0571" available="false">
-        <url>https://ol.partners/products/miyki-dlya-kukhni/vrizni-miyki/miyka-mixxus-mx-304-5050200x12handmade-mx0571</url>
+        <url>https://ol.partners/products/miyki-dlya-kukhni/vrizni-miyki/miyka-mixxus-mx3045050200x12handmade-kolir-nerzh-mx0571</url>
         <price>3480.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>4b1ed2a0-7372-49d4-8570-7be730b86a84</categoryId>
@@ -79569,7 +79569,7 @@
         <param name="Гарантійний період (міс)">120</param>
       </offer>
       <offer id="MX0572" available="false">
-        <url>https://ol.partners/products/miyki-dlya-kukhni/vrizni-miyki/miyka-mixxus-mx-304-6050200x12handmade-mx0572</url>
+        <url>https://ol.partners/products/miyki-dlya-kukhni/vrizni-miyki/miyka-mixxus-mx3046050200x12handmade-kolir-nerzh-mx0572</url>
         <price>3832.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>4b1ed2a0-7372-49d4-8570-7be730b86a84</categoryId>
@@ -80200,7 +80200,7 @@
         <param name="Колір">Нержавіюча сталь</param>
       </offer>
       <offer id="MI8362" available="false">
-        <url>https://ol.partners/products/keramika/unitazi/chasha-unitazukompaktu-mixxus-wave0404r-bowl-630kh350kh805-rimless-bez-sidinnya-mi8362</url>
+        <url>https://ol.partners/products/keramika/unitazi/chasha-unitazukompaktu-bez-sidinnya-mixxus-wave0404r-bowl-405x350x630-sistema-zmivu-rimless-mi8362</url>
         <price>3933.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>2e53263c-eb2d-4e24-80ae-a2a492d1a63a</categoryId>
@@ -80838,7 +80838,7 @@
         <param name="Упаковка">Термоусаджувальна плівка і фірмова упаковка</param>
       </offer>
       <offer id="MI7040" available="true">
-        <url>https://ol.partners/products/miyki-dlya-kukhni/vrizni-miyki/miyka-z-nerzhaviyuchoi-stali-mixxus-mh5050-decor-nanosilver-3008-kolir-nerzhaviyka-mi7040</url>
+        <url>https://ol.partners/products/miyki-dlya-kukhni/vrizni-miyki/miyka-z-nerzh-stali-mixxus-mh5050-decor-ss-color3008-kolir-nerzh-mi7040</url>
         <price>3036.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>4b1ed2a0-7372-49d4-8570-7be730b86a84</categoryId>
@@ -81123,7 +81123,7 @@
         <param name="Колір">Сірий</param>
       </offer>
       <offer id="MI6627" available="true">
-        <url>https://ol.partners/products/rushnikosushki/komplektuyuchi-do-rushnikosushok/ten-elektrichniy-mixxus-teh0109-white-dlya-susharok-rushnikiv-900w-kolir-biliy-mi6627</url>
+        <url>https://ol.partners/products/rushnikosushki/komplektuyuchi-do-rushnikosushok/elektrichniy-ten-mixxus-teh0109-white-dlya-susharok-rushnikiv-900w-kolir-biliy-mi6627</url>
         <price>2245.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>40137948-7c36-4187-a598-0d50eb1df16f</categoryId>
@@ -81617,7 +81617,7 @@
         <param name="Тип з'єднання">Гайка 1/2 - Штуцер М10</param>
       </offer>
       <offer id="MX0574" available="true">
-        <url>https://ol.partners/products/miyki-dlya-kukhni/vrizni-miyki/miyka-mixxus-mx-304-7851200x12hmglass-mx0574</url>
+        <url>https://ol.partners/products/miyki-dlya-kukhni/vrizni-miyki/miyka-mixxus-mx3047851200x12hmglass-kolir-chorniy-glyantseviy-mx0574</url>
         <price>8211.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>4b1ed2a0-7372-49d4-8570-7be730b86a84</categoryId>
@@ -82021,7 +82021,7 @@
         <param name="Гарантійний період (міс)">84</param>
       </offer>
       <offer id="MI6710" available="true">
-        <url>https://ol.partners/products/keramika/unitazi/unitazkompakt-mixxus-quadro0403r-640x360x835mm-sistema-zmivu-rimless-mi6710</url>
+        <url>https://ol.partners/products/keramika/unitazi/unitazkompakt-mixxus-quadro0403r-640kh360kh835mm-sistema-zmivu-rimless-mi6710</url>
         <price>9660.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>2e53263c-eb2d-4e24-80ae-a2a492d1a63a</categoryId>
@@ -82281,7 +82281,7 @@
         <param name="Матеріал">Поліпропілен</param>
       </offer>
       <offer id="MI8345" available="false">
-        <url>https://ol.partners/products/keramika/unitazi/chasha-unitazukompaktu-mixxus-ellipse0403t3-bowl-640kh360kh835-tornado-30-bez-sidinnya-mi8345</url>
+        <url>https://ol.partners/products/keramika/unitazi/chasha-unitazukompaktu-bez-sidinnya-mixxus-ellipse0403t3-bowl-410x360x640-sistema-zmivu-tornado-30-mi8345</url>
         <price>5382.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>2e53263c-eb2d-4e24-80ae-a2a492d1a63a</categoryId>
@@ -82366,7 +82366,7 @@
         <param name="Колір">Сірий</param>
       </offer>
       <offer id="MI2751" available="false">
-        <url>https://ol.partners/products/protochni-vodonagrivachi/krani-vodonagrivachi/protochniy-vodonagrivach-mixxus-electra-340e-z-indik-temp-mi2751</url>
+        <url>https://ol.partners/products/protochni-vodonagrivachi/krani-vodonagrivachi/vodonagrivach-3-kw-protochniy-mixxus-electra-340e-z-indik-temp-reset-na-miyku-mi2751</url>
         <price>1242.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>4a363165-8ca2-4875-a8aa-6401eaeb60b7</categoryId>
@@ -82922,7 +82922,7 @@
         <param name="Колір">Сталевий</param>
       </offer>
       <offer id="MI8224" available="true">
-        <url>https://ol.partners/products/aksesuari-dlya-vannoi/dozator-dlya-ridkogo-mila/dozator-dlya-miynogo-zasobu-vrizniy-mixxus-dis01sus-brushed-gold-z-sus304-300-ml-kolmatove-zoloto-mi8224</url>
+        <url>https://ol.partners/products/aksesuari-dlya-vannoi/dozator-dlya-ridkogo-mila/dispenser-dlya-miyuchikh-zasobiv-vrizniy-mixxus-dis01sus-brushed-gold-z-nerzh-stali-sus304-300-ml-kolir-matove-zoloto-mi8224</url>
         <price>273.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>4b1ed2a0-7372-49d4-8570-7be730b86a84</categoryId>
@@ -83247,7 +83247,7 @@
         <param name="Макс. температура навколишнього середовища (°C)">40</param>
       </offer>
       <offer id="MI6170" available="true">
-        <url>https://ol.partners/products/sifoni-trapi-dlya-dushu/zlivni-trapi/dushoviy-trap-z-nerzh-stali-sus304-mixxus-drain0570slim-black-30x700-mm-chorniy-mi6170</url>
+        <url>https://ol.partners/products/sifoni-trapi-dlya-dushu/zlivni-trapi/dushoviy-trap-mixxus-drain0570slim-black-z-nerzh-stali-sus304-30x700mm-kolir-chorniy-mi6170</url>
         <price>1838.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>e679a4a9-0158-4101-9206-332f81d1f22b</categoryId>
@@ -85625,7 +85625,7 @@
         <param name="Діаметр підключення (дюйм)">1</param>
       </offer>
       <offer id="MI8336" available="false">
-        <url>https://ol.partners/products/keramika/bachki-dlya-unitazu/bachok-do-unitazukompaktu-mixxus-wave0405r-tank-630kh350kh795-zi-zlivnoyu-armaturoyu-mi8336</url>
+        <url>https://ol.partners/products/keramika/bachki-dlya-unitazu/bachok-do-unitazukompaktu-mixxus-wave0405r-tank-400x350x140-u-komplekti-zi-zlivnoyu-armaturoyu-mi8336</url>
         <price>3036.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>2e53263c-eb2d-4e24-80ae-a2a492d1a63a</categoryId>
@@ -86144,7 +86144,7 @@
         <param name="Особливості">Універсальний розмір.Надійне ущільнення.Сумісний з металопластиком та PEX-трубами</param>
       </offer>
       <offer id="MI8211" available="true">
-        <url>https://ol.partners/products/sifoni-trapi-dlya-dushu/armatura-dlya-unitaziv/komplekt-posilenikh-armatur-mixxus-ak01b-spuskna-1rezh-napovnyuvalna-z-bokovim-pidvedennyam-mi8211</url>
+        <url>https://ol.partners/products/sifoni-trapi-dlya-dushu/armatura-dlya-unitaziv/komplekt-posilenikh-armatur-mixxus-ak01b-spuskna-1rezhim-napovnyuvalna-z-bokovim-pidvedennyam-mi8211</url>
         <price>474.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>bae524de-6825-4762-bea5-e2c2373606ee</categoryId>
@@ -87724,7 +87724,7 @@
         <param name="Колір">Білий</param>
       </offer>
       <offer id="MI8196" available="true">
-        <url>https://ol.partners/products/sifoni-trapi-dlya-dushu/sifoni/sifon-dlya-kukhni-mixxus-sk06bl-3-12x40-z-plastikovoyu-sitkoyu-vidvedennyam-dlya-pralnoi-mashini-gnuchkim-krug-perelivom-mi8196</url>
+        <url>https://ol.partners/products/sifoni-trapi-dlya-dushu/sifoni/sifon-dlya-kukhni-mixxus-sk06bl-3-12x40-z-plastikovoyu-chornoyu-sitkoyu-vidvodom-dlya-pralnoi-mashini-gnuchkim-kruglim-perelivom-mi8196</url>
         <price>256.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>e679a4a9-0158-4101-9206-332f81d1f22b</categoryId>
@@ -88365,7 +88365,7 @@
         <param name="Гарантійний період (міс)">60</param>
       </offer>
       <offer id="MI6510" available="true">
-        <url>https://ol.partners/products/protochni-vodonagrivachi/krani-vodonagrivachi/vodonagrivach-protochniy-mixxus-electra-770e-33-kw-z-kriplennyam-na-viliv-mi6510</url>
+        <url>https://ol.partners/products/protochni-vodonagrivachi/krani-vodonagrivachi/vodonagrivach-33-kw-protochniy-mixxus-electra-770e-z-indik-temp-z-kriplennyam-na-viliv-mi6510</url>
         <price>966.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>4a363165-8ca2-4875-a8aa-6401eaeb60b7</categoryId>
@@ -89391,7 +89391,7 @@
         <param name="Особливості">Регульована висота ринви, ухил внутрішньої частини корпусу ринви</param>
       </offer>
       <offer id="MI8465" available="true">
-        <url>https://ol.partners/products/miyki-dlya-kukhni/bagatofunktsionalni-miyki/miyka-bagatofunktsionalna-mixxus-mh7546set06-decor-ss-color-z-vbudovanim-zmishuvachem-z-nerzh-stali-mi8465</url>
+        <url>https://ol.partners/products/miyki-dlya-kukhni/bagatofunktsionalni-miyki/miyka-bagatofunktsionalna-z-vbudovanim-zmishuvachem-mh7546set06-decor-ss-color-z-nerzh-stali-mi8465</url>
         <price>10316.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>4b1ed2a0-7372-49d4-8570-7be730b86a84</categoryId>
@@ -89885,7 +89885,7 @@
         <param name="Діаметр підключення (дюйм)">1</param>
       </offer>
       <offer id="MX9578" available="true">
-        <url>https://ol.partners/products/miyki-dlya-kukhni/bagatofunktsionalni-miyki/miyka-bagatofunktsionalna-mixxus-mh7546set07-decor-nanoblack-z-vbudovanim-zmishuvachem-mx9578</url>
+        <url>https://ol.partners/products/miyki-dlya-kukhni/bagatofunktsionalni-miyki/miyka-bagatofunktsionalna-z-vbudovanim-zmishuvachem-mixxus-mh7546set07-decor-nanoblack-z-nerzh-stali-kolir-grafit-mx9578</url>
         <price>10695.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>4b1ed2a0-7372-49d4-8570-7be730b86a84</categoryId>
@@ -90033,7 +90033,7 @@
         <param name="Колір">Сірий</param>
       </offer>
       <offer id="MI8427" available="true">
-        <url>https://ol.partners/products/keramika/sidinnya-dlya-unitazu/sidinnyakrishka-dlya-unitazu-mixxus-seat-cover-ellipsebevel2002-430kh360kh30mm-dyuroplastove-shvidkoznimne-z-mikroliftom-mi8427</url>
+        <url>https://ol.partners/products/keramika/sidinnya-dlya-unitazu/sidinnyakrishka-dlya-unitazu-mixxus-seat-cover-ellipsebevel2002-430x360x30mm-dyuroplastove-shvidkoznimne-z-mikroliftom-mi8427</url>
         <price>1794.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>2e53263c-eb2d-4e24-80ae-a2a492d1a63a</categoryId>
@@ -90235,7 +90235,7 @@
         <param name="Колір">Червоний</param>
       </offer>
       <offer id="MI8193" available="true">
-        <url>https://ol.partners/products/sifoni-trapi-dlya-dushu/sifoni/sifon-dlya-kukhni-mixxus-sk05wh-3-12x40-z-plastikovoyu-sitkoyu-vidvedennyam-dlya-pralnoi-mashini-gnuchkim-pryamok-perelivom-mi8193</url>
+        <url>https://ol.partners/products/sifoni-trapi-dlya-dushu/sifoni/sifon-dlya-kukhni-mixxus-sk05wh-3-12x40-z-plastikovoyu-biloyu-sitkoyu-vidvodom-dlya-pralnoi-mashini-gnuchkim-pryamokutnim-perelivom-mi8193</url>
         <price>256.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>e679a4a9-0158-4101-9206-332f81d1f22b</categoryId>
@@ -91072,7 +91072,7 @@
         <param name="Колір">Сірий</param>
       </offer>
       <offer id="MI2744" available="false">
-        <url>https://ol.partners/products/protochni-vodonagrivachi/krani-vodonagrivachi/protochniy-vodonagrivach-mixxus-electra-110e-z-indik-temp-mi2744</url>
+        <url>https://ol.partners/products/protochni-vodonagrivachi/krani-vodonagrivachi/vodonagrivach-3-kw-protochniy-mixxus-electra-110e-z-indik-temp-reset-na-miyku-mi2744</url>
         <price>1070.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>4a363165-8ca2-4875-a8aa-6401eaeb60b7</categoryId>
@@ -91425,7 +91425,7 @@
         <param name="Гарантійний період (міс)">84</param>
       </offer>
       <offer id="MI6702" available="true">
-        <url>https://ol.partners/products/keramika/unitazi/unitaz-pidvisniy-mixxus-quadro0303t3-485x340x365mm-sistema-zmivu-tornado-30-mi6702</url>
+        <url>https://ol.partners/products/keramika/unitazi/unitaz-pidvisniy-mixxus-quadro0303t3-485kh340kh365mm-sistema-zmivu-tornado-30-mi6702</url>
         <price>5175.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>2e53263c-eb2d-4e24-80ae-a2a492d1a63a</categoryId>
@@ -92048,7 +92048,7 @@
         <param name="Довжина труби (м)">10</param>
       </offer>
       <offer id="MX1942" available="false">
-        <url>https://ol.partners/products/miyki-dlya-kukhni/integrovani-miyki/miyka-mixxus-mh6050sk-nanoblack-z-nst-zi-skhoddlya-sushz-pidstavpid-nozhigrafmx1942</url>
+        <url>https://ol.partners/products/miyki-dlya-kukhni/integrovani-miyki/miyka-z-nerzh-stali-mixxus-mh6050sk-nanoblack-3008-zi-skhodinkoyu-dlya-susharki-z-pidstavkoyu-pid-nozhi-kolir-grafit-mx1942</url>
         <price>4313.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>4b1ed2a0-7372-49d4-8570-7be730b86a84</categoryId>
@@ -92402,7 +92402,7 @@
         <param name="Покриття">Нікель</param>
       </offer>
       <offer id="MI2747" available="true">
-        <url>https://ol.partners/products/protochni-vodonagrivachi/krani-vodonagrivachi/protochniy-vodonagrivach-mixxus-electra-240e-blue-z-indik-temp-mi2747</url>
+        <url>https://ol.partners/products/protochni-vodonagrivachi/krani-vodonagrivachi/vodonagrivach-3-kw-protochniy-mixxus-electra-240e-blue-z-indik-temp-reset-na-miyku-kolir-blakitniy-mi2747</url>
         <price>1208.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>4a363165-8ca2-4875-a8aa-6401eaeb60b7</categoryId>
@@ -93792,7 +93792,7 @@
         <param name="Гарантійний період (міс)">12</param>
       </offer>
       <offer id="MI6217" available="true">
-        <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/krani/kran-dlya-pidklyuchennya-santekhpriboriv/kran-dlya-pidklyuchennya-santekhpriladiv-mixxus-val0912x12-z-nerzh-stali-sus304-chervoniy-mi6217</url>
+        <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/krani/kran-dlya-pidklyuchennya-santekhpriboriv/kran-dlya-pidklyuchennya-santekhpriladiv-mixxus-val0912x12-z-nerzh-stali-sus304-kolir-chervoniy-mi6217</url>
         <price>150.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>85089059-b2ea-414c-a0f0-0cb7187f4e74</categoryId>
@@ -94065,7 +94065,7 @@
         <param name="Матеріал виробу">Поліпропілен</param>
       </offer>
       <offer id="MI3420" available="false">
-        <url>https://ol.partners/products/sifoni-trapi-dlya-dushu/zlivni-trapi/dushoviy-trap-iz-nerzhaviyuchoi-stali-sus304-mixxus-drain0415x1590-kutove-vidvedennya-mi3420</url>
+        <url>https://ol.partners/products/sifoni-trapi-dlya-dushu/zlivni-trapi/dushoviy-trap-mixxus-drain0415x1590-z-nerzh-stali-sus304-150x150mm-kutoviy-vidvid-kolir-nerzh-mi3420</url>
         <price>313.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>e679a4a9-0158-4101-9206-332f81d1f22b</categoryId>
@@ -94092,7 +94092,7 @@
         <param name="Тип затвору">Не комбінований</param>
       </offer>
       <offer id="MI7043" available="true">
-        <url>https://ol.partners/products/miyki-dlya-kukhni/vrizni-miyki/miyka-z-nerzhaviyuchoi-stali-mixxus-mh6050-decor-nanosilver-3008-kolir-nerzhaviyka-mi7043</url>
+        <url>https://ol.partners/products/miyki-dlya-kukhni/vrizni-miyki/miyka-z-nerzh-stali-mixxus-mh6050-decor-ss-color3008-kolir-nerzh-mi7043</url>
         <price>3347.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>4b1ed2a0-7372-49d4-8570-7be730b86a84</categoryId>
@@ -94499,7 +94499,7 @@
         <param name="Колір">Чорний</param>
       </offer>
       <offer id="SS0049" available="true">
-        <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/krani/kran-dlya-pidklyuchennya-santekhpriboriv/kran-dlya-pidklyuchennya-santekhpriboriv-12x12-mixxus-val02-chervoniy-nerzh-stal-ss0049</url>
+        <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/krani/kran-dlya-pidklyuchennya-santekhpriboriv/kran-dlya-pidklyuchennya-santekhpriladiv-mixxus-val0212x12-z-nerzh-stali-sus304-kolir-chervoniy-ss0049</url>
         <price>125.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>85089059-b2ea-414c-a0f0-0cb7187f4e74</categoryId>
@@ -95972,7 +95972,7 @@
         <param name="Діаметр підключення (дюйм)">1</param>
       </offer>
       <offer id="MX0563" available="false">
-        <url>https://ol.partners/products/miyki-dlya-kukhni/vrizni-miyki/miyka-mixxus-mx7844200x12pvdgold-mx0563</url>
+        <url>https://ol.partners/products/miyki-dlya-kukhni/vrizni-miyki/miyka-mixxus-mx7844200x12pvdgold-kolir-zoloto-mx0563</url>
         <price>4796.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>4b1ed2a0-7372-49d4-8570-7be730b86a84</categoryId>
@@ -96398,7 +96398,7 @@
         <param name="Робочий тиск (бар)">до 20</param>
       </offer>
       <offer id="MX0578" available="false">
-        <url>https://ol.partners/products/miyki-dlya-kukhni/vrizni-miyki/miyka-mixxus-chorna-mx5050200x10pvd-mx0578</url>
+        <url>https://ol.partners/products/miyki-dlya-kukhni/vrizni-miyki/miyka-mixxus-mx5050200x10pvdblack-kolir-chorniy-mx0578</url>
         <price>3416.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>4b1ed2a0-7372-49d4-8570-7be730b86a84</categoryId>
@@ -97109,7 +97109,7 @@
         <param name="Діаметр підключення (дюйм)">2</param>
       </offer>
       <offer id="MI6634" available="true">
-        <url>https://ol.partners/products/rushnikosushki/komplektuyuchi-do-rushnikosushok/ten-elektrichniy-mixxus-teh0203-chrome-dlya-susharok-rushnikiv-300w-kolir-khrom-mi6634</url>
+        <url>https://ol.partners/products/rushnikosushki/komplektuyuchi-do-rushnikosushok/elektrichniy-ten-mixxus-teh0203-chrome-dlya-susharok-rushnikiv-300w-kolir-khrom-mi6634</url>
         <price>2319.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>40137948-7c36-4187-a598-0d50eb1df16f</categoryId>
@@ -97257,7 +97257,7 @@
         <param name="Міжосьова відстань (мм)">420</param>
       </offer>
       <offer id="MI6711" available="true">
-        <url>https://ol.partners/products/keramika/unitazi/unitazkompakt-mixxus-ellipse0403t3-640x360x835mm-sistema-zmivu-tornado-30-mi6711</url>
+        <url>https://ol.partners/products/keramika/unitazi/unitazkompakt-mixxus-ellipse0403t3-640kh360kh835mm-sistema-zmivu-tornado-30-mi6711</url>
         <price>9660.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>2e53263c-eb2d-4e24-80ae-a2a492d1a63a</categoryId>
@@ -97336,7 +97336,7 @@
         <param name="Матеріал">Латунь</param>
       </offer>
       <offer id="MI8388" available="true">
-        <url>https://ol.partners/products/miyki-dlya-kukhni/vrizni-miyki/miyka-z-nerzhaviyuchoi-stali-mixxus-ms6846set01-micro-decor-graphite-3008-komplekt-grafit-mi8388</url>
+        <url>https://ol.partners/products/miyki-dlya-kukhni/vrizni-miyki/miyka-z-nerzh-stali-mixxus-ms6846set01-micro-decor-graphite-3008-komplekt-kolir-grafit-mi8388</url>
         <price>4037.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>4b1ed2a0-7372-49d4-8570-7be730b86a84</categoryId>
@@ -97797,7 +97797,7 @@
         <param name="Колір">Нержавіюча сталь</param>
       </offer>
       <offer id="MI8331" available="false">
-        <url>https://ol.partners/products/keramika/bachki-dlya-unitazu/bachok-do-unitazukompaktu-mixxus-style0403r-tank-620kh360kh800-zi-zlivnoyu-armaturoyu-mi8331</url>
+        <url>https://ol.partners/products/keramika/bachki-dlya-unitazu/bachok-do-unitazukompaktu-mixxus-style0403r-tank-400x360x140-u-komplekti-zi-zlivnoyu-armaturoyu-mi8331</url>
         <price>3174.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>2e53263c-eb2d-4e24-80ae-a2a492d1a63a</categoryId>
@@ -98240,8 +98240,8 @@
         <param name="Сумісність з панеллю/інсталляцією">Сумісна з інсталляціїєю KT-0401/ KT-0404 / KT-0405 / KT-0406 / KT-0409</param>
         <param name="Гарантійний період (міс)">24</param>
       </offer>
-      <offer id="MX0576" available="true">
-        <url>https://ol.partners/products/miyki-dlya-kukhni/vrizni-miyki/miyka-mixxus-chorna-mx5843200x10pvd-mx0576</url>
+      <offer id="MX0576" available="false">
+        <url>https://ol.partners/products/miyki-dlya-kukhni/vrizni-miyki/miyka-mixxus-mx5843200x10pvdblack-kolir-chorniy-mx0576</url>
         <price>3519.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>4b1ed2a0-7372-49d4-8570-7be730b86a84</categoryId>
@@ -98252,8 +98252,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/fd3a0827-fe75-4365-bca6-433d3a1661bb/image_01.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/fd3a0827-fe75-4365-bca6-433d3a1661bb/image_02.jpg</picture>
         <vendor>MIXXUS</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Мийка Mixxus Чорна MX5843-200x1.0-PVD (MX0576)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>MX0576</vendorCode>
@@ -98555,7 +98555,7 @@
         <param name="Форма">Прямокутна</param>
       </offer>
       <offer id="MX1940" available="true">
-        <url>https://ol.partners/products/miyki-dlya-kukhni/integrovani-miyki/miyka-mixxus-mh5050sk-nanoblack-z-nstzi-skhodinkoyu-dlya-susharki-z-pidstpid-nozhigrafit-mx1940</url>
+        <url>https://ol.partners/products/miyki-dlya-kukhni/integrovani-miyki/miyka-z-nerzh-stali-mixxus-mh5050sk-nanoblack-zi-skhodinkoyu-dlya-susharki-z-pidstavkoyu-pid-nozhi-kolir-grafit-mx1940</url>
         <price>4037.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>4b1ed2a0-7372-49d4-8570-7be730b86a84</categoryId>
@@ -100965,7 +100965,7 @@
         <param name="Гарантійний період (міс)">84</param>
       </offer>
       <offer id="MI6167" available="true">
-        <url>https://ol.partners/products/sifoni-trapi-dlya-dushu/zlivni-trapi/dushoviy-trap-iz-nerzhaviyuchoi-stali-sus304-mixxus-drain0580slim-30x800-mm-mi6167</url>
+        <url>https://ol.partners/products/sifoni-trapi-dlya-dushu/zlivni-trapi/dushoviy-trap-mixxus-drain0580slim-z-nerzh-stali-sus304-30x800mm-kolir-nerzh-mi6167</url>
         <price>1795.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>e679a4a9-0158-4101-9206-332f81d1f22b</categoryId>
@@ -100996,7 +100996,7 @@
         <param name="Колір">Нержавіюча сталь</param>
       </offer>
       <offer id="MI8170" available="true">
-        <url>https://ol.partners/products/protochni-vodonagrivachi/krani-vodonagrivachi/vodonagrivach-mixxus-electra-150e-33-kw-protochniy-z-indikatorom-temperaturi-na-miyku-mi8170</url>
+        <url>https://ol.partners/products/protochni-vodonagrivachi/krani-vodonagrivachi/vodonagrivach-33-kw-protochniy-mixxus-electra-150e-z-indik-temp-mi8170</url>
         <price>1139.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>4a363165-8ca2-4875-a8aa-6401eaeb60b7</categoryId>
@@ -101319,7 +101319,7 @@
         <param name="Покриття">Без покриття</param>
       </offer>
       <offer id="MX1933" available="true">
-        <url>https://ol.partners/products/miyki-dlya-kukhni/integrovani-miyki/miyka-mixxus-mh6050-nanoblack-z-nerzh-stali-kolir-grafit-mx1933</url>
+        <url>https://ol.partners/products/miyki-dlya-kukhni/integrovani-miyki/miyka-z-nerzh-stali-mixxus-mh6050-graphite-3008-kolir-grafit-mx1933</url>
         <price>3702.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>4b1ed2a0-7372-49d4-8570-7be730b86a84</categoryId>
@@ -101432,7 +101432,7 @@
         <param name="Тип конструкції">Відкрита</param>
       </offer>
       <offer id="MI8213" available="true">
-        <url>https://ol.partners/products/miyki-dlya-kukhni/integrovani-miyki/miyka-mixxus-mh5050-micro-decor-graphite-3008-z-nerzh-stali-kolir-grafit-mi8213</url>
+        <url>https://ol.partners/products/miyki-dlya-kukhni/integrovani-miyki/miyka-z-nerzh-stali-mixxus-mh5050-micro-decor-graphite-3008-kolir-grafit-mi8213</url>
         <price>3709.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>4b1ed2a0-7372-49d4-8570-7be730b86a84</categoryId>
@@ -103359,7 +103359,7 @@
         <param name="Ширина (мм)">450</param>
       </offer>
       <offer id="MI8352" available="false">
-        <url>https://ol.partners/products/keramika/unitazi/chasha-unitazukompaktu-mixxus-bevel0405r-bowl-605kh370kh800-rimless-bez-sidinnya-mi8352</url>
+        <url>https://ol.partners/products/keramika/unitazi/chasha-unitazukompaktu-bez-sidinnya-mixxus-bevel0405r-bowl-400x370x605-sistema-zmivu-rimless-mi8352</url>
         <price>4899.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>2e53263c-eb2d-4e24-80ae-a2a492d1a63a</categoryId>
@@ -103437,7 +103437,7 @@
         <param name="Колір">Білий</param>
       </offer>
       <offer id="MI6563" available="true">
-        <url>https://ol.partners/products/zmishuvachi-ta-krani/krani-dlya-pitnoi-vodi/kran-dlya-pitnoi-vodi-mixxus-mono08sus-filter-podviyniy-z-nerzh-stali-mi6563</url>
+        <url>https://ol.partners/products/zmishuvachi-ta-krani/krani-dlya-pitnoi-vodi/kran-dlya-pitnoi-vodi-mixxus-mono08sus-filter-podviyniy-z-nerzh-stali-sus304-kolir-nerzh-mi6563</url>
         <price>805.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>d191ae68-f2ee-4472-8036-e37d06c8ffc9</categoryId>
@@ -103621,7 +103621,7 @@
         <param name="Гарантійний період (міс)">120</param>
       </offer>
       <offer id="MI6811" available="true">
-        <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/krani/kran-dlya-pidklyuchennya-santekhpriboriv/kran-dlya-pidklyuchennya-santekhpriladiv-mixxus-val1112x12x12-z-nerzhaviyuchoi-stali-sus304-siniy-mi6811</url>
+        <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/krani/kran-dlya-pidklyuchennya-santekhpriboriv/kran-dlya-pidklyuchennya-santekhpriladiv-mixxus-val1112x12x12-z-nerzh-stali-sus304-kolir-siniy-mi6811</url>
         <price>290.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>85089059-b2ea-414c-a0f0-0cb7187f4e74</categoryId>
@@ -103933,7 +103933,7 @@
         <param name="Гарантійний період (міс)">84</param>
       </offer>
       <offer id="MI8358" available="false">
-        <url>https://ol.partners/products/keramika/unitazi/chasha-unitazukompaktu-mixxus-style0403r-bowl-620kh360kh800-rimless-bez-sidinnya-mi8358</url>
+        <url>https://ol.partners/products/keramika/unitazi/chasha-unitazukompaktu-bez-sidinnya-mixxus-style0403r-bowl-400x360x620-sistema-zmivu-rimless-mi8358</url>
         <price>4175.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>2e53263c-eb2d-4e24-80ae-a2a492d1a63a</categoryId>
@@ -104034,7 +104034,7 @@
         <param name="Колір">Чорний матовий</param>
       </offer>
       <offer id="MX9576" available="true">
-        <url>https://ol.partners/products/miyki-dlya-kukhni/bagatofunktsionalni-miyki/miyka-bagatofunktsionalna-mixxus-mh7546set06-decor-nanoblack-z-vbudovanim-zmishuvachem-mx9576</url>
+        <url>https://ol.partners/products/miyki-dlya-kukhni/bagatofunktsionalni-miyki/miyka-bagatofunktsionalna-z-vbudovanim-zmishuvachem-mixxus-mh7546set06-decor-nanoblack-z-nerzh-stali-kolir-grafit-mx9576</url>
         <price>10316.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>4b1ed2a0-7372-49d4-8570-7be730b86a84</categoryId>
@@ -104262,7 +104262,7 @@
         <param name="Об'єм (л)">15,00</param>
       </offer>
       <offer id="MX1930" available="true">
-        <url>https://ol.partners/products/miyki-dlya-kukhni/integrovani-miyki/miyka-mixxus-mh5843-nanosilver-z-nerzh-stali-kolir-nerzh-mx1930</url>
+        <url>https://ol.partners/products/miyki-dlya-kukhni/integrovani-miyki/miyka-z-nerzh-stali-mixxus-mh5843-ss-color-3008-kolir-nerzh-mx1930</url>
         <price>2864.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>4b1ed2a0-7372-49d4-8570-7be730b86a84</categoryId>
@@ -107341,7 +107341,7 @@
         <param name="Гарантійний період (міс)">84</param>
       </offer>
       <offer id="MI6162" available="true">
-        <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/krani/kran-dlya-pidklyuchennya-santekhpriboriv/kran-dlya-pidklyuchennya-santekhpriladiv-mixxus-val0512x34-z-nerzh-stali-mi6162</url>
+        <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/krani/kran-dlya-pidklyuchennya-santekhpriboriv/kran-dlya-pidklyuchennya-santekhpriladiv-mixxus-val0512x34-z-nerzh-stali-sus304-kolir-nerzh-mi6162</url>
         <price>145.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>85089059-b2ea-414c-a0f0-0cb7187f4e74</categoryId>
@@ -107367,7 +107367,7 @@
         <param name="Колір">Сталевий</param>
       </offer>
       <offer id="SS0048" available="false">
-        <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/krani/kran-dlya-pidklyuchennya-santekhpriboriv/kran-dlya-pidklyuchennya-santekhpriboriv-1-2x1-2-mixxus-val01-siniy-nerzh-stal-ss0048</url>
+        <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/krani/kran-dlya-pidklyuchennya-santekhpriboriv/kran-dlya-pidklyuchennya-santekhpriladiv-mixxus-val0112x12-z-nerzh-stali-sus304-kolir-siniy-ss0048</url>
         <price>125.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>85089059-b2ea-414c-a0f0-0cb7187f4e74</categoryId>
@@ -107621,7 +107621,7 @@
         <param name="Довжина кабелю (м)">1,00</param>
       </offer>
       <offer id="MI6633" available="true">
-        <url>https://ol.partners/products/rushnikosushki/komplektuyuchi-do-rushnikosushok/ten-elektrichniy-mixxus-teh0209-black-dlya-susharok-rushnikiv-900w-kolir-chorniy-mi6633</url>
+        <url>https://ol.partners/products/rushnikosushki/komplektuyuchi-do-rushnikosushok/elektrichniy-ten-mixxus-teh0209-black-dlya-susharok-rushnikiv-900w-kolir-chorniy-mi6633</url>
         <price>2245.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>40137948-7c36-4187-a598-0d50eb1df16f</categoryId>
@@ -108683,7 +108683,7 @@
         <param name="Висота (мм)">180</param>
       </offer>
       <offer id="MI8216" available="true">
-        <url>https://ol.partners/products/miyki-dlya-kukhni/integrovani-miyki/miyka-mixxus-mh5843-micro-decor-ss-color-3008-z-nerzh-stali-kolir-nerzh-mi8216</url>
+        <url>https://ol.partners/products/miyki-dlya-kukhni/integrovani-miyki/miyka-z-nerzh-stali-mixxus-mh5843-micro-decor-ss-color-3008-kolir-nerzhaviyka-mi8216</url>
         <price>3168.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>4b1ed2a0-7372-49d4-8570-7be730b86a84</categoryId>
@@ -109101,7 +109101,7 @@
         <param name="Діаметр підключення (мм)">90</param>
       </offer>
       <offer id="MI8341" available="false">
-        <url>https://ol.partners/products/keramika/unitazi/chasha-unitazukompaktu-mixxus-quadro0403r-bowl-640kh360kh835-rimless-bez-sidinnya-mi8341</url>
+        <url>https://ol.partners/products/keramika/unitazi/chasha-unitazukompaktu-bez-sidinnya-mixxus-quadro0403r-bowl-425x360x640-sistema-zmivu-rimless-mi8341</url>
         <price>5624.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>2e53263c-eb2d-4e24-80ae-a2a492d1a63a</categoryId>
@@ -109221,7 +109221,7 @@
         <param name="Діаметр підключення (мм)">50</param>
       </offer>
       <offer id="MI8342" available="false">
-        <url>https://ol.partners/products/keramika/unitazi/chasha-unitazukompaktu-mixxus-quadro0404t1-bowl-660kh360kh820-tornado-10-bez-sidinnya-mi8342</url>
+        <url>https://ol.partners/products/keramika/unitazi/chasha-unitazukompaktu-bez-sidinnya-mixxus-quadro0404t1-bowl-400x355x620-sistema-zmivu-tornado-10-mi8342</url>
         <price>4175.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>2e53263c-eb2d-4e24-80ae-a2a492d1a63a</categoryId>
@@ -110003,7 +110003,7 @@
         <param name="Гарантійний період (міс)">84</param>
       </offer>
       <offer id="MX1948" available="true">
-        <url>https://ol.partners/products/aksesuari-dlya-kukhni/susharka-dlya-posudu/susharka-dlya-posudu-mixxus-bas03sus-390mm-z-nerzh-stali-sus304-mx1948</url>
+        <url>https://ol.partners/products/aksesuari-dlya-kukhni/susharka-dlya-posudu/susharka-dlya-posudu-mixxus-bas03sus-420mm-z-nerzh-stali-sus304-kolir-nerzh-mx1948</url>
         <price>502.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>4b1ed2a0-7372-49d4-8570-7be730b86a84</categoryId>
@@ -110155,7 +110155,7 @@
         <param name="Пропускна здатність (л/хв)">33,00</param>
       </offer>
       <offer id="MI6628" available="true">
-        <url>https://ol.partners/products/rushnikosushki/komplektuyuchi-do-rushnikosushok/ten-elektrichniy-mixxus-teh0103-chrome-dlya-susharok-rushnikiv-300w-kolir-khrom-mi6628</url>
+        <url>https://ol.partners/products/rushnikosushki/komplektuyuchi-do-rushnikosushok/elektrichniy-ten-mixxus-teh0103-chrome-dlya-susharok-rushnikiv-300w-kolir-khrom-mi6628</url>
         <price>2319.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>40137948-7c36-4187-a598-0d50eb1df16f</categoryId>
@@ -110295,7 +110295,7 @@
         <param name="Покриття">Нікель</param>
       </offer>
       <offer id="MX0772" available="false">
-        <url>https://ol.partners/products/protochni-vodonagrivachi/krani-vodonagrivachi/protochniy-vodonagrivach-mixxus-electra-470e-z-indik-temp-mx0772</url>
+        <url>https://ol.partners/products/protochni-vodonagrivachi/krani-vodonagrivachi/vodonagrivach-33-kw-protochniy-mixxus-electra-470e-nerzhaviyucha-stal-z-indik-temp-na-miyku-mx0772</url>
         <price>1725.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>4a363165-8ca2-4875-a8aa-6401eaeb60b7</categoryId>
@@ -110358,7 +110358,7 @@
         <param name="Особливості">Утримує частки від 10 мкм</param>
       </offer>
       <offer id="MI6642" available="true">
-        <url>https://ol.partners/products/protochni-vodonagrivachi/krani-vodonagrivachi/protochniy-vodonagrivach-mixxus-electra-570ef-graphite-34kw-z-indikatorom-temperaturi-mi6642</url>
+        <url>https://ol.partners/products/protochni-vodonagrivachi/krani-vodonagrivachi/vodonagrivach-34-kw-protochniy-mixxus-electra-570ef-graphite-nerzhaviyucha-stal-z-indik-temp-reflektorniy-viliv-na-miyku-kolir-grafit-mi6642</url>
         <price>5417.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>4a363165-8ca2-4875-a8aa-6401eaeb60b7</categoryId>
@@ -111111,7 +111111,7 @@
         <param name="Колір">Хром</param>
       </offer>
       <offer id="MI7047" available="false">
-        <url>https://ol.partners/products/miyki-dlya-kukhni/vrizni-miyki/miyka-z-nerzhaviyuchoi-stali-mixxus-mh6350r-nanoblack-3008-kolir-grafit-mi7047</url>
+        <url>https://ol.partners/products/miyki-dlya-kukhni/vrizni-miyki/miyka-z-nerzh-stali-mixxus-mh6350r-graphite-3008-kolir-grafit-mi7047</url>
         <price>4658.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>4b1ed2a0-7372-49d4-8570-7be730b86a84</categoryId>
@@ -111710,7 +111710,7 @@
         <param name="Комплектація">Рушникотримач, кріплення.</param>
       </offer>
       <offer id="MI8349" available="false">
-        <url>https://ol.partners/products/keramika/unitazi/chasha-unitazukompaktu-mixxus-bevel0403t3-bowl-640kh360kh835-tornado-30-bez-sidinnya-mi8349</url>
+        <url>https://ol.partners/products/keramika/unitazi/chasha-unitazukompaktu-bez-sidinnya-mixxus-bevel0403t3-bowl-410x360x640-sistema-zmivu-tornado-30-mi8349</url>
         <price>5382.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>2e53263c-eb2d-4e24-80ae-a2a492d1a63a</categoryId>
@@ -112366,7 +112366,7 @@
         <param name="Ширина (мм)">365</param>
       </offer>
       <offer id="MI6329" available="true">
-        <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/krani/kran-dlya-pidklyuchennya-santekhpriboriv/kran-dlya-pidklyuchennya-santekhpriladiv-mixxus-ang0612x34-mi6329</url>
+        <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/krani/kran-dlya-pidklyuchennya-santekhpriboriv/kran-mixxus-premium-ang0612x34-dlya-pidklyuchennya-santekhpriladiv-kolir-khrom-mi6329</url>
         <price>253.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>85089059-b2ea-414c-a0f0-0cb7187f4e74</categoryId>
@@ -112395,7 +112395,7 @@
         <param name="Тип приєднання">Різьбове</param>
       </offer>
       <offer id="MI6534" available="true">
-        <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/krani/kran-dlya-pidklyuchennya-santekhpriboriv/kran-dlya-pidklyuchennya-santekhpriladiv-z-nerzh-stali-sus304-mixxus-val0412x12-mi6534</url>
+        <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/krani/kran-dlya-pidklyuchennya-santekhpriboriv/kran-dlya-pidklyuchennya-santekhpriladiv-mixxus-val0412x12-z-nerzh-stali-sus304-kolir-nerzh-mi6534</url>
         <price>125.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>85089059-b2ea-414c-a0f0-0cb7187f4e74</categoryId>
@@ -112607,7 +112607,7 @@
       </offer>
       <offer id="KP2634" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/sverdlovinni-nasosi/tsentrobizhniy-nasos-koer-4sdm-29-40m-pult-kp2634</url>
-        <price>7390.00</price>
+        <price>7700.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/991E8895-E3E1-4367-89B9-A74574BE4657</picture>
@@ -113577,7 +113577,7 @@
         <param name="Колір">Латунний</param>
       </offer>
       <offer id="MI8391" available="true">
-        <url>https://ol.partners/products/miyki-dlya-kukhni/vrizni-miyki/miyka-z-nerzhaviyuchoi-stali-mixxus-ms7546set01-micro-decor-ss-color-3008-komplekt-nerzh-mi8391</url>
+        <url>https://ol.partners/products/miyki-dlya-kukhni/vrizni-miyki/miyka-z-nerzh-stali-mixxus-ms7546set01-micro-decor-ss-color-3008-komplekt-kolir-nerzhaviyka-mi8391</url>
         <price>3899.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>4b1ed2a0-7372-49d4-8570-7be730b86a84</categoryId>
@@ -113616,7 +113616,7 @@
         <param name="Наявність PVD покриття">Так</param>
       </offer>
       <offer id="MX1936" available="true">
-        <url>https://ol.partners/products/miyki-dlya-kukhni/vrizni-miyki/miyka-mixxus-mh7849lhk-nanoblack-3009-z-nerzhaviyuchoi-stali-gliboke-krilo-z-pidstavkoyu-pid-nozhi-mx1936</url>
+        <url>https://ol.partners/products/miyki-dlya-kukhni/vrizni-miyki/miyka-z-nerzh-stali-mixxus-mh7849lhk-graphite3009-gliboke-krilo-z-pidstavkoyu-pid-nozhi-kolir-grafit-mx1936</url>
         <price>5486.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>4b1ed2a0-7372-49d4-8570-7be730b86a84</categoryId>
@@ -114194,7 +114194,7 @@
         <param name="Форма">Кутова</param>
       </offer>
       <offer id="MI6704" available="true">
-        <url>https://ol.partners/products/keramika/unitazi/unitaz-pidvisniy-mixxus-ellipse0306t3-520x360x365mm-sistema-zmivu-tornado-30-mi6704</url>
+        <url>https://ol.partners/products/keramika/unitazi/unitaz-pidvisniy-mixxus-ellipse0306t3-520kh360kh365mm-sistema-zmivu-tornado-30-mi6704</url>
         <price>5175.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>2e53263c-eb2d-4e24-80ae-a2a492d1a63a</categoryId>
@@ -114779,7 +114779,7 @@
         <param name="Колір">Сталевий</param>
       </offer>
       <offer id="MI6328" available="true">
-        <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/krani/kran-dlya-pidklyuchennya-santekhpriboriv/kran-dlya-pidklyuchennya-santekhpriladiv-mixxus-ang0512x12-mi6328</url>
+        <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/krani/kran-dlya-pidklyuchennya-santekhpriboriv/kran-mixxus-premium-ang0512x12-dlya-pidklyuchennya-santekhpriladiv-kolir-khrom-mi6328</url>
         <price>235.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>85089059-b2ea-414c-a0f0-0cb7187f4e74</categoryId>
@@ -115779,7 +115779,7 @@
         <param name="Колір">Сталевий</param>
       </offer>
       <offer id="MI6717" available="true">
-        <url>https://ol.partners/products/keramika/sidinnya-dlya-unitazu/sidinnyakrishka-dlya-unitazu-mixxus-seat-cover-quadro2001-z-mikroliftom-450x360x60mm-mi6717</url>
+        <url>https://ol.partners/products/keramika/sidinnya-dlya-unitazu/sidinnyakrishka-dlya-unitazu-mixxus-seat-cover-quadro2001-450kh360kh60mm-dyuroplastove-shvidkoznimne-z-mikroliftom-mi6717</url>
         <price>1794.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>2e53263c-eb2d-4e24-80ae-a2a492d1a63a</categoryId>
@@ -116413,7 +116413,7 @@
         <param name="Матеріал">Поліпропілен</param>
       </offer>
       <offer id="MI8425" available="false">
-        <url>https://ol.partners/products/keramika/unitazi/unitaz-pidvisniy-mixxus-bevel0305t3-480kh360kh340mm-sistema-zmivu-tornado-30-mi8425</url>
+        <url>https://ol.partners/products/keramika/unitazi/unitaz-pidvisniy-mixxus-bevel0305t3-480x360x340mm-sistema-zmivu-tornado-30-mi8425</url>
         <price>5175.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>2e53263c-eb2d-4e24-80ae-a2a492d1a63a</categoryId>
@@ -118754,7 +118754,7 @@
         <param name="Пропускна здатність (л/хв)">33,00</param>
       </offer>
       <offer id="MI6516" available="true">
-        <url>https://ol.partners/products/sifoni-trapi-dlya-dushu/zlivni-trapi/dushoviy-trap-mixxus-drain0750-z-plast-osnovoyu-i-nakladkoyu-iz-nerzh-stali-sus304-70x500mm-mi6516</url>
+        <url>https://ol.partners/products/sifoni-trapi-dlya-dushu/zlivni-trapi/dushoviy-trap-mixxus-drain0750-z-plastikovoyu-osnovoyu-i-nakladkoyu-iz-nerzh-stali-sus304-70x500mm-kolir-nerzh-mi6516</url>
         <price>1095.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>e679a4a9-0158-4101-9206-332f81d1f22b</categoryId>
@@ -119031,7 +119031,7 @@
         <param name="Довжина (мм)">500</param>
       </offer>
       <offer id="MI6509" available="false">
-        <url>https://ol.partners/products/protochni-vodonagrivachi/krani-vodonagrivachi/vodonagrivach-mixxus-electra-650e-chrome-33-kw-z-kriplennyam-na-viliv-mi6509</url>
+        <url>https://ol.partners/products/protochni-vodonagrivachi/krani-vodonagrivachi/vodonagrivach-33-kw-protochniy-mixxus-electra-650e-chrome-z-indik-temp-z-kriplennyam-na-viliv-mi6509</url>
         <price>1070.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>4a363165-8ca2-4875-a8aa-6401eaeb60b7</categoryId>
@@ -119400,7 +119400,7 @@
         <param name="Діаметр випускного отвору (мм)">32,00</param>
       </offer>
       <offer id="MI2745" available="true">
-        <url>https://ol.partners/products/protochni-vodonagrivachi/krani-vodonagrivachi/protochniy-vodonagrivach-mixxus-electra-120e-z-indik-temp-mi2745</url>
+        <url>https://ol.partners/products/protochni-vodonagrivachi/krani-vodonagrivachi/vodonagrivach-3-kw-protochniy-mixxus-electra-120e-z-indik-temp-reset-na-miyku-mi2745</url>
         <price>1001.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>4a363165-8ca2-4875-a8aa-6401eaeb60b7</categoryId>
@@ -119720,7 +119720,7 @@
         <param name="Тип з'єднання">Встик-внахлест</param>
       </offer>
       <offer id="MX1955" available="false">
-        <url>https://ol.partners/products/aksesuari-dlya-vannoi/dozator-dlya-ridkogo-mila/dozator-dlya-miynogo-zasobu-vrizniy-mixxus-dis01sus-graphite-dis01sus-nanoblack-sus304-300-ml-grafit-mx1955</url>
+        <url>https://ol.partners/products/aksesuari-dlya-vannoi/dozator-dlya-ridkogo-mila/dispenser-dlya-miynogo-zasobu-vrizniy-mixxus-dis01sus-graphite-z-nerzh-stali-sus304-300ml-kolir-grafit-mx1955</url>
         <price>318.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>4b1ed2a0-7372-49d4-8570-7be730b86a84</categoryId>
@@ -120354,7 +120354,7 @@
         <param name="Матеріал виробу">Алюміній</param>
       </offer>
       <offer id="MI7049" available="true">
-        <url>https://ol.partners/products/miyki-dlya-kukhni/vrizni-miyki/miyka-z-nerzhaviyuchoi-stali-mixxus-mh7849l-nanoblack-3008-kolir-grafit-mi7049</url>
+        <url>https://ol.partners/products/miyki-dlya-kukhni/vrizni-miyki/miyka-z-nerzh-stali-mixxus-mh7849l-nanoblack-3008-kolir-grafit-mi7049</url>
         <price>5417.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>4b1ed2a0-7372-49d4-8570-7be730b86a84</categoryId>
@@ -120926,7 +120926,7 @@
         <param name="Матеріал виробу">Латунь CW617N нікельована</param>
       </offer>
       <offer id="MI6708" available="true">
-        <url>https://ol.partners/products/keramika/unitazi/unitaz-pidvisniy-mixxus-ellipse0306r-520x360x365mm-sistema-zmivu-rimless-mi6708</url>
+        <url>https://ol.partners/products/keramika/unitazi/unitaz-pidvisniy-mixxus-ellipse0306r-520kh360kh365mm-sistema-zmivu-rimless-mi6708</url>
         <price>5175.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>2e53263c-eb2d-4e24-80ae-a2a492d1a63a</categoryId>
@@ -121204,7 +121204,7 @@
         <param name="Розміри (мм)">35x22</param>
       </offer>
       <offer id="MI8412" available="true">
-        <url>https://ol.partners/products/sifoni-trapi-dlya-dushu/armatura-dlya-unitaziv/komplekt-armaturi-mixxus-button180312-zlivna-2kh-knopkova-napovn-z-nizhnim-pidvedennyam-plast-rizblennya-12-mi8412</url>
+        <url>https://ol.partners/products/sifoni-trapi-dlya-dushu/armatura-dlya-unitaziv/komplekt-armaturi-mixxus-button180312-spuskna-2kh-knopochna-napovnyuvalna-z-nizhnim-pidvedennyam-plastikove-rizblennya-12-mi8412</url>
         <price>759.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>bae524de-6825-4762-bea5-e2c2373606ee</categoryId>
@@ -122094,7 +122094,7 @@
         <param name="Колір">Сірий</param>
       </offer>
       <offer id="MX0586" available="false">
-        <url>https://ol.partners/products/miyki-dlya-kukhni/komplekt-dlya-kukhni-miyka-ta-zmishuvach/nabir-mixxus-set7843d220x10pvd-miyka-zmishuvach-dispenser-mx0586</url>
+        <url>https://ol.partners/products/miyki-dlya-kukhni/komplekt-dlya-kukhni-miyka-ta-zmishuvach/komplekt-miyka-zmishuvach-dispenser-mixxus-set7843d220x10pvdbronze-kolir-bronza-mx0586</url>
         <price>6141.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>4b1ed2a0-7372-49d4-8570-7be730b86a84</categoryId>
@@ -122568,7 +122568,7 @@
         <param name="Діаметр підключення (дюйм)">2</param>
       </offer>
       <offer id="MI6514" available="true">
-        <url>https://ol.partners/products/sifoni-trapi-dlya-dushu/zlivni-trapi/dushoviy-trap-mixxus-drain0730-z-plast-osnovoyu-i-nakladkoyu-iz-nerzh-stali-sus304-70x300mm-mi6514</url>
+        <url>https://ol.partners/products/sifoni-trapi-dlya-dushu/zlivni-trapi/dushoviy-trap-mixxus-drain0730-z-plastikovoyu-osnovoyu-i-nakladkoyu-iz-nerzh-stali-sus304-70x300mm-kolir-nerzh-mi6514</url>
         <price>900.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>e679a4a9-0158-4101-9206-332f81d1f22b</categoryId>
@@ -123889,7 +123889,7 @@
         <param name="Колір">Білий (RAL 9016)</param>
       </offer>
       <offer id="MX0575" available="true">
-        <url>https://ol.partners/products/miyki-dlya-kukhni/vrizni-miyki/miyka-mixxus-mx5843200x10satin-mx0575</url>
+        <url>https://ol.partners/products/miyki-dlya-kukhni/vrizni-miyki/miyka-mixxus-mx5843200x10satin-kolir-nerzh-mx0575</url>
         <price>2898.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>4b1ed2a0-7372-49d4-8570-7be730b86a84</categoryId>
@@ -125131,7 +125131,7 @@
         <param name="Робочий тиск (бар)">16</param>
       </offer>
       <offer id="MI6809" available="true">
-        <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/krani/kran-dlya-pidklyuchennya-santekhpriboriv/kran-dlya-pidklyuchennya-santekhpriladiv-mixxus-val0612x12-z-nerzhaviyuchoi-stali-sus304-mi6809</url>
+        <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/krani/kran-dlya-pidklyuchennya-santekhpriboriv/kran-dlya-pidklyuchennya-santekhpriladiv-mixxus-val0612x12-z-nerzh-stali-sus304-kolir-nerzh-mi6809</url>
         <price>133.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>85089059-b2ea-414c-a0f0-0cb7187f4e74</categoryId>
@@ -125294,7 +125294,7 @@
         <param name="Гарантійний період (міс)">12</param>
       </offer>
       <offer id="MI8392" available="true">
-        <url>https://ol.partners/products/zapchastini-dlya-zmishuvacha/donniy-klapan-dlya-rakovini/shtok-donnogo-klapana-mixxus-rod01-pyatki-slickslack-16mm-x-8mm-latunniy-mi8392</url>
+        <url>https://ol.partners/products/zapchastini-dlya-zmishuvacha/donniy-klapan-dlya-rakovini/shtok-donnogo-klapana-pyatki-mixxus-rod01-clickclack-16mm-x-8mm-latunniy-mi8392</url>
         <price>92.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>e679a4a9-0158-4101-9206-332f81d1f22b</categoryId>
@@ -125646,7 +125646,7 @@
         <param name="Форма кнопки зливу">Кругла</param>
       </offer>
       <offer id="MI6325" available="true">
-        <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/krani/kran-dlya-pidklyuchennya-santekhpriboriv/kran-dlya-pidklyuchennya-santekhpriladiv-mixxus-ang0212x34-mi6325</url>
+        <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/krani/kran-dlya-pidklyuchennya-santekhpriboriv/kran-mixxus-premium-ang0212x34-dlya-pidklyuchennya-santekhpriladiv-kolir-khrom-mi6325</url>
         <price>253.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>85089059-b2ea-414c-a0f0-0cb7187f4e74</categoryId>
@@ -126263,7 +126263,7 @@
         <param name="Колір">Сірий</param>
       </offer>
       <offer id="MI6722" available="true">
-        <url>https://ol.partners/products/keramika/sidinnya-dlya-unitazu/sidinnyakrishka-dlya-unitazu-mixxus-seat-cover-ellipse2003-z-mikroliftom-475x368x70mm-mi6722</url>
+        <url>https://ol.partners/products/keramika/sidinnya-dlya-unitazu/sidinnyakrishka-dlya-unitazu-mixxus-seat-cover-ellipse2003-475kh368kh70mm-dyuroplastove-shvidkoznimne-z-mikroliftom-mi6722</url>
         <price>1794.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>2e53263c-eb2d-4e24-80ae-a2a492d1a63a</categoryId>
@@ -126303,7 +126303,7 @@
         <param name="Розміри виробу (ВхШхГ)">70x475x368</param>
       </offer>
       <offer id="MI7052" available="true">
-        <url>https://ol.partners/products/miyki-dlya-kukhni/vrizni-miyki/miyka-z-nerzhaviyuchoi-stali-mixxus-mh8350dk-nanosilver-3008-kolir-nerzhaviyka-mi7052</url>
+        <url>https://ol.partners/products/miyki-dlya-kukhni/vrizni-miyki/miyka-z-nerzh-stali-mixxus-mh8350dk-nanosilver-3008-kolir-nerzh-mi7052</url>
         <price>5003.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>4b1ed2a0-7372-49d4-8570-7be730b86a84</categoryId>
@@ -127196,7 +127196,7 @@
         <param name="Довжина (мм)">1200</param>
       </offer>
       <offer id="MI6731" available="true">
-        <url>https://ol.partners/products/keramika/sidinnya-dlya-unitazu/sidinnyakrishka-dlya-unitazu-mixxus-seat-cover-style2001-445kh360kh30mm-z-mikroliftom-mi6731</url>
+        <url>https://ol.partners/products/keramika/sidinnya-dlya-unitazu/sidinnyakrishka-dlya-unitazu-mixxus-seat-cover-style2001-445kh360kh30mm-dyuroplastove-shvidkoznimne-z-mikroliftom-mi6731</url>
         <price>1794.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>2e53263c-eb2d-4e24-80ae-a2a492d1a63a</categoryId>
@@ -127444,7 +127444,7 @@
         <param name="Тип з'єднання">Гайка-Гайка 1/2x1/2</param>
       </offer>
       <offer id="MI5867" available="true">
-        <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/krani/kran-dlya-pidklyuchennya-santekhpriboriv/kran-dlya-pidklyuchennya-santekhpriladiv-12x34-mixxus-val03-siniy-mi5867</url>
+        <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/krani/kran-dlya-pidklyuchennya-santekhpriboriv/kran-dlya-pidklyuchennya-santekhpriladiv-mixxus-val0312x34-z-nerzh-stali-sus304-kolir-siniy-mi5867</url>
         <price>145.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>85089059-b2ea-414c-a0f0-0cb7187f4e74</categoryId>
@@ -129282,7 +129282,7 @@
         <param name="Колір">Сірий</param>
       </offer>
       <offer id="MI8330" available="false">
-        <url>https://ol.partners/products/keramika/bachki-dlya-unitazu/bachok-do-unitazukompaktu-mixxus-style0404t3-tank-650x350x830-zi-zlivnoyu-armaturoyu-mi8330</url>
+        <url>https://ol.partners/products/keramika/bachki-dlya-unitazu/bachok-do-unitazukompaktu-mixxus-style0404t3-tank-430x350x140-u-komplekti-zi-zlivnoyu-armaturoyu-mi8330</url>
         <price>3036.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>2e53263c-eb2d-4e24-80ae-a2a492d1a63a</categoryId>
@@ -131613,7 +131613,7 @@
       </offer>
       <offer id="KP2659" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/poverkhneviy-nasos/nasos-poverkh-samovsmoktuvalniy-koer-jet100b-kp2659</url>
-        <price>4330.00</price>
+        <price>4470.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/031A7035-2EE1-443E-9F15-4E5057C677B8</picture>
@@ -131672,7 +131672,7 @@
         <param name="Висота (мм)">235</param>
       </offer>
       <offer id="MI8212" available="true">
-        <url>https://ol.partners/products/miyki-dlya-kukhni/integrovani-miyki/miyka-mixxus-mh5050-micro-decor-ss-color-3008-z-nerzh-stali-kolir-nerzhaviyka-mi8212</url>
+        <url>https://ol.partners/products/miyki-dlya-kukhni/integrovani-miyki/miyka-z-nerzh-stali-mixxus-mh5050-micro-decor-ss-color-3008-kolir-nerzhaviyka-mi8212</url>
         <price>3105.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>4b1ed2a0-7372-49d4-8570-7be730b86a84</categoryId>
@@ -131961,7 +131961,7 @@
         <param name="Діаметр підключення (дюйм)">1</param>
       </offer>
       <offer id="MI6712" available="true">
-        <url>https://ol.partners/products/keramika/unitazi/unitazkompakt-mixxus-bevel0403t3-640x360x835mm-sistema-zmivu-tornado-30-mi6712</url>
+        <url>https://ol.partners/products/keramika/unitazi/unitazkompakt-mixxus-bevel0403t3-640kh360kh835mm-sistema-zmivu-tornado-30-mi6712</url>
         <price>9660.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>2e53263c-eb2d-4e24-80ae-a2a492d1a63a</categoryId>
@@ -132218,7 +132218,7 @@
         <param name="Комплектація">Мийка, сифон, кріплення, ущільнювальна стрічка, сітка</param>
       </offer>
       <offer id="MX1931" available="true">
-        <url>https://ol.partners/products/miyki-dlya-kukhni/integrovani-miyki/miyka-mixxus-mh5843-nanoblack-z-nerzh-stali-kolir-grafit-mx1931</url>
+        <url>https://ol.partners/products/miyki-dlya-kukhni/integrovani-miyki/miyka-z-nerzh-stali-mixxus-mh5843-graphite-3008-kolir-grafit-mx1931</url>
         <price>3502.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>4b1ed2a0-7372-49d4-8570-7be730b86a84</categoryId>
@@ -132465,7 +132465,7 @@
         <param name="Розміри (мм)">20(2.8mm) x 16(2.2mm) x 16(2.2mm)</param>
       </offer>
       <offer id="MI6696" available="true">
-        <url>https://ol.partners/products/keramika/rakovini/rakovina-monoblok-mixxus-style1101-z-otvorom-pid-zmishuvach-ta-perelivom-440kh380kh830mm-mi6696</url>
+        <url>https://ol.partners/products/keramika/rakovini/rakovina-monoblok-mixxus-style1101-440kh380kh830mm-otvir-pid-zmishuvach-pereliv-mi6696</url>
         <price>8625.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f95f29f7-84eb-4a78-8b6f-06e404597c16</categoryId>
@@ -133937,7 +133937,7 @@
         <param name="Колір">Червоний</param>
       </offer>
       <offer id="MI8309" available="true">
-        <url>https://ol.partners/products/miyki-dlya-kukhni/vrizni-miyki/miyka-mixxus-mh5045-decor-ss-color-3008-z-nerzhaviyuchoi-stali-kolir-nerzh-mi8309</url>
+        <url>https://ol.partners/products/miyki-dlya-kukhni/vrizni-miyki/miyka-z-nerzh-stali-mixxus-mh5045-decor-ss-color-3008-kolir-nerzhaviyka-mi8309</url>
         <price>2936.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>4b1ed2a0-7372-49d4-8570-7be730b86a84</categoryId>
@@ -134231,7 +134231,7 @@
       </offer>
       <offer id="KP2783" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/zapchastini-ta-aksesuari-dlya-nasosiv/kontroler-tisku-koer-ks2-elektronniy-kp2783</url>
-        <price>880.00</price>
+        <price>900.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/A47DC481-0D85-4FFC-BB78-74C69078C18C</picture>
@@ -135419,7 +135419,7 @@
         <param name="Колір">Сталевий</param>
       </offer>
       <offer id="MI8322" available="false">
-        <url>https://ol.partners/products/keramika/bachki-dlya-unitazu/bachok-do-unitazukompaktu-mixxus-bevel0403t3-tank-640kh360kh835-zi-zlivnoyu-armaturoyu-mi8322</url>
+        <url>https://ol.partners/products/keramika/bachki-dlya-unitazu/bachok-do-unitazukompaktu-mixxus-bevel0403t3-tank-425x360x140-u-komplekti-zi-zlivnoyu-armaturoyu-mi8322</url>
         <price>3864.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>2e53263c-eb2d-4e24-80ae-a2a492d1a63a</categoryId>
@@ -135695,7 +135695,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/16fb32f2-85d1-4fa3-bc0c-65a8cb3d078b/Image_04_koer_M.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Штуцер для приєднання шланга Koer KF.U10M-20 - 1"x20mm M (KR3357)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR3357</vendorCode>
@@ -136812,7 +136812,7 @@
         <param name="Живлення">AAA</param>
       </offer>
       <offer id="MX1937" available="true">
-        <url>https://ol.partners/products/miyki-dlya-kukhni/vrizni-miyki/miyka-mixxus-mh7849rhk-nanosilver-3009-z-nerzhaviyuchoi-stali-gliboke-krilo-z-pidstavkoyu-pid-nozhi-mx1937</url>
+        <url>https://ol.partners/products/miyki-dlya-kukhni/vrizni-miyki/mixxus-mh7849rhk-ss-color3009-miyka-z-nerzh-stali-z-pidstavkoyu-pid-nozhi-kolir-nerzh-mx1937</url>
         <price>4382.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>4b1ed2a0-7372-49d4-8570-7be730b86a84</categoryId>
@@ -137591,7 +137591,7 @@
         <param name="Матеріал">Латунь CW617N</param>
       </offer>
       <offer id="MI8477" available="true">
-        <url>https://ol.partners/products/sifoni-trapi-dlya-dushu/armatura-dlya-unitaziv/komplekt-armaturi-mixxus-button180812-spuskna-2kh-knopochna-napovn-z-nizhnim-pidv-plastikove-rizblennya-12-mi8477</url>
+        <url>https://ol.partners/products/sifoni-trapi-dlya-dushu/armatura-dlya-unitaziv/komplekt-armaturi-mixxus-button180812-spuskna-2kh-knopochna-napovnyuvalna-z-nizhnim-pidvedennyam-plastikove-rizblennya-12-mi8477</url>
         <price>759.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>bae524de-6825-4762-bea5-e2c2373606ee</categoryId>
@@ -138401,7 +138401,7 @@
         <param name="Особливості">Інтервал температур робочого середовища -20 ? +90?</param>
       </offer>
       <offer id="MX1934" available="true">
-        <url>https://ol.partners/products/miyki-dlya-kukhni/integrovani-miyki/miyka-mixxus-mh6050-decor-nanoblack-z-nerzh-stali-kolir-grafit-mx1934</url>
+        <url>https://ol.partners/products/miyki-dlya-kukhni/integrovani-miyki/miyka-z-nerzh-stali-mixxus-mh6050-decor-graphite3008-kolir-grafit-mx1934</url>
         <price>3992.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>4b1ed2a0-7372-49d4-8570-7be730b86a84</categoryId>
@@ -138755,7 +138755,7 @@
         <param name="Кількість (шт)">1</param>
       </offer>
       <offer id="AC3569" available="true">
-        <url>https://ol.partners/products/zapchastini-dlya-zmishuvacha/donniy-klapan-dlya-rakovini/donniy-klapan-dlya-rakovini-bez-perelivu-mixxus-popup09-gray-avtomatichniy-clickclack-grafitova-keramichna-nakladka-1-14-ac3569</url>
+        <url>https://ol.partners/products/zapchastini-dlya-zmishuvacha/donniy-klapan-dlya-rakovini/donniy-klapan-dlya-rakovini-bez-perelivu-mixxus-popup09-gray-avtomatichniy-clickclack-grafitova-keram-nakladka-1-14-ac3569</url>
         <price>911.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>e679a4a9-0158-4101-9206-332f81d1f22b</categoryId>
@@ -139476,7 +139476,7 @@
         <param name="Колір">Білий (RAL 9016)</param>
       </offer>
       <offer id="MX0589" available="false">
-        <url>https://ol.partners/products/miyki-dlya-kukhni/komplekt-dlya-kukhni-miyka-ta-zmishuvach/nabir-mixxus-set6045200x10pvdgold-miyka-zmishuvach-dispenser-mx0589</url>
+        <url>https://ol.partners/products/miyki-dlya-kukhni/komplekt-dlya-kukhni-miyka-ta-zmishuvach/komplekt-miyka-zmishuvach-dispenser-mixxus-set6045200x10pvdgold-kolir-zoloto-mx0589</url>
         <price>4796.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>4b1ed2a0-7372-49d4-8570-7be730b86a84</categoryId>
@@ -139626,7 +139626,7 @@
         <param name="Тип з'єднання">Різьбовий</param>
       </offer>
       <offer id="MI8411" available="true">
-        <url>https://ol.partners/products/sifoni-trapi-dlya-dushu/armatura-dlya-unitaziv/komplekt-armaturi-mixxus-button180212-zlivna-2kh-knopkova-napovn-z-nizhnim-pidvedennyam-plast-rizblennya-12-mi8411</url>
+        <url>https://ol.partners/products/sifoni-trapi-dlya-dushu/armatura-dlya-unitaziv/komplekt-armaturi-mixxus-button180212-spuskna-2kh-knopochna-napovnyuvalna-z-nizhnim-pidvedennyam-plastikove-rizblennya-12-mi8411</url>
         <price>759.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>bae524de-6825-4762-bea5-e2c2373606ee</categoryId>
@@ -139844,7 +139844,7 @@
         <param name="Колір">Червоний</param>
       </offer>
       <offer id="MI6730" available="true">
-        <url>https://ol.partners/products/keramika/sidinnya-dlya-unitazu/sidinnyakrishka-dlya-unitazu-mixxus-seat-cover-bevel2004-560kh363kh30mm-z-mikroliftom-mi6730</url>
+        <url>https://ol.partners/products/keramika/sidinnya-dlya-unitazu/sidinnyakrishka-dlya-unitazu-mixxus-seat-cover-bevel2004-560kh363kh30mm-dyuroplastove-shvidkoznimne-z-mikroliftom-mi6730</url>
         <price>1794.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>2e53263c-eb2d-4e24-80ae-a2a492d1a63a</categoryId>
@@ -139885,7 +139885,7 @@
         <param name="Сидіння">Slim Duroplast/Soft-close/Quick relase</param>
       </offer>
       <offer id="MI8350" available="false">
-        <url>https://ol.partners/products/keramika/unitazi/chasha-unitazukompaktu-mixxus-bevel0407t1-bowl-630kh350kh795-tornado-10-bez-sidinnya-mi8350</url>
+        <url>https://ol.partners/products/keramika/unitazi/chasha-unitazukompaktu-bez-sidinnya-mixxus-bevel0407t1-bowl-400x350x630-sistema-zmivu-tornado-10-mi8350</url>
         <price>4175.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>2e53263c-eb2d-4e24-80ae-a2a492d1a63a</categoryId>
@@ -140637,7 +140637,7 @@
         <param name="Об'єм (л)">3,24</param>
       </offer>
       <offer id="MI6709" available="true">
-        <url>https://ol.partners/products/keramika/unitazi/unitaz-pidvisniy-mixxus-bevel0302r-520x360x365mm-sistema-zmivu-rimless-mi6709</url>
+        <url>https://ol.partners/products/keramika/unitazi/unitaz-pidvisniy-mixxus-bevel0302r-520kh360kh365mm-sistema-zmivu-rimless-mi6709</url>
         <price>5175.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>2e53263c-eb2d-4e24-80ae-a2a492d1a63a</categoryId>
@@ -141223,7 +141223,7 @@
         <param name="Тип ручки">Вентиль</param>
       </offer>
       <offer id="MI6112" available="false">
-        <url>https://ol.partners/products/protochni-vodonagrivachi/krani-vodonagrivachi/protochniy-vodonagrivach-mixxus-electra-345e-z-indik-temp-mi6112</url>
+        <url>https://ol.partners/products/protochni-vodonagrivachi/krani-vodonagrivachi/vodonagrivach-33-kw-protochniy-mixxus-electra-345e-z-indik-temp-reset-na-miyku-mi6112</url>
         <price>1208.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>4a363165-8ca2-4875-a8aa-6401eaeb60b7</categoryId>
@@ -141843,7 +141843,7 @@
         <param name="Гарантійний період (міс)">12</param>
       </offer>
       <offer id="MX1925" available="true">
-        <url>https://ol.partners/products/miyki-dlya-kukhni/integrovani-miyki/miyka-mixxus-mh5045-nanosilver-z-nerzh-stali-kolir-nerzh-mx1925</url>
+        <url>https://ol.partners/products/miyki-dlya-kukhni/integrovani-miyki/miyka-z-nerzh-stali-mixxus-mh5045-ss-color-3008-kolir-nerzh-mx1925</url>
         <price>2736.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>4b1ed2a0-7372-49d4-8570-7be730b86a84</categoryId>
@@ -142900,7 +142900,7 @@
         <param name="Розміри (мм)">42x42</param>
       </offer>
       <offer id="MI7045" available="true">
-        <url>https://ol.partners/products/miyki-dlya-kukhni/vrizni-miyki/miyka-z-nerzhaviyuchoi-stali-mixxus-mh6350l-nanoblack-3008-kolir-grafit-mi7045</url>
+        <url>https://ol.partners/products/miyki-dlya-kukhni/vrizni-miyki/miyka-z-nerzh-stali-mixxus-mh6350l-graphite-3008-kolir-grafit-mi7045</url>
         <price>4658.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>4b1ed2a0-7372-49d4-8570-7be730b86a84</categoryId>
@@ -143665,7 +143665,7 @@
         <param name="Особливості">Підключення M30x1.5</param>
       </offer>
       <offer id="MI6715" available="true">
-        <url>https://ol.partners/products/keramika/bide/bide-pidvisne-mixxus-bevel0502-520x360x320mm-mi6715</url>
+        <url>https://ol.partners/products/keramika/bide/bide-pidvisne-mixxus-bevel0502-520kh360kh320mm-mi6715</url>
         <price>5589.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>2e53263c-eb2d-4e24-80ae-a2a492d1a63a</categoryId>
@@ -143833,7 +143833,7 @@
         <param name="Комплектація">Бачок, зливна та наповнювальна арматура</param>
       </offer>
       <offer id="MI3422" available="false">
-        <url>https://ol.partners/products/sifoni-trapi-dlya-dushu/zlivni-trapi/dushoviy-trap-iz-nerzhaviyuchoi-stali-sus304-mixxus-drain0315x15180-pryame-vidvedennya-mi3422</url>
+        <url>https://ol.partners/products/sifoni-trapi-dlya-dushu/zlivni-trapi/dushoviy-trap-mixxus-drain0315x15180-z-nerzh-stali-sus304-150x150mm-pryamiy-vidvid-kolir-nerzh-mi3422</url>
         <price>305.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>e679a4a9-0158-4101-9206-332f81d1f22b</categoryId>
@@ -144941,7 +144941,7 @@
         <param name="Покриття">Немає</param>
       </offer>
       <offer id="MI7053" available="true">
-        <url>https://ol.partners/products/miyki-dlya-kukhni/vrizni-miyki/miyka-z-nerzhaviyuchoi-stali-mixxus-mh8350dk-nanoblack-3008-kolir-grafit-mi7053</url>
+        <url>https://ol.partners/products/miyki-dlya-kukhni/vrizni-miyki/miyka-z-nerzh-stali-mixxus-mh8350dk-nanoblack-3008-kolir-grafit-mi7053</url>
         <price>5831.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>4b1ed2a0-7372-49d4-8570-7be730b86a84</categoryId>
@@ -145616,7 +145616,7 @@
         <param name="Гарантійний період (міс)">12</param>
       </offer>
       <offer id="MI7156" available="false">
-        <url>https://ol.partners/products/aksesuari-dlya-vannoi/dozator-dlya-ridkogo-mila/dozator-dlya-miynogo-zasobu-vrizniy-mixxus-dis03sus-graphite-z-nerzhstali-sus304-300-ml-grafit-mi7156</url>
+        <url>https://ol.partners/products/aksesuari-dlya-vannoi/dozator-dlya-ridkogo-mila/dispenser-dlya-miynogo-zasobu-vrizniy-mixxus-dis03sus-graphite-z-nerzh-stali-sus304-kolir-grafit-300-ml-mi7156</url>
         <price>656.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>4b1ed2a0-7372-49d4-8570-7be730b86a84</categoryId>
@@ -145872,7 +145872,7 @@
         <param name="Максимальна температура робочої рідини (°C)">40</param>
       </offer>
       <offer id="MI2752" available="false">
-        <url>https://ol.partners/products/protochni-vodonagrivachi/krani-vodonagrivachi/protochniy-vodonagrivach-mixxus-electra-340es-z-indik-temp-mi2752</url>
+        <url>https://ol.partners/products/protochni-vodonagrivachi/krani-vodonagrivachi/vodonagrivach-3-kw-protochniy-mixxus-electra-340es-nerzhaviyucha-stal-z-indik-temp-reset-na-miyku-mi2752</url>
         <price>1760.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>4a363165-8ca2-4875-a8aa-6401eaeb60b7</categoryId>
@@ -146188,7 +146188,7 @@
         <param name="Колір">Нержавіюча сталь</param>
       </offer>
       <offer id="MI7098" available="true">
-        <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/krani/kran-dlya-pidklyuchennya-santekhpriboriv/kran-dlya-pidklyuchennya-santekhpriladiv-mixxus-val0912x12-z-nerzh-stali-sus304-chervoniy-mi7098</url>
+        <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/krani/kran-dlya-pidklyuchennya-santekhpriboriv/kran-dlya-pidklyuchennya-santekhpriladiv-mixxus-val0912x12-z-nerzh-stali-sus304-kolir-chervoniy-mi7098</url>
         <price>150.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>85089059-b2ea-414c-a0f0-0cb7187f4e74</categoryId>
@@ -150215,7 +150215,7 @@
         <param name="Гарантійний період (міс)">84</param>
       </offer>
       <offer id="MI6028" available="true">
-        <url>https://ol.partners/products/zmishuvachi-ta-krani/monokran/kran-dlya-pitnoi-vodi-z-nerzh-stali-sus304-mixxus-mono07sus-filter-mi6028</url>
+        <url>https://ol.partners/products/zmishuvachi-ta-krani/monokran/kran-dlya-pitnoi-vodi-mixxus-mono07sus-filter-z-nerzh-stali-sus304-kolir-nerzh-mi6028</url>
         <price>421.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>d191ae68-f2ee-4472-8036-e37d06c8ffc9</categoryId>
@@ -150292,7 +150292,7 @@
         <param name="Комплектація">Мийка, сифон, кріплення, ущільнювальна стрічка, сітка</param>
       </offer>
       <offer id="MI6705" available="true">
-        <url>https://ol.partners/products/keramika/unitazi/unitaz-pidvisniy-mixxus-bevel0302t3-520x360x365mm-sistema-zmivu-tornado-30-mi6705</url>
+        <url>https://ol.partners/products/keramika/unitazi/unitaz-pidvisniy-mixxus-bevel0302t3-520kh360kh365mm-sistema-zmivu-tornado-30-mi6705</url>
         <price>5175.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>2e53263c-eb2d-4e24-80ae-a2a492d1a63a</categoryId>
@@ -152289,7 +152289,7 @@
         <param name="Колір">Білий (RAL 9016)</param>
       </offer>
       <offer id="MI8363" available="false">
-        <url>https://ol.partners/products/keramika/unitazi/chasha-unitazukompaktu-mixxus-wave0405r-bowl-630kh350kh795-rimless-bez-sidinnya-mi8363</url>
+        <url>https://ol.partners/products/keramika/unitazi/chasha-unitazukompaktu-bez-sidinnya-mixxus-wave0405r-bowl-400x350x630-sistema-zmivu-rimless-mi8363</url>
         <price>3933.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>2e53263c-eb2d-4e24-80ae-a2a492d1a63a</categoryId>
@@ -152377,7 +152377,7 @@
         <param name="Гарантійний період (міс)">84</param>
       </offer>
       <offer id="MI6688" available="true">
-        <url>https://ol.partners/products/keramika/unitazi/unitazkompakt-mixxus-quadro0404t1-620kh355kh805mm-sistema-zmivu-tornado-10-mi6688</url>
+        <url>https://ol.partners/products/keramika/unitazi/unitazkompakt-mixxus-quadro0404t1-620x355x805mm-sistema-zmivu-tornado-10-mi6688</url>
         <price>7245.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>2e53263c-eb2d-4e24-80ae-a2a492d1a63a</categoryId>
@@ -152856,7 +152856,7 @@
         <param name="Форма">Циліндрична</param>
       </offer>
       <offer id="MI7048" available="true">
-        <url>https://ol.partners/products/miyki-dlya-kukhni/vrizni-miyki/miyka-z-nerzhaviyuchoi-stali-mixxus-mh7849l-nanosilver-3008-kolir-nerzhaviyka-mi7048</url>
+        <url>https://ol.partners/products/miyki-dlya-kukhni/vrizni-miyki/miyka-z-nerzh-stali-mixxus-mh7849l-nanosilver-3008-kolir-nerzh-mi7048</url>
         <price>4313.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>4b1ed2a0-7372-49d4-8570-7be730b86a84</categoryId>
@@ -152929,7 +152929,7 @@
         <param name="Форма">Квадратна</param>
       </offer>
       <offer id="MX0775" available="false">
-        <url>https://ol.partners/products/protochni-vodonagrivachi/krani-vodonagrivachi/protochniy-vodonagrivach-mixxus-electra-360e-z-indik-temp-mx0775</url>
+        <url>https://ol.partners/products/protochni-vodonagrivachi/krani-vodonagrivachi/vodonagrivach-33-kw-protochniy-mixxus-electra-360e-z-indik-temp-na-miyku-mx0775</url>
         <price>1242.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>4a363165-8ca2-4875-a8aa-6401eaeb60b7</categoryId>
@@ -153960,7 +153960,7 @@
         <param name="Діаметр виходу 1 (мм)">32</param>
       </offer>
       <offer id="MI8195" available="true">
-        <url>https://ol.partners/products/sifoni-trapi-dlya-dushu/sifoni/sifon-dlya-kukhni-mixxus-sk02b-3-12x40-z-nerzhsitkoyu-vidvedennyam-dlya-pralnoi-mashini-gnuchkim-pryamok-perelivom-mi8195</url>
+        <url>https://ol.partners/products/sifoni-trapi-dlya-dushu/sifoni/sifon-dlya-kukhni-mixxus-sk02b-3-12x40-z-nerzhaviyuchoyu-sitkoyu-vidvodom-dlya-pralnoi-mashini-gnuchkim-pryamokutnim-perelivom-mi8195</url>
         <price>492.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>e679a4a9-0158-4101-9206-332f81d1f22b</categoryId>
@@ -154145,7 +154145,7 @@
         <param name="Гарантійний період (міс)">84</param>
       </offer>
       <offer id="MI6733" available="true">
-        <url>https://ol.partners/products/keramika/sidinnya-dlya-unitazu/sidinnyakrishka-dlya-unitazu-mixxus-seat-cover-bevel2006-460kh360kh40mm-z-mikroliftom-mi6733</url>
+        <url>https://ol.partners/products/keramika/sidinnya-dlya-unitazu/sidinnyakrishka-dlya-unitazu-mixxus-seat-cover-bevel2006-460kh360kh40mm-dyuroplastove-shvidkoznimne-z-mikroliftom-mi6733</url>
         <price>1794.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>2e53263c-eb2d-4e24-80ae-a2a492d1a63a</categoryId>
@@ -154393,7 +154393,7 @@
         <param name="Покриття">Нікель</param>
         <param name="Тип ручки">Важіль</param>
       </offer>
-      <offer id="KR5663" available="true">
+      <offer id="KR5663" available="false">
         <url>https://ol.partners/products/gazovi-kolonki/gazova-kolonka-koer-kwhg0410-white-dimokhidna-z-pyezorozpalom-10-lkhv-kolir-biliy-kr5663</url>
         <price>8193.00</price>
         <currencyId>UAH</currencyId>
@@ -154402,8 +154402,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/2be2584b-90a8-44c0-91db-3ac17544835b/image_03.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/2be2584b-90a8-44c0-91db-3ac17544835b/image_02.jpg</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Газова колонка KOER KWH.G0410 WHITE димохідна з п'єзорозпалом 10 л/хв (колір білий) (KR5663)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR5663</vendorCode>
@@ -154525,7 +154525,7 @@
         <param name="Гарантійний період (міс)">12</param>
       </offer>
       <offer id="MI7044" available="true">
-        <url>https://ol.partners/products/miyki-dlya-kukhni/vrizni-miyki/miyka-z-nerzhaviyuchoi-stali-mixxus-mh6350l-nanosilver-3008-kolir-nerzhaviyka-mi7044</url>
+        <url>https://ol.partners/products/miyki-dlya-kukhni/vrizni-miyki/miyka-z-nerzh-stali-mixxus-mh6350l-ss-color-3008-kolir-nerzh-mi7044</url>
         <price>4037.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>4b1ed2a0-7372-49d4-8570-7be730b86a84</categoryId>
@@ -156303,7 +156303,7 @@
         <param name="Комплектація">Мийка, сифон, кріплення</param>
       </offer>
       <offer id="MI7051" available="true">
-        <url>https://ol.partners/products/miyki-dlya-kukhni/vrizni-miyki/miyka-z-nerzhaviyuchoi-stali-mixxus-mh7849r-nanoblack-3008-kolir-grafit-mi7051</url>
+        <url>https://ol.partners/products/miyki-dlya-kukhni/vrizni-miyki/miyka-z-nerzh-stali-mixxus-mh7849r-nanoblack-3008-kolir-grafit-mi7051</url>
         <price>5417.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>4b1ed2a0-7372-49d4-8570-7be730b86a84</categoryId>
@@ -156804,7 +156804,7 @@
         <param name="Діаметр підключення (мм)">63</param>
       </offer>
       <offer id="MI6635" available="true">
-        <url>https://ol.partners/products/rushnikosushki/komplektuyuchi-do-rushnikosushok/ten-elektrichniy-mixxus-teh0206-chrome-dlya-susharok-rushnikiv-600w-kolir-khrom-mi6635</url>
+        <url>https://ol.partners/products/rushnikosushki/komplektuyuchi-do-rushnikosushok/elektrichniy-ten-mixxus-teh0206-chrome-dlya-susharok-rushnikiv-600w-kolir-khrom-mi6635</url>
         <price>2392.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>40137948-7c36-4187-a598-0d50eb1df16f</categoryId>
@@ -158407,7 +158407,7 @@
         <param name="Додаткові характеристики">Дистанція - відкритий простір – 80 метрів, у приміщенні – 30 метрів</param>
       </offer>
       <offer id="MI6689" available="true">
-        <url>https://ol.partners/products/keramika/sidinnya-dlya-unitazu/sidinnyakrishka-dlya-unitazu-mixxus-seat-cover-quadro2003-z-mikroliftom-430kh338kh35mm-mi6689</url>
+        <url>https://ol.partners/products/keramika/sidinnya-dlya-unitazu/sidinnyakrishka-dlya-unitazu-mixxus-seat-cover-quadro2003-430kh338kh35mm-dyuroplastove-shvidkoznimne-z-mikroliftom-mi6689</url>
         <price>1794.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>2e53263c-eb2d-4e24-80ae-a2a492d1a63a</categoryId>
@@ -158771,7 +158771,7 @@
         <param name="Розміри (мм)">15x3/4"</param>
       </offer>
       <offer id="MI6697" available="true">
-        <url>https://ol.partners/products/keramika/rakovini/rakovina-monoblok-mixxus-bevel1101-z-otvorom-pid-zmishuvach-ta-perelivom-450kh435kh835mm-mi6697</url>
+        <url>https://ol.partners/products/keramika/rakovini/rakovina-monoblok-mixxus-bevel1101-450kh435kh830mm-otvir-pid-zmishuvach-pereliv-mi6697</url>
         <price>8625.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f95f29f7-84eb-4a78-8b6f-06e404597c16</categoryId>
@@ -159749,7 +159749,7 @@
         <param name="Колір">Сталевий</param>
       </offer>
       <offer id="MI8214" available="true">
-        <url>https://ol.partners/products/miyki-dlya-kukhni/integrovani-miyki/miyka-mixxus-mh5050-micro-decor-brushed-gold-3008-z-nerzh-stali-kolir-matove-zoloto-mi8214</url>
+        <url>https://ol.partners/products/miyki-dlya-kukhni/integrovani-miyki/miyka-z-nerzh-stali-mixxus-mh5050-micro-decor-brushed-gold-3008-kolir-matove-zoloto-mi8214</url>
         <price>3795.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>4b1ed2a0-7372-49d4-8570-7be730b86a84</categoryId>
@@ -160461,7 +160461,7 @@
         <param name="Колір">Білий</param>
       </offer>
       <offer id="MX0568" available="false">
-        <url>https://ol.partners/products/miyki-dlya-kukhni/vrizni-miyki/miyka-mixxus-mx5050200x12handmade-mx0568</url>
+        <url>https://ol.partners/products/miyki-dlya-kukhni/vrizni-miyki/miyka-mixxus-mx5050200x12handmade-kolir-nerzh-mx0568</url>
         <price>3363.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>4b1ed2a0-7372-49d4-8570-7be730b86a84</categoryId>
@@ -160559,7 +160559,7 @@
         <param name="Тип з'єднання">Гайка-Штуцер 1/2x1/2</param>
       </offer>
       <offer id="MI8171" available="true">
-        <url>https://ol.partners/products/protochni-vodonagrivachi/krani-vodonagrivachi/vodonagrivach-mixxus-electra-150ef-33-kw-protochniy-z-indikatorom-temperaturi-reflektorniy-viliv-na-miyku-mi8171</url>
+        <url>https://ol.partners/products/protochni-vodonagrivachi/krani-vodonagrivachi/vodonagrivach-33-kw-protochniy-mixxus-electra-150ef-z-indik-temp-gnuchkiy-viliv-mi8171</url>
         <price>1242.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>4a363165-8ca2-4875-a8aa-6401eaeb60b7</categoryId>
@@ -160923,7 +160923,7 @@
         <param name="Країна бренду">Чехія</param>
       </offer>
       <offer id="MI8221" available="true">
-        <url>https://ol.partners/products/miyki-dlya-kukhni/integrovani-miyki/miyka-mixxus-mh6050-micro-decor-graphite-3008-z-nerzh-stali-kolir-grafit-mi8221</url>
+        <url>https://ol.partners/products/miyki-dlya-kukhni/integrovani-miyki/miyka-z-nerzh-stali-mixxus-mh6050-micro-decor-graphite-3008-kolir-grafit-mi8221</url>
         <price>4061.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>4b1ed2a0-7372-49d4-8570-7be730b86a84</categoryId>
@@ -161183,7 +161183,7 @@
         <param name="Колір">Під граніт</param>
       </offer>
       <offer id="MX9633" available="true">
-        <url>https://ol.partners/products/miyki-dlya-kukhni/integrovani-miyki/miyka-mixxus-premium-mh7545set05-micro-decor-nanoblack-3008-komplekt-grafit-mx9633</url>
+        <url>https://ol.partners/products/miyki-dlya-kukhni/integrovani-miyki/miyka-z-nerzh-stali-mixxus-premium-mh7545set05-micro-decor-nanoblack-3008-komplekt-kolir-grafit-mx9633</url>
         <price>5555.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>4b1ed2a0-7372-49d4-8570-7be730b86a84</categoryId>
@@ -161932,7 +161932,7 @@
         <param name="Довжина шланга підключення">60 см</param>
       </offer>
       <offer id="MX1928" available="true">
-        <url>https://ol.partners/products/miyki-dlya-kukhni/integrovani-miyki/miyka-mixxus-mh5050-nanoblack-z-nerzh-stali-kolir-grafit-mx1928</url>
+        <url>https://ol.partners/products/miyki-dlya-kukhni/integrovani-miyki/miyka-z-nerzh-stali-mixxus-mh5050-graphite-3008-kolir-grafit-mx1928</url>
         <price>3416.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>4b1ed2a0-7372-49d4-8570-7be730b86a84</categoryId>
@@ -163405,7 +163405,7 @@
         <param name="Колір">Сірий</param>
       </offer>
       <offer id="MI8426" available="false">
-        <url>https://ol.partners/products/keramika/unitazi/unitaz-pidvisniy-mixxus-ellipse0310t3-480kh360kh340mm-sistema-zmivu-tornado-30-mi8426</url>
+        <url>https://ol.partners/products/keramika/unitazi/unitaz-pidvisniy-mixxus-ellipse0310t3-480x360x340mm-sistema-zmivu-tornado-30-mi8426</url>
         <price>5175.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>2e53263c-eb2d-4e24-80ae-a2a492d1a63a</categoryId>
@@ -164090,7 +164090,7 @@
         <param name="Комплектація">Щітка туалетного йоржика без ручки (змінна насадка)</param>
       </offer>
       <offer id="MX0580" available="true">
-        <url>https://ol.partners/products/miyki-dlya-kukhni/vrizni-miyki/miyka-mixxus-mx5050200x10satin-mx0580</url>
+        <url>https://ol.partners/products/miyki-dlya-kukhni/vrizni-miyki/miyka-mixxus-mx5050200x10satin-kolir-nerzh-mx0580</url>
         <price>2898.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>4b1ed2a0-7372-49d4-8570-7be730b86a84</categoryId>
@@ -164744,7 +164744,7 @@
         <param name="Гарантійний період (міс)">60</param>
       </offer>
       <offer id="MI8220" available="true">
-        <url>https://ol.partners/products/miyki-dlya-kukhni/integrovani-miyki/miyka-mixxus-mh6050-micro-decor-ss-color-3008-z-nerzh-stali-kolir-nerzhaviyka-mi8220</url>
+        <url>https://ol.partners/products/miyki-dlya-kukhni/integrovani-miyki/miyka-z-nerzh-stali-mixxus-mh6050-micro-decor-ss-color-3008-kolir-nerzhaviyka-mi8220</url>
         <price>3416.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>4b1ed2a0-7372-49d4-8570-7be730b86a84</categoryId>
@@ -164993,7 +164993,7 @@
         <param name="Колір">Нержавіюча сталь</param>
       </offer>
       <offer id="MI6562" available="true">
-        <url>https://ol.partners/products/zmishuvachi-ta-krani/krani-dlya-pitnoi-vodi/kran-dlya-pitnoi-vodi-mixxus-mono07sus-filter-graphite-z-nerzhaviyuchoi-stali-mi6562</url>
+        <url>https://ol.partners/products/zmishuvachi-ta-krani/krani-dlya-pitnoi-vodi/kran-dlya-pitnoi-vodi-mixxus-mono07sus-filter-graphite-z-nerzh-stali-sus304-kolir-grafit-mi6562</url>
         <price>618.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>d191ae68-f2ee-4472-8036-e37d06c8ffc9</categoryId>
@@ -165228,7 +165228,7 @@
         <param name="Колір">Сталевий</param>
       </offer>
       <offer id="MX0562" available="true">
-        <url>https://ol.partners/products/miyki-dlya-kukhni/vrizni-miyki/miyka-mixxus-mx7844200x12pvdbronze-mx0562</url>
+        <url>https://ol.partners/products/miyki-dlya-kukhni/vrizni-miyki/miyka-mixxus-mx7844200x12pvdbronze-kolir-bronza-mx0562</url>
         <price>4865.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>4b1ed2a0-7372-49d4-8570-7be730b86a84</categoryId>
@@ -166040,7 +166040,7 @@
         <param name="Торгова марка">UNIPAK</param>
       </offer>
       <offer id="MI6166" available="true">
-        <url>https://ol.partners/products/sifoni-trapi-dlya-dushu/zlivni-trapi/dushoviy-trap-iz-nerzhaviyuchoi-stali-sus304-mixxus-drain0570slim-30x700-mm-mi6166</url>
+        <url>https://ol.partners/products/sifoni-trapi-dlya-dushu/zlivni-trapi/dushoviy-trap-mixxus-drain0570slim-z-nerzh-stali-sus304-30x700mm-kolir-nerzh-mi6166</url>
         <price>1725.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>e679a4a9-0158-4101-9206-332f81d1f22b</categoryId>
@@ -166510,7 +166510,7 @@
         <param name="Комплектація">Мийка, сифон, кріплення</param>
       </offer>
       <offer id="MI6641" available="true">
-        <url>https://ol.partners/products/protochni-vodonagrivachi/krani-vodonagrivachi/protochniy-vodonagrivach-mixxus-electra-570ef-34kw-z-indikatorom-temperaturi-mi6641</url>
+        <url>https://ol.partners/products/protochni-vodonagrivachi/krani-vodonagrivachi/vodonagrivach-34-kw-protochniy-mixxus-electra-570ef-nerzhaviyucha-stal-z-indik-temp-reflektorniy-viliv-na-miyku-viliv-chorniy-mi6641</url>
         <price>5210.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>4a363165-8ca2-4875-a8aa-6401eaeb60b7</categoryId>
@@ -166551,7 +166551,7 @@
         <param name="Гарантійний період (міс)">12</param>
       </offer>
       <offer id="MI8360" available="false">
-        <url>https://ol.partners/products/keramika/unitazi/chasha-unitazukompaktu-mixxus-wave0402t3-bowl-650x350x830-tornado-30-bez-sidinnya-mi8360</url>
+        <url>https://ol.partners/products/keramika/unitazi/chasha-unitazukompaktu-bez-sidinnya-mixxus-wave0402t3-bowl-400x350x650-sistema-zmivu-tornado-30-mi8360</url>
         <price>3933.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>2e53263c-eb2d-4e24-80ae-a2a492d1a63a</categoryId>
@@ -166602,7 +166602,7 @@
         <param name="Поверхня">Глянцева</param>
       </offer>
       <offer id="MX1954" available="true">
-        <url>https://ol.partners/products/aksesuari-dlya-vannoi/dozator-dlya-ridkogo-mila/dozator-dlya-miynogo-zasobu-vrizniy-mixxus-dis01sus-black-z-nerzhstali-sus304-300-ml-chorniy-mx1954</url>
+        <url>https://ol.partners/products/aksesuari-dlya-vannoi/dozator-dlya-ridkogo-mila/dispenser-dlya-miynogo-zasobu-vrizniy-mixxus-dis01sus-black-z-nerzh-stali-sus304-300-ml-kolir-chorniy-mx1954</url>
         <price>235.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>4b1ed2a0-7372-49d4-8570-7be730b86a84</categoryId>
@@ -166787,7 +166787,7 @@
         <param name="Діаметр входу 1 (дюйм)">1</param>
       </offer>
       <offer id="MI6165" available="true">
-        <url>https://ol.partners/products/sifoni-trapi-dlya-dushu/zlivni-trapi/dushoviy-trap-iz-nerzhaviyuchoi-stali-sus304-mixxus-drain0560slim-30x600-mm-mi6165</url>
+        <url>https://ol.partners/products/sifoni-trapi-dlya-dushu/zlivni-trapi/dushoviy-trap-mixxus-drain0560slim-z-nerzh-stali-sus304-30x600mm-kolir-nerzh-mi6165</url>
         <price>1615.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>e679a4a9-0158-4101-9206-332f81d1f22b</categoryId>
@@ -166958,7 +166958,7 @@
         <param name="Діаметр підключення (дюйм)">3</param>
       </offer>
       <offer id="MI6114" available="false">
-        <url>https://ol.partners/products/protochni-vodonagrivachi/krani-vodonagrivachi/protochniy-vodonagrivach-mixxus-electra-280e-z-indik-temp-mi6114</url>
+        <url>https://ol.partners/products/protochni-vodonagrivachi/krani-vodonagrivachi/vodonagrivach-33-kw-protochniy-mixxus-electra-280e-z-indik-temp-reset-na-miyku-z-liykoyu-mi6114</url>
         <price>1553.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>4a363165-8ca2-4875-a8aa-6401eaeb60b7</categoryId>
@@ -167649,7 +167649,7 @@
       </offer>
       <offer id="KP2782" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/zapchastini-ta-aksesuari-dlya-nasosiv/kontroler-tisku-koer-ks1-elektronniy-z-kabelem-kp2782</url>
-        <price>960.00</price>
+        <price>990.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/0DE6DFEC-B92D-4A31-83D9-C4F73F07220D</picture>
@@ -167712,7 +167712,7 @@
         <param name="Колір">Білий (RAL 9016)</param>
       </offer>
       <offer id="MI8314" available="false">
-        <url>https://ol.partners/products/keramika/bachki-dlya-unitazu/bachok-do-unitazukompaktu-mixxus-quadro0403r-tank-640kh360kh835-zi-zlivnoyu-armaturoyu-mi8314</url>
+        <url>https://ol.partners/products/keramika/bachki-dlya-unitazu/bachok-do-unitazukompaktu-mixxus-quadro0403r-tank-410x360x140-u-komplekti-zi-zlivnoyu-armaturoyu-mi8314</url>
         <price>4002.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>2e53263c-eb2d-4e24-80ae-a2a492d1a63a</categoryId>
@@ -167835,7 +167835,7 @@
         <param name="Особливості">Допустимі витрати через колекторний блок (v= 3 м/с) - 5,2 м3/час</param>
       </offer>
       <offer id="MX1953" available="true">
-        <url>https://ol.partners/products/aksesuari-dlya-vannoi/dozator-dlya-ridkogo-mila/dozator-dlya-miynogo-zasobu-vrizniy-mixxus-dis01sus-z-nerzh-stali-sus304-300-ml-mx1953</url>
+        <url>https://ol.partners/products/aksesuari-dlya-vannoi/dozator-dlya-ridkogo-mila/dispenser-dlya-miynogo-zasobu-vrizniy-mixxus-dis01sus-z-nerzh-stali-sus304-300-ml-mx1953</url>
         <price>198.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>4b1ed2a0-7372-49d4-8570-7be730b86a84</categoryId>
@@ -168111,7 +168111,7 @@
         <param name="Гарантійний період (міс)">84</param>
       </offer>
       <offer id="MI7039" available="true">
-        <url>https://ol.partners/products/keramika/sidinnya-dlya-unitazu/sidinnyakrishka-dlya-unitazu-mixxus-seat-cover-wave2003-420kh335kh30mm-dyuroplast-z-mikroliftom-mi7039</url>
+        <url>https://ol.partners/products/keramika/sidinnya-dlya-unitazu/sidinnyakrishka-dlya-unitazu-mixxus-seat-cover-wave2003-420kh335kh30mm-dyuroplastove-shvidkoznimne-z-mikroliftom-mi7039</url>
         <price>1794.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>2e53263c-eb2d-4e24-80ae-a2a492d1a63a</categoryId>
@@ -168227,7 +168227,7 @@
         <param name="Розміри (мм)">35</param>
       </offer>
       <offer id="MI6171" available="false">
-        <url>https://ol.partners/products/sifoni-trapi-dlya-dushu/zlivni-trapi/dushoviy-trap-z-nerzh-stali-sus304-mixxus-drain0580slim-black-30x800mm-chorniy-mi6171</url>
+        <url>https://ol.partners/products/sifoni-trapi-dlya-dushu/zlivni-trapi/dushoviy-trap-mixxus-drain0580slim-black-z-nerzh-stali-sus304-30x800mm-kolir-chorniy-mi6171</url>
         <price>2053.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>e679a4a9-0158-4101-9206-332f81d1f22b</categoryId>
@@ -168294,7 +168294,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/4d3b1979-aab0-487a-a953-2796ca506ee2/image_01.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Колектор для теплої підлоги Koer KR.1127-4 - 1"x4 - 3/4 Ways (євроконус-площина) (KR4948)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR4948</vendorCode>
@@ -169463,7 +169463,7 @@
         <param name="Колір">Сталевий</param>
       </offer>
       <offer id="MI6626" available="true">
-        <url>https://ol.partners/products/rushnikosushki/komplektuyuchi-do-rushnikosushok/ten-elektrichniy-mixxus-teh0106-white-dlya-susharok-rushnikiv-600w-kolir-biliy-mi6626</url>
+        <url>https://ol.partners/products/rushnikosushki/komplektuyuchi-do-rushnikosushok/elektrichniy-ten-mixxus-teh0106-white-dlya-susharok-rushnikiv-600w-kolir-biliy-mi6626</url>
         <price>2172.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>40137948-7c36-4187-a598-0d50eb1df16f</categoryId>
@@ -170033,7 +170033,7 @@
         <param name="Діаметр підключення (дюйм)">1 1/2</param>
       </offer>
       <offer id="MI8315" available="false">
-        <url>https://ol.partners/products/keramika/bachki-dlya-unitazu/bachok-do-unitazukompaktu-mixxus-quadro0404t1-tank-660kh360kh820-zi-zlivnoyu-armaturoyu-mi8315</url>
+        <url>https://ol.partners/products/keramika/bachki-dlya-unitazu/bachok-do-unitazukompaktu-mixxus-quadro0404t1-tank-400x350x140-u-komplekti-zi-zlivnoyu-armaturoyu-mi8315</url>
         <price>3174.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>2e53263c-eb2d-4e24-80ae-a2a492d1a63a</categoryId>
@@ -170240,7 +170240,7 @@
         <param name="Особливості">Запобіжний клапан, захист від протікань через раптові аварії в системі водопостачання.</param>
       </offer>
       <offer id="MI6517" available="true">
-        <url>https://ol.partners/products/sifoni-trapi-dlya-dushu/zlivni-trapi/dushoviy-trap-mixxus-drain0760-z-plast-osnovoyu-i-nakladkoyu-iz-nerzh-stali-sus304-70x600mm-mi6517</url>
+        <url>https://ol.partners/products/sifoni-trapi-dlya-dushu/zlivni-trapi/dushoviy-trap-mixxus-drain0760-z-plastikovoyu-osnovoyu-i-nakladkoyu-iz-nerzh-stali-sus304-70x600mm-kolir-nerzh-mi6517</url>
         <price>1213.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>e679a4a9-0158-4101-9206-332f81d1f22b</categoryId>
@@ -170268,7 +170268,7 @@
         <param name="Колір">Нержавіюча сталь</param>
       </offer>
       <offer id="MI6638" available="true">
-        <url>https://ol.partners/products/rushnikosushki/komplektuyuchi-do-rushnikosushok/chashka-dekorativna-mixxus-tcc01-black-krugla-dlya-maskuvannya-kabelyu-kolir-chorniy-mi6638</url>
+        <url>https://ol.partners/products/rushnikosushki/komplektuyuchi-do-rushnikosushok/chashka-dekorativna-krugla-mixxus-tcc01-black-dlya-maskuvannya-kabelyu-kolir-chorniy-mi6638</url>
         <price>456.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>40137948-7c36-4187-a598-0d50eb1df16f</categoryId>
@@ -170527,7 +170527,7 @@
         <param name="Номінальний тиск (бар)">40,00</param>
       </offer>
       <offer id="MI6111" available="false">
-        <url>https://ol.partners/products/protochni-vodonagrivachi/krani-vodonagrivachi/protochniy-vodonagrivach-mixxus-electra-110ef-z-indik-temp-mi6111</url>
+        <url>https://ol.partners/products/protochni-vodonagrivachi/krani-vodonagrivachi/vodonagrivach-3-kw-protochniy-mixxus-electra-110ef-z-indik-temp-reflektorniy-viliv-reset-na-miyku-mi6111</url>
         <price>1139.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>4a363165-8ca2-4875-a8aa-6401eaeb60b7</categoryId>
@@ -172673,7 +172673,7 @@
         <param name="Максимальна температура робочої рідини (°C)">40</param>
       </offer>
       <offer id="MI6532" available="true">
-        <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/krani/kran-dlya-pidklyuchennya-santekhpriboriv/kran-dlya-pidklyuchennya-santekhpriladiv-z-nerzh-stali-sus304-siniy-mixxus-val0112x12-mi6532</url>
+        <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/krani/kran-dlya-pidklyuchennya-santekhpriboriv/kran-dlya-pidklyuchennya-santekhpriladiv-mixxus-val0112x12-z-nerzh-stali-sus304-kolir-siniy-mi6532</url>
         <price>125.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>85089059-b2ea-414c-a0f0-0cb7187f4e74</categoryId>
@@ -173322,7 +173322,7 @@
         <param name="Колір">Білий</param>
       </offer>
       <offer id="MI6639" available="true">
-        <url>https://ol.partners/products/rushnikosushki/komplektuyuchi-do-rushnikosushok/chashka-dekorativna-mixxus-tcc01-white-krugla-dlya-maskuvannya-kabelyu-kolir-biliy-mi6639</url>
+        <url>https://ol.partners/products/rushnikosushki/komplektuyuchi-do-rushnikosushok/chashka-dekorativna-krugla-mixxus-tcc01-white-dlya-maskuvannya-kabelyu-kolir-biliy-mi6639</url>
         <price>456.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>40137948-7c36-4187-a598-0d50eb1df16f</categoryId>
@@ -174934,7 +174934,7 @@
         <param name="Колір">Сталевий</param>
       </offer>
       <offer id="AC3566" available="true">
-        <url>https://ol.partners/products/zapchastini-dlya-zmishuvacha/donniy-klapan-dlya-rakovini/donniy-klapan-dlya-rakovini-z-perelivom-mixxus-popup08-gray-avtomatichniy-clickclack-grafitova-keramichna-nakladka-1-14-ac3566</url>
+        <url>https://ol.partners/products/zapchastini-dlya-zmishuvacha/donniy-klapan-dlya-rakovini/donniy-klapan-dlya-rakovini-z-perelivom-mixxus-popup08-gray-avtomatichniy-clickclack-grafitova-keram-nakladka-1-14-ac3566</url>
         <price>911.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>e679a4a9-0158-4101-9206-332f81d1f22b</categoryId>
@@ -175023,7 +175023,7 @@
         <param name="Форма">Плоска</param>
       </offer>
       <offer id="MI6331" available="true">
-        <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/krani/kran-dlya-pidklyuchennya-santekhpriboriv/kran-dlya-pidklyuchennya-santekhpriladiv-mixxus-ang0812x34-mi6331</url>
+        <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/krani/kran-dlya-pidklyuchennya-santekhpriboriv/kran-mixxus-premium-ang0812x34-dlya-pidklyuchennya-santekhpriladiv-kolir-khrom-mi6331</url>
         <price>212.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>85089059-b2ea-414c-a0f0-0cb7187f4e74</categoryId>
@@ -175150,7 +175150,7 @@
         <param name="Гарантійний період (міс)">12</param>
       </offer>
       <offer id="MI8218" available="true">
-        <url>https://ol.partners/products/miyki-dlya-kukhni/integrovani-miyki/miyka-mixxus-mh5843-micro-decor-brushed-gold-3008-z-nerzh-stali-kolir-matove-zoloto-mi8218</url>
+        <url>https://ol.partners/products/miyki-dlya-kukhni/integrovani-miyki/miyka-z-nerzh-stali-mixxus-mh5843-micro-decor-brushed-gold-3008-kolir-matove-zoloto-mi8218</url>
         <price>3933.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>4b1ed2a0-7372-49d4-8570-7be730b86a84</categoryId>
@@ -175551,7 +175551,7 @@
         <param name="Комплектація">Тримач для туалетного паперу, кріплення</param>
       </offer>
       <offer id="MI8325" available="false">
-        <url>https://ol.partners/products/keramika/bachki-dlya-unitazu/bachok-do-unitazukompaktu-mixxus-bevel0405r-tank-605kh370kh800-zi-zlivnoyu-armaturoyu-mi8325</url>
+        <url>https://ol.partners/products/keramika/bachki-dlya-unitazu/bachok-do-unitazukompaktu-mixxus-bevel0405r-tank-400x360x140-u-komplekti-zi-zlivnoyu-armaturoyu-mi8325</url>
         <price>3588.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>2e53263c-eb2d-4e24-80ae-a2a492d1a63a</categoryId>
@@ -175601,7 +175601,7 @@
         <param name="Глибина (мм)">140</param>
       </offer>
       <offer id="MI3421" available="false">
-        <url>https://ol.partners/products/sifoni-trapi-dlya-dushu/zlivni-trapi/dushoviy-trap-iz-nerzhaviyuchoi-stali-sus304-mixxus-drain0110x10180-pryame-vidvedennya-mi3421</url>
+        <url>https://ol.partners/products/sifoni-trapi-dlya-dushu/zlivni-trapi/dushoviy-trap-mixxus-drain0110x10180-z-nerzh-stali-sus304-100x100mm-pryamiy-vidvid-kolir-nerzh-mi3421</url>
         <price>231.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>e679a4a9-0158-4101-9206-332f81d1f22b</categoryId>
@@ -176748,7 +176748,7 @@
         <param name="Керування">Пневматичне</param>
       </offer>
       <offer id="MX1572" available="true">
-        <url>https://ol.partners/products/miyki-dlya-kukhni/podribnyuvach-kharchovikh-vidkhodiv/pnevmatichna-knopka-dlya-podribnyuvacha-kharchovikh-vidkhodiv-mixxus-as01-black-mx1572</url>
+        <url>https://ol.partners/products/miyki-dlya-kukhni/podribnyuvach-kharchovikh-vidkhodiv/knopka-pnevmatichna-dlya-podribnyuvacha-kharchovikh-vidkhodiv-mixxus-as01-black-kolir-chorniy-mx1572</url>
         <price>309.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>4b1ed2a0-7372-49d4-8570-7be730b86a84</categoryId>
@@ -178128,7 +178128,7 @@
         <param name="Колір">Сталевий</param>
       </offer>
       <offer id="MI6058" available="true">
-        <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/krani/kran-dlya-pidklyuchennya-santekhpriboriv/kran-dlya-pidklyuchennya-santekhpriladiv-mixxus-val0612x12-black-z-nerzhstsus304chorn-mi6058</url>
+        <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/krani/kran-dlya-pidklyuchennya-santekhpriboriv/kran-dlya-pidklyuchennya-santekhpriladiv-mixxus-val0612x12-black-z-nerzh-stali-sus304-kolir-chorniy-mi6058</url>
         <price>162.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>85089059-b2ea-414c-a0f0-0cb7187f4e74</categoryId>
@@ -178244,7 +178244,7 @@
         <param name="Гарантійний період (міс)">12</param>
       </offer>
       <offer id="MI6629" available="true">
-        <url>https://ol.partners/products/rushnikosushki/komplektuyuchi-do-rushnikosushok/ten-elektrichniy-mixxus-teh0106-chrome-dlya-susharok-rushnikiv-600w-kolir-khrom-mi6629</url>
+        <url>https://ol.partners/products/rushnikosushki/komplektuyuchi-do-rushnikosushok/elektrichniy-ten-mixxus-teh0106-chrome-dlya-susharok-rushnikiv-600w-kolir-khrom-mi6629</url>
         <price>2392.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>40137948-7c36-4187-a598-0d50eb1df16f</categoryId>
@@ -178886,7 +178886,7 @@
         <param name="Колір">Нержавіюча сталь</param>
       </offer>
       <offer id="MI6630" available="true">
-        <url>https://ol.partners/products/rushnikosushki/komplektuyuchi-do-rushnikosushok/ten-elektrichniy-mixxus-teh0109-chrome-dlya-susharok-rushnikiv-900w-kolir-khrom-mi6630</url>
+        <url>https://ol.partners/products/rushnikosushki/komplektuyuchi-do-rushnikosushok/elektrichniy-ten-mixxus-teh0109-chrome-dlya-susharok-rushnikiv-900w-kolir-khrom-mi6630</url>
         <price>2466.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>40137948-7c36-4187-a598-0d50eb1df16f</categoryId>
@@ -179437,7 +179437,7 @@
         <param name="Гарантійний період (міс)">84</param>
       </offer>
       <offer id="MI6518" available="true">
-        <url>https://ol.partners/products/sifoni-trapi-dlya-dushu/zlivni-trapi/dushoviy-trap-mixxus-drain0770-z-plast-osnovoyu-i-nakladkoyu-iz-nerzh-stali-sus304-70x700mm-mi6518</url>
+        <url>https://ol.partners/products/sifoni-trapi-dlya-dushu/zlivni-trapi/dushoviy-trap-mixxus-drain0770-z-plastikovoyu-osnovoyu-i-nakladkoyu-iz-nerzh-stali-sus304-70x700mm-kolir-nerzh-mi6518</url>
         <price>1330.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>e679a4a9-0158-4101-9206-332f81d1f22b</categoryId>
@@ -180255,7 +180255,7 @@
         <param name="Комплектація">Панель змиву, кріплення.</param>
       </offer>
       <offer id="MX0579" available="false">
-        <url>https://ol.partners/products/miyki-dlya-kukhni/vrizni-miyki/miyka-mixxus-bronzova-mx5050200x10pvd-mx0579</url>
+        <url>https://ol.partners/products/miyki-dlya-kukhni/vrizni-miyki/miyka-mixxus-mx5050200x10pvdbronze-kolir-bronza-mx0579</url>
         <price>3450.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>4b1ed2a0-7372-49d4-8570-7be730b86a84</categoryId>
@@ -181311,7 +181311,7 @@
         <param name="A (дюйм)">1/2</param>
       </offer>
       <offer id="MI6707" available="true">
-        <url>https://ol.partners/products/keramika/unitazi/unitaz-pidvisniy-mixxus-quadro0304r-520x360x365mm-sistema-zmivu-rimless-mi6707</url>
+        <url>https://ol.partners/products/keramika/unitazi/unitaz-pidvisniy-mixxus-quadro0304r-520kh360kh365mm-sistema-zmivu-rimless-mi6707</url>
         <price>5175.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>2e53263c-eb2d-4e24-80ae-a2a492d1a63a</categoryId>
@@ -181403,7 +181403,7 @@
         <param name="Тип фіксації до поверхні">Гвинтове кріплення (на дюбелі)</param>
       </offer>
       <offer id="MI6723" available="true">
-        <url>https://ol.partners/products/keramika/sidinnya-dlya-unitazu/sidinnyakrishka-dlya-unitazu-mixxus-seat-cover-quadro2002-z-mikroliftom-480x390x70mm-mi6723</url>
+        <url>https://ol.partners/products/keramika/sidinnya-dlya-unitazu/sidinnyakrishka-dlya-unitazu-mixxus-seat-cover-quadro2002-480kh390kh70mm-dyuroplastove-shvidkoznimne-z-mikroliftom-mi6723</url>
         <price>1794.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>2e53263c-eb2d-4e24-80ae-a2a492d1a63a</categoryId>
@@ -181480,7 +181480,7 @@
         <param name="Колір">Чорний</param>
       </offer>
       <offer id="MI6118" available="true">
-        <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/krani/kran-dlya-pidklyuchennya-santekhpriboriv/kran-dlya-pidklyuchennya-santekhpriladiv-mixxus-val0212x12-z-nerzhst-sus304-krasupblister-mi6118</url>
+        <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/krani/kran-dlya-pidklyuchennya-santekhpriboriv/kran-dlya-pidklyuchennya-santekhpriladiv-mixxus-val0212x12-z-nerzh-stali-sus304-kolir-chervoniy-mi6118</url>
         <price>125.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>85089059-b2ea-414c-a0f0-0cb7187f4e74</categoryId>
@@ -181583,7 +181583,7 @@
         <param name="Матеріал виробу">Латунь</param>
       </offer>
       <offer id="MX0569" available="false">
-        <url>https://ol.partners/products/miyki-dlya-kukhni/vrizni-miyki/miyka-mixxus-mx6050200x12handmade-mx0569</url>
+        <url>https://ol.partners/products/miyki-dlya-kukhni/vrizni-miyki/miyka-mixxus-mx6050200x12handmade-kolir-nerzh-mx0569</url>
         <price>3676.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>4b1ed2a0-7372-49d4-8570-7be730b86a84</categoryId>
@@ -181925,7 +181925,7 @@
         <param name="Особливості">Матеріал закладних деталей - Латунь CW617N нікельована</param>
       </offer>
       <offer id="MI6637" available="true">
-        <url>https://ol.partners/products/rushnikosushki/komplektuyuchi-do-rushnikosushok/chashka-dekorativna-mixxus-tcc01-chrome-krugla-dlya-maskuvannya-kabelyu-kolir-khrom-mi6637</url>
+        <url>https://ol.partners/products/rushnikosushki/komplektuyuchi-do-rushnikosushok/chashka-dekorativna-krugla-mixxus-tcc01-chrome-dlya-maskuvannya-kabelyu-kolir-khrom-mi6637</url>
         <price>456.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>40137948-7c36-4187-a598-0d50eb1df16f</categoryId>
@@ -183857,7 +183857,7 @@
         <param name="Торгова марка">ZERIX</param>
       </offer>
       <offer id="MI8197" available="true">
-        <url>https://ol.partners/products/sifoni-trapi-dlya-dushu/sifoni/sifon-dlya-kukhni-mixxus-sk06wh-3-12x40-z-plastikovoyu-sitkoyu-vidvedennyam-dlya-pralnoi-mashini-gnuchkim-krug-perelivom-mi8197</url>
+        <url>https://ol.partners/products/sifoni-trapi-dlya-dushu/sifoni/sifon-dlya-kukhni-mixxus-sk06wh-3-12x40-z-plastikovoyu-biloyu-sitkoyu-vidvodom-dlya-pralnoi-mashini-gnuchkim-kruglim-perelivom-mi8197</url>
         <price>256.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>e679a4a9-0158-4101-9206-332f81d1f22b</categoryId>
@@ -183969,7 +183969,7 @@
         <param name="Висота (мм)">160</param>
       </offer>
       <offer id="MX1947" available="true">
-        <url>https://ol.partners/products/aksesuari-dlya-kukhni/susharka-dlya-posudu/susharka-dlya-posudu-mixxus-bas02sus-440mm-z-nerzh-stali-sus304-mx1947</url>
+        <url>https://ol.partners/products/aksesuari-dlya-kukhni/susharka-dlya-posudu/susharka-dlya-posudu-mixxus-bas02sus-440mm-z-nerzh-stali-sus304-kolir-nerzh-mx1947</url>
         <price>529.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>4b1ed2a0-7372-49d4-8570-7be730b86a84</categoryId>
@@ -185125,7 +185125,7 @@
         <param name="Торгова марка">GROHE</param>
       </offer>
       <offer id="MX9635" available="true">
-        <url>https://ol.partners/products/miyki-dlya-kukhni/integrovani-miyki/miyka-mixxus-premium-mh7545set05-micro-decor-nanosilver-3008-komplekt-nerzh-mx9635</url>
+        <url>https://ol.partners/products/miyki-dlya-kukhni/integrovani-miyki/miyka-z-nerzh-stali-mixxus-premium-mh7545set05-micro-decor-nanosilver-3008-komplekt-kolir-nerzh-mx9635</url>
         <price>5348.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>4b1ed2a0-7372-49d4-8570-7be730b86a84</categoryId>
@@ -185518,7 +185518,7 @@
         <param name="Колір">Сірий</param>
       </offer>
       <offer id="AC3565" available="true">
-        <url>https://ol.partners/products/zapchastini-dlya-zmishuvacha/donniy-klapan-dlya-rakovini/donniy-klapan-dlya-rakovini-z-perelivom-mixxus-popup08-black-avtomatichniy-clickclack-chorna-keramichna-nakladka-1-14-ac3565</url>
+        <url>https://ol.partners/products/zapchastini-dlya-zmishuvacha/donniy-klapan-dlya-rakovini/donniy-klapan-dlya-rakovini-z-perelivom-mixxus-popup08-black-avtomatichniy-clickclack-chorna-keram-nakladka-1-14-ac3565</url>
         <price>243.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>e679a4a9-0158-4101-9206-332f81d1f22b</categoryId>
@@ -185825,7 +185825,7 @@
         <param name="Гарантійний період (міс)">12</param>
       </offer>
       <offer id="MI8217" available="true">
-        <url>https://ol.partners/products/miyki-dlya-kukhni/integrovani-miyki/miyka-mixxus-mh5843-micro-decor-graphite-3008-z-nerzh-stali-kolir-grafit-mi8217</url>
+        <url>https://ol.partners/products/miyki-dlya-kukhni/integrovani-miyki/miyka-z-nerzh-stali-mixxus-mh5843-micro-decor-graphite-3008-kolir-grafit-mi8217</url>
         <price>3830.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>4b1ed2a0-7372-49d4-8570-7be730b86a84</categoryId>
@@ -186548,7 +186548,7 @@
         <param name="G2 (дюйм)">3/4</param>
       </offer>
       <offer id="MI6219" available="false">
-        <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/krani/kran-dlya-pidklyuchennya-santekhpriboriv/kran-dlya-pidklyuchennya-santekhpriladiv-mixxus-val1112x12x12-z-nerzh-stali-sus304-siniy-mi6219</url>
+        <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/krani/kran-dlya-pidklyuchennya-santekhpriboriv/kran-dlya-pidklyuchennya-santekhpriladiv-mixxus-val1112x12x12-z-nerzh-stali-sus304-kolir-siniy-mi6219</url>
         <price>290.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>85089059-b2ea-414c-a0f0-0cb7187f4e74</categoryId>
@@ -188616,7 +188616,7 @@
         <param name="Колір">Червоний</param>
       </offer>
       <offer id="MI2750" available="false">
-        <url>https://ol.partners/products/protochni-vodonagrivachi/krani-vodonagrivachi/protochniy-vodonagrivach-mixxus-electra-240ef-z-indik-temp-mi2750</url>
+        <url>https://ol.partners/products/protochni-vodonagrivachi/krani-vodonagrivachi/vodonagrivach-3-kw-protochniy-mixxus-electra-240ef-z-indik-temp-reflektorniy-viliv-reset-na-miyku-mi2750</url>
         <price>1380.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>4a363165-8ca2-4875-a8aa-6401eaeb60b7</categoryId>
@@ -188680,7 +188680,7 @@
         <param name="Країна бренду">Данія</param>
       </offer>
       <offer id="MX0660" available="false">
-        <url>https://ol.partners/products/miyki-dlya-kukhni/vrizni-miyki/miyka-kukhonna-mixxus-mx6050200x10-satin-mx0660</url>
+        <url>https://ol.partners/products/miyki-dlya-kukhni/vrizni-miyki/miyka-mixxus-mx6050200x10satin-kolir-nerzh-mx0660</url>
         <price>3174.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>4b1ed2a0-7372-49d4-8570-7be730b86a84</categoryId>
@@ -189799,7 +189799,7 @@
         <param name="Колір">Білий</param>
       </offer>
       <offer id="MI8455" available="true">
-        <url>https://ol.partners/products/miyki-dlya-kukhni/bagatofunktsionalni-miyki/miyka-bagatofunktsionalna-mixxus-mh7546set08-micro-decor-graphite-z-vbudovanim-zmishuvachem-z-nerzhstali-mi8455</url>
+        <url>https://ol.partners/products/miyki-dlya-kukhni/bagatofunktsionalni-miyki/miyka-bagatofunktsionalna-z-vbudovanim-zmishuvachem-mixxus-mh7546set08-micro-decor-graphite-z-nerzh-stali-mi8455</url>
         <price>9205.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>4b1ed2a0-7372-49d4-8570-7be730b86a84</categoryId>
@@ -190117,7 +190117,7 @@
         <param name="Діаметр підключення (мм)">20</param>
       </offer>
       <offer id="MI8351" available="true">
-        <url>https://ol.partners/products/keramika/unitazi/chasha-unitazukompaktu-mixxus-bevel0404t3-bowl-660kh360kh800-tornado-30-bez-sidinnya-mi8351</url>
+        <url>https://ol.partners/products/keramika/unitazi/chasha-unitazukompaktu-bez-sidinnya-mixxus-bevel0404t3-bowl-400x360x660-sistema-zmivu-tornado-30-mi8351</url>
         <price>5382.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>2e53263c-eb2d-4e24-80ae-a2a492d1a63a</categoryId>
