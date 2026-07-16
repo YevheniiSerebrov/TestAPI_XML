@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-07-15 02:20">
+<yml_catalog date="2026-07-16 02:28">
   <shop>
     <name>O&amp;L</name>
     <company>O&amp;L</company>
@@ -9017,7 +9017,7 @@
         <param name="Колір">Сталевий</param>
         <param name="Гарантійний період (міс)">12</param>
       </offer>
-      <offer id="38732SH0" available="true">
+      <offer id="38732SH0" available="false">
         <url>https://ol.partners/products/instalyatsii-ta-klavishi/klavishi-zmivu-ta-komplektuyuchi/panel-zmivu-grohe-skate-cosmopolitan-38732sh0</url>
         <price>1599.00</price>
         <currencyId>UAH</currencyId>
@@ -9031,8 +9031,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/9dfbbfb3-7b40-4c20-baa6-9b8972b39e7e/image_06.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/9dfbbfb3-7b40-4c20-baa6-9b8972b39e7e/image_08.jpg</picture>
         <vendor>GROHE</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Панель змиву Grohe Skate Cosmopolitan (38732SH0)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>38732SH0</vendorCode>
@@ -12456,7 +12456,7 @@
         <param name="Колір">Білий</param>
         <param name="Форма">Прямокутна</param>
       </offer>
-      <offer id="WH0023" available="false">
+      <offer id="WH0023" available="true">
         <url>https://ol.partners/products/gazovi-kolonki/gazova-kolonka-mixxus-gwh0210-basic-black-dimokhidna-10-lkhv-kolir-chorniy-wh0023</url>
         <price>5232.00</price>
         <currencyId>UAH</currencyId>
@@ -12469,7 +12469,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/a4fa47b6-40e6-4f08-a700-c12f32376e0c/image_04.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/a4fa47b6-40e6-4f08-a700-c12f32376e0c/image_07.jpg</picture>
         <vendor>MIXXUS</vendor>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>100</stock_quantity>
         <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Газова колонка MIXXUS GWH-0210 BASIC BLACK димохідна 10 л/хв (колір чорний) (WH0023)</name>
         <description>&lt;![CDATA[]]&gt;</description>
@@ -24227,7 +24227,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/16240732-bd84-4b5a-8dbb-ac5911a69a3a/image_03.jpg</picture>
         <vendor>ZERIX</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Відро для сміття з плавним закриттям квадратне ZERIX KUBIX-TC0108 BLACK 8 л (колір чорний) (ZX5892)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>ZX5892</vendorCode>
@@ -33989,7 +33989,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/edc76102-69ea-4c68-8feb-4226d80f0d52/image_07.jpg</picture>
         <vendor>ZERIX</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Водонагрівач 3,3 kW проточний ZERIX ELW35-E нержавіюча сталь, з індик. темп., на мийку (ZX5576)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>ZX5576</vendorCode>
@@ -54735,7 +54735,7 @@
         <picture>https://ol.partners/Products/Photo/537ECAC3-F1E0-438F-B37F-2C78FB22F971</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Генератор бензиновий інверторний KOER KU.5500iE 5,0-5,5 кВт, електростартер + акумулятор (KR6219)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR6219</vendorCode>
@@ -60344,12 +60344,12 @@
         <categoryId>f95f29f7-84eb-4a78-8b6f-06e404597c16</categoryId>
         <picture>https://ol.partners/Products/Photo/6D2752E9-76B3-4CB4-A271-3FA326232E77</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/9d681851-8b1e-41de-808f-67aa3e1c0c96/image_03.jpg</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/9d681851-8b1e-41de-808f-67aa3e1c0c96/image_02.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/9d681851-8b1e-41de-808f-67aa3e1c0c96/image_07.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/9d681851-8b1e-41de-808f-67aa3e1c0c96/image_05.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/9d681851-8b1e-41de-808f-67aa3e1c0c96/image_06.jpg</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/9d681851-8b1e-41de-808f-67aa3e1c0c96/image_01.jpg</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/9d681851-8b1e-41de-808f-67aa3e1c0c96/image_02.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/9d681851-8b1e-41de-808f-67aa3e1c0c96/image_04.jpg</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/9d681851-8b1e-41de-808f-67aa3e1c0c96/image_01.jpg</picture>
         <vendor>MIXXUS PREMIUM</vendor>
         <stock_quantity>100</stock_quantity>
         <availabilityStatus>Достатньо</availabilityStatus>
@@ -61870,14 +61870,14 @@
         <param name="Колір">Сталевий</param>
         <param name="Гарантійний період (міс)">12</param>
       </offer>
-      <offer id="ZX4633" available="true">
+      <offer id="ZX4633" available="false">
         <url>https://ol.partners/products/aksesuari-dlya-vannoi/vidro-dlya-smittya/vidro-dlya-smittya-krugle-zerix-strongmb0130-black-30-l-kolir-chorniy-zx4633</url>
         <price>2798.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>98cef2a4-d106-4da2-9b4c-f8e66696fd13</categoryId>
         <picture>https://ol.partners/Products/Photo/ACB296C9-6245-46F5-8420-EA552253DD73</picture>
         <vendor>ZERIX</vendor>
-        <stock_quantity>100</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <availabilityStatus>Достатньо</availabilityStatus>
         <name>Відро для сміття кругле ZERIX STRONG-MB0130 BLACK 30 л (колір чорний) (ZX4633)</name>
         <description>&lt;![CDATA[]]&gt;</description>
@@ -70927,7 +70927,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/071f8867-e759-4314-b63a-3eacb73d5188/image_01.jpg</picture>
         <vendor>ZERIX</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Мийка Zerix ZH4843B-215 (3.0/1.0) PVD-Black (ZM5555)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>ZM5555</vendorCode>
@@ -82090,7 +82090,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/5db4db1c-f46c-4673-970e-36c07362a06e/image_12.jpg</picture>
         <vendor>GROHE</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Панель змиву Grohe Skate Cosmopolitan для унітазу (38732KF0)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>38732KF0</vendorCode>
@@ -88842,7 +88842,7 @@
         <param name="Колір">Сталевий</param>
         <param name="Розміри (мм)">22x18</param>
       </offer>
-      <offer id="RAD243" available="true">
+      <offer id="RAD243" available="false">
         <url>https://ol.partners/products/radiatori-opalennya/stalevi-radiatori/staleviy-radiator-koer-11x500x1600s-1206-vt-2441-kg-bokove-pidklyuchennya-rad243</url>
         <price>5344.00</price>
         <currencyId>UAH</currencyId>
@@ -88853,8 +88853,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/2446f533-fb1e-4a4a-86ba-e63b7351cc0a/image_04_400-600_0.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/2446f533-fb1e-4a4a-86ba-e63b7351cc0a/image_02_400-600_0.jpg</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Сталевий радіатор KOER 11x500x1600S (1206 Вт, 24,41 кг, бокове підключення) (RAD243)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>RAD243</vendorCode>
@@ -118875,7 +118875,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/3c45243a-cda4-4886-8c43-254a297b4eb7/image_03.jpg</picture>
         <vendor>GROHE</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Панель змиву Grohe Skate Air для унітазу вертикальна (38505SH0)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>38505SH0</vendorCode>
@@ -122176,7 +122176,7 @@
         <param name="Виконання">Універсальна</param>
         <param name="Комплектація">Мийка, сифон</param>
       </offer>
-      <offer id="MX0586" available="false">
+      <offer id="MX0586" available="true">
         <url>https://ol.partners/products/miyki-dlya-kukhni/komplekt-dlya-kukhni-miyka-ta-zmishuvach/komplekt-miyka-zmishuvach-dispenser-mixxus-set7843d220x10pvdbronze-kolir-bronza-mx0586</url>
         <price>6141.00</price>
         <currencyId>UAH</currencyId>
@@ -122186,8 +122186,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/cbdf9f53-3f4e-4a27-bf00-318a3eea977f/image_03.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/cbdf9f53-3f4e-4a27-bf00-318a3eea977f/image_01.jpg</picture>
         <vendor>MIXXUS</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Комплект: мийка, змішувач, диспенсер MIXXUS SET-7843D-220x1.0-PVD-BRONZE (Колір бронза) (MX0586)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>MX0586</vendorCode>
@@ -122903,7 +122903,7 @@
         <param name="Гарантійний період (міс)">84</param>
         <param name="Діаметр підключення (дюйм)">1 1/4</param>
       </offer>
-      <offer id="31651AP0" available="true">
+      <offer id="31651AP0" available="false">
         <url>https://ol.partners/products/miyki-dlya-kukhni/vrizni-miyki/kompozitna-miyka-dlya-kukhni-grohe-k700-31651ap0</url>
         <price>19170.00</price>
         <currencyId>UAH</currencyId>
@@ -122918,8 +122918,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/92fdd424-d554-4134-a07a-36d4a14a2898/image_08.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/92fdd424-d554-4134-a07a-36d4a14a2898/image_05.jpg</picture>
         <vendor>GROHE</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Композитна мийка для кухні Grohe K700 (31651AP0)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>31651AP0</vendorCode>
@@ -127247,7 +127247,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/d5d389fc-5a93-4e27-83e9-e107beb45f48/image_02.jpg</picture>
         <vendor>GROHE</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Змивний клапан Grohe (38736000)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>38736000</vendorCode>
@@ -140192,15 +140192,15 @@
         <param name="Діаметр підключення (дюйм)">1/2х3/4</param>
         <param name="Гарантійний період (міс)">84</param>
       </offer>
-      <offer id="EP6231" available="false">
+      <offer id="EP6231" available="true">
         <url>https://ol.partners/products/filtri-ochischennya-vodi/komplektuyuchi-dlya-filtriv-vodi/kartridzh-iz-polipropilenovoi-nitki-pp5-25x10-europroduct-epv02251005-ep6231</url>
         <price>54.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>d191ae68-f2ee-4472-8036-e37d06c8ffc9</categoryId>
         <picture>https://ol.partners/Products/Photo/4ED7E33C-CE25-477D-AD6D-129CC21963DF</picture>
         <vendor>EUROPRODUCT</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Картридж із поліпропіленової нитки PP5 2,5"x10" EUROPRODUCT EPV-02-2510-05 (EP6231)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>EP6231</vendorCode>
@@ -142710,7 +142710,7 @@
         <param name="Об'єм (л)">5,04</param>
         <param name="Колір">Білий (RAL 9016)</param>
       </offer>
-      <offer id="KR5604" available="false">
+      <offer id="KR5604" available="true">
         <url>https://ol.partners/products/aksesuari-dlya-vannoi/vidro-dlya-smittya/vidro-dlya-smittya-z-plavnim-zakrittyam-pryamokutne-koer-tc01031507-15-l-kolir-grafit-kr5604</url>
         <price>2277.00</price>
         <currencyId>UAH</currencyId>
@@ -142724,7 +142724,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/301ac3a1-b6f4-4ad0-933a-3df6fbb47e96/image_07.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/301ac3a1-b6f4-4ad0-933a-3df6fbb47e96/image_06.jpg</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>100</stock_quantity>
         <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Відро для сміття з плавним закриттям прямокутне KOER TC-010315-07 15 л (колір графіт) (KR5604)</name>
         <description>&lt;![CDATA[]]&gt;</description>
@@ -146467,15 +146467,15 @@
         <param name="Матеріал">Поліпропілен</param>
         <param name="Колір">Сірий</param>
       </offer>
-      <offer id="EP6232" available="false">
+      <offer id="EP6232" available="true">
         <url>https://ol.partners/products/filtri-ochischennya-vodi/komplektuyuchi-dlya-filtriv-vodi/kartridzh-iz-polipropilenovoi-nitki-pp10-25x10-europroduct-epv02251010-ep6232</url>
         <price>54.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>d191ae68-f2ee-4472-8036-e37d06c8ffc9</categoryId>
         <picture>https://ol.partners/Products/Photo/D08F86C5-EEEA-4119-BD6A-92C3208D8293</picture>
         <vendor>EUROPRODUCT</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Картридж із поліпропіленової нитки PP10 2,5"x10" EUROPRODUCT EPV-02-2510-10 (EP6232)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>EP6232</vendorCode>
@@ -149888,7 +149888,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/9c3a71b1-af90-4080-bb93-d38e8c5dd6d9/image_02.jpg</picture>
         <vendor>ZERIX</vendor>
         <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Водонагрівач 3 kW проточний ZERIX ELW03-E з індик. темп., na мийку (ZX0449)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>ZX0449</vendorCode>
@@ -158368,7 +158368,7 @@
         <param name="Висота (мм)">500</param>
         <param name="Колір">Білий (RAL 9016)</param>
       </offer>
-      <offer id="ZX5891" available="true">
+      <offer id="ZX5891" available="false">
         <url>https://ol.partners/products/aksesuari-dlya-vannoi/vidro-dlya-smittya/vidro-dlya-smittya-z-plavnim-zakrittyam-kvadratne-zerix-kubixtc0108-ss-color-8l-kolir-nerzhaviyka-zx5891</url>
         <price>1035.00</price>
         <currencyId>UAH</currencyId>
@@ -158381,8 +158381,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/255a0f46-d39d-4ac3-854c-07ddb5a7fb69/image_01.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/255a0f46-d39d-4ac3-854c-07ddb5a7fb69/image_04.jpg</picture>
         <vendor>ZERIX</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Відро для сміття з плавним закриттям квадратне ZERIX KUBIX-TC0108 SS COLOR 8л (колір нержавійка) (ZX5891)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>ZX5891</vendorCode>
@@ -166885,7 +166885,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/43a46655-7051-409a-a3c3-5fd747249e26/image_01.jpg</picture>
         <vendor>MIXXUS PREMIUM</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Унітаз підлоговий безбачковий MIXXUS PREMIUM BEVEL-0701-T1 580х365х430mm система змиву TORNADO 1.0 (MP6597)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>MP6597</vendorCode>
