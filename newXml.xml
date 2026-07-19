@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-07-18 02:21">
+<yml_catalog date="2026-07-19 02:33">
   <shop>
     <name>O&amp;L</name>
     <company>O&amp;L</company>
@@ -33253,6 +33253,27 @@
         <param name="Гарантійний період (міс)">24</param>
         <param name="Макс. температура навколишнього середовища (°C)">40</param>
       </offer>
+      <offer id="EP6243" available="true">
+        <url>https://ol.partners/products/truboprovodi-ta-zyednannya/fitingi/rizbovi-zyednannya/zghinamerikanka-vr-25x34f-ppr-europroduct-eps0130-ep6243</url>
+        <price>85.00</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>cccd3e1f-6b84-49c8-b342-dee61a5caf10</categoryId>
+        <picture>https://ol.partners/Products/Photo/1B67A7F7-DF40-48D1-9868-79F000F44742</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/102f9818-51c6-40d0-bfdb-6d4cbe8b64c8/image_04.jpg</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/102f9818-51c6-40d0-bfdb-6d4cbe8b64c8/image_02.jpg</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/102f9818-51c6-40d0-bfdb-6d4cbe8b64c8/image_03.jpg</picture>
+        <vendor>EUROPRODUCT</vendor>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Достатньо</availabilityStatus>
+        <name>Згін-американка ВР 25x3/4F" PPR EUROPRODUCT EP.S0130 (EP6243)</name>
+        <description>&lt;![CDATA[]]&gt;</description>
+        <vendorCode>EP6243</vendorCode>
+        <param name="Од. в упак.">200</param>
+        <param name="Об'єм ящ.">0.023</param>
+        <param name="Вага ящ.">22.5</param>
+        <param name="Торгова марка">EUROPRODUCT</param>
+        <param name="Тип виробу">Труби та фітинги PPR</param>
+      </offer>
       <offer id="EP4035" available="true">
         <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/filtr-gruboi-ochistki/filtr-gruboi-ochistki-europroduct-ep0110-32-ppr-ep4035</url>
         <price>111.00</price>
@@ -33281,27 +33302,6 @@
         <param name="Матеріал">Поліпропілен</param>
         <param name="Тип з'єднання">Пайка</param>
         <param name="Діаметр підключення (мм)">32</param>
-      </offer>
-      <offer id="EP6243" available="true">
-        <url>https://ol.partners/products/truboprovodi-ta-zyednannya/fitingi/rizbovi-zyednannya/zghinamerikanka-vr-25x34f-ppr-europroduct-eps0130-ep6243</url>
-        <price>85.00</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>cccd3e1f-6b84-49c8-b342-dee61a5caf10</categoryId>
-        <picture>https://ol.partners/Products/Photo/1B67A7F7-DF40-48D1-9868-79F000F44742</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/102f9818-51c6-40d0-bfdb-6d4cbe8b64c8/image_04.jpg</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/102f9818-51c6-40d0-bfdb-6d4cbe8b64c8/image_02.jpg</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/102f9818-51c6-40d0-bfdb-6d4cbe8b64c8/image_03.jpg</picture>
-        <vendor>EUROPRODUCT</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
-        <name>Згін-американка ВР 25x3/4F" PPR EUROPRODUCT EP.S0130 (EP6243)</name>
-        <description>&lt;![CDATA[]]&gt;</description>
-        <vendorCode>EP6243</vendorCode>
-        <param name="Од. в упак.">200</param>
-        <param name="Об'єм ящ.">0.023</param>
-        <param name="Вага ящ.">22.5</param>
-        <param name="Торгова марка">EUROPRODUCT</param>
-        <param name="Тип виробу">Труби та фітинги PPR</param>
       </offer>
       <offer id="MI7099" available="true">
         <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/krani/kran-dlya-pidklyuchennya-santekhpriboriv/kran-dlya-pidklyuchennya-santekhpriladiv-mixxus-val1012x34-z-nerzh-stali-sus304-kolir-siniy-mi7099</url>
@@ -75684,7 +75684,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/b8015665-58c3-4fd3-8a84-bfa23892090b/image_03_KF0079.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Футорка 3/4"х1" Koer KF.F0810 (KF0079)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KF0079</vendorCode>
@@ -91655,7 +91655,7 @@
         <param name="Колір">Сірий</param>
       </offer>
       <offer id="EP6143" available="true">
-        <url>https://ol.partners/products/radiatori-opalennya/sektsiyni-radiatori/radiator-sektsiyniy-europroduct-100-bimetal500-ep6143</url>
+        <url>https://ol.partners/products/radiatori-opalennya/sektsiyni-radiatori/radiator-sektsiyniy-europroduct-100-bimetal500-ep6143-tsina-vkazana-za-1-sektsiyu</url>
         <price>352.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>271f5959-3c31-47d1-81a4-4ed3ce39cde4</categoryId>
@@ -134550,7 +134550,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/16fb32f2-85d1-4fa3-bc0c-65a8cb3d078b/Image_04_koer_M.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Штуцер для приєднання шланга Koer KF.U10M-20 - 1"x20mm M (KR3357)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR3357</vendorCode>
@@ -178490,6 +178490,35 @@
         <param name="Колір">Сталевий</param>
         <param name="Діаметр підключення (дюйм)">1х3/4</param>
       </offer>
+      <offer id="KP0045" available="true">
+        <url>https://ol.partners/products/truboprovodi-ta-zyednannya/fitingi/zyednannya-dlya-trub-z-polipropilenu/mufta-reduktsiyna-vv-50x32-ppr-koer-k0037pro-kp0045</url>
+        <price>26.00</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>cccd3e1f-6b84-49c8-b342-dee61a5caf10</categoryId>
+        <picture>https://ol.partners/Products/Photo/D3877C91-A120-4F1B-8686-5DB11C5BB0D5</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/a8bf8166-6d96-40c2-9ded-5ee5e42c4c68/image_01.jpg</picture>
+        <vendor>KOER</vendor>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Достатньо</availabilityStatus>
+        <name>Муфта редукційна ВВ 50x32 PPR Koer K0037.PRO (KP0045)</name>
+        <description>&lt;![CDATA[]]&gt;</description>
+        <vendorCode>KP0045</vendorCode>
+        <param name="Од. в упак.">216</param>
+        <param name="Об'єм ящ.">0.045</param>
+        <param name="Вага ящ.">14.65</param>
+        <param name="Особливості">Стійкий до корозії та хімічних впливів</param>
+        <param name="Гарантійний період (міс)">84</param>
+        <param name="Призначення">Для труб</param>
+        <param name="Тип виробу">Труби та фітинги PPR</param>
+        <param name="Модель">K0037.PRO</param>
+        <param name="Країна бренду">Чехія</param>
+        <param name="Тип">Муфта</param>
+        <param name="Вид виробу">Муфта</param>
+        <param name="Торгова марка">KOER</param>
+        <param name="Колір">Сірий</param>
+        <param name="Матеріал">Поліпропілен</param>
+        <param name="Тип з'єднання">Пайка</param>
+      </offer>
       <offer id="KP2556" available="true">
         <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/kolektori/rozpodilniy-kolektor-opalennya-3way-z-fitingom-40x20-ppr-koer-k0191pro-kp2556</url>
         <price>397.00</price>
@@ -178529,35 +178558,6 @@
         <param name="H (мм)">168,00</param>
         <param name="Кількість контурів">3</param>
         <param name="Розміри (мм)">40x20</param>
-      </offer>
-      <offer id="KP0045" available="true">
-        <url>https://ol.partners/products/truboprovodi-ta-zyednannya/fitingi/zyednannya-dlya-trub-z-polipropilenu/mufta-reduktsiyna-vv-50x32-ppr-koer-k0037pro-kp0045</url>
-        <price>26.00</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>cccd3e1f-6b84-49c8-b342-dee61a5caf10</categoryId>
-        <picture>https://ol.partners/Products/Photo/D3877C91-A120-4F1B-8686-5DB11C5BB0D5</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/a8bf8166-6d96-40c2-9ded-5ee5e42c4c68/image_01.jpg</picture>
-        <vendor>KOER</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
-        <name>Муфта редукційна ВВ 50x32 PPR Koer K0037.PRO (KP0045)</name>
-        <description>&lt;![CDATA[]]&gt;</description>
-        <vendorCode>KP0045</vendorCode>
-        <param name="Од. в упак.">216</param>
-        <param name="Об'єм ящ.">0.045</param>
-        <param name="Вага ящ.">14.65</param>
-        <param name="Особливості">Стійкий до корозії та хімічних впливів</param>
-        <param name="Гарантійний період (міс)">84</param>
-        <param name="Призначення">Для труб</param>
-        <param name="Тип виробу">Труби та фітинги PPR</param>
-        <param name="Модель">K0037.PRO</param>
-        <param name="Країна бренду">Чехія</param>
-        <param name="Тип">Муфта</param>
-        <param name="Вид виробу">Муфта</param>
-        <param name="Торгова марка">KOER</param>
-        <param name="Колір">Сірий</param>
-        <param name="Матеріал">Поліпропілен</param>
-        <param name="Тип з'єднання">Пайка</param>
       </offer>
       <offer id="KR0038" available="true">
         <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/krani/krani-kulovi/kran-kuloviy-koer-2-ggr-kr214-kr0038</url>
@@ -190257,7 +190257,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/92b4c0d5-1cbd-4de1-9276-251b2d58116c/image_01.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Генератор бензиновий Koer KU.7500EB (KR3433)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR3433</vendorCode>
