@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-07-20 03:18">
+<yml_catalog date="2026-07-21 02:31">
   <shop>
     <name>O&amp;L</name>
     <company>O&amp;L</company>
@@ -9206,15 +9206,15 @@
         <param name="Глибина (мм)">50</param>
         <param name="Гарантійний період (міс)">12</param>
       </offer>
-      <offer id="AC0722" available="true">
+      <offer id="AC0722" available="false">
         <url>https://ol.partners/products/sifoni-trapi-dlya-dushu/zlivni-trapi/zatvor-kombinovaniy-dlya-dushovogo-trapu-koer-fds03-z-povorotnoyu-osnovoyu-ac0722</url>
         <price>56.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>e679a4a9-0158-4101-9206-332f81d1f22b</categoryId>
         <picture>https://ol.partners/Products/Photo/AD36DCCD-3672-443A-B06C-7DD4B61104AB</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Затвор комбінований для душового трапу KOER FDS-03 з поворотною основою (AC0722)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>AC0722</vendorCode>
@@ -20584,9 +20584,9 @@
         <categoryId>f95f29f7-84eb-4a78-8b6f-06e404597c16</categoryId>
         <picture>https://ol.partners/Products/Photo/C46C2C1F-4EF7-49E5-B54A-E7622CE6409D</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/01bb4a2f-d714-4ac8-b989-7384902f56ea/image_06.jpg</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/01bb4a2f-d714-4ac8-b989-7384902f56ea/image_03.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/01bb4a2f-d714-4ac8-b989-7384902f56ea/image_09.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/01bb4a2f-d714-4ac8-b989-7384902f56ea/image_04.jpg</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/01bb4a2f-d714-4ac8-b989-7384902f56ea/image_03.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/01bb4a2f-d714-4ac8-b989-7384902f56ea/image_01.png</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/01bb4a2f-d714-4ac8-b989-7384902f56ea/image_08.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/01bb4a2f-d714-4ac8-b989-7384902f56ea/image_07.jpg</picture>
@@ -20993,7 +20993,6 @@
         <currencyId>UAH</currencyId>
         <categoryId>2e53263c-eb2d-4e24-80ae-a2a492d1a63a</categoryId>
         <picture>https://ol.partners/Products/Photo/DB5E4D8B-39F0-4567-90D0-977EAC3FDC74</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/7bc4a653-975e-4a2b-879a-2999b5cbb356/image_02.png</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/7bc4a653-975e-4a2b-879a-2999b5cbb356/image_04.png</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/7bc4a653-975e-4a2b-879a-2999b5cbb356/image_03.jpg</picture>
         <vendor>MIXXUS</vendor>
@@ -22749,7 +22748,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/16240732-bd84-4b5a-8dbb-ac5911a69a3a/image_03.jpg</picture>
         <vendor>ZERIX</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Відро для сміття з плавним закриттям квадратне ZERIX KUBIX-TC0108 BLACK 8 л (колір чорний) (ZX5892)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>ZX5892</vendorCode>
@@ -26439,7 +26438,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/0e5cd744-4cd5-415f-8c7a-8f946b864dcc/image_01.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Різьбове з'єднання заглушка В 3/4" Koer KF.P08F (KR3094)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR3094</vendorCode>
@@ -46487,7 +46486,7 @@
         <param name="Ширина (мм)">450</param>
         <param name="Форма">Циліндрична</param>
       </offer>
-      <offer id="EP3997" available="true">
+      <offer id="EP3997" available="false">
         <url>https://ol.partners/products/truboprovodi-ta-zyednannya/fitingi/rizbovi-zyednannya/zghinamerikanka-20x1-2m-nr-europroduct-ep0072-ep3997</url>
         <price>71.00</price>
         <currencyId>UAH</currencyId>
@@ -46495,8 +46494,8 @@
         <picture>https://ol.partners/Products/Photo/44605D50-9674-4E44-858A-03E6EFC6D1FB</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/d16e22fe-7663-4ef8-9089-e8b1a58fd792/image_01.jpg</picture>
         <vendor>EUROPRODUCT</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Згін-американка 20x1 / 2M "НР Europroduct EP.0072 (EP3997)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>EP3997</vendorCode>
@@ -49057,7 +49056,6 @@
         <picture>https://cdn.olinfrastructure.com/productfile/6356bcf5-f0f6-4913-a030-81afb615700d/image_03.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/6356bcf5-f0f6-4913-a030-81afb615700d/image_02.png</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/6356bcf5-f0f6-4913-a030-81afb615700d/image_01.jpg</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/6356bcf5-f0f6-4913-a030-81afb615700d/image_02.jpg</picture>
         <vendor>MIXXUS PREMIUM</vendor>
         <stock_quantity>100</stock_quantity>
         <availabilityStatus>Достатньо</availabilityStatus>
@@ -68582,7 +68580,7 @@
         <picture>https://ol.partners/Products/Photo/E6B15218-6357-456C-91C1-0CECE62EF0C8</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Гнучке підведення KOER KH-02-FF1/2"-600 в силіконовій оболонці (KR3515)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR3515</vendorCode>
@@ -72615,10 +72613,10 @@
         <currencyId>UAH</currencyId>
         <categoryId>bae524de-6825-4762-bea5-e2c2373606ee</categoryId>
         <picture>https://ol.partners/Products/Photo/09E4A777-3A43-45A7-B2C5-4D71FF01E36E</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/8d8dedbf-08a0-4196-a794-d8dea5bec834/image_02.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/8d8dedbf-08a0-4196-a794-d8dea5bec834/image_04.jpg</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/8d8dedbf-08a0-4196-a794-d8dea5bec834/image_01.jpg</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/8d8dedbf-08a0-4196-a794-d8dea5bec834/image_02.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/8d8dedbf-08a0-4196-a794-d8dea5bec834/image_03.jpg</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/8d8dedbf-08a0-4196-a794-d8dea5bec834/image_01.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
         <availabilityStatus>Достатньо</availabilityStatus>
@@ -83823,7 +83821,6 @@
         <categoryId>d7e25722-0e11-42cd-b2e7-4636c0c7a197</categoryId>
         <picture>https://ol.partners/Products/Photo/59D2D0D7-1D71-465A-95C5-B6528428E757</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/754c9add-2ae3-48fc-b68c-7656579f8adf/image_03.jpg</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/754c9add-2ae3-48fc-b68c-7656579f8adf/image_01.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/754c9add-2ae3-48fc-b68c-7656579f8adf/image_02.jpg</picture>
         <vendor>EUROPRODUCT</vendor>
         <stock_quantity>100</stock_quantity>
@@ -123764,7 +123761,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/0f3edc81-c49a-4f34-a933-ca039213da41/image_02.jpg</picture>
         <vendor>GROHE</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Набір аксесуарів 3 в 1 Grohe Essentials Cube New (40757001)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>40757001</vendorCode>
@@ -126624,8 +126621,8 @@
         <categoryId>bae524de-6825-4762-bea5-e2c2373606ee</categoryId>
         <picture>https://ol.partners/Products/Photo/EE49EC70-AB42-4A81-B5DF-5153877E7577</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/d35fc6c1-42be-4b1f-9d47-af5bf6cca6bb/image_02.jpg</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/d35fc6c1-42be-4b1f-9d47-af5bf6cca6bb/image_01.png</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/d35fc6c1-42be-4b1f-9d47-af5bf6cca6bb/image_03.jpg</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/d35fc6c1-42be-4b1f-9d47-af5bf6cca6bb/image_01.png</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
         <availabilityStatus>Малий залишок</availabilityStatus>
@@ -143247,8 +143244,8 @@
         <currencyId>UAH</currencyId>
         <categoryId>4b1ed2a0-7372-49d4-8570-7be730b86a84</categoryId>
         <picture>https://ol.partners/Products/Photo/8BF7362D-DF4D-47C0-A0A7-803CDD56ADEA</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/1407445f-5d6a-4179-8582-63b54e0c5753/image_02.png</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/1407445f-5d6a-4179-8582-63b54e0c5753/image_04.jpg</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/1407445f-5d6a-4179-8582-63b54e0c5753/image_02.png</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/1407445f-5d6a-4179-8582-63b54e0c5753/image_01.jpg</picture>
         <vendor>ZERIX</vendor>
         <stock_quantity>100</stock_quantity>
@@ -148617,7 +148614,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/9c3a71b1-af90-4080-bb93-d38e8c5dd6d9/image_02.jpg</picture>
         <vendor>ZERIX</vendor>
         <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Водонагрівач 3 kW проточний ZERIX ELW03-E з індик. темп., na мийку (ZX0449)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>ZX0449</vendorCode>
@@ -151230,7 +151227,7 @@
         <param name="Модель">33х500х1600.S</param>
         <param name="Колір">Білий (RAL 9016)</param>
       </offer>
-      <offer id="KP3134" available="true">
+      <offer id="KP3134" available="false">
         <url>https://ol.partners/products/truboprovodi-ta-zyednannya/fitingi/zyednannya-dlya-trub-z-polipropilenu/mufta-z-yevrokonusom-ta-nakidnoyu-gaykoyu-koer-k0240pro-white-20x34-ppr-kp3134</url>
         <price>118.00</price>
         <currencyId>UAH</currencyId>
@@ -151238,8 +151235,8 @@
         <picture>https://ol.partners/Products/Photo/D6E0E169-CB1E-4CF7-9E33-EC088E2DF658</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/fa6a59aa-67a9-4aa0-9340-72c2e437ec12/image_01.jpg</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Муфта з євроконусом та накидною гайкою Koer K0240.PRO White - 20x3/4 PPR (KP3134)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KP3134</vendorCode>
@@ -159259,7 +159256,6 @@
         <picture>https://cdn.olinfrastructure.com/productfile/4da49d0b-b0ee-47e1-8e6f-c2a1db227dbc/image_02.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/4da49d0b-b0ee-47e1-8e6f-c2a1db227dbc/image_05.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/4da49d0b-b0ee-47e1-8e6f-c2a1db227dbc/image_04.jpg</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/4da49d0b-b0ee-47e1-8e6f-c2a1db227dbc/image_03.png</picture>
         <vendor>MIXXUS</vendor>
         <stock_quantity>100</stock_quantity>
         <availabilityStatus>Достатньо</availabilityStatus>
@@ -177159,7 +177155,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/772a59d0-8d49-4bcc-a886-b02e9814e746/image_02.jpg</picture>
         <vendor>MIXXUS PREMIUM</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Раковина моноблок MIXXUS PREMIUM DIVERSE-1101 MARBLE 460х380х840mm (отвір під змішувач, перелив) (MP6575)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>MP6575</vendorCode>
@@ -185701,7 +185697,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/83627e9c-4414-4309-b10b-2f46654f9cfb/image_02.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Манометр аксіальний (KOER KM.611A) (0-10 bar), D 63мм, 1/4'' (KR0212)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR0212</vendorCode>
@@ -189637,7 +189633,7 @@
         <param name="Вид виробу">Труба для теплої підлоги</param>
         <param name="Колір">Червоний</param>
       </offer>
-      <offer id="ZX5066" available="true">
+      <offer id="ZX5066" available="false">
         <url>https://ol.partners/products/aksesuari-dlya-vannoi/paperotrimach/trimach-dlya-paperovogo-rushnika-zerix-afb01032-zx5066</url>
         <price>207.00</price>
         <currencyId>UAH</currencyId>
@@ -189648,8 +189644,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/4e951d12-485f-4ae9-870c-3516cb3bc39d/image_03.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/4e951d12-485f-4ae9-870c-3516cb3bc39d/image_01.jpg</picture>
         <vendor>ZERIX</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Тримач для паперового рушника Zerix AFB-0103-2 (ZX5066)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>ZX5066</vendorCode>
