@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-07-21 02:31">
+<yml_catalog date="2026-07-22 02:30">
   <shop>
     <name>O&amp;L</name>
     <company>O&amp;L</company>
@@ -26438,7 +26438,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/0e5cd744-4cd5-415f-8c7a-8f946b864dcc/image_01.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Різьбове з'єднання заглушка В 3/4" Koer KF.P08F (KR3094)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR3094</vendorCode>
@@ -29971,7 +29971,7 @@
         <param name="Довжина (мм)">285</param>
         <param name="Висота (мм)">220</param>
       </offer>
-      <offer id="KR5556" available="true">
+      <offer id="KR5556" available="false">
         <url>https://ol.partners/products/gazovi-kolonki/gazova-kolonka-koer-kwhg0210-white-dimokhidna-z-modulyatsiyey-10-lkhv-kolir-biliy-kr5556</url>
         <price>8851.00</price>
         <currencyId>UAH</currencyId>
@@ -29982,8 +29982,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/0cb78a82-211a-4e4a-8c1a-96c16b36addc/image_04.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/0cb78a82-211a-4e4a-8c1a-96c16b36addc/image_03.jpg</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Газова колонка KOER KWH.G0210 WHITE димохідна з модуляцієй 10 л/хв, колір білий (KR5556)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR5556</vendorCode>
@@ -39013,7 +39013,7 @@
         <param name="Серія">BD-04</param>
         <param name="Колір">Графітовий</param>
       </offer>
-      <offer id="RAD081" available="true">
+      <offer id="RAD081" available="false">
         <url>https://ol.partners/products/radiatori-opalennya/stalevi-radiatori/staleviy-radiator-koer-22x300x2000s-2552-vt-2966-kg-bokove-pidklyuchennya-rad081</url>
         <price>6183.00</price>
         <currencyId>UAH</currencyId>
@@ -39025,8 +39025,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/17137e0f-4d1f-431a-a839-a7db1b8264a8/image_02_400-600_0.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/17137e0f-4d1f-431a-a839-a7db1b8264a8/image_03_RAD081.jpg</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Сталевий радіатор KOER 22x300x2000S (2552 Вт, 29,66 кг, бокове підключення) (RAD081)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>RAD081</vendorCode>
@@ -57222,7 +57222,7 @@
         <param name="Особливості">Матеріал закладних деталей - Латунь CW617N нікельована</param>
         <param name="Гарантійний період (міс)">84</param>
       </offer>
-      <offer id="MX0773" available="true">
+      <offer id="MX0773" available="false">
         <url>https://ol.partners/products/protochni-vodonagrivachi/krani-vodonagrivachi/vodonagrivach-33-kw-protochniy-mixxus-electra-470ef-nerzhaviyucha-stal-z-indik-temp-reflektorniy-viliv-na-miyku-kolir-chorniy-mx0773</url>
         <price>1932.00</price>
         <currencyId>UAH</currencyId>
@@ -57232,8 +57232,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/5f891db7-b3fd-4792-851b-3bd81976f738/image_03.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/5f891db7-b3fd-4792-851b-3bd81976f738/image_04.jpg</picture>
         <vendor>MIXXUS</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Водонагрівач 3,3 kW проточний MIXXUS Electra 470-EF нержавіюча сталь, з індик. темп., рефлекторний вилив, на мийку (колір чорний) (MX0773)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>MX0773</vendorCode>
@@ -59465,7 +59465,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/8bd48321-266c-43bc-9c4a-0eb898a21dc3/image_02.jpg</picture>
         <vendor>MIXXUS</vendor>
         <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Водонагрівач 3 kW проточний MIXXUS Electra 240-E з індик. темп., RESET, на мийку (MI2749)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>MI2749</vendorCode>
@@ -91660,7 +91660,7 @@
         <vendor>EUROPRODUCT</vendor>
         <stock_quantity>100</stock_quantity>
         <availabilityStatus>Достатньо</availabilityStatus>
-        <name>Радіатор секційний Europroduct 100 Bimetal-500 (EP6143)</name>
+        <name>Радіатор секційний Europroduct 100 Bimetal-500 (EP6143) / ціна вказана за 1 секцію</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>EP6143</vendorCode>
         <param name="Од. в упак.">10</param>
@@ -103245,7 +103245,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/2f4cc372-8a67-432b-9a0f-ad0c5f5ab26f/image_02.jpg</picture>
         <vendor>MIXXUS</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Водонагрівач "Плоский" MIXXUS EWH-10100 FLAT DRY накопичувальний 100 л, сухий тен 2 kW (WH0599)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>WH0599</vendorCode>
@@ -124133,7 +124133,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/9eba94a7-7f0d-4337-9da7-1c638f14a4b2/image_01.jpg</picture>
         <vendor>MIXXUS</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Шток донного клапана (п'ятки) MIXXUS ROD-01 Click-Clack 16мм x 8мм латунний (MI8392)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>MI8392</vendorCode>
@@ -151227,7 +151227,7 @@
         <param name="Модель">33х500х1600.S</param>
         <param name="Колір">Білий (RAL 9016)</param>
       </offer>
-      <offer id="KP3134" available="false">
+      <offer id="KP3134" available="true">
         <url>https://ol.partners/products/truboprovodi-ta-zyednannya/fitingi/zyednannya-dlya-trub-z-polipropilenu/mufta-z-yevrokonusom-ta-nakidnoyu-gaykoyu-koer-k0240pro-white-20x34-ppr-kp3134</url>
         <price>118.00</price>
         <currencyId>UAH</currencyId>
@@ -151235,8 +151235,8 @@
         <picture>https://ol.partners/Products/Photo/D6E0E169-CB1E-4CF7-9E33-EC088E2DF658</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/fa6a59aa-67a9-4aa0-9340-72c2e437ec12/image_01.jpg</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Муфта з євроконусом та накидною гайкою Koer K0240.PRO White - 20x3/4 PPR (KP3134)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KP3134</vendorCode>
@@ -175939,7 +175939,7 @@
         <param name="Діаметр (мм)">66</param>
         <param name="Колір">Графітова керамічна накладка</param>
       </offer>
-      <offer id="WH0597" available="false">
+      <offer id="WH0597" available="true">
         <url>https://ol.partners/products/boyleri/vodonagrivach-ploskiy-mixxus-ewh10050-flat-dry-nakopichuvalniy-50-l-sukhiy-ten-2-kw-wh0597</url>
         <price>9096.00</price>
         <currencyId>UAH</currencyId>
@@ -175950,8 +175950,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/9119da33-1d7f-4872-9f3c-9574c51a141c/image_03.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/9119da33-1d7f-4872-9f3c-9574c51a141c/image_02.jpg</picture>
         <vendor>MIXXUS</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Водонагрівач "Плоский" MIXXUS EWH-10050 FLAT DRY накопичувальний 50 л, сухий тен 2 kW (WH0597)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>WH0597</vendorCode>
@@ -189633,7 +189633,7 @@
         <param name="Вид виробу">Труба для теплої підлоги</param>
         <param name="Колір">Червоний</param>
       </offer>
-      <offer id="ZX5066" available="false">
+      <offer id="ZX5066" available="true">
         <url>https://ol.partners/products/aksesuari-dlya-vannoi/paperotrimach/trimach-dlya-paperovogo-rushnika-zerix-afb01032-zx5066</url>
         <price>207.00</price>
         <currencyId>UAH</currencyId>
@@ -189644,8 +189644,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/4e951d12-485f-4ae9-870c-3516cb3bc39d/image_03.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/4e951d12-485f-4ae9-870c-3516cb3bc39d/image_01.jpg</picture>
         <vendor>ZERIX</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Тримач для паперового рушника Zerix AFB-0103-2 (ZX5066)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>ZX5066</vendorCode>
