@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-07-22 02:30">
+<yml_catalog date="2026-07-23 02:35">
   <shop>
     <name>O&amp;L</name>
     <company>O&amp;L</company>
@@ -13608,7 +13608,7 @@
         <param name="Довжина (мм)">300</param>
       </offer>
       <offer id="KR1562" available="true">
-        <url>https://ol.partners/products/radiatori-opalennya/komplektuyuchi-do-radiatoriv/komplekt-radiatorniy/komplekt-dlya-radiatora-34-koer-set04-bez-kriplen-kr1562</url>
+        <url>https://ol.partners/products/radiatori-opalennya/komplektuyuchi-do-radiatoriv/komplekt-radiatorniy/komplekt-dlya-radiatora-34-koer-set02-bez-kriplen-kr1562</url>
         <price>145.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>271f5959-3c31-47d1-81a4-4ed3ce39cde4</categoryId>
@@ -34442,7 +34442,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/2e6c34c5-038a-4029-9607-7b1599b53de6/image_01.jpg</picture>
         <vendor>EUROPRODUCT</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Комплект змінних картриджів Europroduct EPV-102 (ППР 5мкм+акт.гран.вуг.+акт.спрес.вуг.) (EP5456)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>EP5456</vendorCode>
@@ -47852,8 +47852,8 @@
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>ZX6081</vendorCode>
         <param name="Од. в упак.">36</param>
-        <param name="Об'єм ящ.">0</param>
-        <param name="Вага ящ.">0</param>
+        <param name="Об'єм ящ.">0.033</param>
+        <param name="Вага ящ.">13.1</param>
         <param name="Тип монтажу">Настінний</param>
         <param name="Країна бренду">Чехія</param>
         <param name="Серія">SCP</param>
@@ -49235,7 +49235,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/89721b4a-a93c-450f-93bc-e89c47b27338/image_01.jpg</picture>
         <vendor>EUROPRODUCT</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Комплект для підключення радіатора Europroduct EP.1302 - 1/2'' (кутовий з термоголовкою) (EP6016)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>EP6016</vendorCode>
@@ -55155,7 +55155,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/905ae170-6f80-4352-9186-fca3deee0dd1/image_06.jpg</picture>
         <vendor>ZERIX</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Дзеркало ZERIX PRIME MR02-50x80 з LED Touch, Anti-fog, димером, рег. яскравості (ZX6052)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>ZX6052</vendorCode>
@@ -67041,7 +67041,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/24c304f3-1fb2-4ad5-a7f0-1d35c69ada53/image_04.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Відро для сміття сенсорне прямокутне KOER TC-020408-02 8 л (колір нержавійка) (KR5588)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR5588</vendorCode>
@@ -69590,7 +69590,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/071f8867-e759-4314-b63a-3eacb73d5188/image_01.jpg</picture>
         <vendor>ZERIX</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Мийка Zerix ZH4843B-215 (3.0/1.0) PVD-Black (ZM5555)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>ZM5555</vendorCode>
@@ -79637,7 +79637,7 @@
         <param name="Комплектація">Мильниця</param>
         <param name="Гарантійний період (міс)">12</param>
       </offer>
-      <offer id="KR2914" available="true">
+      <offer id="KR2914" available="false">
         <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/grupa-bezpeki/grupa-bezpeki-boylera-bez-sifona-7bar-koer-kr106-12-kr2914</url>
         <price>725.00</price>
         <currencyId>UAH</currencyId>
@@ -79647,8 +79647,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/66ba8a12-ea54-4f7e-9e40-e9037eba8bc4/image_04.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/66ba8a12-ea54-4f7e-9e40-e9037eba8bc4/image_02.jpg</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Група безпеки бойлера (без сифона) 7бар Koer KR.106 - 1/2" (KR2914)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR2914</vendorCode>
@@ -90125,7 +90125,7 @@
         <param name="Особливості">Запобіжний клапан, захист від протікань через раптові аварії в системі водопостачання.</param>
         <param name="Колір">Сталевий</param>
       </offer>
-      <offer id="MI2747" available="true">
+      <offer id="MI2747" available="false">
         <url>https://ol.partners/products/protochni-vodonagrivachi/krani-vodonagrivachi/vodonagrivach-3-kw-protochniy-mixxus-electra-240e-blue-z-indik-temp-reset-na-miyku-kolir-blakitniy-mi2747</url>
         <price>1208.00</price>
         <currencyId>UAH</currencyId>
@@ -90134,8 +90134,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/e2975e67-7381-40d5-89de-0abd3cd59f59/image_01.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/e2975e67-7381-40d5-89de-0abd3cd59f59/image_02.jpg</picture>
         <vendor>MIXXUS</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Водонагрівач 3 kW проточний MIXXUS Electra 240-E BLUE з індик. темп., RESET, на мийку (колір блакитний) (MI2747)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>MI2747</vendorCode>
@@ -116837,8 +116837,8 @@
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>ZX6099</vendorCode>
         <param name="Од. в упак.">10</param>
-        <param name="Об'єм ящ.">0</param>
-        <param name="Вага ящ.">0</param>
+        <param name="Об'єм ящ.">0.076</param>
+        <param name="Вага ящ.">17</param>
         <param name="Торгова марка">ZERIX</param>
         <param name="Тип виробу">Шторки для ванни</param>
         <param name="Вид виробу">Штанга для штор</param>
@@ -121045,8 +121045,8 @@
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>ZX6089</vendorCode>
         <param name="Од. в упак.">36</param>
-        <param name="Об'єм ящ.">0</param>
-        <param name="Вага ящ.">0</param>
+        <param name="Об'єм ящ.">0.033</param>
+        <param name="Вага ящ.">13.4</param>
         <param name="Комплектація">Шторка, комплект пластикових кілець (12 штук), запаковані в пакет з тримачем</param>
         <param name="Умови експлуатації та догляд">1. Рекомендується прати не рідше 1 разу на місяць у ручному режимі при температурі не більше 30°С. 2. Для збереження зовнішнього вигляду виробу рекомендується споліскувати фіранку після прийому душу. 3. При появі плісняви рекомендується замочити фіранку в розчині прального порошку з теплою водою та невеликої кількості відбілювача на 30-40 хв, після чого прати у ручному режимі за температури 30 °С. Якщо через нетривалий час цвіль з'явиться знову, рекомендується замінити виріб на новий.</param>
         <param name="Гарантійний період (міс)">12</param>
@@ -123642,8 +123642,8 @@
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR5846</vendorCode>
         <param name="Од. в упак.">25</param>
-        <param name="Об'єм ящ.">0</param>
-        <param name="Вага ящ.">0</param>
+        <param name="Об'єм ящ.">0.016</param>
+        <param name="Вага ящ.">7.45</param>
         <param name="Тип виробу">Система з натяжною гільзою</param>
         <param name="Країна бренду">Чехія</param>
         <param name="Призначення">Для порізки труб діаметром 3 – 28 мм</param>
@@ -131359,7 +131359,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/401c0cc7-963d-48d5-94a4-682e826aae51/image_14.jpg</picture>
         <vendor>MIXXUS</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Раковина моноблок MIXXUS STYLE-1101 440х380х830mm (отвір під змішувач, перелив) (MI6696)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>MI6696</vendorCode>
@@ -135280,7 +135280,7 @@
         <price>449.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>98cef2a4-d106-4da2-9b4c-f8e66696fd13</categoryId>
-        <picture>https://ol.partners/Products/Photo/3C9C4BC5-097D-4446-984A-94104A0E060D</picture>
+        <picture>https://ol.partners/Products/Photo/8256214B-8F27-4A16-839E-CAC0A8F409BE</picture>
         <vendor>ZERIX</vendor>
         <stock_quantity>100</stock_quantity>
         <availabilityStatus>Достатньо</availabilityStatus>
@@ -136556,7 +136556,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/653a096b-40a4-4461-a4e5-e6d5eead11a1/image_01.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Футорка 1 "х1-1/4" Koer KF.F1012 (KF0083)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KF0083</vendorCode>
@@ -138790,7 +138790,7 @@
         <picture>https://ol.partners/Products/Photo/544618A0-3002-4B17-A65B-F5DFF1CC103C</picture>
         <vendor>ZERIX</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Йоржик для унітазу підлоговий ZERIX LR911-2 (колір чорний) (ZX2711)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>ZX2711</vendorCode>
@@ -144554,7 +144554,7 @@
         <price>396.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>98cef2a4-d106-4da2-9b4c-f8e66696fd13</categoryId>
-        <picture>https://ol.partners/Products/Photo/A718440F-D34E-4111-A756-C04F609D8E23</picture>
+        <picture>https://ol.partners/Products/Photo/E55F25B9-DB88-4D9D-AEA1-9F6DC82D13DB</picture>
         <vendor>ZERIX</vendor>
         <stock_quantity>100</stock_quantity>
         <availabilityStatus>Достатньо</availabilityStatus>
@@ -145172,15 +145172,15 @@
         <param name="Матеріал">Поліпропілен</param>
         <param name="Колір">Сірий</param>
       </offer>
-      <offer id="EP6232" available="true">
+      <offer id="EP6232" available="false">
         <url>https://ol.partners/products/filtri-ochischennya-vodi/komplektuyuchi-dlya-filtriv-vodi/kartridzh-iz-polipropilenovoi-nitki-pp10-25x10-europroduct-epv02251010-ep6232</url>
         <price>54.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>d191ae68-f2ee-4472-8036-e37d06c8ffc9</categoryId>
         <picture>https://ol.partners/Products/Photo/D08F86C5-EEEA-4119-BD6A-92C3208D8293</picture>
         <vendor>EUROPRODUCT</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Картридж із поліпропіленової нитки PP10 2,5"x10" EUROPRODUCT EPV-02-2510-10 (EP6232)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>EP6232</vendorCode>
@@ -149278,7 +149278,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/f4500f90-91d0-471d-a726-2bb69ddce094/image_04_400-600_0.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Сталевий радіатор KOER 11x500x1200S (905 Вт, 18,57 кг, бокове підключення) (RAD240)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>RAD240</vendorCode>
@@ -174961,8 +174961,8 @@
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>EP6246</vendorCode>
         <param name="Од. в упак.">54</param>
-        <param name="Об'єм ящ.">0</param>
-        <param name="Вага ящ.">0</param>
+        <param name="Об'єм ящ.">0.022</param>
+        <param name="Вага ящ.">20.4</param>
         <param name="Тип виробу">Труби та фітинги PPR</param>
         <param name="Торгова марка">EUROPRODUCT</param>
       </offer>
@@ -177687,7 +177687,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/a82077cd-492b-4f16-90ed-b1d988ca50a9/image_04.jpg</picture>
         <vendor>GROHE</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Панель змиву Grohe Skate Cosmopolitan для унітазу (38732000)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>38732000</vendorCode>
@@ -182606,7 +182606,7 @@
         <param name="Діаметр (мм)">16</param>
         <param name="Матеріал виробу">Латунь</param>
       </offer>
-      <offer id="KR5443" available="true">
+      <offer id="KR5443" available="false">
         <url>https://ol.partners/products/sifoni-trapi-dlya-dushu/sifoni/sifon-dlya-vanni-koer-bd0405-napivavtomatichniy-z-perelivom-bez-revizii-kolir-chorniy-1-12-kr5443</url>
         <price>1087.00</price>
         <currencyId>UAH</currencyId>
@@ -182617,8 +182617,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/1720f3c0-1311-41ca-bb84-b599c0f114b3/image_01.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/1720f3c0-1311-41ca-bb84-b599c0f114b3/image_02.jpg</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Сифон для ванни KOER BD-04-05 напівавтоматичний з переливом, без ревізії (Колір чорний) 1 1/2'' (KR5443)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR5443</vendorCode>
@@ -188197,8 +188197,8 @@
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>EP6247</vendorCode>
         <param name="Од. в упак.">30</param>
-        <param name="Об'єм ящ.">0</param>
-        <param name="Вага ящ.">0</param>
+        <param name="Об'єм ящ.">0.022</param>
+        <param name="Вага ящ.">15.8</param>
         <param name="Тип виробу">Труби та фітинги PPR</param>
         <param name="Торгова марка">EUROPRODUCT</param>
       </offer>
@@ -190243,7 +190243,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/92b4c0d5-1cbd-4de1-9276-251b2d58116c/image_01.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Генератор бензиновий Koer KU.7500EB (KR3433)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR3433</vendorCode>
