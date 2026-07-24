@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-07-23 02:35">
+<yml_catalog date="2026-07-24 02:32">
   <shop>
     <name>O&amp;L</name>
     <company>O&amp;L</company>
@@ -2105,7 +2105,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/5645c506-0aa0-4417-ae71-fc7807fcd270/image_05.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Насос циркуляційний енергозберігаючий фланцевий Koer star GRS 65/15F (KP2895)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KP2895</vendorCode>
@@ -33503,7 +33503,7 @@
         <param name="Модель">BV24</param>
         <param name="Країна бренду">Чехія</param>
       </offer>
-      <offer id="KR2975" available="false">
+      <offer id="KR2975" available="true">
         <url>https://ol.partners/products/truboprovodi-ta-zyednannya/ustatkuvannya-dlya-montazhu/kriplennya-dlya-trub/osnaschennya-taker-pid-skobi-koer-kr1002-dlya-ukladannya-teploi-pidlogi</url>
         <price>7106.00</price>
         <currencyId>UAH</currencyId>
@@ -33513,8 +33513,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/0e60868e-78c3-4301-b87b-df4c97af032f/image_02.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/0e60868e-78c3-4301-b87b-df4c97af032f/image_03.jpg</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Оснащення (Такер) під скоби KOER KR.1002 для укладання теплої підлоги</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR2975</vendorCode>
@@ -46734,7 +46734,7 @@
         <param name="Торгова марка">EUROPRODUCT</param>
         <param name="Особливості">Утримує частки від 20 мкм</param>
       </offer>
-      <offer id="40344001" available="false">
+      <offer id="40344001" available="true">
         <url>https://ol.partners/products/aksesuari-dlya-vannoi/nabir-aksesuariv-dlya-vannoi/nabir-aksesuariv-5-v-1-grohe-essentials-new-40344001</url>
         <price>9666.00</price>
         <currencyId>UAH</currencyId>
@@ -46746,8 +46746,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/bf4ba717-4813-4c02-891b-60612e1012bb/image_05.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/bf4ba717-4813-4c02-891b-60612e1012bb/image_01.jpg</picture>
         <vendor>GROHE</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Набір аксесуарів 5 в 1 Grohe Essentials New (40344001)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>40344001</vendorCode>
@@ -51528,7 +51528,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/0438afce-591f-4ff2-8019-d408f9fe48fc/image_04.jpg</picture>
         <vendor>EUROPRODUCT</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Ножиці механічні для труб PPR 75mm Europroduct EP.WС046 (EP6115)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>EP6115</vendorCode>
@@ -55885,7 +55885,6 @@
         <picture>https://cdn.olinfrastructure.com/productfile/4a3e758e-a54e-45d9-8470-6df7c0500b09/image_10.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/4a3e758e-a54e-45d9-8470-6df7c0500b09/image_03.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/4a3e758e-a54e-45d9-8470-6df7c0500b09/image_08.jpg</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/4a3e758e-a54e-45d9-8470-6df7c0500b09/image_14.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/4a3e758e-a54e-45d9-8470-6df7c0500b09/image_09.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/4a3e758e-a54e-45d9-8470-6df7c0500b09/image_02.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/4a3e758e-a54e-45d9-8470-6df7c0500b09/image_12.jpg</picture>
@@ -61558,7 +61557,7 @@
         <picture>https://ol.partners/Products/Photo/0BE73618-1F37-4977-AAF7-22A7253FFC01</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Насос дренажний KOER KDN-900, корпус нержавіюча сталь Н=10М, Q=12кбМ, P=900 Вт (KP3355)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KP3355</vendorCode>
@@ -68809,15 +68808,15 @@
         <param name="Діаметр підключення (дюйм)">3/4</param>
         <param name="Діаметр (мм)">20</param>
       </offer>
-      <offer id="TR0014" available="false">
+      <offer id="TR0014" available="true">
         <url>https://ol.partners/products/truboprovodi-ta-zyednannya/trubi/metaloplastikovi-trubi/metaloplastikova-truba-pn20-pexal-100-m-tr0014</url>
         <price>48.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>cccd3e1f-6b84-49c8-b342-dee61a5caf10</categoryId>
         <picture>https://ol.partners/Products/Photo/1535B5EE-CAF7-42DD-B48D-3253CA2BD54D</picture>
         <vendor>PEXAL</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Металопластикова труба PN20 Pexal (100 м) (TR0014)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>TR0014</vendorCode>
@@ -70483,7 +70482,7 @@
         <param name="Матеріал">Поліпропілен</param>
         <param name="Колір">Сірий</param>
       </offer>
-      <offer id="KR5833" available="true">
+      <offer id="KR5833" available="false">
         <url>https://ol.partners/products/sifoni-trapi-dlya-dushu/armatura-dlya-unitaziv/armatura-napovnyuvalna-koer-kt010812-z-bokovim-pidvedennyam-ta-plastikovim-rizblennyam-12-kr5833</url>
         <price>236.00</price>
         <currencyId>UAH</currencyId>
@@ -70496,8 +70495,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/9cf2a247-8910-47aa-81d0-2104891d9dfd/image_02.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/9cf2a247-8910-47aa-81d0-2104891d9dfd/image_06.jpg</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Арматура наповнювальна KOER KT-0108-1/2" з боковим підведенням та пластиковим різьбленням 1/2" (KR5833)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR5833</vendorCode>
@@ -77991,7 +77990,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/db516cff-1fe5-44da-802f-ff953273cc6a/image_01.jpg</picture>
         <vendor>GROHE</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Настінні куточки Grohe Rapid SL (3855800M)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>3855800M</vendorCode>
@@ -83244,7 +83243,7 @@
         <picture>https://ol.partners/Products/Photo/1781119F-3C99-455B-8420-8C6B54558A18</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Набір аксіального прес-інструмента для натяжного фітинга з акум. живленням Koer KAW.SET-100A (KR4926)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR4926</vendorCode>
@@ -106246,7 +106245,7 @@
         <param name="Гарантійний період (міс)">12</param>
         <param name="Макс. температура навколишнього середовища (°C)">55</param>
         <param name="Максимальна температура робочої рідини (°C)">110</param>
-        <param name="Особливості">Різьблення під термостатичну головку М30?1,5; Діапазон регулювання термостатичної головки: 6-28 °C</param>
+        <param name="Особливості">Різьблення під термостатичну головку М30х1,5; Діапазон регулювання термостатичної головки: 6-28 °C</param>
       </offer>
       <offer id="RAD120" available="true">
         <url>https://ol.partners/products/radiatori-opalennya/stalevi-radiatori/staleviy-radiator-koer-33x500x800s-2218-vt-3512-kg-bokove-pidklyuchennya-rad120</url>
@@ -106431,7 +106430,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/64a2dfba-3e97-47ba-8238-d50308f2a692/image_01.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Центробіжний насос Koer 3SDM 2/15 + 40M + пульт (KP2622)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KP2622</vendorCode>
@@ -113023,7 +113022,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/38809947-786b-47fe-bdc7-0a2f2406e7d7/image_04.jpg</picture>
         <vendor>GROHE</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Дозатор для миючого засобу Grohe (40535000)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>40535000</vendorCode>
@@ -120789,7 +120788,7 @@
         <picture>https://ol.partners/Products/Photo/D3D93377-2CCD-4508-8DAE-E9EE81DF780E</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Реле тиску електронне KOER KSR-10; регулююче, до 1,5 кВт, кабель з євровилкою та розеткою (KP3371)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KP3371</vendorCode>
@@ -126614,7 +126613,7 @@
         <param name="Тип з'єднання">Пайка</param>
         <param name="Матеріал">Поліпропілен</param>
       </offer>
-      <offer id="KR5179" available="true">
+      <offer id="KR5179" available="false">
         <url>https://ol.partners/products/instalyatsii-ta-klavishi/klavishi-zmivu-ta-komplektuyuchi/panel-zmivu-koer-kt060202-240x160x10mm-z-nerzhaviyuchoi-stali-knopka-kvadratna-sus304-kr5179</url>
         <price>1274.00</price>
         <currencyId>UAH</currencyId>
@@ -126624,8 +126623,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/d35fc6c1-42be-4b1f-9d47-af5bf6cca6bb/image_03.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/d35fc6c1-42be-4b1f-9d47-af5bf6cca6bb/image_01.png</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Панель змиву KOER KT-0602-02 240x160x10mm з нержавіючої сталі, кнопка квадратна SUS304 (KR5179)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR5179</vendorCode>
@@ -133359,15 +133358,15 @@
         <param name="Матеріал">Поліпропілен</param>
         <param name="Колір">Сірий</param>
       </offer>
-      <offer id="TR0013" available="false">
+      <offer id="TR0013" available="true">
         <url>https://ol.partners/products/truboprovodi-ta-zyednannya/trubi/metaloplastikovi-trubi/truba-metaloplastikova-16-pexal-100-m-tr0013</url>
         <price>35.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>cccd3e1f-6b84-49c8-b342-dee61a5caf10</categoryId>
         <picture>https://ol.partners/Products/Photo/2FD6EF81-E3D1-477C-B3C2-2E62D3DCC3A3</picture>
         <vendor>PEXAL</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Труба металопластикова 16 Pexal (100 м) (TR0013)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>TR0013</vendorCode>
@@ -135557,7 +135556,7 @@
         <param name="Гарантія на деталі змішувача (міс)">12</param>
         <param name="Комплектація">Кріпильний елемент, гумові прокладки</param>
       </offer>
-      <offer id="41064000" available="false">
+      <offer id="41064000" available="true">
         <url>https://ol.partners/products/aksesuari-dlya-vannoi/poruchni-dlya-vannoi/poruchen-dlya-vannoi-grohe-selection-41064000</url>
         <price>5886.00</price>
         <currencyId>UAH</currencyId>
@@ -135567,8 +135566,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/e781870e-76f0-4241-b69a-6e8e44d8c15d/image_01.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/e781870e-76f0-4241-b69a-6e8e44d8c15d/image_02.jpg</picture>
         <vendor>GROHE</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Поручень для ванної Grohe Selection (41064000)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>41064000</vendorCode>
@@ -136546,7 +136545,7 @@
         <param name="Матеріал виробу">Латунь CW617N хромована</param>
         <param name="Гарантійний період (міс)">84</param>
       </offer>
-      <offer id="KF0083" available="true">
+      <offer id="KF0083" available="false">
         <url>https://ol.partners/products/truboprovodi-ta-zyednannya/fitingi/rizbovi-zyednannya/futorka-1-kh114-koer-kff1012-kf0083</url>
         <price>147.00</price>
         <currencyId>UAH</currencyId>
@@ -136555,8 +136554,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/653a096b-40a4-4461-a4e5-e6d5eead11a1/image_03_KF0083.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/653a096b-40a4-4461-a4e5-e6d5eead11a1/image_01.jpg</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Футорка 1 "х1-1/4" Koer KF.F1012 (KF0083)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KF0083</vendorCode>
@@ -138897,15 +138896,15 @@
         <param name="Діаметр підключення (дюйм)">1/2х3/4</param>
         <param name="Гарантійний період (міс)">84</param>
       </offer>
-      <offer id="EP6231" available="true">
+      <offer id="EP6231" available="false">
         <url>https://ol.partners/products/filtri-ochischennya-vodi/komplektuyuchi-dlya-filtriv-vodi/kartridzh-iz-polipropilenovoi-nitki-pp5-25x10-europroduct-epv02251005-ep6231</url>
         <price>54.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>d191ae68-f2ee-4472-8036-e37d06c8ffc9</categoryId>
         <picture>https://ol.partners/Products/Photo/4ED7E33C-CE25-477D-AD6D-129CC21963DF</picture>
         <vendor>EUROPRODUCT</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Картридж із поліпропіленової нитки PP5 2,5"x10" EUROPRODUCT EPV-02-2510-05 (EP6231)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>EP6231</vendorCode>
@@ -142878,15 +142877,15 @@
         <param name="Тип виробу">Накопичувальні водонагрівачі</param>
         <param name="Тип монтажу">Настінний</param>
       </offer>
-      <offer id="KP3356" available="false">
+      <offer id="KP3356" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/drenazhni-nasosi/nasos-drenazhniy-koer-kdn1100-korpus-nerzhaviyucha-stal-n105m-q135kbm-p1100-vt-kp3356</url>
         <price>2730.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/C3C4A798-B441-486C-91BF-4F6E40A2ACCE</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Насос дренажний KOER KDN-1100, корпус нержавіюча сталь Н=10,5М, Q=13,5кбМ, P=1100 Вт (KP3356)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KP3356</vendorCode>
@@ -158693,7 +158692,7 @@
         <param name="Висота (мм)">500</param>
         <param name="Колір">Білий (RAL 9016)</param>
       </offer>
-      <offer id="ZX5891" available="true">
+      <offer id="ZX5891" available="false">
         <url>https://ol.partners/products/aksesuari-dlya-vannoi/vidro-dlya-smittya/vidro-dlya-smittya-z-plavnim-zakrittyam-kvadratne-zerix-kubixtc0108-ss-color-8l-kolir-nerzhaviyka-zx5891</url>
         <price>1035.00</price>
         <currencyId>UAH</currencyId>
@@ -158706,8 +158705,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/255a0f46-d39d-4ac3-854c-07ddb5a7fb69/image_01.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/255a0f46-d39d-4ac3-854c-07ddb5a7fb69/image_04.jpg</picture>
         <vendor>ZERIX</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Відро для сміття з плавним закриттям квадратне ZERIX KUBIX-TC0108 SS COLOR 8л (колір нержавійка) (ZX5891)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>ZX5891</vendorCode>
@@ -166302,7 +166301,9 @@
         <currencyId>UAH</currencyId>
         <categoryId>bae524de-6825-4762-bea5-e2c2373606ee</categoryId>
         <picture>https://ol.partners/Products/Photo/354A445D-4B7B-4D54-B2F4-390422D19887</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/85a7b389-edda-4f04-9744-b7e40415c0dc/image_04.png</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/85a7b389-edda-4f04-9744-b7e40415c0dc/image_02.jpg</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/85a7b389-edda-4f04-9744-b7e40415c0dc/image_01.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/85a7b389-edda-4f04-9744-b7e40415c0dc/image_03.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
@@ -167674,7 +167675,7 @@
         <picture>https://ol.partners/Products/Photo/48125CDE-59C1-4418-8CC9-048E23D9CFCD</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Насос дренажний KOER KDN-750, корпус нержавіюча сталь Н=9М, Q=10,6кбМ, P=750 Вт (KP3354)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KP3354</vendorCode>
@@ -168811,7 +168812,7 @@
         <picture>https://ol.partners/Products/Photo/A66932ED-0173-422A-967D-1E36CEC7A2FC</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Насос дренажний KOER KDN-550, корпус нержавіюча сталь Н=8М, Q=8,7кбМ, P=550 Вт (KP3353)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KP3353</vendorCode>
@@ -177687,7 +177688,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/a82077cd-492b-4f16-90ed-b1d988ca50a9/image_04.jpg</picture>
         <vendor>GROHE</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Панель змиву Grohe Skate Cosmopolitan для унітазу (38732000)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>38732000</vendorCode>
@@ -181746,7 +181747,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/c916d91b-7522-4c08-a366-a5c97267ffa8/image_01.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Кран поливу з коннектором для швидкого підключення 1/2" (Koer KR.257) (KR2750)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR2750</vendorCode>
@@ -184136,7 +184137,7 @@
         <param name="Довжина шланга підключення">100 см</param>
         <param name="Тип з'єднання">Гайка-Штуцер 1/2x1/2</param>
       </offer>
-      <offer id="31574SD1" available="true">
+      <offer id="31574SD1" available="false">
         <url>https://ol.partners/products/miyki-dlya-kukhni/vrizni-miyki/miyka-dlya-kukhni-iz-nerzhaviyuchoi-stali-grohe-k700u-31574sd1</url>
         <price>16686.00</price>
         <currencyId>UAH</currencyId>
@@ -184152,8 +184153,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/a0d71351-eaab-414f-8868-b905c0bbb716/image_02.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/a0d71351-eaab-414f-8868-b905c0bbb716/image_08.jpg</picture>
         <vendor>GROHE</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Мийка для кухні із нержавіючої сталі Grohe K700U (31574SD1)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>31574SD1</vendorCode>
