@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-07-25 02:30">
+<yml_catalog date="2026-07-26 02:37">
   <shop>
     <name>O&amp;L</name>
     <company>O&amp;L</company>
@@ -3161,7 +3161,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/81dded6d-4ce5-4a67-b407-f359d9b2a684/image_05.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Центробіжний насос Koer 4SDM 2/7 + 25M + пульт (KP2633)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KP2633</vendorCode>
@@ -4066,6 +4066,7 @@
         <currencyId>UAH</currencyId>
         <categoryId>85089059-b2ea-414c-a0f0-0cb7187f4e74</categoryId>
         <picture>https://ol.partners/Products/Photo/AE1A8255-5EF9-40FC-A082-75B0F736305F</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/2046688d-8742-4811-8534-6d7789a146ad/image_03.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/2046688d-8742-4811-8534-6d7789a146ad/image_02.jpg</picture>
         <vendor>ZERIX</vendor>
         <stock_quantity>100</stock_quantity>
@@ -4558,7 +4559,7 @@
         <param name="Країна бренду">Чехія</param>
         <param name="Тип виробу">Система PRESS-INOX</param>
         <param name="Тип">Трійник дворозтрубний</param>
-        <param name="Вид виробу">Трійник дворозтрубний</param>
+        <param name="Вид виробу">Трійник дворозтрубний із зовнішньою різьбою</param>
         <param name="Торгова марка">KOER</param>
         <param name="Серія">PRESS-INOX</param>
         <param name="Призначення">Для розгалуження трубопроводу з підключенням різьбового елемента</param>
@@ -6441,7 +6442,7 @@
         <param name="Торгова марка">KOER</param>
         <param name="Тип виробу">Система PRESS-INOX</param>
         <param name="Серія">PRESS-INOX</param>
-        <param name="Вид виробу">Трійник дворозтрубний</param>
+        <param name="Вид виробу">Трійник дворозтрубний із внутрішньою різьбою</param>
         <param name="Країна бренду">Чехія</param>
         <param name="Тип">Трійник дворозтрубний</param>
         <param name="Область застосування">Водопостачання, опалення, технологічні та інженерні мережі</param>
@@ -8520,6 +8521,7 @@
         <currencyId>UAH</currencyId>
         <categoryId>85089059-b2ea-414c-a0f0-0cb7187f4e74</categoryId>
         <picture>https://ol.partners/Products/Photo/B9FDBDDE-3475-4C68-81B1-CC2125D7EA28</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/40f8a751-9708-4e67-8b1b-0d8509df50c1/image_03.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/40f8a751-9708-4e67-8b1b-0d8509df50c1/image_02.jpg</picture>
         <vendor>ZERIX</vendor>
         <stock_quantity>100</stock_quantity>
@@ -24689,7 +24691,7 @@
         <param name="Коефіцієнт лінійного теплового розширення (1/°С)">0,163 х 10-4</param>
         <param name="Торгова марка">KOER</param>
         <param name="Модель">KQ.T4206F</param>
-        <param name="Вид виробу">Трійник дворозтрубний</param>
+        <param name="Вид виробу">Трійник дворозтрубний із внутрішньою різьбою</param>
         <param name="Країна бренду">Чехія</param>
         <param name="Призначення">Для розгалуження трубопроводу з підключенням різьбового елемента</param>
         <param name="Тип виробу">Система PRESS-INOX</param>
@@ -27296,7 +27298,7 @@
         <param name="Торгова марка">KOER</param>
         <param name="Модель">KQ.T2808F</param>
         <param name="Країна бренду">Чехія</param>
-        <param name="Вид виробу">Трійник дворозтрубний</param>
+        <param name="Вид виробу">Трійник дворозтрубний із внутрішньою різьбою</param>
         <param name="Тип виробу">Система PRESS-INOX</param>
         <param name="Призначення">Для розгалуження трубопроводу з підключенням різьбового елемента</param>
         <param name="Серія">PRESS-INOX</param>
@@ -29596,8 +29598,8 @@
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR6136</vendorCode>
         <param name="Од. в упак.">10</param>
-        <param name="Об'єм ящ.">0</param>
-        <param name="Вага ящ.">0</param>
+        <param name="Об'єм ящ.">0.072</param>
+        <param name="Вага ящ.">8.2</param>
         <param name="Тип монтажу">Настінний</param>
         <param name="Вид виробу">Панель змиву для пневматичної інсталяції</param>
         <param name="Серія">KT-0610</param>
@@ -36008,7 +36010,7 @@
         <param name="Тип з'єднання">Прес-різьбове</param>
         <param name="Модуль пружності сталі (ГПа)">193</param>
         <param name="Модель">KQ.T2808M</param>
-        <param name="Вид виробу">Трійник дворозтрубний</param>
+        <param name="Вид виробу">Трійник дворозтрубний із зовнішньою різьбою</param>
         <param name="Серія">PRESS-INOX</param>
         <param name="Торгова марка">KOER</param>
         <param name="Призначення">Для розгалуження трубопроводу з підключенням різьбового елемента</param>
@@ -38062,7 +38064,7 @@
         <param name="Модель">KQ.T5406F</param>
         <param name="Країна бренду">Чехія</param>
         <param name="Тип">Трійник дворозтрубний</param>
-        <param name="Вид виробу">Трійник дворозтрубний</param>
+        <param name="Вид виробу">Трійник дворозтрубний із внутрішньою різьбою</param>
         <param name="Призначення">Для розгалуження трубопроводу з підключенням різьбового елемента</param>
         <param name="Торгова марка">KOER</param>
         <param name="Серія">PRESS-INOX</param>
@@ -41775,7 +41777,7 @@
         <param name="Од. в упак.">40</param>
         <param name="Об'єм ящ.">0</param>
         <param name="Вага ящ.">0</param>
-        <param name="Вид виробу">Трійник дворозтрубний</param>
+        <param name="Вид виробу">Трійник дворозтрубний із внутрішньою різьбою</param>
         <param name="Країна бренду">Чехія</param>
         <param name="Тип">Трійник дворозтрубний</param>
         <param name="Серія">PRESS-INOX</param>
@@ -49292,7 +49294,7 @@
         <param name="Тип">Трійник дворозтрубний</param>
         <param name="Призначення">Для розгалуження трубопроводу з підключенням різьбового елемента</param>
         <param name="Модель">KQ.T2806M</param>
-        <param name="Вид виробу">Трійник дворозтрубний</param>
+        <param name="Вид виробу">Трійник дворозтрубний із зовнішньою різьбою</param>
         <param name="Серія">PRESS-INOX</param>
         <param name="Особливості">Стійкість до виривання. Стійкість до прокручування. Швидкий монтаж Підходить для роботи у важкодоступних місцях. Витримує вібрації та підвищені навантаження. Не вимагає підтягування або перевірки після завершення монтажу.</param>
         <param name="Додаткові характеристики">На фітингу нанесено червоний індикатор обтиску</param>
@@ -51021,6 +51023,7 @@
         <currencyId>UAH</currencyId>
         <categoryId>85089059-b2ea-414c-a0f0-0cb7187f4e74</categoryId>
         <picture>https://ol.partners/Products/Photo/2700D380-7A90-479B-A037-F9674E9B451A</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/14261f5d-a2d0-4319-b8bd-419db9264a36/image_03.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/14261f5d-a2d0-4319-b8bd-419db9264a36/image_02.jpg</picture>
         <vendor>ZERIX</vendor>
         <stock_quantity>100</stock_quantity>
@@ -60200,7 +60203,7 @@
         <param name="Торгова марка">KOER</param>
         <param name="Тип виробу">Система PRESS-INOX</param>
         <param name="Тип">Трійник дворозтрубний</param>
-        <param name="Вид виробу">Трійник дворозтрубний</param>
+        <param name="Вид виробу">Трійник дворозтрубний із внутрішньою різьбою</param>
         <param name="Призначення">Для розгалуження трубопроводу з підключенням різьбового елемента</param>
         <param name="Серія">PRESS-INOX</param>
         <param name="Модель">KQ.T2810F</param>
@@ -62809,8 +62812,8 @@
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>ZX6090</vendorCode>
         <param name="Од. в упак.">36</param>
-        <param name="Об'єм ящ.">0</param>
-        <param name="Вага ящ.">0</param>
+        <param name="Об'єм ящ.">0.033</param>
+        <param name="Вага ящ.">13.3</param>
         <param name="Форма">Прямокутна</param>
         <param name="Колір">Візерунок "Плитка" 3-Д молочна</param>
         <param name="Країна виробник">Китай</param>
@@ -68308,6 +68311,7 @@
         <categoryId>85089059-b2ea-414c-a0f0-0cb7187f4e74</categoryId>
         <picture>https://ol.partners/Products/Photo/BEE1E3CB-F6A4-40A2-A14D-B82E431DAF8B</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/1b41bca8-1480-48dc-b099-59aa04e07537/image_02.jpg</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/1b41bca8-1480-48dc-b099-59aa04e07537/image_03.jpg</picture>
         <vendor>ZERIX</vendor>
         <stock_quantity>100</stock_quantity>
         <availabilityStatus>Достатньо</availabilityStatus>
@@ -70207,6 +70211,7 @@
         <categoryId>85089059-b2ea-414c-a0f0-0cb7187f4e74</categoryId>
         <picture>https://ol.partners/Products/Photo/0A0A17AC-33C8-42B3-BD2E-0CAFF6AC2FE7</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/e1068747-5a52-4d87-a04d-3bc3c1f3402b/image_02.jpg</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/e1068747-5a52-4d87-a04d-3bc3c1f3402b/image_03.jpg</picture>
         <vendor>ZERIX</vendor>
         <stock_quantity>100</stock_quantity>
         <availabilityStatus>Достатньо</availabilityStatus>
@@ -71834,43 +71839,6 @@
         <param name="Тип ручки">Метелик</param>
         <param name="Матеріал виробу">Алюміній</param>
       </offer>
-      <offer id="AC0623" available="true">
-        <url>https://ol.partners/products/sifoni-trapi-dlya-dushu/zlivni-trapi/dushoviy-trap-koer-fd2970x400-z-nerzh-stali-sus304-70x400mm-ac0623</url>
-        <price>1339.00</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>e679a4a9-0158-4101-9206-332f81d1f22b</categoryId>
-        <picture>https://ol.partners/Products/Photo/F41A0D2F-457B-4196-9838-32735198C8E1</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/fa27e5d6-755c-487b-bd83-dbcc9ce3fc9c/image_06.jpg</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/fa27e5d6-755c-487b-bd83-dbcc9ce3fc9c/image_03.jpg</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/fa27e5d6-755c-487b-bd83-dbcc9ce3fc9c/image_04_KOER_shower.jpg</picture>
-        <vendor>KOER</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
-        <name>Душовий трап KOER FD29-70x400 з нерж. сталі SUS304 70x400мм (AC0623)</name>
-        <description>&lt;![CDATA[]]&gt;</description>
-        <vendorCode>AC0623</vendorCode>
-        <param name="Од. в упак.">5</param>
-        <param name="Об'єм ящ.">0.061</param>
-        <param name="Вага ящ.">9.3</param>
-        <param name="Загальна висота монтажа (мм)">70,00</param>
-        <param name="Матеріал">Нержавіюча сталь SUS 304</param>
-        <param name="Комбінований гідрозатвор (мм)">40,00</param>
-        <param name="Монтажна глибина (мм)">100-155</param>
-        <param name="Діаметр випускного отвору (мм)">40,00</param>
-        <param name="Пропускна здатність (л/хв)">30,00</param>
-        <param name="Тип затвору">Комбінований</param>
-        <param name="Довжина (мм)">400</param>
-        <param name="Ширина (мм)">70</param>
-        <param name="Країна бренду">Чехія</param>
-        <param name="Вид виробу">Лінійні трапи</param>
-        <param name="Торгова марка">KOER</param>
-        <param name="Модель">FD29</param>
-        <param name="Тип виробу">Трапи для душу</param>
-        <param name="Гарантійний період (міс)">60</param>
-        <param name="Особливості">Регульована висота ринви, ухил внутрішньої частини корпусу ринви</param>
-        <param name="Комплектація">Водовідвідний жолоб, решітка, гідроізоляційна стрічка, що відповідає жолобу, комбінований гідрозатвор SMART, опорні ноги, монтажний гачок</param>
-        <param name="Колір">Нержавіюча сталь</param>
-      </offer>
       <offer id="KR3403" available="true">
         <url>https://ol.partners/products/zapchastini-dlya-zmishuvacha/donniy-klapan-dlya-rakovini/donniy-klapan-dlya-rakovini-universalniy-zbez-perelivu-koer-pw0105-avtomatichniy-clickclack-kolir-chorniy-1-14-kr3403</url>
         <price>644.00</price>
@@ -71928,6 +71896,43 @@
         <param name="Гарантійний період (міс)">24</param>
         <param name="Комплектація">Донний клапан з кришкою</param>
         <param name="Колір">Чорний матовий</param>
+      </offer>
+      <offer id="AC0623" available="true">
+        <url>https://ol.partners/products/sifoni-trapi-dlya-dushu/zlivni-trapi/dushoviy-trap-koer-fd2970x400-z-nerzh-stali-sus304-70x400mm-ac0623</url>
+        <price>1339.00</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>e679a4a9-0158-4101-9206-332f81d1f22b</categoryId>
+        <picture>https://ol.partners/Products/Photo/F41A0D2F-457B-4196-9838-32735198C8E1</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/fa27e5d6-755c-487b-bd83-dbcc9ce3fc9c/image_06.jpg</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/fa27e5d6-755c-487b-bd83-dbcc9ce3fc9c/image_03.jpg</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/fa27e5d6-755c-487b-bd83-dbcc9ce3fc9c/image_04_KOER_shower.jpg</picture>
+        <vendor>KOER</vendor>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Достатньо</availabilityStatus>
+        <name>Душовий трап KOER FD29-70x400 з нерж. сталі SUS304 70x400мм (AC0623)</name>
+        <description>&lt;![CDATA[]]&gt;</description>
+        <vendorCode>AC0623</vendorCode>
+        <param name="Од. в упак.">5</param>
+        <param name="Об'єм ящ.">0.061</param>
+        <param name="Вага ящ.">9.3</param>
+        <param name="Загальна висота монтажа (мм)">70,00</param>
+        <param name="Матеріал">Нержавіюча сталь SUS 304</param>
+        <param name="Комбінований гідрозатвор (мм)">40,00</param>
+        <param name="Монтажна глибина (мм)">100-155</param>
+        <param name="Діаметр випускного отвору (мм)">40,00</param>
+        <param name="Пропускна здатність (л/хв)">30,00</param>
+        <param name="Тип затвору">Комбінований</param>
+        <param name="Довжина (мм)">400</param>
+        <param name="Ширина (мм)">70</param>
+        <param name="Країна бренду">Чехія</param>
+        <param name="Вид виробу">Лінійні трапи</param>
+        <param name="Торгова марка">KOER</param>
+        <param name="Модель">FD29</param>
+        <param name="Тип виробу">Трапи для душу</param>
+        <param name="Гарантійний період (міс)">60</param>
+        <param name="Особливості">Регульована висота ринви, ухил внутрішньої частини корпусу ринви</param>
+        <param name="Комплектація">Водовідвідний жолоб, решітка, гідроізоляційна стрічка, що відповідає жолобу, комбінований гідрозатвор SMART, опорні ноги, монтажний гачок</param>
+        <param name="Колір">Нержавіюча сталь</param>
       </offer>
       <offer id="KP2583" available="true">
         <url>https://ol.partners/products/truboprovodi-ta-zyednannya/fitingi/zyednannya-dlya-trub-z-polipropilenu/mufta-reduktsiyna-vv-110x90-ppr-koer-k0218pro-kp2583</url>
@@ -72348,7 +72353,7 @@
         <param name="Тип виробу">Система PRESS-INOX</param>
         <param name="Серія">PRESS-INOX</param>
         <param name="Країна бренду">Чехія</param>
-        <param name="Вид виробу">Трійник дворозтрубний</param>
+        <param name="Вид виробу">Трійник дворозтрубний із внутрішньою різьбою</param>
         <param name="Призначення">Для розгалуження трубопроводу з підключенням різьбового елемента</param>
         <param name="Модель">KQ.T2208F</param>
         <param name="Тип">Трійник дворозтрубний</param>
@@ -78376,6 +78381,36 @@
         <param name="Вага (г)">183,00</param>
         <param name="Розміри (мм)">25(3.5mm) x 25(3.5mm) x 16(2.2mm)</param>
       </offer>
+      <offer id="22502LN1" available="false">
+        <url>https://ol.partners/products/nasosi-ta-aksesuari/zapchastini-ta-aksesuari-dlya-nasosiv/intelektualniy-kontroler-vodi-z-3ma-datchikami-grohe-sense-guard-22502ln1</url>
+        <price>38340.00</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>a3fca00e-0578-41a0-8f4d-59220071a9b0</categoryId>
+        <picture>https://ol.partners/Products/Photo/6E5FFFA6-D8D1-4385-B253-D868650C154B</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/17476412-814d-4605-8667-f3eaf868742d/image_05.jpg</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/17476412-814d-4605-8667-f3eaf868742d/image_04.jpg</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/17476412-814d-4605-8667-f3eaf868742d/image_02.jpg</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/17476412-814d-4605-8667-f3eaf868742d/image_03.jpg</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/17476412-814d-4605-8667-f3eaf868742d/image_01.jpg</picture>
+        <vendor>GROHE</vendor>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <name>Інтелектуальний контролер води з 3-ма датчиками Grohe Sense Guard (22502LN1)</name>
+        <description>&lt;![CDATA[]]&gt;</description>
+        <vendorCode>22502LN1</vendorCode>
+        <param name="Од. в упак.">1</param>
+        <param name="Об'єм ящ.">0</param>
+        <param name="Вага ящ.">0</param>
+        <param name="Призначення">Захист від протікання</param>
+        <param name="Тип виробу">Комплекти захисту від протікання води</param>
+        <param name="Країна бренду">Німеччина</param>
+        <param name="Торгова марка">GROHE</param>
+        <param name="Колір">Білий</param>
+        <param name="Додаткові характеристики">Виявляє розриви труб, мікровитоки, обмерзання та незвичайне споживання води</param>
+        <param name="Особливості">У цей комплект входять 1 датчик GROHE Sense Guard та 3 датчики GROHE Sense.</param>
+        <param name="Матеріал виробу">Латунь</param>
+        <param name="Напруга мережі (V)">230</param>
+      </offer>
       <offer id="KR5195" available="true">
         <url>https://ol.partners/products/sifoni-trapi-dlya-dushu/sifoni/sifon-dlya-vanni-koer-bd0201-napivavtomatichniy-z-perelivom-bez-revizii-kolir-khrom-1-12-kr5195</url>
         <price>2346.00</price>
@@ -78422,36 +78457,6 @@
         <param name="Комплектація">Панель для переливу с накладкою, злив з накладкою, труба переливу, труба зливу, прокладки</param>
         <param name="Гарантійний період (міс)">24</param>
         <param name="Колір">Хром</param>
-      </offer>
-      <offer id="22502LN1" available="false">
-        <url>https://ol.partners/products/nasosi-ta-aksesuari/zapchastini-ta-aksesuari-dlya-nasosiv/intelektualniy-kontroler-vodi-z-3ma-datchikami-grohe-sense-guard-22502ln1</url>
-        <price>38340.00</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>a3fca00e-0578-41a0-8f4d-59220071a9b0</categoryId>
-        <picture>https://ol.partners/Products/Photo/6E5FFFA6-D8D1-4385-B253-D868650C154B</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/17476412-814d-4605-8667-f3eaf868742d/image_05.jpg</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/17476412-814d-4605-8667-f3eaf868742d/image_04.jpg</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/17476412-814d-4605-8667-f3eaf868742d/image_02.jpg</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/17476412-814d-4605-8667-f3eaf868742d/image_03.jpg</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/17476412-814d-4605-8667-f3eaf868742d/image_01.jpg</picture>
-        <vendor>GROHE</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
-        <name>Інтелектуальний контролер води з 3-ма датчиками Grohe Sense Guard (22502LN1)</name>
-        <description>&lt;![CDATA[]]&gt;</description>
-        <vendorCode>22502LN1</vendorCode>
-        <param name="Од. в упак.">1</param>
-        <param name="Об'єм ящ.">0</param>
-        <param name="Вага ящ.">0</param>
-        <param name="Призначення">Захист від протікання</param>
-        <param name="Тип виробу">Комплекти захисту від протікання води</param>
-        <param name="Країна бренду">Німеччина</param>
-        <param name="Торгова марка">GROHE</param>
-        <param name="Колір">Білий</param>
-        <param name="Додаткові характеристики">Виявляє розриви труб, мікровитоки, обмерзання та незвичайне споживання води</param>
-        <param name="Особливості">У цей комплект входять 1 датчик GROHE Sense Guard та 3 датчики GROHE Sense.</param>
-        <param name="Матеріал виробу">Латунь</param>
-        <param name="Напруга мережі (V)">230</param>
       </offer>
       <offer id="MX0571" available="false">
         <url>https://ol.partners/products/miyki-dlya-kukhni/vrizni-miyki/miyka-mixxus-mx3045050200x12handmade-kolir-nerzh-mx0571</url>
@@ -80739,6 +80744,7 @@
         <currencyId>UAH</currencyId>
         <categoryId>85089059-b2ea-414c-a0f0-0cb7187f4e74</categoryId>
         <picture>https://ol.partners/Products/Photo/1D1C5D34-5AB9-4B33-9F5B-785C72166BF1</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/3c33f40d-a151-417b-ba48-a3e2137306fc/image_03.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/3c33f40d-a151-417b-ba48-a3e2137306fc/image_02.jpg</picture>
         <vendor>ZERIX</vendor>
         <stock_quantity>100</stock_quantity>
@@ -92960,7 +92966,7 @@
         <param name="Модель">KQ.T2806F</param>
         <param name="Торгова марка">KOER</param>
         <param name="Тип">Трійник дворозтрубний</param>
-        <param name="Вид виробу">Трійник дворозтрубний</param>
+        <param name="Вид виробу">Трійник дворозтрубний із внутрішньою різьбою</param>
         <param name="Особливості">Стійкість до виривання. Стійкість до прокручування. Швидкий монтаж Підходить для роботи у важкодоступних місцях. Витримує вібрації та підвищені навантаження. Не вимагає підтягування або перевірки після завершення монтажу.</param>
         <param name="Область застосування">Водопостачання, опалення, технологічні та інженерні мережі</param>
         <param name="Додаткові характеристики">На фітингу нанесено червоний індикатор обтиску</param>
@@ -95391,6 +95397,7 @@
         <currencyId>UAH</currencyId>
         <categoryId>85089059-b2ea-414c-a0f0-0cb7187f4e74</categoryId>
         <picture>https://ol.partners/Products/Photo/F7A28F81-65B1-4410-9804-8EBE8C7EB209</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/0e640253-155f-4019-bacd-8f29b9e8f608/image_03.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/0e640253-155f-4019-bacd-8f29b9e8f608/image_02.jpg</picture>
         <vendor>ZERIX</vendor>
         <stock_quantity>100</stock_quantity>
@@ -102321,8 +102328,8 @@
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR6134</vendorCode>
         <param name="Од. в упак.">10</param>
-        <param name="Об'єм ящ.">0</param>
-        <param name="Вага ящ.">0</param>
+        <param name="Об'єм ящ.">0.072</param>
+        <param name="Вага ящ.">8.1</param>
         <param name="Форма кнопки зливу">Квадратна</param>
         <param name="Колір">Білий</param>
         <param name="Колір панелі">Білий</param>
@@ -102654,7 +102661,7 @@
         <param name="Сумісність з комплектуючою">Труби та прес-фітинги PRESS-INOX відповідного діаметра</param>
         <param name="Область застосування">Водопостачання, опалення, технологічні та інженерні мережі</param>
         <param name="Модель">KQ.T3512M</param>
-        <param name="Вид виробу">Трійник дворозтрубний</param>
+        <param name="Вид виробу">Трійник дворозтрубний із зовнішньою різьбою</param>
         <param name="Торгова марка">KOER</param>
         <param name="Серія">PRESS-INOX</param>
         <param name="Країна бренду">Чехія</param>
@@ -106934,6 +106941,36 @@
         <param name="Діаметр підключення (мм)">26</param>
         <param name="Колір">Сталевий</param>
       </offer>
+      <offer id="KR5633" available="true">
+        <url>https://ol.partners/products/aksesuari-dlya-vannoi/dozator-dlya-ridkogo-mila/dozator-dlya-miynogo-zasobu-koer-sdb0305-vrizniy-kolir-chorniy-300-ml-kr5633</url>
+        <price>1367.00</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>4b1ed2a0-7372-49d4-8570-7be730b86a84</categoryId>
+        <picture>https://ol.partners/Products/Photo/491BFBAE-C35E-4760-9971-C09CA08DF356</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/00df8cab-894f-42fc-99bd-f43b8b1bae6b/image_01.jpg</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/00df8cab-894f-42fc-99bd-f43b8b1bae6b/image_02.jpg</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/00df8cab-894f-42fc-99bd-f43b8b1bae6b/image_03.jpg</picture>
+        <vendor>KOER</vendor>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Достатньо</availabilityStatus>
+        <name>Дозатор для мийного засобу KOER SDB-03-05 врізний (колір чорний) (300 мл) (KR5633)</name>
+        <description>&lt;![CDATA[]]&gt;</description>
+        <vendorCode>KR5633</vendorCode>
+        <param name="Од. в упак.">30</param>
+        <param name="Об'єм ящ.">0.137</param>
+        <param name="Вага ящ.">18.5</param>
+        <param name="Країна бренду">Чехія</param>
+        <param name="Вид виробу">Дозатори для мийок</param>
+        <param name="Країна виробник">Китай</param>
+        <param name="Тип виробу">Аксесуари та комплектуючі для кухонних мийок</param>
+        <param name="Модель">SDB-03</param>
+        <param name="Торгова марка">KOER</param>
+        <param name="Гарантійний період (міс)">12</param>
+        <param name="Матеріал виробу">Латунь</param>
+        <param name="Поверхня">Матова</param>
+        <param name="Колір">Чорний матовий</param>
+        <param name="Об'єм (л)">0,30</param>
+      </offer>
       <offer id="AC0682" available="true">
         <url>https://ol.partners/products/sifoni-trapi-dlya-dushu/zlivni-trapi/dushoviy-trap-koer-fd2970x800black-z-nerzh-stali-sus304-70x800mm-kolir-chorniy-ac0682</url>
         <price>2303.00</price>
@@ -106967,36 +107004,6 @@
         <param name="Довжина (мм)">800</param>
         <param name="Ширина (мм)">70</param>
         <param name="Колір">Чорний</param>
-      </offer>
-      <offer id="KR5633" available="true">
-        <url>https://ol.partners/products/aksesuari-dlya-vannoi/dozator-dlya-ridkogo-mila/dozator-dlya-miynogo-zasobu-koer-sdb0305-vrizniy-kolir-chorniy-300-ml-kr5633</url>
-        <price>1367.00</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>4b1ed2a0-7372-49d4-8570-7be730b86a84</categoryId>
-        <picture>https://ol.partners/Products/Photo/491BFBAE-C35E-4760-9971-C09CA08DF356</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/00df8cab-894f-42fc-99bd-f43b8b1bae6b/image_01.jpg</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/00df8cab-894f-42fc-99bd-f43b8b1bae6b/image_02.jpg</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/00df8cab-894f-42fc-99bd-f43b8b1bae6b/image_03.jpg</picture>
-        <vendor>KOER</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
-        <name>Дозатор для мийного засобу KOER SDB-03-05 врізний (колір чорний) (300 мл) (KR5633)</name>
-        <description>&lt;![CDATA[]]&gt;</description>
-        <vendorCode>KR5633</vendorCode>
-        <param name="Од. в упак.">30</param>
-        <param name="Об'єм ящ.">0.137</param>
-        <param name="Вага ящ.">18.5</param>
-        <param name="Країна бренду">Чехія</param>
-        <param name="Вид виробу">Дозатори для мийок</param>
-        <param name="Країна виробник">Китай</param>
-        <param name="Тип виробу">Аксесуари та комплектуючі для кухонних мийок</param>
-        <param name="Модель">SDB-03</param>
-        <param name="Торгова марка">KOER</param>
-        <param name="Гарантійний період (міс)">12</param>
-        <param name="Матеріал виробу">Латунь</param>
-        <param name="Поверхня">Матова</param>
-        <param name="Колір">Чорний матовий</param>
-        <param name="Об'єм (л)">0,30</param>
       </offer>
       <offer id="KP2561" available="true">
         <url>https://ol.partners/products/truboprovodi-ta-zyednannya/fitingi/zyednannya-dlya-trub-z-polipropilenu/zyednuvalna-mufta-90-ppr-koer-k0196pro-kp2561</url>
@@ -109307,7 +109314,7 @@
         <param name="Призначення">Для розгалуження трубопроводу з підключенням різьбового елемента</param>
         <param name="Серія">PRESS-INOX</param>
         <param name="Модель">KQ.T2208M</param>
-        <param name="Вид виробу">Трійник дворозтрубний</param>
+        <param name="Вид виробу">Трійник дворозтрубний із зовнішньою різьбою</param>
         <param name="Тип">Трійник дворозтрубний</param>
       </offer>
       <offer id="KR0121" available="true">
@@ -112105,6 +112112,7 @@
         <currencyId>UAH</currencyId>
         <categoryId>85089059-b2ea-414c-a0f0-0cb7187f4e74</categoryId>
         <picture>https://ol.partners/Products/Photo/EEC03C7F-2975-4DBF-BF23-FAF0EAF2B43E</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/d607e21d-641d-4c52-9afd-6d237c5bff55/image_03.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/d607e21d-641d-4c52-9afd-6d237c5bff55/image_02.jpg</picture>
         <vendor>ZERIX</vendor>
         <stock_quantity>100</stock_quantity>
@@ -114676,7 +114684,7 @@
         <param name="Вага ящ.">0</param>
         <param name="Модель">KQ.T1506M</param>
         <param name="Тип виробу">Система PRESS-INOX</param>
-        <param name="Вид виробу">Трійник дворозтрубний</param>
+        <param name="Вид виробу">Трійник дворозтрубний із зовнішньою різьбою</param>
         <param name="Серія">PRESS-INOX</param>
         <param name="Тип">Трійник дворозтрубний</param>
         <param name="Країна бренду">Чехія</param>
@@ -132822,7 +132830,7 @@
         <param name="Вага ящ.">0</param>
         <param name="Призначення">Для розгалуження трубопроводу з підключенням різьбового елемента</param>
         <param name="Тип виробу">Система PRESS-INOX</param>
-        <param name="Вид виробу">Трійник дворозтрубний</param>
+        <param name="Вид виробу">Трійник дворозтрубний із внутрішньою різьбою</param>
         <param name="Країна бренду">Чехія</param>
         <param name="Серія">PRESS-INOX</param>
         <param name="Модель">KQ.T3506F</param>
@@ -139182,15 +139190,15 @@
         <param name="Діаметр підключення (дюйм)">1/2х3/4</param>
         <param name="Гарантійний період (міс)">84</param>
       </offer>
-      <offer id="EP6231" available="false">
+      <offer id="EP6231" available="true">
         <url>https://ol.partners/products/filtri-ochischennya-vodi/komplektuyuchi-dlya-filtriv-vodi/kartridzh-iz-polipropilenovoi-nitki-pp5-25x10-europroduct-epv02251005-ep6231</url>
         <price>54.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>d191ae68-f2ee-4472-8036-e37d06c8ffc9</categoryId>
         <picture>https://ol.partners/Products/Photo/4ED7E33C-CE25-477D-AD6D-129CC21963DF</picture>
         <vendor>EUROPRODUCT</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Картридж із поліпропіленової нитки PP5 2,5"x10" EUROPRODUCT EPV-02-2510-05 (EP6231)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>EP6231</vendorCode>
@@ -140534,7 +140542,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/6b0eaea7-6821-46af-9b78-39fa38fbe48e/image_01.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Генератор бензиновий Koer KU.5500EB (KR3432)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR3432</vendorCode>
@@ -142506,6 +142514,39 @@
         <param name="Тип виробу">Комплектуючі для насосів</param>
         <param name="Торгова марка">KOER</param>
       </offer>
+      <offer id="KR5135" available="true">
+        <url>https://ol.partners/products/sifoni-trapi-dlya-dushu/zlivni-trapi/dushoviy-trap-koer-fd0720x600slender-tonkiy-z-nerzh-stali-sus304-20x600mm-kr5135</url>
+        <price>1878.00</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>e679a4a9-0158-4101-9206-332f81d1f22b</categoryId>
+        <picture>https://ol.partners/Products/Photo/4054D825-3BAA-46C6-99C3-7F902D1C777D</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/22ace1d2-4b1e-4d82-8a4f-d2b616a4af33/image_01.jpg</picture>
+        <vendor>KOER</vendor>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Достатньо</availabilityStatus>
+        <name>Душовий трап KOER FD07-20x600-SLENDER "тонкий" з нерж. сталі SUS304 20x600мм (KR5135)</name>
+        <description>&lt;![CDATA[]]&gt;</description>
+        <vendorCode>KR5135</vendorCode>
+        <param name="Од. в упак.">5</param>
+        <param name="Об'єм ящ.">0.096</param>
+        <param name="Вага ящ.">10.6</param>
+        <param name="Торгова марка">KOER</param>
+        <param name="Модель">FD07</param>
+        <param name="Вид виробу">Лінійні трапи</param>
+        <param name="Тип виробу">Трапи для душу</param>
+        <param name="Країна бренду">Чехія</param>
+        <param name="Ширина (мм)">20</param>
+        <param name="Довжина (мм)">600</param>
+        <param name="Матеріал">Нержавіюча сталь SUS 304</param>
+        <param name="Діаметр випускного отвору (мм)">40,00</param>
+        <param name="Монтажна глибина (мм)">100-155</param>
+        <param name="Тип затвору">Комбінований</param>
+        <param name="Пропускна здатність (л/хв)">30,00</param>
+        <param name="Колір">Нержавіюча сталь</param>
+        <param name="Особливості">Регульована висота ринви, ухил внутрішньої частини корпусу ринви</param>
+        <param name="Гарантійний період (міс)">60</param>
+        <param name="Комплектація">Водовідвідний жолоб, решітка, гідроізоляційна стрічка, що відповідає жолобу, комбінований гідрозатвор SMART, опорні ноги, монтажний гачок</param>
+      </offer>
       <offer id="AC0696" available="true">
         <url>https://ol.partners/products/sifoni-trapi-dlya-dushu/zlivni-trapi/dushoviy-trap-koer-fd3070x300-z-nerzh-stali-sus304-70x300mm-ac0696</url>
         <price>1371.00</price>
@@ -142540,39 +142581,6 @@
         <param name="Ширина (мм)">70</param>
         <param name="Довжина (мм)">300</param>
         <param name="Колір">Нержавіюча сталь</param>
-      </offer>
-      <offer id="KR5135" available="true">
-        <url>https://ol.partners/products/sifoni-trapi-dlya-dushu/zlivni-trapi/dushoviy-trap-koer-fd0720x600slender-tonkiy-z-nerzh-stali-sus304-20x600mm-kr5135</url>
-        <price>1878.00</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>e679a4a9-0158-4101-9206-332f81d1f22b</categoryId>
-        <picture>https://ol.partners/Products/Photo/4054D825-3BAA-46C6-99C3-7F902D1C777D</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/22ace1d2-4b1e-4d82-8a4f-d2b616a4af33/image_01.jpg</picture>
-        <vendor>KOER</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
-        <name>Душовий трап KOER FD07-20x600-SLENDER "тонкий" з нерж. сталі SUS304 20x600мм (KR5135)</name>
-        <description>&lt;![CDATA[]]&gt;</description>
-        <vendorCode>KR5135</vendorCode>
-        <param name="Од. в упак.">5</param>
-        <param name="Об'єм ящ.">0.096</param>
-        <param name="Вага ящ.">10.6</param>
-        <param name="Торгова марка">KOER</param>
-        <param name="Модель">FD07</param>
-        <param name="Вид виробу">Лінійні трапи</param>
-        <param name="Тип виробу">Трапи для душу</param>
-        <param name="Країна бренду">Чехія</param>
-        <param name="Ширина (мм)">20</param>
-        <param name="Довжина (мм)">600</param>
-        <param name="Матеріал">Нержавіюча сталь SUS 304</param>
-        <param name="Діаметр випускного отвору (мм)">40,00</param>
-        <param name="Монтажна глибина (мм)">100-155</param>
-        <param name="Тип затвору">Комбінований</param>
-        <param name="Пропускна здатність (л/хв)">30,00</param>
-        <param name="Колір">Нержавіюча сталь</param>
-        <param name="Особливості">Регульована висота ринви, ухил внутрішньої частини корпусу ринви</param>
-        <param name="Гарантійний період (міс)">60</param>
-        <param name="Комплектація">Водовідвідний жолоб, решітка, гідроізоляційна стрічка, що відповідає жолобу, комбінований гідрозатвор SMART, опорні ноги, монтажний гачок</param>
       </offer>
       <offer id="KR3172" available="true">
         <url>https://ol.partners/products/filtri-ochischennya-vodi/komplektuyuchi-dlya-filtriv-vodi/bioaktivator-arctic-koer-kv0700-kr3172</url>
@@ -143372,7 +143380,7 @@
         <param name="Модель">KQ.T3510F</param>
         <param name="Серія">PRESS-INOX</param>
         <param name="Тип">Трійник дворозтрубний</param>
-        <param name="Вид виробу">Трійник дворозтрубний</param>
+        <param name="Вид виробу">Трійник дворозтрубний із внутрішньою різьбою</param>
         <param name="Тип виробу">Система PRESS-INOX</param>
         <param name="Країна бренду">Чехія</param>
         <param name="Призначення">Для розгалуження трубопроводу з підключенням різьбового елемента</param>
@@ -143911,7 +143919,7 @@
         <param name="Покриття">Без покриття</param>
         <param name="Призначення">Для розгалуження трубопроводу з підключенням різьбового елемента</param>
         <param name="Торгова марка">KOER</param>
-        <param name="Вид виробу">Трійник дворозтрубний</param>
+        <param name="Вид виробу">Трійник дворозтрубний із внутрішньою різьбою</param>
         <param name="Модель">KQ.T1808F</param>
         <param name="Країна бренду">Чехія</param>
         <param name="Серія">PRESS-INOX</param>
@@ -144158,7 +144166,7 @@
         <param name="Колір">Сталевий</param>
         <param name="Покриття">Без покриття</param>
         <param name="Серія">PRESS-INOX</param>
-        <param name="Вид виробу">Трійник дворозтрубний</param>
+        <param name="Вид виробу">Трійник дворозтрубний із зовнішньою різьбою</param>
         <param name="Тип виробу">Система PRESS-INOX</param>
         <param name="Торгова марка">KOER</param>
         <param name="Тип">Трійник дворозтрубний</param>
@@ -144426,7 +144434,7 @@
         <param name="Од. в упак.">120</param>
         <param name="Об'єм ящ.">0</param>
         <param name="Вага ящ.">0</param>
-        <param name="Вид виробу">Трійник дворозтрубний</param>
+        <param name="Вид виробу">Трійник дворозтрубний із зовнішньою різьбою</param>
         <param name="Країна бренду">Чехія</param>
         <param name="Призначення">Для розгалуження трубопроводу з підключенням різьбового елемента</param>
         <param name="Торгова марка">KOER</param>
@@ -150913,6 +150921,7 @@
         <categoryId>85089059-b2ea-414c-a0f0-0cb7187f4e74</categoryId>
         <picture>https://ol.partners/Products/Photo/C325C154-53FE-4067-8C54-96D7AD9B0C74</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/25f918f8-46fe-415f-86d4-f0f69dd7183d/image_02.jpg</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/25f918f8-46fe-415f-86d4-f0f69dd7183d/image_03.jpg</picture>
         <vendor>ZERIX</vendor>
         <stock_quantity>100</stock_quantity>
         <availabilityStatus>Достатньо</availabilityStatus>
@@ -157552,8 +157561,8 @@
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR6135</vendorCode>
         <param name="Од. в упак.">10</param>
-        <param name="Об'єм ящ.">0</param>
-        <param name="Вага ящ.">0</param>
+        <param name="Об'єм ящ.">0.071</param>
+        <param name="Вага ящ.">8.4</param>
         <param name="Вид виробу">Панель змиву для пневматичної інсталяції</param>
         <param name="Торгова марка">KOER</param>
         <param name="Тип виробу">Панелі змиву для інсталяцій</param>
@@ -167704,7 +167713,7 @@
         <param name="Модель">KQ.T2206M</param>
         <param name="Країна бренду">Чехія</param>
         <param name="Призначення">Для розгалуження трубопроводу з підключенням різьбового елемента</param>
-        <param name="Вид виробу">Трійник дворозтрубний</param>
+        <param name="Вид виробу">Трійник дворозтрубний із зовнішньою різьбою</param>
         <param name="Тип">Трійник дворозтрубний</param>
         <param name="Покриття">Без покриття</param>
         <param name="Колір">Сталевий</param>
@@ -177223,7 +177232,7 @@
         <param name="Додаткові характеристики">На фітингу нанесено червоний індикатор обтиску</param>
         <param name="Особливості">Стійкість до виривання. Стійкість до прокручування. Швидкий монтаж Підходить для роботи у важкодоступних місцях. Витримує вібрації та підвищені навантаження. Не вимагає підтягування або перевірки після завершення монтажу.</param>
         <param name="Сумісність з комплектуючою">Труби та прес-фітинги PRESS-INOX відповідного діаметра</param>
-        <param name="Вид виробу">Трійник дворозтрубний</param>
+        <param name="Вид виробу">Трійник дворозтрубний із зовнішньою різьбою</param>
         <param name="Країна бренду">Чехія</param>
         <param name="Тип виробу">Система PRESS-INOX</param>
         <param name="Серія">PRESS-INOX</param>
@@ -184380,7 +184389,7 @@
         <param name="Призначення">Для розгалуження трубопроводу з підключенням різьбового елемента</param>
         <param name="Тип">Трійник дворозтрубний</param>
         <param name="Тип виробу">Система PRESS-INOX</param>
-        <param name="Вид виробу">Трійник дворозтрубний</param>
+        <param name="Вид виробу">Трійник дворозтрубний із внутрішньою різьбою</param>
         <param name="Країна бренду">Чехія</param>
         <param name="Модель">KQ.T1506F</param>
         <param name="Торгова марка">KOER</param>
@@ -185595,7 +185604,7 @@
         <param name="Країна бренду">Чехія</param>
         <param name="Серія">PRESS-INOX</param>
         <param name="Тип">Трійник дворозтрубний</param>
-        <param name="Вид виробу">Трійник дворозтрубний</param>
+        <param name="Вид виробу">Трійник дворозтрубний із внутрішньою різьбою</param>
         <param name="Щільність сталі (г/см3)">8,00</param>
         <param name="Коефіцієнт теплопровідності стінок, Вт/м К">16,20</param>
         <param name="Коефіцієнт лінійного теплового розширення (1/°С)">0,163 х 10-4</param>
@@ -189323,6 +189332,28 @@
         <param name="Ширина (мм)">1800</param>
         <param name="Висота (мм)">1800</param>
       </offer>
+      <offer id="KR5839" available="true">
+        <url>https://ol.partners/products/sifoni-trapi-dlya-dushu/zlivni-trapi/zatvor-kombinovaniy-mayatnikoviy-dlya-dushovogo-trapu-koer-fds05-z-nerzhosnovoyu-kr5839</url>
+        <price>180.00</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>e679a4a9-0158-4101-9206-332f81d1f22b</categoryId>
+        <picture>https://ol.partners/Products/Photo/04FA9E80-0032-478E-9EC0-EEABAA5F2EEF</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/32cdbf59-0526-4319-af00-8f50ab676e11/image_02.jpg</picture>
+        <vendor>KOER</vendor>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Достатньо</availabilityStatus>
+        <name>Затвор комбінований "маятниковий" для душового трапу KOER FDS-05 з нерж.основою (KR5839)</name>
+        <description>&lt;![CDATA[]]&gt;</description>
+        <vendorCode>KR5839</vendorCode>
+        <param name="Од. в упак.">50</param>
+        <param name="Об'єм ящ.">0.069</param>
+        <param name="Вага ящ.">8</param>
+        <param name="Модель">FDS-05</param>
+        <param name="Країна бренду">Чехія</param>
+        <param name="Тип виробу">Комплектуючі для сифонів, трапів</param>
+        <param name="Торгова марка">KOER</param>
+        <param name="Матеріал">Пластик</param>
+      </offer>
       <offer id="KR5138" available="false">
         <url>https://ol.partners/products/sifoni-trapi-dlya-dushu/zlivni-trapi/dushoviy-trap-koer-fd0720x900slender-tonkiy-z-nerzh-stali-sus304-20x900mm-kr5138</url>
         <price>2225.00</price>
@@ -189355,28 +189386,6 @@
         <param name="Гарантійний період (міс)">60</param>
         <param name="Комплектація">Водовідвідний жолоб, решітка, гідроізоляційна стрічка, що відповідає жолобу, комбінований гідрозатвор SMART, опорні ноги, монтажний гачок</param>
         <param name="Особливості">Регульована висота ринви, ухил внутрішньої частини корпусу ринви</param>
-      </offer>
-      <offer id="KR5839" available="true">
-        <url>https://ol.partners/products/sifoni-trapi-dlya-dushu/zlivni-trapi/zatvor-kombinovaniy-mayatnikoviy-dlya-dushovogo-trapu-koer-fds05-z-nerzhosnovoyu-kr5839</url>
-        <price>180.00</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>e679a4a9-0158-4101-9206-332f81d1f22b</categoryId>
-        <picture>https://ol.partners/Products/Photo/04FA9E80-0032-478E-9EC0-EEABAA5F2EEF</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/32cdbf59-0526-4319-af00-8f50ab676e11/image_02.jpg</picture>
-        <vendor>KOER</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
-        <name>Затвор комбінований "маятниковий" для душового трапу KOER FDS-05 з нерж.основою (KR5839)</name>
-        <description>&lt;![CDATA[]]&gt;</description>
-        <vendorCode>KR5839</vendorCode>
-        <param name="Од. в упак.">50</param>
-        <param name="Об'єм ящ.">0.069</param>
-        <param name="Вага ящ.">8</param>
-        <param name="Модель">FDS-05</param>
-        <param name="Країна бренду">Чехія</param>
-        <param name="Тип виробу">Комплектуючі для сифонів, трапів</param>
-        <param name="Торгова марка">KOER</param>
-        <param name="Матеріал">Пластик</param>
       </offer>
       <offer id="ZS0578" available="true">
         <url>https://ol.partners/products/miyki-dlya-kukhni/vrizni-miyki/miyka-kukhonna-zerix-z7848d08180e-double-satin-zs0578</url>
@@ -190643,7 +190652,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/92b4c0d5-1cbd-4de1-9276-251b2d58116c/image_01.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Генератор бензиновий Koer KU.7500EB (KR3433)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR3433</vendorCode>
@@ -190947,6 +190956,41 @@
         <param name="Торгова марка">KOER</param>
         <param name="Тип виробу">Комплектуючі для насосів</param>
       </offer>
+      <offer id="AC0702" available="false">
+        <url>https://ol.partners/products/sifoni-trapi-dlya-dushu/zlivni-trapi/dushoviy-trap-koer-fd3070x900-z-nerzh-stali-sus304-70x900mm-ac0702</url>
+        <price>2154.00</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>e679a4a9-0158-4101-9206-332f81d1f22b</categoryId>
+        <picture>https://ol.partners/Products/Photo/BBEA51FE-1D60-48CE-AE10-368E72095700</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/02d47862-4df6-4a2a-9666-a56a09b09eef/image_06.jpg</picture>
+        <vendor>KOER</vendor>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <name>Душовий трап KOER FD30-70x900 з нерж. сталі SUS304 70x900мм (AC0702)</name>
+        <description>&lt;![CDATA[]]&gt;</description>
+        <vendorCode>AC0702</vendorCode>
+        <param name="Од. в упак.">5</param>
+        <param name="Об'єм ящ.">0.122</param>
+        <param name="Вага ящ.">16.5</param>
+        <param name="Загальна висота монтажа (мм)">70,00</param>
+        <param name="Монтажна глибина (мм)">100-155</param>
+        <param name="Пропускна здатність (л/хв)">30,00</param>
+        <param name="Діаметр випускного отвору (мм)">40,00</param>
+        <param name="Тип затвору">Комбінований</param>
+        <param name="Матеріал">Нержавіюча сталь SUS 304</param>
+        <param name="Комбінований гідрозатвор (мм)">40,00</param>
+        <param name="Особливості">Регульована висота ринви, ухил внутрішньої частини корпусу ринви</param>
+        <param name="Комплектація">Водовідвідний жолоб, решітка, гідроізоляційна стрічка, що відповідає жолобу, комбінований гідрозатвор SMART, опорні ноги, монтажний гачок</param>
+        <param name="Гарантійний період (міс)">60</param>
+        <param name="Модель">FD30</param>
+        <param name="Країна бренду">Чехія</param>
+        <param name="Торгова марка">KOER</param>
+        <param name="Тип виробу">Трапи для душу</param>
+        <param name="Вид виробу">Лінійні трапи</param>
+        <param name="Ширина (мм)">70</param>
+        <param name="Довжина (мм)">900</param>
+        <param name="Колір">Нержавіюча сталь</param>
+      </offer>
       <offer id="KR5784" available="true">
         <url>https://ol.partners/products/zapchastini-dlya-zmishuvacha/donniy-klapan-dlya-rakovini/donniy-klapan-dlya-rakovini-z-perelivom-koer-pw0711-avtomatichniy-clickclack-bila-keramichna-nakladka-1-14-kr5784</url>
         <price>684.00</price>
@@ -191007,41 +191051,6 @@
         <param name="Діаметр випускного отвору (мм)">32,00</param>
         <param name="Максимальна температура води (°C)">95</param>
         <param name="Колір">Біла керамічна накладка</param>
-      </offer>
-      <offer id="AC0702" available="true">
-        <url>https://ol.partners/products/sifoni-trapi-dlya-dushu/zlivni-trapi/dushoviy-trap-koer-fd3070x900-z-nerzh-stali-sus304-70x900mm-ac0702</url>
-        <price>2154.00</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>e679a4a9-0158-4101-9206-332f81d1f22b</categoryId>
-        <picture>https://ol.partners/Products/Photo/BBEA51FE-1D60-48CE-AE10-368E72095700</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/02d47862-4df6-4a2a-9666-a56a09b09eef/image_06.jpg</picture>
-        <vendor>KOER</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
-        <name>Душовий трап KOER FD30-70x900 з нерж. сталі SUS304 70x900мм (AC0702)</name>
-        <description>&lt;![CDATA[]]&gt;</description>
-        <vendorCode>AC0702</vendorCode>
-        <param name="Од. в упак.">5</param>
-        <param name="Об'єм ящ.">0.122</param>
-        <param name="Вага ящ.">16.5</param>
-        <param name="Загальна висота монтажа (мм)">70,00</param>
-        <param name="Монтажна глибина (мм)">100-155</param>
-        <param name="Пропускна здатність (л/хв)">30,00</param>
-        <param name="Діаметр випускного отвору (мм)">40,00</param>
-        <param name="Тип затвору">Комбінований</param>
-        <param name="Матеріал">Нержавіюча сталь SUS 304</param>
-        <param name="Комбінований гідрозатвор (мм)">40,00</param>
-        <param name="Особливості">Регульована висота ринви, ухил внутрішньої частини корпусу ринви</param>
-        <param name="Комплектація">Водовідвідний жолоб, решітка, гідроізоляційна стрічка, що відповідає жолобу, комбінований гідрозатвор SMART, опорні ноги, монтажний гачок</param>
-        <param name="Гарантійний період (міс)">60</param>
-        <param name="Модель">FD30</param>
-        <param name="Країна бренду">Чехія</param>
-        <param name="Торгова марка">KOER</param>
-        <param name="Тип виробу">Трапи для душу</param>
-        <param name="Вид виробу">Лінійні трапи</param>
-        <param name="Ширина (мм)">70</param>
-        <param name="Довжина (мм)">900</param>
-        <param name="Колір">Нержавіюча сталь</param>
       </offer>
       <offer id="ZM0555" available="false">
         <url>https://ol.partners/products/miyki-dlya-kukhni/vrizni-miyki/miyka-kukhonna-zerix-z383806160e-satin-zm0555</url>
