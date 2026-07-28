@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-07-27 02:46">
+<yml_catalog date="2026-07-28 02:25">
   <shop>
     <name>O&amp;L</name>
     <company>O&amp;L</company>
@@ -10999,7 +10999,7 @@
         <param name="Колір">Білий</param>
         <param name="Форма">Прямокутна</param>
       </offer>
-      <offer id="WH0023" available="false">
+      <offer id="WH0023" available="true">
         <url>https://ol.partners/products/gazovi-kolonki/gazova-kolonka-mixxus-gwh0210-basic-black-dimokhidna-10-lkhv-kolir-chorniy-wh0023</url>
         <price>5232.00</price>
         <currencyId>UAH</currencyId>
@@ -11012,7 +11012,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/a4fa47b6-40e6-4f08-a700-c12f32376e0c/image_04.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/a4fa47b6-40e6-4f08-a700-c12f32376e0c/image_07.jpg</picture>
         <vendor>MIXXUS</vendor>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>100</stock_quantity>
         <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Газова колонка MIXXUS GWH-0210 BASIC BLACK димохідна 10 л/хв (колір чорний) (WH0023)</name>
         <description>&lt;![CDATA[]]&gt;</description>
@@ -35676,7 +35676,6 @@
         <param name="Розміри виробу (ВхШхГ)">35x370x425</param>
         <param name="Матеріал">Пластик</param>
         <param name="Керування">Механічне</param>
-        <param name="Сидіння">Slim Duroplast/Soft-close/Quick relase</param>
         <param name="Поверхня">Глянцева</param>
         <param name="Колір">Білий</param>
         <param name="Форма">Заокруглена</param>
@@ -49702,7 +49701,6 @@
         <param name="Вага ящ.">12</param>
         <param name="Керування">Механічне</param>
         <param name="Матеріал">Пластик</param>
-        <param name="Сидіння">Slim Duroplast/Soft-close/Quick relase</param>
         <param name="Висота (мм)">35</param>
         <param name="Ширина (мм)">345</param>
         <param name="Розміри виробу (ВхШхГ)">35x345x430</param>
@@ -50984,7 +50982,7 @@
       </offer>
       <offer id="WP2929" available="true">
         <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/krani/krani-kulovi/kran-kuloviy-waterpro-wp60215ffly-12-ffl-ggv-yellow-ruchka-vazhil-zhovta-wp2929</url>
-        <price>83.00</price>
+        <price>88.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>85089059-b2ea-414c-a0f0-0cb7187f4e74</categoryId>
         <picture>https://ol.partners/Products/Photo/7487A504-302A-4528-9A98-71A3877250EC</picture>
@@ -55153,7 +55151,6 @@
         <param name="Глибина (мм)">425</param>
         <param name="Керування">Механічне</param>
         <param name="Матеріал">Пластик</param>
-        <param name="Сидіння">Slim Duroplast/Soft-close/Quick relase</param>
         <param name="Колір">Білий</param>
         <param name="Поверхня">Глянцева</param>
         <param name="Розташування (орієнтація)">Універсальне</param>
@@ -60646,14 +60643,14 @@
         <param name="Колір">Сталевий</param>
         <param name="Гарантійний період (міс)">12</param>
       </offer>
-      <offer id="ZX4633" available="false">
+      <offer id="ZX4633" available="true">
         <url>https://ol.partners/products/aksesuari-dlya-vannoi/vidro-dlya-smittya/vidro-dlya-smittya-krugle-zerix-strongmb0130-black-30-l-kolir-chorniy-zx4633</url>
         <price>2798.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>98cef2a4-d106-4da2-9b4c-f8e66696fd13</categoryId>
         <picture>https://ol.partners/Products/Photo/ACB296C9-6245-46F5-8420-EA552253DD73</picture>
         <vendor>ZERIX</vendor>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>100</stock_quantity>
         <availabilityStatus>Достатньо</availabilityStatus>
         <name>Відро для сміття кругле ZERIX STRONG-MB0130 BLACK 30 л (колір чорний) (ZX4633)</name>
         <description>&lt;![CDATA[]]&gt;</description>
@@ -70642,7 +70639,7 @@
         <param name="Матеріал">Поліпропілен</param>
         <param name="Колір">Сірий</param>
       </offer>
-      <offer id="KR5833" available="false">
+      <offer id="KR5833" available="true">
         <url>https://ol.partners/products/sifoni-trapi-dlya-dushu/armatura-dlya-unitaziv/armatura-napovnyuvalna-koer-kt010812-z-bokovim-pidvedennyam-ta-plastikovim-rizblennyam-12-kr5833</url>
         <price>236.00</price>
         <currencyId>UAH</currencyId>
@@ -70655,8 +70652,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/9cf2a247-8910-47aa-81d0-2104891d9dfd/image_02.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/9cf2a247-8910-47aa-81d0-2104891d9dfd/image_06.jpg</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Арматура наповнювальна KOER KT-0108-1/2" з боковим підведенням та пластиковим різьбленням 1/2" (KR5833)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR5833</vendorCode>
@@ -88314,12 +88311,11 @@
         <param name="Форма">Заокруглена</param>
         <param name="Поверхня">Глянцева</param>
         <param name="Колір">Білий</param>
-        <param name="Сидіння">Slim Duroplast/Soft-close/Quick relase</param>
-        <param name="Матеріал">Пластик</param>
-        <param name="Керування">Механічне</param>
         <param name="Гарантійний період (міс)">12</param>
         <param name="Комплектація">Сидіння-кришка, кріплення</param>
         <param name="Кількість вантажних місць">1</param>
+        <param name="Матеріал">Пластик</param>
+        <param name="Керування">Механічне</param>
         <param name="Розміри виробу (ВхШхГ)">35x360x405</param>
         <param name="Ширина (мм)">360</param>
         <param name="Глибина (мм)">405</param>
@@ -90460,8 +90456,8 @@
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>EP6256</vendorCode>
         <param name="Од. в упак.">400</param>
-        <param name="Об'єм ящ.">0</param>
-        <param name="Вага ящ.">0</param>
+        <param name="Об'єм ящ.">0.044</param>
+        <param name="Вага ящ.">11</param>
         <param name="Країна бренду">Україна</param>
         <param name="Модель">EP.0015</param>
         <param name="Вид виробу">Куточки PPR</param>
@@ -96977,7 +96973,6 @@
         <param name="Кількість вантажних місць">1</param>
         <param name="Керування">Механічне</param>
         <param name="Матеріал">Пластик</param>
-        <param name="Сидіння">Slim Duroplast/Soft-close/Quick relase</param>
       </offer>
       <offer id="ZX5005" available="true">
         <url>https://ol.partners/products/aksesuari-dlya-vannoi/shtori-dlya-vannoi/shtorka-dlya-vannoi-zerix-scp006180x180-z-peva-polietilenvinilatsetatu-vizerunok-bezheviy-zx5005</url>
@@ -98042,7 +98037,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/f0676299-b1e2-4caf-b04d-dce7290fb3b7/image_04.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Відро для сміття з плавним закриттям прямокутне KOER TC-010210-02 10 л (колір нержавійка) (KR5597)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR5597</vendorCode>
@@ -100943,8 +100938,8 @@
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR5921</vendorCode>
         <param name="Од. в упак.">900</param>
-        <param name="Об'єм ящ.">0</param>
-        <param name="Вага ящ.">0</param>
+        <param name="Об'єм ящ.">0.028</param>
+        <param name="Вага ящ.">7.1</param>
         <param name="Сумісність з комплектуючою">Монтажний профіль 30x30</param>
         <param name="Область застосування">Монтажні конструкції, опори, кронштейни, інженерні системи</param>
         <param name="Модель">KO292</param>
@@ -106335,7 +106330,7 @@
       </offer>
       <offer id="WP2931" available="true">
         <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/krani/krani-kulovi/kran-kuloviy-waterpro-wp60715fmly-12-fml-gshv-yellow-ruchka-vazhil-zhovta-wp2931</url>
-        <price>88.00</price>
+        <price>94.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>85089059-b2ea-414c-a0f0-0cb7187f4e74</categoryId>
         <picture>https://ol.partners/Products/Photo/0241D0DC-CB5B-4165-B0D4-CC3EA01D9464</picture>
@@ -109435,7 +109430,6 @@
         <param name="Вага ящ.">9.7</param>
         <param name="Матеріал">Пластик</param>
         <param name="Керування">Механічне</param>
-        <param name="Сидіння">Slim Duroplast/Soft-close/Quick relase</param>
         <param name="Глибина (мм)">430</param>
         <param name="Ширина (мм)">360</param>
         <param name="Висота (мм)">35</param>
@@ -121034,15 +121028,15 @@
         <param name="Матеріал виробу">Латунь</param>
         <param name="Об'єм (л)">0,30</param>
       </offer>
-      <offer id="KP3371" available="true">
+      <offer id="KP3371" available="false">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/zapchastini-ta-aksesuari-dlya-nasosiv/rele-tisku-elektronne-koer-ksr10-regulyuyuche-do-15-kvt-kabel-z-yevrovilkoyu-ta-rozetkoyu-kp3371</url>
         <price>1430.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/D3D93377-2CCD-4508-8DAE-E9EE81DF780E</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Реле тиску електронне KOER KSR-10; регулююче, до 1,5 кВт, кабель з євровилкою та розеткою (KP3371)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KP3371</vendorCode>
@@ -126895,7 +126889,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/d35fc6c1-42be-4b1f-9d47-af5bf6cca6bb/image_01.png</picture>
         <vendor>KOER</vendor>
         <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Панель змиву KOER KT-0602-02 240x160x10mm з нержавіючої сталі, кнопка квадратна SUS304 (KR5179)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR5179</vendorCode>
@@ -127903,7 +127897,6 @@
         <param name="Колір">Білий</param>
         <param name="Форма">Заокруглена</param>
         <param name="Керування">Механічне</param>
-        <param name="Сидіння">Slim Duroplast/Soft-close/Quick relase</param>
         <param name="Матеріал">Пластик</param>
         <param name="Кількість вантажних місць">1</param>
         <param name="Комплектація">Сидіння-кришка, кріплення</param>
@@ -129710,7 +129703,7 @@
         <param name="Гарантійний період (міс)">60</param>
         <param name="Особливості">Збалансування витрати. Візуальний контроль. Рівномірний нагрів. З витратомірами</param>
       </offer>
-      <offer id="KR5441" available="true">
+      <offer id="KR5441" available="false">
         <url>https://ol.partners/products/sifoni-trapi-dlya-dushu/sifoni/sifon-dlya-vanni-koer-bd0301-avtomatichniy-clickclack-z-perelivom-bez-revizii-kolir-khrom-1-12-kr5441</url>
         <price>998.00</price>
         <currencyId>UAH</currencyId>
@@ -129721,8 +129714,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/d7000596-d5de-4204-a088-2923cb6849d0/imsge_04.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/d7000596-d5de-4204-a088-2923cb6849d0/image_01.jpg</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Сифон для ванни KOER BD-03-01 автоматичний (Click-Clack) з переливом, без ревізії (Колір хром) 1 1/2'' (KR5441)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR5441</vendorCode>
@@ -133123,13 +133116,12 @@
         <param name="Кількість вантажних місць">1</param>
         <param name="Гарантійний період (міс)">12</param>
         <param name="Комплектація">Сидіння-кришка, кріплення</param>
-        <param name="Сидіння">Slim Duroplast/Soft-close/Quick relase</param>
-        <param name="Матеріал">Пластик</param>
-        <param name="Керування">Механічне</param>
         <param name="Колір">Білий</param>
         <param name="Розташування (орієнтація)">Універсальне</param>
         <param name="Форма">Заокруглена</param>
         <param name="Поверхня">Глянцева</param>
+        <param name="Матеріал">Пластик</param>
+        <param name="Керування">Механічне</param>
         <param name="Глибина (мм)">465</param>
         <param name="Розміри виробу (ВхШхГ)">35x365x465</param>
         <param name="Висота (мм)">35</param>
@@ -136348,7 +136340,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/f75a58a3-819f-4944-8ced-5f6ac4b7c9f0/image_01.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Комплект для підключення радіатора Koer SET-11 - 1/2"x1/2" (кутовий) з термоголовкою ВЗ (KR3175)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR3175</vendorCode>
@@ -143572,6 +143564,7 @@
         <param name="Виконання">Універсальна</param>
         <param name="Глибина чаші (мм)">215</param>
         <param name="Довжина (мм)">820</param>
+        <param name="Габарити чаші (мм)">565x350</param>
         <param name="Ширина (мм)">450</param>
         <param name="Країна бренду">Чехія</param>
         <param name="Модель">ZH8245-SET-08</param>
@@ -154437,7 +154430,6 @@
         <param name="Країна бренду">Чехія</param>
         <param name="Матеріал">Пластик</param>
         <param name="Керування">Механічне</param>
-        <param name="Сидіння">Slim Duroplast/Soft-close/Quick relase</param>
         <param name="Розташування (орієнтація)">Універсальне</param>
         <param name="Форма">Заокруглена</param>
         <param name="Колір">Білий</param>
@@ -159028,7 +159020,7 @@
         <param name="Висота (мм)">500</param>
         <param name="Колір">Білий (RAL 9016)</param>
       </offer>
-      <offer id="ZX5891" available="false">
+      <offer id="ZX5891" available="true">
         <url>https://ol.partners/products/aksesuari-dlya-vannoi/vidro-dlya-smittya/vidro-dlya-smittya-z-plavnim-zakrittyam-kvadratne-zerix-kubixtc0108-ss-color-8l-kolir-nerzhaviyka-zx5891</url>
         <price>1035.00</price>
         <currencyId>UAH</currencyId>
@@ -159041,8 +159033,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/255a0f46-d39d-4ac3-854c-07ddb5a7fb69/image_01.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/255a0f46-d39d-4ac3-854c-07ddb5a7fb69/image_04.jpg</picture>
         <vendor>ZERIX</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Відро для сміття з плавним закриттям квадратне ZERIX KUBIX-TC0108 SS COLOR 8л (колір нержавійка) (ZX5891)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>ZX5891</vendorCode>
@@ -167944,12 +167936,11 @@
         <param name="Висота (мм)">35</param>
         <param name="Глибина (мм)">430</param>
         <param name="Ширина (мм)">350</param>
-        <param name="Сидіння">Slim Duroplast/Soft-close/Quick relase</param>
-        <param name="Керування">Механічне</param>
-        <param name="Матеріал">Пластик</param>
         <param name="Кількість вантажних місць">1</param>
         <param name="Гарантійний період (міс)">12</param>
         <param name="Комплектація">Сидіння-кришка, кріплення</param>
+        <param name="Керування">Механічне</param>
+        <param name="Матеріал">Пластик</param>
       </offer>
       <offer id="EP2935" available="true">
         <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/krani/krani-kulovi/kran-kuloviy-34-gshm-europroduct-ep110-ep2935</url>
@@ -179419,7 +179410,7 @@
         <picture>https://ol.partners/Products/Photo/39C2922F-8BAF-4F8F-A7CA-BD0E930262A0</picture>
         <vendor>CHAMPION</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Кран для підключ.сантехприладів Champion VAL-09 1/2x3/4 Chrome (нерж. сталь) (CH6199)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>CH6199</vendorCode>
