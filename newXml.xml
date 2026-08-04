@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-08-03 02:38">
+<yml_catalog date="2026-08-04 02:23">
   <shop>
     <name>O&amp;L</name>
     <company>O&amp;L</company>
@@ -12665,6 +12665,66 @@
         <param name="Габарити чаші (мм)">470×390</param>
         <param name="Комплектація">Мийка, сифон, кріплення, ущільнювальна стрічка, сітка</param>
       </offer>
+      <offer id="KP3141" available="true">
+        <url>https://ol.partners/products/nasosi-ta-aksesuari/fekalni-ta-kanalizatsiyni-nasosi/nasos-drenazhnofekalniy-koer-wfd2511075-kp3141</url>
+        <price>6210.00</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
+        <picture>https://ol.partners/Products/Photo/94A82CD3-7C9B-4966-842A-DF28220D6402</picture>
+        <vendor>KOER</vendor>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Достатньо</availabilityStatus>
+        <name>Насос дренажно-фекальний Koer WFD25-11-0.75 (KP3141)</name>
+        <description>&lt;![CDATA[]]&gt;</description>
+        <vendorCode>KP3141</vendorCode>
+        <param name="Од. в упак.">1</param>
+        <param name="Об'єм ящ.">0.026</param>
+        <param name="Вага ящ.">21</param>
+        <param name="Максимально допустима кількість забруднень (г/м3)">5000</param>
+        <param name="Максимальна глибина занурення (м)">5</param>
+        <param name="Максимальна температура робочої рідини (°C)">40</param>
+        <param name="Упаковка">Картонна коробка</param>
+        <param name="Гарантійний період (міс)">24</param>
+        <param name="Якість води">Брудна</param>
+        <param name="Частота струму (Гц)">50</param>
+        <param name="Матеріал обмотки статора">Мідь</param>
+        <param name="Вбудований термозахист">Так</param>
+        <param name="Мін. температура навколишнього середовища (°C)">5</param>
+        <param name="Матеріал виробу">Нержавіюча сталь</param>
+        <param name="Діаметр перекачувальних частинок (мм)">30,00</param>
+        <param name="Потужність (кВт)">0,75</param>
+        <param name="Продуктивність (л/хв)">415,00</param>
+        <param name="Потужність (Вт)">750</param>
+        <param name="Максимальний напір (м)">11</param>
+        <param name="Матеріал вала двигуна">Нержавіюча сталь</param>
+        <param name="Тип приєднання">Шлангове</param>
+        <param name="Тип ротора">Сухий</param>
+        <param name="Матеріал шнека">Нержавіюча сталь</param>
+        <param name="Мінімальна температура робочої рідини (°C)">4</param>
+        <param name="Напруга мережі (V)">220-240</param>
+        <param name="Потужність на валу насоса (P2, ЛС)">1,00</param>
+        <param name="Режим роботи">S1, тривалий</param>
+        <param name="MAX продуктивність (при мін. напорі) (м3/год)">25,00</param>
+        <param name="Продуктивність при максимальному ККД (м3/год)">25,00</param>
+        <param name="Захист від перегріву (Вбудований датчик перегріву)">Так</param>
+        <param name="Швидкість (об/хв)">2900</param>
+        <param name="Матеріал робочого колеса">Чавун</param>
+        <param name="MAX продуктивність (при мінімальн. напорі) (л/хв)">415,00</param>
+        <param name="Перекачувальні середовища">Прісна вода</param>
+        <param name="Клас термостійкості">F</param>
+        <param name="Ріжуча насадка">Ні</param>
+        <param name="Тип">Відцентровий</param>
+        <param name="Модель">WFD25-11-0.75</param>
+        <param name="Торгова марка">KOER</param>
+        <param name="Тип виробу">Фекальні та каналізаційні насоси</param>
+        <param name="Країна бренду">Чехія</param>
+        <param name="Діаметр виходу 1 (мм)">50</param>
+        <param name="Ширина (мм)">265</param>
+        <param name="Довжина кабелю (м)">10,00</param>
+        <param name="Довжина (мм)">490</param>
+        <param name="Вага (кг)">30,00</param>
+        <param name="Висота (мм)">200</param>
+      </offer>
       <offer id="KR2958" available="true">
         <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/gidrostrilka/gidrostrelka-koer-krs1031-22-z-vozdukhootvod-i-drenazh-kranom-1nr-sus304-kr2958</url>
         <price>2677.00</price>
@@ -12732,66 +12792,6 @@
         <param name="Поверхня">Глянцева</param>
         <param name="Колір">Хром</param>
         <param name="Гарантійний період (міс)">12</param>
-      </offer>
-      <offer id="KP3141" available="true">
-        <url>https://ol.partners/products/nasosi-ta-aksesuari/fekalni-ta-kanalizatsiyni-nasosi/nasos-drenazhnofekalniy-koer-wfd2511075-kp3141</url>
-        <price>6210.00</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
-        <picture>https://ol.partners/Products/Photo/94A82CD3-7C9B-4966-842A-DF28220D6402</picture>
-        <vendor>KOER</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
-        <name>Насос дренажно-фекальний Koer WFD25-11-0.75 (KP3141)</name>
-        <description>&lt;![CDATA[]]&gt;</description>
-        <vendorCode>KP3141</vendorCode>
-        <param name="Од. в упак.">1</param>
-        <param name="Об'єм ящ.">0.026</param>
-        <param name="Вага ящ.">21</param>
-        <param name="Максимально допустима кількість забруднень (г/м3)">5000</param>
-        <param name="Максимальна глибина занурення (м)">5</param>
-        <param name="Максимальна температура робочої рідини (°C)">40</param>
-        <param name="Упаковка">Картонна коробка</param>
-        <param name="Гарантійний період (міс)">24</param>
-        <param name="Якість води">Брудна</param>
-        <param name="Частота струму (Гц)">50</param>
-        <param name="Матеріал обмотки статора">Мідь</param>
-        <param name="Вбудований термозахист">Так</param>
-        <param name="Мін. температура навколишнього середовища (°C)">5</param>
-        <param name="Матеріал виробу">Нержавіюча сталь</param>
-        <param name="Діаметр перекачувальних частинок (мм)">30,00</param>
-        <param name="Потужність (кВт)">0,75</param>
-        <param name="Продуктивність (л/хв)">415,00</param>
-        <param name="Потужність (Вт)">750</param>
-        <param name="Максимальний напір (м)">11</param>
-        <param name="Матеріал вала двигуна">Нержавіюча сталь</param>
-        <param name="Тип приєднання">Шлангове</param>
-        <param name="Тип ротора">Сухий</param>
-        <param name="Матеріал шнека">Нержавіюча сталь</param>
-        <param name="Мінімальна температура робочої рідини (°C)">4</param>
-        <param name="Напруга мережі (V)">220-240</param>
-        <param name="Потужність на валу насоса (P2, ЛС)">1,00</param>
-        <param name="Режим роботи">S1, тривалий</param>
-        <param name="MAX продуктивність (при мін. напорі) (м3/год)">25,00</param>
-        <param name="Продуктивність при максимальному ККД (м3/год)">25,00</param>
-        <param name="Захист від перегріву (Вбудований датчик перегріву)">Так</param>
-        <param name="Швидкість (об/хв)">2900</param>
-        <param name="Матеріал робочого колеса">Чавун</param>
-        <param name="MAX продуктивність (при мінімальн. напорі) (л/хв)">415,00</param>
-        <param name="Перекачувальні середовища">Прісна вода</param>
-        <param name="Клас термостійкості">F</param>
-        <param name="Ріжуча насадка">Ні</param>
-        <param name="Тип">Відцентровий</param>
-        <param name="Модель">WFD25-11-0.75</param>
-        <param name="Торгова марка">KOER</param>
-        <param name="Тип виробу">Фекальні та каналізаційні насоси</param>
-        <param name="Країна бренду">Чехія</param>
-        <param name="Діаметр виходу 1 (мм)">50</param>
-        <param name="Ширина (мм)">265</param>
-        <param name="Довжина кабелю (м)">10,00</param>
-        <param name="Довжина (мм)">490</param>
-        <param name="Вага (кг)">30,00</param>
-        <param name="Висота (мм)">200</param>
       </offer>
       <offer id="MP6522" available="true">
         <url>https://ol.partners/products/keramika/rakovini/rakovina-nakladna-mixxus-premium-quadro0209-600kh370kh140mm-pereliv-mp6522</url>
@@ -20896,40 +20896,6 @@
         <param name="Тип виробу">Керамічні раковини</param>
         <param name="Торгова марка">MIXXUS PREMIUM</param>
       </offer>
-      <offer id="WP0121" available="false">
-        <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/filtr-gruboi-ochistki/filtr-gruboi-ochistki-1-14-latun-z-vushkom-sk-wp0121</url>
-        <price>341.00</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>85089059-b2ea-414c-a0f0-0cb7187f4e74</categoryId>
-        <picture>https://ol.partners/Products/Photo/60070C03-184E-4573-B05E-06AB13D6A859</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/76dba829-762c-48ed-81c4-a9cfbc7b1d51/image_04.jpg</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/76dba829-762c-48ed-81c4-a9cfbc7b1d51/image_01.jpg</picture>
-        <vendor>САНКОМ</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
-        <name>Фільтр грубої очистки 1 1/4" латунь з вушком СК (WP0121)</name>
-        <description>&lt;![CDATA[]]&gt;</description>
-        <vendorCode>WP0121</vendorCode>
-        <param name="Од. в упак.">40</param>
-        <param name="Об'єм ящ.">0</param>
-        <param name="Вага ящ.">0</param>
-        <param name="Матеріал виробу">Латунь</param>
-        <param name="Матеріал колби">Латунь CW617N</param>
-        <param name="Робочий тиск (бар)">до 20</param>
-        <param name="Тип з'єднання">Внутрішня-внутрішня</param>
-        <param name="Робоче середовище">Вода, водно-гликолеві суміші, неагресивні рідини</param>
-        <param name="Тип приєднання">Різьбове</param>
-        <param name="Торгова марка">САНКОМ</param>
-        <param name="Країна виробник">Україна</param>
-        <param name="Призначення">для води</param>
-        <param name="Країна бренду">Україна</param>
-        <param name="Тип виробу">Фільтр для води</param>
-        <param name="Вид виробу">Фільтр грубого очищення</param>
-        <param name="Діаметр підключення (дюйм)">1 1/4</param>
-        <param name="Покриття">Немає</param>
-        <param name="Колір">Латунний</param>
-        <param name="Гарантійний період (міс)">120</param>
-      </offer>
       <offer id="KP3362" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/sverdlovinni-nasosi/nasos-sverdlovinniy-vidtsentroviy-koer-4sdm8935m-n57m-q108m3-p1100-vt-kab35m-kp3362</url>
         <price>9560.00</price>
@@ -20975,6 +20941,40 @@
         <param name="Макс. температура навколишнього середовища (°C)">40</param>
         <param name="Упаковка">Картонна коробка</param>
         <param name="Максимальна температура робочої рідини (°C)">35</param>
+      </offer>
+      <offer id="WP0121" available="false">
+        <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/filtr-gruboi-ochistki/filtr-gruboi-ochistki-1-14-latun-z-vushkom-sk-wp0121</url>
+        <price>341.00</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>85089059-b2ea-414c-a0f0-0cb7187f4e74</categoryId>
+        <picture>https://ol.partners/Products/Photo/60070C03-184E-4573-B05E-06AB13D6A859</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/76dba829-762c-48ed-81c4-a9cfbc7b1d51/image_04.jpg</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/76dba829-762c-48ed-81c4-a9cfbc7b1d51/image_01.jpg</picture>
+        <vendor>САНКОМ</vendor>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <name>Фільтр грубої очистки 1 1/4" латунь з вушком СК (WP0121)</name>
+        <description>&lt;![CDATA[]]&gt;</description>
+        <vendorCode>WP0121</vendorCode>
+        <param name="Од. в упак.">40</param>
+        <param name="Об'єм ящ.">0</param>
+        <param name="Вага ящ.">0</param>
+        <param name="Матеріал виробу">Латунь</param>
+        <param name="Матеріал колби">Латунь CW617N</param>
+        <param name="Робочий тиск (бар)">до 20</param>
+        <param name="Тип з'єднання">Внутрішня-внутрішня</param>
+        <param name="Робоче середовище">Вода, водно-гликолеві суміші, неагресивні рідини</param>
+        <param name="Тип приєднання">Різьбове</param>
+        <param name="Торгова марка">САНКОМ</param>
+        <param name="Країна виробник">Україна</param>
+        <param name="Призначення">для води</param>
+        <param name="Країна бренду">Україна</param>
+        <param name="Тип виробу">Фільтр для води</param>
+        <param name="Вид виробу">Фільтр грубого очищення</param>
+        <param name="Діаметр підключення (дюйм)">1 1/4</param>
+        <param name="Покриття">Немає</param>
+        <param name="Колір">Латунний</param>
+        <param name="Гарантійний період (міс)">120</param>
       </offer>
       <offer id="EK0108" available="true">
         <url>https://ol.partners/products/boyleri/vodonagrivach-tsilindr-koer-kwhe0250vd-nakopichuvalniy-50-l-sukhiy-ten-16-kw-ek0108</url>
@@ -25832,7 +25832,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/0e5cd744-4cd5-415f-8c7a-8f946b864dcc/image_01.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Різьбове з'єднання заглушка В 3/4" Koer KF.P08F (KR3094)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR3094</vendorCode>
@@ -33878,7 +33878,7 @@
         <param name="Гарантійний період (міс)">120</param>
         <param name="Колір">Білий (RAL 9016)</param>
       </offer>
-      <offer id="EP5456" available="true">
+      <offer id="EP5456" available="false">
         <url>https://ol.partners/products/filtri-ochischennya-vodi/komplektuyuchi-dlya-filtriv-vodi/komplekt-zminnikh-kartridzhiv-europroduct-epv102-ppr-5mkmaktgranvugaktspresvug-ep5456</url>
         <price>339.00</price>
         <currencyId>UAH</currencyId>
@@ -33887,8 +33887,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/2e6c34c5-038a-4029-9607-7b1599b53de6/image_02.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/2e6c34c5-038a-4029-9607-7b1599b53de6/image_01.jpg</picture>
         <vendor>EUROPRODUCT</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Комплект змінних картриджів Europroduct EPV-102 (ППР 5мкм+акт.гран.вуг.+акт.спрес.вуг.) (EP5456)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>EP5456</vendorCode>
@@ -45271,48 +45271,6 @@
         <param name="Тип">Відцентровий</param>
         <param name="Торгова марка">KOER</param>
       </offer>
-      <offer id="KP2878" available="true">
-        <url>https://ol.partners/products/nasosi-ta-aksesuari/sverdlovinni-nasosi/nasos-glibinniy-shnekoviy-koer-4qgd-12100075-1-kp2878</url>
-        <price>4720.00</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
-        <picture>https://ol.partners/Products/Photo/14866EBA-DF29-44D8-A63E-DA3793A433E5</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/acf13d0b-ee94-4cf3-ad1a-0313b4710c5a/image_06.jpg</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/acf13d0b-ee94-4cf3-ad1a-0313b4710c5a/image_05.jpg</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/acf13d0b-ee94-4cf3-ad1a-0313b4710c5a/image_07.png</picture>
-        <vendor>KOER</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
-        <name>Насос глибинний шнековий Koer 4QGD 1.2-100-0.75 1" (KP2878)</name>
-        <description>&lt;![CDATA[]]&gt;</description>
-        <vendorCode>KP2878</vendorCode>
-        <param name="Од. в упак.">1</param>
-        <param name="Об'єм ящ.">0.018</param>
-        <param name="Вага ящ.">11.9</param>
-        <param name="Швидкість (об/хв)">2850</param>
-        <param name="Перекачувальні середовища">Вода</param>
-        <param name="Клас термостійкості">F</param>
-        <param name="Потужність (кВт)">0,75</param>
-        <param name="Напруга мережі (V)">220-240</param>
-        <param name="Матеріал вала двигуна">Нержавіюча сталь AISI 304</param>
-        <param name="Матеріал оголовка">Нержавіюча сталь</param>
-        <param name="Клас захисту корпусів електронного обладнання">IPX8</param>
-        <param name="Матеріал виробу">Нержавіюча сталь</param>
-        <param name="Матеріал обмотки статора">Мідь</param>
-        <param name="Тип приєднання">Різьбове</param>
-        <param name="Матеріал шнека">Нержавіюча сталь</param>
-        <param name="Максимальний напір (м)">175</param>
-        <param name="Якість води">Чиста</param>
-        <param name="Захист від перегріву (Вбудований датчик перегріву)">Так</param>
-        <param name="Мінімальна температура робочої рідини (°C)">4</param>
-        <param name="Частота струму (Гц)">50</param>
-        <param name="Діаметр виходу 1 (дюйм)">1</param>
-        <param name="Довжина кабелю (м)">15,00</param>
-        <param name="Тип виробу">Свердловинний насос</param>
-        <param name="Торгова марка">KOER</param>
-        <param name="Максимальна температура робочої рідини (°C)">35</param>
-        <param name="Гарантійний період (міс)">36</param>
-      </offer>
       <offer id="41027000" available="true">
         <url>https://ol.partners/products/aksesuari-dlya-vannoi/trimach-dlya-aksesuariv/trimach-dlya-aksesuariv-grohe-selection-41027000</url>
         <price>4428.00</price>
@@ -45354,6 +45312,48 @@
         <param name="Поверхня">Глянцева</param>
         <param name="Форма">Універсальна</param>
         <param name="Колір">Хром</param>
+      </offer>
+      <offer id="KP2878" available="true">
+        <url>https://ol.partners/products/nasosi-ta-aksesuari/sverdlovinni-nasosi/nasos-glibinniy-shnekoviy-koer-4qgd-12100075-1-kp2878</url>
+        <price>4720.00</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
+        <picture>https://ol.partners/Products/Photo/14866EBA-DF29-44D8-A63E-DA3793A433E5</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/acf13d0b-ee94-4cf3-ad1a-0313b4710c5a/image_06.jpg</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/acf13d0b-ee94-4cf3-ad1a-0313b4710c5a/image_05.jpg</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/acf13d0b-ee94-4cf3-ad1a-0313b4710c5a/image_07.png</picture>
+        <vendor>KOER</vendor>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Достатньо</availabilityStatus>
+        <name>Насос глибинний шнековий Koer 4QGD 1.2-100-0.75 1" (KP2878)</name>
+        <description>&lt;![CDATA[]]&gt;</description>
+        <vendorCode>KP2878</vendorCode>
+        <param name="Од. в упак.">1</param>
+        <param name="Об'єм ящ.">0.018</param>
+        <param name="Вага ящ.">11.9</param>
+        <param name="Швидкість (об/хв)">2850</param>
+        <param name="Перекачувальні середовища">Вода</param>
+        <param name="Клас термостійкості">F</param>
+        <param name="Потужність (кВт)">0,75</param>
+        <param name="Напруга мережі (V)">220-240</param>
+        <param name="Матеріал вала двигуна">Нержавіюча сталь AISI 304</param>
+        <param name="Матеріал оголовка">Нержавіюча сталь</param>
+        <param name="Клас захисту корпусів електронного обладнання">IPX8</param>
+        <param name="Матеріал виробу">Нержавіюча сталь</param>
+        <param name="Матеріал обмотки статора">Мідь</param>
+        <param name="Тип приєднання">Різьбове</param>
+        <param name="Матеріал шнека">Нержавіюча сталь</param>
+        <param name="Максимальний напір (м)">175</param>
+        <param name="Якість води">Чиста</param>
+        <param name="Захист від перегріву (Вбудований датчик перегріву)">Так</param>
+        <param name="Мінімальна температура робочої рідини (°C)">4</param>
+        <param name="Частота струму (Гц)">50</param>
+        <param name="Діаметр виходу 1 (дюйм)">1</param>
+        <param name="Довжина кабелю (м)">15,00</param>
+        <param name="Тип виробу">Свердловинний насос</param>
+        <param name="Торгова марка">KOER</param>
+        <param name="Максимальна температура робочої рідини (°C)">35</param>
+        <param name="Гарантійний період (міс)">36</param>
       </offer>
       <offer id="KP2869" available="false">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/sverdlovinni-nasosi/tsentrobizhniy-glibinniy-nasos-koer-3kdm-21130m-1-kp2869</url>
@@ -56819,7 +56819,7 @@
         <param name="Особливості">Матеріал закладних деталей - Латунь CW617N нікельована</param>
         <param name="Гарантійний період (міс)">84</param>
       </offer>
-      <offer id="MX0773" available="true">
+      <offer id="MX0773" available="false">
         <url>https://ol.partners/products/protochni-vodonagrivachi/krani-vodonagrivachi/vodonagrivach-33-kw-protochniy-mixxus-electra-470ef-nerzhaviyucha-stal-z-indik-temp-reflektorniy-viliv-na-miyku-kolir-chorniy-mx0773</url>
         <price>1932.00</price>
         <currencyId>UAH</currencyId>
@@ -56829,8 +56829,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/5f891db7-b3fd-4792-851b-3bd81976f738/image_03.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/5f891db7-b3fd-4792-851b-3bd81976f738/image_04.jpg</picture>
         <vendor>MIXXUS</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Водонагрівач 3,3 kW проточний MIXXUS Electra 470-EF нержавіюча сталь, з індик. темп., рефлекторний вилив, на мийку (колір чорний) (MX0773)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>MX0773</vendorCode>
@@ -84133,7 +84133,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/200e7edd-aff3-4f8f-ae66-b2f33d4eee6a/image_03_EP.S1110.jpg</picture>
         <vendor>EUROPRODUCT</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Колекторний блок з витратомірами Europroduct EP.S1110-10 1 "x10 (EP4986)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>EP4986</vendorCode>
@@ -88453,6 +88453,64 @@
         <param name="Особливості">Одночасно виконує функції заглушки, дренажного крана і відведення повітря, що дозволяє видаляти повітря з системи і зливати воду без додаткових елементів.</param>
         <param name="Колір">Сталевий</param>
       </offer>
+      <offer id="KP2666" available="true">
+        <url>https://ol.partners/products/nasosi-ta-aksesuari/sverdlovinni-nasosi/vikhroviy-nasos-z-pultom-koer-4skm100-kp2666</url>
+        <price>6090.00</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
+        <picture>https://ol.partners/Products/Photo/7D9DCD42-6DB0-4590-8213-A3C87F3BAD41</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/7335e125-6e63-437c-9f98-11836b3ca7b5/image_06.jpg</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/7335e125-6e63-437c-9f98-11836b3ca7b5/image_01.jpg</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/7335e125-6e63-437c-9f98-11836b3ca7b5/image_02.jpg</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/7335e125-6e63-437c-9f98-11836b3ca7b5/image_07.png</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/7335e125-6e63-437c-9f98-11836b3ca7b5/image_05.jpg</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/7335e125-6e63-437c-9f98-11836b3ca7b5/image_04.jpg</picture>
+        <vendor>KOER</vendor>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Достатньо</availabilityStatus>
+        <name>Вихровий насос з пультом Koer 4SKM-100 (KP2666)</name>
+        <description>&lt;![CDATA[]]&gt;</description>
+        <vendorCode>KP2666</vendorCode>
+        <param name="Од. в упак.">1</param>
+        <param name="Об'єм ящ.">0.028</param>
+        <param name="Вага ящ.">13.5</param>
+        <param name="Серія">4SKM-100</param>
+        <param name="Тип виробу">Свердловинний насос</param>
+        <param name="Тип">Вихровий</param>
+        <param name="Торгова марка">KOER</param>
+        <param name="Країна бренду">Чехія</param>
+        <param name="Вага (кг)">14,00</param>
+        <param name="Висота (мм)">150</param>
+        <param name="Діаметр умовного проходу (мм)">25</param>
+        <param name="Ширина (мм)">305</param>
+        <param name="Довжина кабелю (м)">12,00</param>
+        <param name="Довжина (мм)">535</param>
+        <param name="Діаметр корпусу насоса (мм)">98</param>
+        <param name="Максимальна температура робочої рідини (°C)">35</param>
+        <param name="Гарантійний період (міс)">24</param>
+        <param name="Макс. температура навколишнього середовища (°C)">40</param>
+        <param name="Максимальна глибина занурення (м)">20</param>
+        <param name="Комплектація">Пульт з захистом перевантаження по струму (від заклинювання насоса), набір термоусадок для збільшення довжини кабелю, патрубок для шлангу, поглинач вогкості, упаковка, інструкція, гарантійний талон</param>
+        <param name="Матеріал виробу">Нержавіюча сталь AISI 304</param>
+        <param name="Захист від перегріву (Вбудований датчик перегріву)">Так</param>
+        <param name="Ємкість конденсатора (мкФ)">25,00</param>
+        <param name="Швидкість (об/хв)">2850</param>
+        <param name="Споживна потужність (кВт/г)">0,75</param>
+        <param name="Мінімальна температура робочої рідини (°C)">5</param>
+        <param name="Потужність на валу насоса (P2, ЛС)">1,00</param>
+        <param name="Матеріал обмотки статора">Мідь</param>
+        <param name="Мін. температура навколишнього середовища (°C)">4</param>
+        <param name="Якість води">Чиста</param>
+        <param name="Продуктивність при максимальному ККД (м3/год)">3,00</param>
+        <param name="Максимальний напір (м)">60</param>
+        <param name="Клас термостійкості">F</param>
+        <param name="Продуктивність (л/хв)">50,00</param>
+        <param name="Матеріал робочого колеса">Латунь</param>
+        <param name="Потужність при режимі 1 (P1, Вт)">1200</param>
+        <param name="Частота струму (Гц)">50</param>
+        <param name="Потужність (Вт)">750</param>
+        <param name="Потужність (кВт)">0,75</param>
+      </offer>
       <offer id="KR5746" available="true">
         <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/krani/krani-kulovi/kran-kuloviy-ggv-koer-extreme-ke21425-1-ff-ruchka-vazhil-chervona-kr5746</url>
         <price>544.00</price>
@@ -88518,64 +88576,6 @@
         <param name="Робочий тиск (бар)">до 10</param>
         <param name="Матеріал виробу">Латунь CW617N</param>
         <param name="Тип приєднання">Різьбове</param>
-      </offer>
-      <offer id="KP2666" available="true">
-        <url>https://ol.partners/products/nasosi-ta-aksesuari/sverdlovinni-nasosi/vikhroviy-nasos-z-pultom-koer-4skm100-kp2666</url>
-        <price>6090.00</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
-        <picture>https://ol.partners/Products/Photo/7D9DCD42-6DB0-4590-8213-A3C87F3BAD41</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/7335e125-6e63-437c-9f98-11836b3ca7b5/image_06.jpg</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/7335e125-6e63-437c-9f98-11836b3ca7b5/image_01.jpg</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/7335e125-6e63-437c-9f98-11836b3ca7b5/image_02.jpg</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/7335e125-6e63-437c-9f98-11836b3ca7b5/image_07.png</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/7335e125-6e63-437c-9f98-11836b3ca7b5/image_05.jpg</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/7335e125-6e63-437c-9f98-11836b3ca7b5/image_04.jpg</picture>
-        <vendor>KOER</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
-        <name>Вихровий насос з пультом Koer 4SKM-100 (KP2666)</name>
-        <description>&lt;![CDATA[]]&gt;</description>
-        <vendorCode>KP2666</vendorCode>
-        <param name="Од. в упак.">1</param>
-        <param name="Об'єм ящ.">0.028</param>
-        <param name="Вага ящ.">13.5</param>
-        <param name="Серія">4SKM-100</param>
-        <param name="Тип виробу">Свердловинний насос</param>
-        <param name="Тип">Вихровий</param>
-        <param name="Торгова марка">KOER</param>
-        <param name="Країна бренду">Чехія</param>
-        <param name="Вага (кг)">14,00</param>
-        <param name="Висота (мм)">150</param>
-        <param name="Діаметр умовного проходу (мм)">25</param>
-        <param name="Ширина (мм)">305</param>
-        <param name="Довжина кабелю (м)">12,00</param>
-        <param name="Довжина (мм)">535</param>
-        <param name="Діаметр корпусу насоса (мм)">98</param>
-        <param name="Максимальна температура робочої рідини (°C)">35</param>
-        <param name="Гарантійний період (міс)">24</param>
-        <param name="Макс. температура навколишнього середовища (°C)">40</param>
-        <param name="Максимальна глибина занурення (м)">20</param>
-        <param name="Комплектація">Пульт з захистом перевантаження по струму (від заклинювання насоса), набір термоусадок для збільшення довжини кабелю, патрубок для шлангу, поглинач вогкості, упаковка, інструкція, гарантійний талон</param>
-        <param name="Матеріал виробу">Нержавіюча сталь AISI 304</param>
-        <param name="Захист від перегріву (Вбудований датчик перегріву)">Так</param>
-        <param name="Ємкість конденсатора (мкФ)">25,00</param>
-        <param name="Швидкість (об/хв)">2850</param>
-        <param name="Споживна потужність (кВт/г)">0,75</param>
-        <param name="Мінімальна температура робочої рідини (°C)">5</param>
-        <param name="Потужність на валу насоса (P2, ЛС)">1,00</param>
-        <param name="Матеріал обмотки статора">Мідь</param>
-        <param name="Мін. температура навколишнього середовища (°C)">4</param>
-        <param name="Якість води">Чиста</param>
-        <param name="Продуктивність при максимальному ККД (м3/год)">3,00</param>
-        <param name="Максимальний напір (м)">60</param>
-        <param name="Клас термостійкості">F</param>
-        <param name="Продуктивність (л/хв)">50,00</param>
-        <param name="Матеріал робочого колеса">Латунь</param>
-        <param name="Потужність при режимі 1 (P1, Вт)">1200</param>
-        <param name="Частота струму (Гц)">50</param>
-        <param name="Потужність (Вт)">750</param>
-        <param name="Потужність (кВт)">0,75</param>
       </offer>
       <offer id="40385001" available="false">
         <url>https://ol.partners/products/aksesuari-dlya-vannoi/paperotrimach/trimach-dlya-zapasnogo-rulonu-tualetnogo-paperu-grohe-essentials-new-40385001</url>
@@ -88700,7 +88700,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/88c0577e-6c81-45fc-87e4-726cf2fa418c/image_06.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Душовий трап KOER FD30-70x1000 з нерж. сталі SUS304 70x1000мм (AC0703)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>AC0703</vendorCode>
@@ -103908,6 +103908,48 @@
         <param name="Колір">Сталевий</param>
         <param name="Гарантійний період (міс)">84</param>
       </offer>
+      <offer id="KP3099" available="true">
+        <url>https://ol.partners/products/nasosi-ta-aksesuari/tsirkulyatsiyni-nasosi/tsirkulyatsiyniy-nasos-koer-ape-254130-chastotniy-kp3099</url>
+        <price>3910.00</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
+        <picture>https://ol.partners/Products/Photo/EE7CC306-7C88-42E9-9092-80D4EDABD2B2</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/8455bb3e-c4aa-4bfb-915a-dce50cdba723/image_06.jpg</picture>
+        <vendor>KOER</vendor>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Достатньо</availabilityStatus>
+        <name>Циркуляційний насос Koer APE 25-4-130 частотний (KP3099)</name>
+        <description>&lt;![CDATA[]]&gt;</description>
+        <vendorCode>KP3099</vendorCode>
+        <param name="Од. в упак.">8</param>
+        <param name="Об'єм ящ.">0.023</param>
+        <param name="Вага ящ.">19</param>
+        <param name="Матеріал робочого колеса">Пластик</param>
+        <param name="Продуктивність (л/хв)">36,00</param>
+        <param name="Частота струму (Гц)">50</param>
+        <param name="MAX продуктивність (при мінімальн. напорі) (л/хв)">36,00</param>
+        <param name="Перекачувальні середовища">Вода, гліколеві суміші</param>
+        <param name="Напруга мережі (V)">230</param>
+        <param name="Якість води">Слабко забруднена</param>
+        <param name="Тип приєднання">Різьбове</param>
+        <param name="Захист від перегріву (Вбудований датчик перегріву)">Так</param>
+        <param name="Мін. температура навколишнього середовища (°C)">5</param>
+        <param name="Максимальний напір (м)">4</param>
+        <param name="Матеріал обмотки статора">Мідь</param>
+        <param name="MAX продуктивність (при мін. напорі) (м3/год)">2,16</param>
+        <param name="Матеріал виробу">Алюміній, чавун</param>
+        <param name="Мінімальна температура робочої рідини (°C)">4</param>
+        <param name="Тип ротора">Мокрий</param>
+        <param name="Матеріал вала двигуна">Кераміка</param>
+        <param name="Діаметр виходу 1 (мм)">32</param>
+        <param name="Довжина кабелю (м)">1,00</param>
+        <param name="Монтажна довжина (мм)">130</param>
+        <param name="Діаметр умовного проходу (мм)">25,00</param>
+        <param name="Торгова марка">KOER</param>
+        <param name="Тип">Відцентровий</param>
+        <param name="Тип виробу">Циркуляційний насос</param>
+        <param name="Максимальна температура робочої рідини (°C)">110</param>
+      </offer>
       <offer id="40447001" available="true">
         <url>https://ol.partners/products/aksesuari-dlya-vannoi/sklyanki-dlya-zubnikh-schitok/stakan-dlya-zubnikh-schitok-grohe-essentials-new-40447001</url>
         <price>2430.00</price>
@@ -103950,48 +103992,6 @@
         <param name="Глибина (мм)">106</param>
         <param name="Розміри виробу (ВхШхГ)">99x72x106</param>
         <param name="Висота (мм)">99</param>
-      </offer>
-      <offer id="KP3099" available="true">
-        <url>https://ol.partners/products/nasosi-ta-aksesuari/tsirkulyatsiyni-nasosi/tsirkulyatsiyniy-nasos-koer-ape-254130-chastotniy-kp3099</url>
-        <price>3910.00</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
-        <picture>https://ol.partners/Products/Photo/EE7CC306-7C88-42E9-9092-80D4EDABD2B2</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/8455bb3e-c4aa-4bfb-915a-dce50cdba723/image_06.jpg</picture>
-        <vendor>KOER</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
-        <name>Циркуляційний насос Koer APE 25-4-130 частотний (KP3099)</name>
-        <description>&lt;![CDATA[]]&gt;</description>
-        <vendorCode>KP3099</vendorCode>
-        <param name="Од. в упак.">8</param>
-        <param name="Об'єм ящ.">0.023</param>
-        <param name="Вага ящ.">19</param>
-        <param name="Матеріал робочого колеса">Пластик</param>
-        <param name="Продуктивність (л/хв)">36,00</param>
-        <param name="Частота струму (Гц)">50</param>
-        <param name="MAX продуктивність (при мінімальн. напорі) (л/хв)">36,00</param>
-        <param name="Перекачувальні середовища">Вода, гліколеві суміші</param>
-        <param name="Напруга мережі (V)">230</param>
-        <param name="Якість води">Слабко забруднена</param>
-        <param name="Тип приєднання">Різьбове</param>
-        <param name="Захист від перегріву (Вбудований датчик перегріву)">Так</param>
-        <param name="Мін. температура навколишнього середовища (°C)">5</param>
-        <param name="Максимальний напір (м)">4</param>
-        <param name="Матеріал обмотки статора">Мідь</param>
-        <param name="MAX продуктивність (при мін. напорі) (м3/год)">2,16</param>
-        <param name="Матеріал виробу">Алюміній, чавун</param>
-        <param name="Мінімальна температура робочої рідини (°C)">4</param>
-        <param name="Тип ротора">Мокрий</param>
-        <param name="Матеріал вала двигуна">Кераміка</param>
-        <param name="Діаметр виходу 1 (мм)">32</param>
-        <param name="Довжина кабелю (м)">1,00</param>
-        <param name="Монтажна довжина (мм)">130</param>
-        <param name="Діаметр умовного проходу (мм)">25,00</param>
-        <param name="Торгова марка">KOER</param>
-        <param name="Тип">Відцентровий</param>
-        <param name="Тип виробу">Циркуляційний насос</param>
-        <param name="Максимальна температура робочої рідини (°C)">110</param>
       </offer>
       <offer id="ZX5089" available="true">
         <url>https://ol.partners/products/sifoni-trapi-dlya-dushu/sifoni/gofrotruba-unitazna-zerix-ga02b-armovana-330-mm-dlya-plastikovoi-kanalizatsii-d110-mm-zx5089</url>
@@ -109944,7 +109944,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/6ac88e68-23e4-4974-ad5c-277e6c7447b5/image_04_400-600_0.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Сталевий радіатор KOER 22x300x700S (893 Вт, 11,27 кг, бокове підключення) (RAD070)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>RAD070</vendorCode>
@@ -125862,7 +125862,7 @@
         <param name="Армування">Без армування</param>
         <param name="Колір">Сірий</param>
       </offer>
-      <offer id="38736000" available="true">
+      <offer id="38736000" available="false">
         <url>https://ol.partners/products/instalyatsii-ta-klavishi/klavishi-zmivu-ta-komplektuyuchi/zmivniy-klapan-grohe-38736000</url>
         <price>2430.00</price>
         <currencyId>UAH</currencyId>
@@ -125871,8 +125871,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/d5d389fc-5a93-4e27-83e9-e107beb45f48/image_01.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/d5d389fc-5a93-4e27-83e9-e107beb45f48/image_02.jpg</picture>
         <vendor>GROHE</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Змивний клапан Grohe (38736000)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>38736000</vendorCode>
@@ -126256,7 +126256,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/5e80b41d-dfa7-4098-abe5-d1b6c3df2e2d/image_03.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Кран кульовий Koer 1/2" ГШМ (KR.218.B) синій (KR2722)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR2722</vendorCode>
@@ -126543,7 +126543,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/d35fc6c1-42be-4b1f-9d47-af5bf6cca6bb/image_01.png</picture>
         <vendor>KOER</vendor>
         <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Панель змиву KOER KT-0602-02 240x160x10mm з нержавіючої сталі, кнопка квадратна SUS304 (KR5179)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR5179</vendorCode>
@@ -133673,33 +133673,6 @@
         <param name="Гарантійний період (міс)">96</param>
         <param name="Кількість (шт)">1</param>
       </offer>
-      <offer id="KP3157" available="true">
-        <url>https://ol.partners/products/nasosi-ta-aksesuari/zapchastini-ta-aksesuari-dlya-nasosiv/kontroler-tisku-regulyuyuchiy-koer-ksr12-tsifroviy-do-22kvt-1-kp3157</url>
-        <price>2110.00</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
-        <picture>https://ol.partners/Products/Photo/50CD4C1D-B346-433A-98CC-51EB0FCCD001</picture>
-        <vendor>KOER</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
-        <name>Контролер тиску регулюючий Koer KSR-12 цифровий (до 2,2кВт, 1") (KP3157)</name>
-        <description>&lt;![CDATA[]]&gt;</description>
-        <vendorCode>KP3157</vendorCode>
-        <param name="Од. в упак.">12</param>
-        <param name="Об'єм ящ.">0.078</param>
-        <param name="Вага ящ.">17.3</param>
-        <param name="Напруга мережі (V)">220-240</param>
-        <param name="Мінімальна температура робочої рідини (°C)">5</param>
-        <param name="Частота струму (Гц)">50</param>
-        <param name="Робочий тиск (бар)">до 10</param>
-        <param name="Максимальна температура робочої рідини (°C)">60</param>
-        <param name="Особливості">Налаштування тиску включення: 0,5 бар; Потужність електродвигуна до 2,2 квт; Максимальна сила струму 16А</param>
-        <param name="Тип виробу">Комплектуючі для насосів</param>
-        <param name="Вид виробу">Контролери тиску</param>
-        <param name="Торгова марка">KOER</param>
-        <param name="Країна бренду">Чехія</param>
-        <param name="Модель">KSR-12</param>
-      </offer>
       <offer id="KR5727" available="true">
         <url>https://ol.partners/products/instalyatsii-ta-klavishi/klavishi-zmivu-ta-komplektuyuchi/khomut-fiksator-kolina-stoku-instalyatsii-koer-kt0713-dlya-kt0401-kt0403-kt0404-kr5727</url>
         <price>207.00</price>
@@ -133727,6 +133700,33 @@
         <param name="Гарантійний період (міс)">12</param>
         <param name="Матеріал">Поліпропілен</param>
         <param name="Колір">Чорний</param>
+      </offer>
+      <offer id="KP3157" available="true">
+        <url>https://ol.partners/products/nasosi-ta-aksesuari/zapchastini-ta-aksesuari-dlya-nasosiv/kontroler-tisku-regulyuyuchiy-koer-ksr12-tsifroviy-do-22kvt-1-kp3157</url>
+        <price>2110.00</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
+        <picture>https://ol.partners/Products/Photo/50CD4C1D-B346-433A-98CC-51EB0FCCD001</picture>
+        <vendor>KOER</vendor>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Достатньо</availabilityStatus>
+        <name>Контролер тиску регулюючий Koer KSR-12 цифровий (до 2,2кВт, 1") (KP3157)</name>
+        <description>&lt;![CDATA[]]&gt;</description>
+        <vendorCode>KP3157</vendorCode>
+        <param name="Од. в упак.">12</param>
+        <param name="Об'єм ящ.">0.078</param>
+        <param name="Вага ящ.">17.3</param>
+        <param name="Напруга мережі (V)">220-240</param>
+        <param name="Мінімальна температура робочої рідини (°C)">5</param>
+        <param name="Частота струму (Гц)">50</param>
+        <param name="Робочий тиск (бар)">до 10</param>
+        <param name="Максимальна температура робочої рідини (°C)">60</param>
+        <param name="Особливості">Налаштування тиску включення: 0,5 бар; Потужність електродвигуна до 2,2 квт; Максимальна сила струму 16А</param>
+        <param name="Тип виробу">Комплектуючі для насосів</param>
+        <param name="Вид виробу">Контролери тиску</param>
+        <param name="Торгова марка">KOER</param>
+        <param name="Країна бренду">Чехія</param>
+        <param name="Модель">KSR-12</param>
       </offer>
       <offer id="KR3127" available="true">
         <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/povitryavidvodchik/povitrovidvidnik-avtomatichniy-pryamiy-iz-zvorotnim-klapanom-koer-kr1246-12-kr3127</url>
@@ -138955,15 +138955,15 @@
         <param name="Діаметр підключення (дюйм)">1/2х3/4</param>
         <param name="Гарантійний період (міс)">84</param>
       </offer>
-      <offer id="EP6231" available="true">
+      <offer id="EP6231" available="false">
         <url>https://ol.partners/products/filtri-ochischennya-vodi/komplektuyuchi-dlya-filtriv-vodi/kartridzh-iz-polipropilenovoi-nitki-pp5-25x10-europroduct-epv02251005-ep6231</url>
         <price>54.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>d191ae68-f2ee-4472-8036-e37d06c8ffc9</categoryId>
         <picture>https://ol.partners/Products/Photo/4ED7E33C-CE25-477D-AD6D-129CC21963DF</picture>
         <vendor>EUROPRODUCT</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Картридж із поліпропіленової нитки PP5 2,5"x10" EUROPRODUCT EPV-02-2510-05 (EP6231)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>EP6231</vendorCode>
@@ -145260,15 +145260,15 @@
         <param name="Матеріал">Поліпропілен</param>
         <param name="Колір">Сірий</param>
       </offer>
-      <offer id="EP6232" available="false">
+      <offer id="EP6232" available="true">
         <url>https://ol.partners/products/filtri-ochischennya-vodi/komplektuyuchi-dlya-filtriv-vodi/kartridzh-iz-polipropilenovoi-nitki-pp10-25x10-europroduct-epv02251010-ep6232</url>
         <price>54.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>d191ae68-f2ee-4472-8036-e37d06c8ffc9</categoryId>
         <picture>https://ol.partners/Products/Photo/D08F86C5-EEEA-4119-BD6A-92C3208D8293</picture>
         <vendor>EUROPRODUCT</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Картридж із поліпропіленової нитки PP10 2,5"x10" EUROPRODUCT EPV-02-2510-10 (EP6232)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>EP6232</vendorCode>
@@ -149091,51 +149091,41 @@
         <param name="Сумісний з донним клапаном">Ні</param>
         <param name="Колір">Білий</param>
       </offer>
-      <offer id="KP3366" available="true">
-        <url>https://ol.partners/products/nasosi-ta-aksesuari/sverdlovinni-nasosi/nasos-sverdlovinniy-vidtsentroviy-koer-4sdm12122m-n81m-q162m3-p2200-vt-kab2m-kp3366</url>
-        <price>11490.00</price>
+      <offer id="ZX0533" available="false">
+        <url>https://ol.partners/products/aksesuari-dlya-vannoi/politsi-u-vannu/politsya-u-vannu-kutova-sklyana-zerix-z16211-zx0533</url>
+        <price>358.00</price>
         <currencyId>UAH</currencyId>
-        <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
-        <picture>https://ol.partners/Products/Photo/C1C33100-2C38-4204-90ED-203061FD085D</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/4de56ac0-97d1-432b-9173-36ec7a82ec75/image_02.png</picture>
-        <vendor>KOER</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
-        <name>Насос свердловинний відцентровий KOER 4SDM12/12+2М Н=81м Q=16.2м3, P=2200 Вт, каб.2м. (KP3366)</name>
+        <categoryId>98cef2a4-d106-4da2-9b4c-f8e66696fd13</categoryId>
+        <picture>https://ol.partners/Products/Photo/1569F2A6-5494-49ED-95E8-7F50FF967CD4</picture>
+        <vendor>ZERIX</vendor>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <name>Полиця у ванну кутова скляна Zerix Z1621-1 (ZX0533)</name>
         <description>&lt;![CDATA[]]&gt;</description>
-        <vendorCode>KP3366</vendorCode>
-        <param name="Од. в упак.">1</param>
-        <param name="Об'єм ящ.">0.068</param>
-        <param name="Вага ящ.">34</param>
-        <param name="Клас захисту корпусів електронного обладнання">IP 68</param>
-        <param name="Мінімальна температура робочої рідини (°C)">5</param>
-        <param name="Продуктивність (м3/год)">16,20</param>
-        <param name="Режим роботи">S1, тривалий</param>
-        <param name="Мін. температура навколишнього середовища (°C)">4</param>
-        <param name="Якість води">Чиста</param>
-        <param name="Матеріал шнека">Нержавіюча сталь</param>
-        <param name="Матеріал обмотки статора">Мідь</param>
-        <param name="Напруга мережі (V)">220-240</param>
-        <param name="Вбудований термозахист">Так</param>
-        <param name="Матеріал оголовка">Латунь</param>
-        <param name="Клас термостійкості">F</param>
-        <param name="Матеріал виробу">Нержавіюча сталь AISI 304</param>
-        <param name="Продуктивність при максимальному ККД (м3/год)">16,20</param>
-        <param name="Потужність (кВт)">2,20</param>
-        <param name="Максимальний напір (м)">81</param>
-        <param name="Потужність (Вт)">2200</param>
-        <param name="Швидкість (об/хв)">2850</param>
-        <param name="Частота струму (Гц)">50</param>
-        <param name="Діаметр виходу 1 (дюйм)">2</param>
-        <param name="Довжина кабелю (м)">2,00</param>
-        <param name="Макс. температура навколишнього середовища (°C)">40</param>
-        <param name="Гарантійний період (міс)">24</param>
-        <param name="Упаковка">Картонна коробка</param>
-        <param name="Максимальна температура робочої рідини (°C)">35</param>
+        <vendorCode>ZX0533</vendorCode>
+        <param name="Од. в упак.">10</param>
+        <param name="Об'єм ящ.">0.05</param>
+        <param name="Вага ящ.">10.7</param>
+        <param name="Ширина (мм)">270</param>
+        <param name="Розміри виробу (ВхШхГ)">270x200</param>
+        <param name="Глибина (мм)">200</param>
+        <param name="Гарантійний період (міс)">12</param>
+        <param name="Форма">Кутова</param>
+        <param name="Колір">Хром</param>
+        <param name="Поверхня">Глянцева</param>
+        <param name="Модель">Z1621-1</param>
         <param name="Країна бренду">Чехія</param>
-        <param name="Торгова марка">KOER</param>
-        <param name="Тип виробу">Свердловинний насос</param>
-        <param name="Тип">Відцентровий</param>
+        <param name="Вид виробу">Полиця кутова</param>
+        <param name="Торгова марка">ZERIX</param>
+        <param name="Тип виробу">Полиці</param>
+        <param name="Серія">Серія Z16</param>
+        <param name="Тип монтажу">Настінний</param>
+        <param name="Призначення">Для зберігання приладдя для ванної кімнати</param>
+        <param name="Країна виробник">Китай</param>
+        <param name="Матеріал комплектуючих">Нержавіюча сталь, цинковий сплав, скло</param>
+        <param name="Матеріал">Нержавіюча сталь</param>
+        <param name="Тип фіксації до поверхні">Гвинтове кріплення (на дюбелі)</param>
+        <param name="Тип конструкції">Скло з обмежувачем</param>
       </offer>
       <offer id="KP2639" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/sverdlovinni-nasosi/vidtsentroviy-nasos-koer-4sdm-237-50m-pult-kp2639</url>
@@ -149203,41 +149193,51 @@
         <param name="Діаметр виходу 1 (дюйм)">1</param>
         <param name="Довжина (мм)">2000</param>
       </offer>
-      <offer id="ZX0533" available="false">
-        <url>https://ol.partners/products/aksesuari-dlya-vannoi/politsi-u-vannu/politsya-u-vannu-kutova-sklyana-zerix-z16211-zx0533</url>
-        <price>358.00</price>
+      <offer id="KP3366" available="true">
+        <url>https://ol.partners/products/nasosi-ta-aksesuari/sverdlovinni-nasosi/nasos-sverdlovinniy-vidtsentroviy-koer-4sdm12122m-n81m-q162m3-p2200-vt-kab2m-kp3366</url>
+        <price>11490.00</price>
         <currencyId>UAH</currencyId>
-        <categoryId>98cef2a4-d106-4da2-9b4c-f8e66696fd13</categoryId>
-        <picture>https://ol.partners/Products/Photo/1569F2A6-5494-49ED-95E8-7F50FF967CD4</picture>
-        <vendor>ZERIX</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
-        <name>Полиця у ванну кутова скляна Zerix Z1621-1 (ZX0533)</name>
+        <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
+        <picture>https://ol.partners/Products/Photo/C1C33100-2C38-4204-90ED-203061FD085D</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/4de56ac0-97d1-432b-9173-36ec7a82ec75/image_02.png</picture>
+        <vendor>KOER</vendor>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Достатньо</availabilityStatus>
+        <name>Насос свердловинний відцентровий KOER 4SDM12/12+2М Н=81м Q=16.2м3, P=2200 Вт, каб.2м. (KP3366)</name>
         <description>&lt;![CDATA[]]&gt;</description>
-        <vendorCode>ZX0533</vendorCode>
-        <param name="Од. в упак.">10</param>
-        <param name="Об'єм ящ.">0.05</param>
-        <param name="Вага ящ.">10.7</param>
-        <param name="Ширина (мм)">270</param>
-        <param name="Розміри виробу (ВхШхГ)">270x200</param>
-        <param name="Глибина (мм)">200</param>
-        <param name="Гарантійний період (міс)">12</param>
-        <param name="Форма">Кутова</param>
-        <param name="Колір">Хром</param>
-        <param name="Поверхня">Глянцева</param>
-        <param name="Модель">Z1621-1</param>
+        <vendorCode>KP3366</vendorCode>
+        <param name="Од. в упак.">1</param>
+        <param name="Об'єм ящ.">0.068</param>
+        <param name="Вага ящ.">34</param>
+        <param name="Клас захисту корпусів електронного обладнання">IP 68</param>
+        <param name="Мінімальна температура робочої рідини (°C)">5</param>
+        <param name="Продуктивність (м3/год)">16,20</param>
+        <param name="Режим роботи">S1, тривалий</param>
+        <param name="Мін. температура навколишнього середовища (°C)">4</param>
+        <param name="Якість води">Чиста</param>
+        <param name="Матеріал шнека">Нержавіюча сталь</param>
+        <param name="Матеріал обмотки статора">Мідь</param>
+        <param name="Напруга мережі (V)">220-240</param>
+        <param name="Вбудований термозахист">Так</param>
+        <param name="Матеріал оголовка">Латунь</param>
+        <param name="Клас термостійкості">F</param>
+        <param name="Матеріал виробу">Нержавіюча сталь AISI 304</param>
+        <param name="Продуктивність при максимальному ККД (м3/год)">16,20</param>
+        <param name="Потужність (кВт)">2,20</param>
+        <param name="Максимальний напір (м)">81</param>
+        <param name="Потужність (Вт)">2200</param>
+        <param name="Швидкість (об/хв)">2850</param>
+        <param name="Частота струму (Гц)">50</param>
+        <param name="Діаметр виходу 1 (дюйм)">2</param>
+        <param name="Довжина кабелю (м)">2,00</param>
+        <param name="Макс. температура навколишнього середовища (°C)">40</param>
+        <param name="Гарантійний період (міс)">24</param>
+        <param name="Упаковка">Картонна коробка</param>
+        <param name="Максимальна температура робочої рідини (°C)">35</param>
         <param name="Країна бренду">Чехія</param>
-        <param name="Вид виробу">Полиця кутова</param>
-        <param name="Торгова марка">ZERIX</param>
-        <param name="Тип виробу">Полиці</param>
-        <param name="Серія">Серія Z16</param>
-        <param name="Тип монтажу">Настінний</param>
-        <param name="Призначення">Для зберігання приладдя для ванної кімнати</param>
-        <param name="Країна виробник">Китай</param>
-        <param name="Матеріал комплектуючих">Нержавіюча сталь, цинковий сплав, скло</param>
-        <param name="Матеріал">Нержавіюча сталь</param>
-        <param name="Тип фіксації до поверхні">Гвинтове кріплення (на дюбелі)</param>
-        <param name="Тип конструкції">Скло з обмежувачем</param>
+        <param name="Торгова марка">KOER</param>
+        <param name="Тип виробу">Свердловинний насос</param>
+        <param name="Тип">Відцентровий</param>
       </offer>
       <offer id="NF3097" available="true">
         <url>https://ol.partners/products/truboprovodi-ta-zyednannya/fitingi/rizbovi-zyednannya/triynik-nikelovaniy-nolf-nfct06ffmn12ffm-nf3097</url>
@@ -151382,7 +151382,7 @@
         <param name="Модель">33х500х1600.S</param>
         <param name="Колір">Білий (RAL 9016)</param>
       </offer>
-      <offer id="KP3134" available="true">
+      <offer id="KP3134" available="false">
         <url>https://ol.partners/products/truboprovodi-ta-zyednannya/fitingi/zyednannya-dlya-trub-z-polipropilenu/mufta-z-yevrokonusom-ta-nakidnoyu-gaykoyu-koer-k0240pro-white-20x34-ppr-kp3134</url>
         <price>118.00</price>
         <currencyId>UAH</currencyId>
@@ -151390,8 +151390,8 @@
         <picture>https://ol.partners/Products/Photo/D6E0E169-CB1E-4CF7-9E33-EC088E2DF658</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/fa6a59aa-67a9-4aa0-9340-72c2e437ec12/image_01.jpg</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Муфта з євроконусом та накидною гайкою Koer K0240.PRO White - 20x3/4 PPR (KP3134)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KP3134</vendorCode>
@@ -153600,7 +153600,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/2be2584b-90a8-44c0-91db-3ac17544835b/image_02.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Газова колонка димохідна з п'єзорозпалом KOER KWH.G0410 WHITE 10 л/хв (колір білий) (KR5663)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR5663</vendorCode>
@@ -157727,8 +157727,8 @@
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR5930</vendorCode>
         <param name="Од. в упак.">960</param>
-        <param name="Об'єм ящ.">0</param>
-        <param name="Вага ящ.">0</param>
+        <param name="Об'єм ящ.">0.028</param>
+        <param name="Вага ящ.">4.4</param>
         <param name="Покриття">Без покриття</param>
         <param name="Тип кріплення">Встановлення в торець профілю</param>
         <param name="Матеріал виробу">Пластик</param>
@@ -161650,7 +161650,7 @@
         <param name="Покриття">Нікель</param>
         <param name="Колір">Сталевий</param>
       </offer>
-      <offer id="MI8214" available="true">
+      <offer id="MI8214" available="false">
         <url>https://ol.partners/products/miyki-dlya-kukhni/integrovani-miyki/miyka-z-nerzh-stali-mixxus-mh5050-micro-decor-brushed-gold-3008-kolir-matove-zoloto-mi8214</url>
         <price>3519.00</price>
         <currencyId>UAH</currencyId>
@@ -161661,8 +161661,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/e48330c8-96c7-476b-9441-249c1ad9fe78/image_02.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/e48330c8-96c7-476b-9441-249c1ad9fe78/image_01.jpg</picture>
         <vendor>MIXXUS</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Мийка з нерж. сталі MIXXUS MH5050 MICRO DECOR BRUSHED GOLD (3.0/0.8) (колір матове золото) (MI8214)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>MI8214</vendorCode>
@@ -162895,7 +162895,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/743504db-5a4b-4dda-8b3f-41cc866dfe73/image_01.jpg</picture>
         <vendor>MIXXUS</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Мийка з нерж. сталі MIXXUS MH6050 MICRO DECOR GRAPHITE (3.0/0.8) (колір графіт) (MI8221)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>MI8221</vendorCode>
@@ -168786,37 +168786,6 @@
         <param name="Тип ручки">Метелик</param>
         <param name="Колір">Сталевий</param>
       </offer>
-      <offer id="MI6165" available="true">
-        <url>https://ol.partners/products/sifoni-trapi-dlya-dushu/zlivni-trapi/dushoviy-trap-mixxus-drain0560slim-z-nerzh-stali-sus304-30x600mm-kolir-nerzh-mi6165</url>
-        <price>1615.00</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>e679a4a9-0158-4101-9206-332f81d1f22b</categoryId>
-        <picture>https://ol.partners/Products/Photo/701AAE81-DEFF-4632-A2E0-613F51DD2FA1</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/3190a249-a6b5-41f4-8584-6b802912bf28/image_02.jpg</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/3190a249-a6b5-41f4-8584-6b802912bf28/image_01.jpg</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/3190a249-a6b5-41f4-8584-6b802912bf28/image_04.jpg</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/3190a249-a6b5-41f4-8584-6b802912bf28/image_03.jpg</picture>
-        <vendor>MIXXUS</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
-        <name>Душовий трап MIXXUS DRAIN-05-60-SLIM з нерж. сталі SUS304 30x600мм (Колір нерж) (MI6165)</name>
-        <description>&lt;![CDATA[]]&gt;</description>
-        <vendorCode>MI6165</vendorCode>
-        <param name="Од. в упак.">5</param>
-        <param name="Об'єм ящ.">0.083</param>
-        <param name="Вага ящ.">10</param>
-        <param name="Серія">Drain</param>
-        <param name="Модель">05</param>
-        <param name="Тип виробу">Трапи для душу</param>
-        <param name="Країна бренду">Німеччина</param>
-        <param name="Торгова марка">MIXXUS</param>
-        <param name="Вид виробу">Лінійні трапи</param>
-        <param name="Колір">Нержавіюча сталь</param>
-        <param name="Довжина (мм)">600</param>
-        <param name="Ширина (мм)">30</param>
-        <param name="Матеріал">Нержавіюча сталь SUS 304</param>
-        <param name="Тип затвору">Комбінований</param>
-      </offer>
       <offer id="KP3354" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/drenazhni-nasosi/nasos-drenazhniy-koer-kdn750-korpus-nerzhaviyucha-stal-n9m-q106kbm-p750-vt-kp3354</url>
         <price>2520.00</price>
@@ -168860,6 +168829,37 @@
         <param name="Максимальна глибина занурення (м)">8</param>
         <param name="Додаткові характеристики">Сполучний діаметр 1; 1 1/4; 1 1/2дюйм</param>
         <param name="Діаметр входу 1 (дюйм)">1</param>
+      </offer>
+      <offer id="MI6165" available="true">
+        <url>https://ol.partners/products/sifoni-trapi-dlya-dushu/zlivni-trapi/dushoviy-trap-mixxus-drain0560slim-z-nerzh-stali-sus304-30x600mm-kolir-nerzh-mi6165</url>
+        <price>1615.00</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>e679a4a9-0158-4101-9206-332f81d1f22b</categoryId>
+        <picture>https://ol.partners/Products/Photo/701AAE81-DEFF-4632-A2E0-613F51DD2FA1</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/3190a249-a6b5-41f4-8584-6b802912bf28/image_02.jpg</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/3190a249-a6b5-41f4-8584-6b802912bf28/image_01.jpg</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/3190a249-a6b5-41f4-8584-6b802912bf28/image_04.jpg</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/3190a249-a6b5-41f4-8584-6b802912bf28/image_03.jpg</picture>
+        <vendor>MIXXUS</vendor>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Достатньо</availabilityStatus>
+        <name>Душовий трап MIXXUS DRAIN-05-60-SLIM з нерж. сталі SUS304 30x600мм (Колір нерж) (MI6165)</name>
+        <description>&lt;![CDATA[]]&gt;</description>
+        <vendorCode>MI6165</vendorCode>
+        <param name="Од. в упак.">5</param>
+        <param name="Об'єм ящ.">0.083</param>
+        <param name="Вага ящ.">10</param>
+        <param name="Серія">Drain</param>
+        <param name="Модель">05</param>
+        <param name="Тип виробу">Трапи для душу</param>
+        <param name="Країна бренду">Німеччина</param>
+        <param name="Торгова марка">MIXXUS</param>
+        <param name="Вид виробу">Лінійні трапи</param>
+        <param name="Колір">Нержавіюча сталь</param>
+        <param name="Довжина (мм)">600</param>
+        <param name="Ширина (мм)">30</param>
+        <param name="Матеріал">Нержавіюча сталь SUS 304</param>
+        <param name="Тип затвору">Комбінований</param>
       </offer>
       <offer id="KP2647" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/sverdlovinni-nasosi/nasos-glibinniy-shnekoviy-koer-4qgd-1250037-kp2647</url>
@@ -191133,7 +191133,7 @@
         <param name="Матеріал">Поліпропілен</param>
         <param name="Тип з'єднання">Різьба-пайка</param>
       </offer>
-      <offer id="ZX4577" available="true">
+      <offer id="ZX4577" available="false">
         <url>https://ol.partners/products/miyki-dlya-kukhni/vrizni-miyki/miyka-zerix-zs6243s13-grafitova-zx4577</url>
         <price>4485.00</price>
         <currencyId>UAH</currencyId>
@@ -191143,8 +191143,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/4c2185d3-d744-4e77-bc61-b4fec5c3fc13/image_03.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/4c2185d3-d744-4e77-bc61-b4fec5c3fc13/image_02.jpg</picture>
         <vendor>ZERIX</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Мийка Zerix ZS-6243S-13 Графітова (ZX4577)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>ZX4577</vendorCode>
