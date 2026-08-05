@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-08-04 02:23">
+<yml_catalog date="2026-08-05 02:23">
   <shop>
     <name>O&amp;L</name>
     <company>O&amp;L</company>
@@ -11404,7 +11404,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/c1742b6b-7b77-4193-8277-0f404e635ba8/image_04_KOER_s150.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Душовий трап KOER FD20-S150 з нерж. сталі SUS304 150x150мм (KR3282)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR3282</vendorCode>
@@ -43908,8 +43908,8 @@
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>EP6251</vendorCode>
         <param name="Од. в упак.">70</param>
-        <param name="Об'єм ящ.">0</param>
-        <param name="Вага ящ.">0</param>
+        <param name="Об'єм ящ.">0.022</param>
+        <param name="Вага ящ.">22.7</param>
         <param name="Вид виробу">Згін-американка</param>
         <param name="Тип виробу">Труби та фітинги PPR</param>
         <param name="Торгова марка">EUROPRODUCT</param>
@@ -50103,7 +50103,7 @@
         <param name="Ширина (мм)">500</param>
         <param name="Висота (мм)">700</param>
       </offer>
-      <offer id="PM0620" available="true">
+      <offer id="PM0620" available="false">
         <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/krani/krani-kulovi/kran-kuloviy-plamix-pvm34-fm-pvc-pm0620</url>
         <price>36.00</price>
         <currencyId>UAH</currencyId>
@@ -50111,8 +50111,8 @@
         <picture>https://ol.partners/Products/Photo/23A5C698-8371-4CB3-91AF-63AD0C55DFE1</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/9b622d99-dfa0-4623-a07e-751e2dc51d92/PM0620-PLAMIX-PVM-34-FM-1.jpg</picture>
         <vendor>PLAMIX</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Кран кульовий Plamix PVM-3/4" FM PVC (PM0620)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>PM0620</vendorCode>
@@ -52170,7 +52170,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/ff80cdc6-2321-4e0a-9aa2-2dd7de130ea1/image_02.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Відцентровий насос Koer 3SDM 2/11 + 25M + пульт (KP2621)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KP2621</vendorCode>
@@ -69745,7 +69745,7 @@
         <picture>https://ol.partners/Products/Photo/CE1201C5-0698-4533-88B6-5D5971B0BCE7</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Кронштейн підлоговий KOER SET-08 з гнучким хватом (з кріпленням та ключем у комплекті) (KR4765)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR4765</vendorCode>
@@ -81360,7 +81360,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/ae4101a8-2e86-4d24-a822-6ebf35b57595/image_01.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Бак розширювальний для системи опалення (плоский) Koer BP6 6л. (KB0001)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KB0001</vendorCode>
@@ -82572,7 +82572,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/e606d7a3-3b0a-4c7b-a0ee-660f109f0d32/image_02.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Колекторний блок з витратомірами та євроконусами Koer KR.1210-5 - 1"x5 WAYS (KR5267)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR5267</vendorCode>
@@ -101683,7 +101683,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/848ffec6-e555-4089-ac71-e9d3a07a6449/image_01.jpg</picture>
         <vendor>EUROPRODUCT</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Група безпеки EUROPRODUCT EP.2010 - 1" (EP6118)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>EP6118</vendorCode>
@@ -120295,7 +120295,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/8e86c3e2-1be0-43b6-985d-adf6fdb8e126/image_03.jpg</picture>
         <vendor>MIXXUS</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Водонагрівач "Квадрат" Mixxus EWH-13050 CUBE WET(V) накопичувальний 50 л, мокрий тен 2,0 kW (WH0611)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>WH0611</vendorCode>
@@ -121459,7 +121459,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/ede6cad1-53c3-4bd5-80a5-4556d19b0fe1/image_03_KR2795.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Хомут трубний оцинкований Koer KCB.20 1/2" (20-25) чорний (KR2795)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR2795</vendorCode>
@@ -138955,15 +138955,15 @@
         <param name="Діаметр підключення (дюйм)">1/2х3/4</param>
         <param name="Гарантійний період (міс)">84</param>
       </offer>
-      <offer id="EP6231" available="false">
+      <offer id="EP6231" available="true">
         <url>https://ol.partners/products/filtri-ochischennya-vodi/komplektuyuchi-dlya-filtriv-vodi/kartridzh-iz-polipropilenovoi-nitki-pp5-25x10-europroduct-epv02251005-ep6231</url>
         <price>54.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>d191ae68-f2ee-4472-8036-e37d06c8ffc9</categoryId>
         <picture>https://ol.partners/Products/Photo/4ED7E33C-CE25-477D-AD6D-129CC21963DF</picture>
         <vendor>EUROPRODUCT</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Картридж із поліпропіленової нитки PP5 2,5"x10" EUROPRODUCT EPV-02-2510-05 (EP6231)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>EP6231</vendorCode>
@@ -145260,15 +145260,15 @@
         <param name="Матеріал">Поліпропілен</param>
         <param name="Колір">Сірий</param>
       </offer>
-      <offer id="EP6232" available="true">
+      <offer id="EP6232" available="false">
         <url>https://ol.partners/products/filtri-ochischennya-vodi/komplektuyuchi-dlya-filtriv-vodi/kartridzh-iz-polipropilenovoi-nitki-pp10-25x10-europroduct-epv02251010-ep6232</url>
         <price>54.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>d191ae68-f2ee-4472-8036-e37d06c8ffc9</categoryId>
         <picture>https://ol.partners/Products/Photo/D08F86C5-EEEA-4119-BD6A-92C3208D8293</picture>
         <vendor>EUROPRODUCT</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Картридж із поліпропіленової нитки PP10 2,5"x10" EUROPRODUCT EPV-02-2510-10 (EP6232)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>EP6232</vendorCode>
@@ -146691,7 +146691,7 @@
         <param name="Гарантійний період (міс)">12</param>
         <param name="Колір">Білий</param>
       </offer>
-      <offer id="ZX5900" available="false">
+      <offer id="ZX5900" available="true">
         <url>https://ol.partners/products/aksesuari-dlya-vannoi/vidro-dlya-smittya/vidro-dlya-smittya-krugle-zerix-solotc0107-black-7-l-kolir-chorniy-zx5900</url>
         <price>725.00</price>
         <currencyId>UAH</currencyId>
@@ -146703,7 +146703,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/3b2bcc57-1e96-4352-9c0b-12f8975f72cd/image_02.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/3b2bcc57-1e96-4352-9c0b-12f8975f72cd/image_03.jpg</picture>
         <vendor>ZERIX</vendor>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>100</stock_quantity>
         <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Відро для сміття кругле ZERIX SOLO-TC0107 BLACK 7 л (колір чорний) (ZX5900)</name>
         <description>&lt;![CDATA[]]&gt;</description>
@@ -151382,7 +151382,7 @@
         <param name="Модель">33х500х1600.S</param>
         <param name="Колір">Білий (RAL 9016)</param>
       </offer>
-      <offer id="KP3134" available="false">
+      <offer id="KP3134" available="true">
         <url>https://ol.partners/products/truboprovodi-ta-zyednannya/fitingi/zyednannya-dlya-trub-z-polipropilenu/mufta-z-yevrokonusom-ta-nakidnoyu-gaykoyu-koer-k0240pro-white-20x34-ppr-kp3134</url>
         <price>118.00</price>
         <currencyId>UAH</currencyId>
@@ -151390,8 +151390,8 @@
         <picture>https://ol.partners/Products/Photo/D6E0E169-CB1E-4CF7-9E33-EC088E2DF658</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/fa6a59aa-67a9-4aa0-9340-72c2e437ec12/image_01.jpg</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Муфта з євроконусом та накидною гайкою Koer K0240.PRO White - 20x3/4 PPR (KP3134)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KP3134</vendorCode>
@@ -153600,7 +153600,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/2be2584b-90a8-44c0-91db-3ac17544835b/image_02.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Газова колонка димохідна з п'єзорозпалом KOER KWH.G0410 WHITE 10 л/хв (колір білий) (KR5663)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR5663</vendorCode>
@@ -168631,12 +168631,17 @@
         <param name="Од. в упак.">40</param>
         <param name="Об'єм ящ.">0.057</param>
         <param name="Вага ящ.">5.1</param>
+        <param name="Поверхня">Матова</param>
+        <param name="Колір">Чорний матовий</param>
         <param name="Вид виробу">Дозатори для мийок</param>
         <param name="Модель">DIS-01</param>
         <param name="Країна бренду">Німеччина</param>
         <param name="Тип виробу">Аксесуари та комплектуючі для кухонних мийок</param>
         <param name="Торгова марка">MIXXUS</param>
         <param name="Країна виробник">Китай</param>
+        <param name="Гарантійний період (міс)">12</param>
+        <param name="Об'єм (л)">0,30</param>
+        <param name="Матеріал виробу">Нержавіюча сталь</param>
       </offer>
       <offer id="KR6133" available="true">
         <url>https://ol.partners/products/instalyatsii-ta-klavishi/klavishi-zmivu-ta-komplektuyuchi/panel-zmivu-koer-kt060907-240x160x7mm-plastikova-knopka-liniyna-kolir-grafit-kr6133</url>
@@ -185121,7 +185126,7 @@
         <param name="Виконання">Універсальна</param>
         <param name="Комплектація">Мийка, сифон, кріплення, ущільнювальна стрічка, сітка</param>
       </offer>
-      <offer id="KP0168" available="false">
+      <offer id="KP0168" available="true">
         <url>https://ol.partners/products/truboprovodi-ta-zyednannya/fitingi/zyednannya-dlya-trub-z-polipropilenu/zghinamerikanka-vr-50x11-2f-ppr-koer-k0133pro-kp0168</url>
         <price>661.00</price>
         <currencyId>UAH</currencyId>
@@ -185130,8 +185135,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/6e2f70cc-961e-4a35-bb30-d08f1ed4bb1f/image_03_KP0168.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/6e2f70cc-961e-4a35-bb30-d08f1ed4bb1f/image_01.jpg</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Згін-американка ВР 50x1.1 / 2F PPR KOER K0133.PRO (KP0168)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KP0168</vendorCode>
@@ -186250,6 +186255,8 @@
         <param name="Тип виробу">Аксесуари та комплектуючі для кухонних мийок</param>
         <param name="Модель">BAS-02.SUS</param>
         <param name="Країна виробник">Китай</param>
+        <param name="Ширина (мм)">200</param>
+        <param name="Довжина (мм)">430</param>
       </offer>
       <offer id="ZX5053" available="true">
         <url>https://ol.partners/products/aksesuari-dlya-vannoi/gachki-dlya-rushnikiv/planka-z-5-rukhomimi-gachkami-zerix-afb01155-zx5053</url>
