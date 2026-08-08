@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-08-07 02:34">
+<yml_catalog date="2026-08-08 01:24">
   <shop>
     <name>O&amp;L</name>
     <company>O&amp;L</company>
@@ -6935,9 +6935,7 @@
         <price>1020.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
-        <picture>https://ol.partners/Products/Photo/4EBD49E8-5A54-4046-BE45-EC6056FDB727</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/10c99154-1155-46fd-8d1a-47b47efad8aa/image_01.jpg</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/10c99154-1155-46fd-8d1a-47b47efad8aa/image_02.jpg</picture>
+        <picture>https://ol.partners/Products/Photo/C0EDAAF7-8AEB-4E65-8010-5447B1A73CC0</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
         <availabilityStatus>Достатньо</availabilityStatus>
@@ -17129,7 +17127,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/1dd29b90-2677-4ef0-84e8-67907d79c5bf/image_03_KR.1100.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Колекторний блок з термостатичними клапанами Koer KR.1100-07 1"x7 ways (KR2633)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR2633</vendorCode>
@@ -22130,7 +22128,7 @@
         <param name="Ширина (мм)">70</param>
         <param name="Довжина (мм)">550</param>
       </offer>
-      <offer id="ZX5892" available="true">
+      <offer id="ZX5892" available="false">
         <url>https://ol.partners/products/aksesuari-dlya-vannoi/vidro-dlya-smittya/vidro-dlya-smittya-z-plavnim-zakrittyam-kvadratne-zerix-kubixtc0108-black-8-l-kolir-chorniy-zx5892</url>
         <price>1070.00</price>
         <currencyId>UAH</currencyId>
@@ -22143,7 +22141,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/16240732-bd84-4b5a-8dbb-ac5911a69a3a/image_01.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/16240732-bd84-4b5a-8dbb-ac5911a69a3a/image_03.jpg</picture>
         <vendor>ZERIX</vendor>
-        <stock_quantity>100</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Відро для сміття з плавним закриттям квадратне ZERIX KUBIX-TC0108 BLACK 8 л (колір чорний) (ZX5892)</name>
         <description>&lt;![CDATA[]]&gt;</description>
@@ -33037,9 +33035,7 @@
         <price>1110.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
-        <picture>https://ol.partners/Products/Photo/ABCDD0F7-8BF6-46F1-A05A-73C3A3DC094C</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/5ec3eff0-0cb8-446b-9e58-c0feebddc78e/image_02.jpg</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/5ec3eff0-0cb8-446b-9e58-c0feebddc78e/image_03.jpg</picture>
+        <picture>https://ol.partners/Products/Photo/BD551905-E6FC-4170-A277-13267A42797A</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
         <availabilityStatus>Достатньо</availabilityStatus>
@@ -56851,7 +56847,7 @@
         <param name="Особливості">Матеріал закладних деталей - Латунь CW617N нікельована</param>
         <param name="Гарантійний період (міс)">84</param>
       </offer>
-      <offer id="MX0773" available="true">
+      <offer id="MX0773" available="false">
         <url>https://ol.partners/products/protochni-vodonagrivachi/krani-vodonagrivachi/vodonagrivach-33-kw-protochniy-mixxus-electra-470ef-nerzhaviyucha-stal-z-indik-temp-reflektorniy-viliv-na-miyku-kolir-chorniy-mx0773</url>
         <price>1932.00</price>
         <currencyId>UAH</currencyId>
@@ -56861,8 +56857,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/5f891db7-b3fd-4792-851b-3bd81976f738/image_03.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/5f891db7-b3fd-4792-851b-3bd81976f738/image_04.jpg</picture>
         <vendor>MIXXUS</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Водонагрівач 3,3 kW проточний MIXXUS Electra 470-EF нержавіюча сталь, з індик. темп., рефлекторний вилив, на мийку (колір чорний) (MX0773)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>MX0773</vendorCode>
@@ -75326,7 +75322,7 @@
         <param name="Особливості">Продається бухтою, не ріжемо</param>
         <param name="Гарантійний період (міс)">84</param>
       </offer>
-      <offer id="ZX4571" available="true">
+      <offer id="ZX4571" available="false">
         <url>https://ol.partners/products/miyki-dlya-kukhni/vrizni-miyki/miyka-kukhonna-zerix-zs6243s01-bila-zx4571</url>
         <price>4485.00</price>
         <currencyId>UAH</currencyId>
@@ -75336,8 +75332,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/6e0d920d-0704-401e-a901-dd5a9fe904da/image_01.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/6e0d920d-0704-401e-a901-dd5a9fe904da/image_02.jpg</picture>
         <vendor>ZERIX</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Мийка кухонна Zerix ZS-6243S-01 Біла (ZX4571)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>ZX4571</vendorCode>
@@ -84293,7 +84289,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/200e7edd-aff3-4f8f-ae66-b2f33d4eee6a/image_03_EP.S1110.jpg</picture>
         <vendor>EUROPRODUCT</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Колекторний блок з витратомірами Europroduct EP.S1110-10 1 "x10 (EP4986)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>EP4986</vendorCode>
@@ -98062,7 +98058,7 @@
         <param name="Матеріал комплектуючих">Поліпропілен, сітка з нержавіючої сталі</param>
         <param name="Вихід під пральну машину">Ні</param>
         <param name="Діаметр випускного отвору (мм)">40,00</param>
-        <param name="Наявність ревізії для сифону">Так, з ревізією</param>
+        <param name="Наявність ревізії для сифону">Не передбачено</param>
         <param name="Тип випуску під донний клапан">Різьбовий</param>
         <param name="Пропускна здатність (л/хв)">34,00</param>
         <param name="Гарантійний період (міс)">12</param>
@@ -123424,7 +123420,7 @@
         <picture>https://ol.partners/Products/Photo/740CF68A-0524-4382-AB9D-6F655E56B5B1</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Контролер тиску електронний Koer KSR-1 для насоса (1,1кВт, 1") (KP3154)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KP3154</vendorCode>
@@ -126380,7 +126376,7 @@
         <param name="Гарантійний період (міс)">12</param>
         <param name="Колір">Білий</param>
       </offer>
-      <offer id="KR2722" available="false">
+      <offer id="KR2722" available="true">
         <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/krani/krani-kulovi/kran-kuloviy-koer-12-gshm-kr218b-siniy-kr2722</url>
         <price>199.00</price>
         <currencyId>UAH</currencyId>
@@ -126391,8 +126387,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/5e80b41d-dfa7-4098-abe5-d1b6c3df2e2d/image_02.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/5e80b41d-dfa7-4098-abe5-d1b6c3df2e2d/image_03.jpg</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Кран кульовий Koer 1/2" ГШМ (KR.218.B) синій (KR2722)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR2722</vendorCode>
@@ -127010,7 +127006,7 @@
         <param name="Довжина (м)">13</param>
         <param name="Товщина (мм)">0,10</param>
       </offer>
-      <offer id="MP6683" available="true">
+      <offer id="MP6683" available="false">
         <url>https://ol.partners/products/keramika/komplektuyuchi-do-keramichnoi-santekhniki/sistema-upravlinnya-zmivom-pisuara-mixxus-premium-bevel2301-z-ik-datchikom-avtomat-zmivu-zhivlennya-vid-batareyok-adapter-dlya-zhivlennya-220v-mp6683</url>
         <price>1932.00</price>
         <currencyId>UAH</currencyId>
@@ -127021,8 +127017,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/e7806f5e-088d-4991-a22f-83ba77d1d333/image_03.png</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/e7806f5e-088d-4991-a22f-83ba77d1d333/image_04.png</picture>
         <vendor>MIXXUS PREMIUM</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Система управління змивом пісуара MIXXUS PREMIUM BEVEL-2301 з ІК датчиком автомат. змиву, живлення від батарейок + адаптер для живлення 220В (MP6683)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>MP6683</vendorCode>
@@ -129532,7 +129528,7 @@
         <param name="Гарантійний період (міс)">60</param>
         <param name="Особливості">Збалансування витрати. Візуальний контроль. Рівномірний нагрів. З витратомірами</param>
       </offer>
-      <offer id="KR5441" available="false">
+      <offer id="KR5441" available="true">
         <url>https://ol.partners/products/sifoni-trapi-dlya-dushu/sifoni/sifon-dlya-vanni-koer-bd0301-avtomatichniy-clickclack-z-perelivom-bez-revizii-kolir-khrom-1-12-kr5441</url>
         <price>998.00</price>
         <currencyId>UAH</currencyId>
@@ -129543,8 +129539,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/d7000596-d5de-4204-a088-2923cb6849d0/imsge_04.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/d7000596-d5de-4204-a088-2923cb6849d0/image_01.jpg</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Сифон для ванни KOER BD-03-01 автоматичний (Click-Clack) з переливом, без ревізії (Колір хром) 1 1/2'' (KR5441)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR5441</vendorCode>
@@ -129983,7 +129979,7 @@
         <param name="Тип випуску під донний клапан">Різьбовий</param>
         <param name="Діаметр патрубка (відвід) в каналізацію">Відвід гофрована труба (Сильфонна) 40/50 мм</param>
         <param name="Сумісний з донним клапаном">Так</param>
-        <param name="Наявність ревізії для сифону">Не передбачено</param>
+        <param name="Наявність ревізії для сифону">Так, з ревізією</param>
         <param name="Призначення">Для ванни</param>
         <param name="Серія">SV-02</param>
         <param name="Тип монтажу">Прихований на зливний отвір ванни</param>
@@ -133216,9 +133212,7 @@
         <price>900.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
-        <picture>https://ol.partners/Products/Photo/A47DC481-0D85-4FFC-BB78-74C69078C18C</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/e1b7b2d6-c627-4aab-aae5-88a6d42a74cf/image_01.jpg</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/e1b7b2d6-c627-4aab-aae5-88a6d42a74cf/image_02.jpg</picture>
+        <picture>https://ol.partners/Products/Photo/E2798209-373D-4E59-97FC-C1A935BA6E4E</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
         <availabilityStatus>Достатньо</availabilityStatus>
@@ -137119,15 +137113,15 @@
         <param name="Матеріал">Поліпропілен</param>
         <param name="Тип з'єднання">Різьба-пайка</param>
       </offer>
-      <offer id="KR5837" available="false">
+      <offer id="KR5837" available="true">
         <url>https://ol.partners/products/radiatori-opalennya/sektsiyni-radiatori/radiator-opalennya-bimetalichniy-koer-100-bimetal300-ultra-kr5837</url>
         <price>367.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>271f5959-3c31-47d1-81a4-4ed3ce39cde4</categoryId>
         <picture>https://ol.partners/Products/Photo/AA89CAB9-C1C2-4F86-BBCD-43CCB59522C8</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Радіатор опалення біметалічний KOER 100 Bimetal-300 ULTRA (KR5837)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR5837</vendorCode>
@@ -146827,7 +146821,7 @@
         <param name="Гарантійний період (міс)">12</param>
         <param name="Колір">Білий</param>
       </offer>
-      <offer id="ZX5900" available="true">
+      <offer id="ZX5900" available="false">
         <url>https://ol.partners/products/aksesuari-dlya-vannoi/vidro-dlya-smittya/vidro-dlya-smittya-krugle-zerix-solotc0107-black-7-l-kolir-chorniy-zx5900</url>
         <price>725.00</price>
         <currencyId>UAH</currencyId>
@@ -146839,7 +146833,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/3b2bcc57-1e96-4352-9c0b-12f8975f72cd/image_02.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/3b2bcc57-1e96-4352-9c0b-12f8975f72cd/image_03.jpg</picture>
         <vendor>ZERIX</vendor>
-        <stock_quantity>100</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Відро для сміття кругле ZERIX SOLO-TC0107 BLACK 7 л (колір чорний) (ZX5900)</name>
         <description>&lt;![CDATA[]]&gt;</description>
@@ -151528,7 +151522,7 @@
         <param name="Модель">33х500х1600.S</param>
         <param name="Колір">Білий (RAL 9016)</param>
       </offer>
-      <offer id="KP3134" available="false">
+      <offer id="KP3134" available="true">
         <url>https://ol.partners/products/truboprovodi-ta-zyednannya/fitingi/zyednannya-dlya-trub-z-polipropilenu/mufta-z-yevrokonusom-ta-nakidnoyu-gaykoyu-koer-k0240pro-white-20x34-ppr-kp3134</url>
         <price>118.00</price>
         <currencyId>UAH</currencyId>
@@ -151536,8 +151530,8 @@
         <picture>https://ol.partners/Products/Photo/D6E0E169-CB1E-4CF7-9E33-EC088E2DF658</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/fa6a59aa-67a9-4aa0-9340-72c2e437ec12/image_01.jpg</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Муфта з євроконусом та накидною гайкою Koer K0240.PRO White - 20x3/4 PPR (KP3134)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KP3134</vendorCode>
