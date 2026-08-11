@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-08-10 01:39">
+<yml_catalog date="2026-08-11 01:36">
   <shop>
     <name>O&amp;L</name>
     <company>O&amp;L</company>
@@ -3754,8 +3754,7 @@
         <param name="Мінімальний тиск (бар)">3,00</param>
         <param name="Мінімальна температура води (°C)">4</param>
         <param name="Максимальна продуктивність (л/хв)">35</param>
-        <param name="Максимальний тиск (бар)">5,00</param>
-        <param name="Матеріал">Поліпропілен</param>
+        <param name="Матеріал">Поліпропілен спінений</param>
         <param name="Максимальна температура води (°C)">95</param>
         <param name="Розміри (дюйм)">2,5"х10"</param>
         <param name="Особливості">Утримує частинки від 5 мкм</param>
@@ -10292,7 +10291,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/a4fa47b6-40e6-4f08-a700-c12f32376e0c/image_07.jpg</picture>
         <vendor>MIXXUS</vendor>
         <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Газова колонка MIXXUS GWH-0210 BASIC BLACK димохідна 10 л/хв (колір чорний) (WH0023)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>WH0023</vendorCode>
@@ -11070,7 +11069,7 @@
         <param name="Довжина шланга підключення">80 см</param>
         <param name="Тип з'єднання">Гайка-Штуцер 1/2x1/2</param>
       </offer>
-      <offer id="ZX4596" available="false">
+      <offer id="ZX4596" available="true">
         <url>https://ol.partners/products/miyki-dlya-kukhni/vrizni-miyki/miyka-kukhonna-zerix-zs5751s03-chorna-zx4596</url>
         <price>4934.00</price>
         <currencyId>UAH</currencyId>
@@ -11080,8 +11079,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/61ebffa0-4812-46dd-9a18-1afc50074595/image_01.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/61ebffa0-4812-46dd-9a18-1afc50074595/image_02.jpg</picture>
         <vendor>ZERIX</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Мийка кухонна Zerix ZS-5751S-03 Чорна (ZX4596)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>ZX4596</vendorCode>
@@ -14402,7 +14401,7 @@
         <param name="Вага ящ.">6</param>
         <param name="Мінімальна температура води (°C)">4</param>
         <param name="Максимальна продуктивність (л/хв)">8</param>
-        <param name="Матеріал">Поліпропілен</param>
+        <param name="Матеріал">Поліпропілен спінений</param>
         <param name="Максимальна температура води (°C)">45</param>
         <param name="Тип виробу">Змінні картриджі</param>
         <param name="Модель">EPV-01-2510-20</param>
@@ -17273,7 +17272,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/06040482-7909-4ecb-b0a2-d6b09b5e674b/image_02.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Муфта затискна із зовнішньою різьбою KOER KCI.C06M - 1/2"Мx19,7-21,8 (KR5903)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR5903</vendorCode>
@@ -20305,7 +20304,7 @@
         <param name="Модель">EPV-08-2510</param>
         <param name="Торгова марка">EUROPRODUCT</param>
         <param name="Максимальна температура води (°C)">45</param>
-        <param name="Матеріал">Поліпропілен</param>
+        <param name="Матеріал">Активоване гранульоване вугілля</param>
         <param name="Мінімальна температура води (°C)">4</param>
         <param name="Розміри (дюйм)">2,5"х10"</param>
       </offer>
@@ -25323,9 +25322,7 @@
         <param name="Об'єм ящ.">0.031</param>
         <param name="Вага ящ.">8.5</param>
         <param name="Максимальна температура води (°C)">45</param>
-        <param name="Максимальний тиск (бар)">5,00</param>
-        <param name="Продуктивність (л/хв)">2,00</param>
-        <param name="Матеріал">Поліпропілен</param>
+        <param name="Матеріал">Іонообмінна смола</param>
         <param name="Мінімальна температура води (°C)">4</param>
         <param name="Мінімальний тиск (бар)">3,00</param>
         <param name="Країна бренду">Чехія</param>
@@ -30621,8 +30618,8 @@
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>ZX6080</vendorCode>
         <param name="Од. в упак.">36</param>
-        <param name="Об'єм ящ.">0</param>
-        <param name="Вага ящ.">0</param>
+        <param name="Об'єм ящ.">0.033</param>
+        <param name="Вага ящ.">13.4</param>
         <param name="Форма">Прямокутна</param>
         <param name="Колір">Візерунок "Ромби"</param>
         <param name="Вид виробу">Шторка-фіранка для ванни</param>
@@ -39268,9 +39265,8 @@
         <param name="Од. в упак.">48</param>
         <param name="Об'єм ящ.">0.053</param>
         <param name="Вага ящ.">8</param>
-        <param name="Максимальний тиск (бар)">5,00</param>
         <param name="Мінімальний тиск (бар)">3,00</param>
-        <param name="Матеріал">Поліпропілен</param>
+        <param name="Матеріал">Поліпропіленова нитка</param>
         <param name="Максимальна температура води (°C)">45</param>
         <param name="Мінімальна температура води (°C)">4</param>
         <param name="Максимальна продуктивність (л/хв)">35</param>
@@ -46300,7 +46296,7 @@
         <param name="Об'єм ящ.">0.05</param>
         <param name="Вага ящ.">9</param>
         <param name="Розміри (дюйм)">2,5"х10"</param>
-        <param name="Матеріал">Поліпропілен</param>
+        <param name="Матеріал">Поліпропіленова нитка</param>
         <param name="Максимальна температура води (°C)">45</param>
         <param name="Максимальна продуктивність (л/хв)">8</param>
         <param name="Мінімальна температура води (°C)">4</param>
@@ -58906,13 +58902,11 @@
         <param name="Торгова марка">KOER</param>
         <param name="Країна бренду">Чехія</param>
         <param name="Тип виробу">Змінні картриджі</param>
-        <param name="Продуктивність (л/хв)">2,00</param>
-        <param name="Матеріал">Поліпропілен</param>
+        <param name="Розміри (дюйм)">2,5"х10"</param>
+        <param name="Матеріал">Активоване гранульоване вугілля</param>
         <param name="Мінімальна температура води (°C)">4</param>
         <param name="Мінімальний тиск (бар)">3,00</param>
-        <param name="Максимальний тиск (бар)">5,00</param>
         <param name="Максимальна температура води (°C)">45</param>
-        <param name="Розміри (дюйм)">2,5"х10"</param>
       </offer>
       <offer id="WP3292" available="true">
         <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/krani/krani-kulovi/kran-kuloviy-waterpro-wp60225ffw-1-ggm-staleviy-metelik-wp3292</url>
@@ -64213,7 +64207,7 @@
         <param name="Об'єм ящ.">0.045</param>
         <param name="Вага ящ.">15</param>
         <param name="Максимальна температура води (°C)">45</param>
-        <param name="Матеріал">Поліпропілен</param>
+        <param name="Матеріал">Іонообмінна смола</param>
         <param name="Мінімальна температура води (°C)">4</param>
         <param name="Розміри (дюйм)">2,5"х10"</param>
         <param name="Призначення">Для води</param>
@@ -69765,15 +69759,15 @@
         <param name="Тип з'єднання">Різьба-пайка</param>
         <param name="Колір">Сірий</param>
       </offer>
-      <offer id="KR4765" available="true">
+      <offer id="KR4765" available="false">
         <url>https://ol.partners/products/radiatori-opalennya/komplektuyuchi-do-radiatoriv/kriplennya-dlya-radiatora/kronshteyn-pidlogoviy-koer-set08-z-gnuchkim-khvatom-z-kriplennyam-ta-klyuchem-u-komplekti-kr4765</url>
         <price>360.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>271f5959-3c31-47d1-81a4-4ed3ce39cde4</categoryId>
         <picture>https://ol.partners/Products/Photo/CE1201C5-0698-4533-88B6-5D5971B0BCE7</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Кронштейн підлоговий KOER SET-08 з гнучким хватом (з кріпленням та ключем у комплекті) (KR4765)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR4765</vendorCode>
@@ -73122,7 +73116,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/24b33a95-f3b3-4584-b6e5-47760ee6d8ba/image_03.jpg</picture>
         <vendor>MIXXUS</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Мийка з нерж. сталі MIXXUS MH6050 MICRO DECOR BRUSHED GOLD (3.0/0.8) (колір матове золото) (MI8222)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>MI8222</vendorCode>
@@ -76506,7 +76500,7 @@
         <param name="Вага ящ.">9</param>
         <param name="Розміри (дюйм)">2,5"х10"</param>
         <param name="Максимальна продуктивність (л/хв)">8</param>
-        <param name="Матеріал">Поліпропілен</param>
+        <param name="Матеріал">Поліпропіленова нитка</param>
         <param name="Мінімальна температура води (°C)">4</param>
         <param name="Максимальна температура води (°C)">45</param>
         <param name="Торгова марка">EUROPRODUCT</param>
@@ -91534,7 +91528,7 @@
         <param name="Модель">KV-06-2510</param>
         <param name="Розміри (дюйм)">2,5"х10"</param>
         <param name="Вага (г)">400,00</param>
-        <param name="Матеріал">ABS-пластик</param>
+        <param name="Матеріал">Видалення заліза</param>
         <param name="Мінімальна температура води (°C)">3</param>
         <param name="Максимальна температура води (°C)">43</param>
       </offer>
@@ -107619,7 +107613,7 @@
         <param name="Країна бренду">Україна</param>
         <param name="Призначення">Для води</param>
         <param name="Максимальна температура води (°C)">45</param>
-        <param name="Матеріал">Поліпропілен</param>
+        <param name="Матеріал">Поліпропілен спінений</param>
         <param name="Максимальна продуктивність (л/хв)">8</param>
         <param name="Мінімальна температура води (°C)">4</param>
         <param name="Особливості">Утримує частки від 10 мкм</param>
@@ -112878,7 +112872,7 @@
         <picture>https://ol.partners/Products/Photo/1A627A07-AF50-4A4C-B296-F395DD59D9DD</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Генератор бензиновий інверторний KOER KU.4500iE 4,0-4,5 кВт, електростартер + акумулятор (KR6218)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR6218</vendorCode>
@@ -116753,11 +116747,9 @@
         <param name="Тип виробу">Змінні картриджі</param>
         <param name="Модель">KV-05-2510</param>
         <param name="Мінімальний тиск (бар)">3,00</param>
-        <param name="Продуктивність (л/хв)">35,00</param>
-        <param name="Максимальний тиск (бар)">5,00</param>
         <param name="Мінімальна температура води (°C)">4</param>
         <param name="Максимальна температура води (°C)">45</param>
-        <param name="Матеріал">Поліпропілен</param>
+        <param name="Матеріал">Активоване спресоване вугілля</param>
         <param name="Розміри (дюйм)">2,5"х10"</param>
       </offer>
       <offer id="MI2745" available="true">
@@ -117299,8 +117291,7 @@
         <param name="Вага ящ.">9</param>
         <param name="Максимальна продуктивність (л/хв)">35</param>
         <param name="Мінімальна температура води (°C)">4</param>
-        <param name="Максимальний тиск (бар)">5,00</param>
-        <param name="Матеріал">Поліпропілен</param>
+        <param name="Матеріал">Поліпропіленова нитка</param>
         <param name="Максимальна температура води (°C)">45</param>
         <param name="Мінімальний тиск (бар)">3,00</param>
         <param name="Тип виробу">Змінні картриджі</param>
@@ -122703,7 +122694,7 @@
         <param name="Максимальна температура води (°C)">45</param>
         <param name="Максимальна продуктивність (л/хв)">8</param>
         <param name="Мінімальна температура води (°C)">4</param>
-        <param name="Матеріал">Поліпропілен</param>
+        <param name="Матеріал">Поліпропілен спінений</param>
         <param name="Розміри (дюйм)">2,5"х10"</param>
       </offer>
       <offer id="KO1069" available="true">
@@ -124162,7 +124153,7 @@
         <param name="Матеріал комплектуючих">Нержавіюча сталь, цинковий сплав</param>
         <param name="Гарантійний період (міс)">12</param>
       </offer>
-      <offer id="MI8392" available="true">
+      <offer id="MI8392" available="false">
         <url>https://ol.partners/products/zapchastini-dlya-zmishuvacha/donniy-klapan-dlya-rakovini/shtok-donnogo-klapana-pyatki-mixxus-rod01-clickclack-16mm-x-8mm-latunniy-mi8392</url>
         <price>92.00</price>
         <currencyId>UAH</currencyId>
@@ -124170,8 +124161,8 @@
         <picture>https://ol.partners/Products/Photo/F4C2EBDD-55E2-48B7-ABF1-6E9874FAC9E3</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/9eba94a7-7f0d-4337-9da7-1c638f14a4b2/image_01.jpg</picture>
         <vendor>MIXXUS</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Шток донного клапана (п'ятки) MIXXUS ROD-01 Click-Clack 16мм x 8мм латунний (MI8392)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>MI8392</vendorCode>
@@ -126376,7 +126367,7 @@
         <param name="Гарантійний період (міс)">12</param>
         <param name="Колір">Білий</param>
       </offer>
-      <offer id="KR2722" available="true">
+      <offer id="KR2722" available="false">
         <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/krani/krani-kulovi/kran-kuloviy-koer-12-gshm-kr218b-siniy-kr2722</url>
         <price>199.00</price>
         <currencyId>UAH</currencyId>
@@ -126387,8 +126378,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/5e80b41d-dfa7-4098-abe5-d1b6c3df2e2d/image_02.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/5e80b41d-dfa7-4098-abe5-d1b6c3df2e2d/image_03.jpg</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Кран кульовий Koer 1/2" ГШМ (KR.218.B) синій (KR2722)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR2722</vendorCode>
@@ -129716,7 +129707,7 @@
         <param name="Об'єм ящ.">0.05</param>
         <param name="Вага ящ.">6</param>
         <param name="Максимальна продуктивність (л/хв)">8</param>
-        <param name="Матеріал">Поліпропілен</param>
+        <param name="Матеріал">Поліпропілен спінений</param>
         <param name="Мінімальна температура води (°C)">4</param>
         <param name="Максимальна температура води (°C)">45</param>
         <param name="Модель">EPV-01-2510-05</param>
@@ -130491,12 +130482,11 @@
         <param name="Країна бренду">Чехія</param>
         <param name="Торгова марка">KOER</param>
         <param name="Модель">KV.0020</param>
-        <param name="Максимальний тиск (бар)">5,00</param>
+        <param name="Особливості">Утримує частинки від 20 мкм</param>
         <param name="Мінімальна температура води (°C)">5</param>
-        <param name="Матеріал">Поліпропілен</param>
+        <param name="Матеріал">Поліпропілен спінений</param>
         <param name="Максимальна продуктивність (л/хв)">35</param>
         <param name="Мінімальний тиск (бар)">3,00</param>
-        <param name="Особливості">Утримує частинки від 20 мкм</param>
       </offer>
       <offer id="WP2902" available="true">
         <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/krani/krani-kulovi/kran-kuloviy-waterpro-2-gshr-wp2902</url>
@@ -135556,9 +135546,8 @@
         <param name="Призначення">Для води</param>
         <param name="Модель">KV.0001</param>
         <param name="Мінімальна температура води (°C)">4</param>
-        <param name="Максимальний тиск (бар)">5,00</param>
         <param name="Максимальна продуктивність (л/хв)">35</param>
-        <param name="Матеріал">Поліпропілен</param>
+        <param name="Матеріал">Поліпропілен спінений</param>
         <param name="Мінімальний тиск (бар)">3,00</param>
         <param name="Максимальна температура води (°C)">45</param>
         <param name="Особливості">Утримує частинки від 1 мкм</param>
@@ -139085,15 +139074,15 @@
         <param name="Діаметр підключення (дюйм)">1/2х3/4</param>
         <param name="Гарантійний період (міс)">84</param>
       </offer>
-      <offer id="EP6231" available="true">
+      <offer id="EP6231" available="false">
         <url>https://ol.partners/products/filtri-ochischennya-vodi/komplektuyuchi-dlya-filtriv-vodi/kartridzh-iz-polipropilenovoi-nitki-pp5-25x10-europroduct-epv02251005-ep6231</url>
         <price>54.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>d191ae68-f2ee-4472-8036-e37d06c8ffc9</categoryId>
         <picture>https://ol.partners/Products/Photo/4ED7E33C-CE25-477D-AD6D-129CC21963DF</picture>
         <vendor>EUROPRODUCT</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Картридж із поліпропіленової нитки PP5 2,5"x10" EUROPRODUCT EPV-02-2510-05 (EP6231)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>EP6231</vendorCode>
@@ -139103,7 +139092,7 @@
         <param name="Особливості">Утримує частки від 5 мкм</param>
         <param name="Максимальна температура води (°C)">45</param>
         <param name="Мінімальна температура води (°C)">4</param>
-        <param name="Матеріал">Поліпропілен</param>
+        <param name="Матеріал">Поліпропіленова нитка</param>
         <param name="Максимальна продуктивність (л/хв)">8</param>
         <param name="Призначення">Для води</param>
         <param name="Торгова марка">EUROPRODUCT</param>
@@ -140280,8 +140269,7 @@
         <param name="Мінімальний тиск (бар)">3,00</param>
         <param name="Максимальна продуктивність (л/хв)">35</param>
         <param name="Мінімальна температура води (°C)">4</param>
-        <param name="Максимальний тиск (бар)">5,00</param>
-        <param name="Матеріал">Поліпропілен</param>
+        <param name="Матеріал">Поліпропіленова нитка</param>
         <param name="Торгова марка">KOER</param>
         <param name="Призначення">Для води</param>
         <param name="Модель">KV.0105</param>
@@ -140432,7 +140420,7 @@
         <param name="Гарантійний період (міс)">84</param>
         <param name="Особливості">Матеріал закладних деталей - Латунь CW617N нікельована</param>
       </offer>
-      <offer id="KR3432" available="true">
+      <offer id="KR3432" available="false">
         <url>https://ol.partners/products/generatori/generator-benzinoviy-koer-ku5500eb-kr3432</url>
         <price>26430.00</price>
         <currencyId>UAH</currencyId>
@@ -140440,8 +140428,8 @@
         <picture>https://ol.partners/Products/Photo/CD2F4540-9F85-4830-82A1-60590D3DC796</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/6b0eaea7-6821-46af-9b78-39fa38fbe48e/image_01.jpg</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Генератор бензиновий Koer KU.5500EB (KR3432)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR3432</vendorCode>
@@ -145390,22 +145378,22 @@
         <param name="Матеріал">Поліпропілен</param>
         <param name="Колір">Сірий</param>
       </offer>
-      <offer id="EP6232" available="true">
+      <offer id="EP6232" available="false">
         <url>https://ol.partners/products/filtri-ochischennya-vodi/komplektuyuchi-dlya-filtriv-vodi/kartridzh-iz-polipropilenovoi-nitki-pp10-25x10-europroduct-epv02251010-ep6232</url>
         <price>54.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>d191ae68-f2ee-4472-8036-e37d06c8ffc9</categoryId>
         <picture>https://ol.partners/Products/Photo/D08F86C5-EEEA-4119-BD6A-92C3208D8293</picture>
         <vendor>EUROPRODUCT</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Картридж із поліпропіленової нитки PP10 2,5"x10" EUROPRODUCT EPV-02-2510-10 (EP6232)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>EP6232</vendorCode>
         <param name="Од. в упак.">48</param>
         <param name="Об'єм ящ.">0.05</param>
         <param name="Вага ящ.">9</param>
-        <param name="Матеріал">Поліпропілен</param>
+        <param name="Матеріал">Поліпропіленова нитка</param>
         <param name="Максимальна продуктивність (л/хв)">8</param>
         <param name="Максимальна температура води (°C)">45</param>
         <param name="Мінімальна температура води (°C)">4</param>
@@ -147980,8 +147968,7 @@
         <param name="Мінімальний тиск (бар)">3,00</param>
         <param name="Максимальна продуктивність (л/хв)">35</param>
         <param name="Максимальна температура води (°C)">45</param>
-        <param name="Матеріал">Поліпропілен</param>
-        <param name="Максимальний тиск (бар)">5,00</param>
+        <param name="Матеріал">Поліпропілен спінений</param>
         <param name="Мінімальна температура води (°C)">4</param>
         <param name="Країна бренду">Чехія</param>
         <param name="Модель">KV.0010</param>
@@ -152142,8 +152129,8 @@
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>ZX6093</vendorCode>
         <param name="Од. в упак.">36</param>
-        <param name="Об'єм ящ.">0</param>
-        <param name="Вага ящ.">0</param>
+        <param name="Об'єм ящ.">0.033</param>
+        <param name="Вага ящ.">11.9</param>
         <param name="Розміри виробу (ВхШхГ)">180x180</param>
         <param name="Висота (мм)">1800</param>
         <param name="Ширина (мм)">1800</param>
@@ -153361,7 +153348,7 @@
         <param name="Модель">EPV-09-2510</param>
         <param name="Призначення">Для води</param>
         <param name="Торгова марка">EUROPRODUCT</param>
-        <param name="Матеріал">Поліпропілен</param>
+        <param name="Матеріал">Активоване спресоване вугілля</param>
         <param name="Максимальна температура води (°C)">45</param>
         <param name="Мінімальна температура води (°C)">4</param>
         <param name="Розміри (дюйм)">2,5"х10"</param>
@@ -161646,7 +161633,7 @@
         <param name="Покриття">Нікель</param>
         <param name="Колір">Сталевий</param>
       </offer>
-      <offer id="MI8214" available="false">
+      <offer id="MI8214" available="true">
         <url>https://ol.partners/products/miyki-dlya-kukhni/integrovani-miyki/miyka-z-nerzh-stali-mixxus-mh5050-micro-decor-brushed-gold-3008-kolir-matove-zoloto-mi8214</url>
         <price>3519.00</price>
         <currencyId>UAH</currencyId>
@@ -161657,8 +161644,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/e48330c8-96c7-476b-9441-249c1ad9fe78/image_02.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/e48330c8-96c7-476b-9441-249c1ad9fe78/image_01.jpg</picture>
         <vendor>MIXXUS</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Мийка з нерж. сталі MIXXUS MH5050 MICRO DECOR BRUSHED GOLD (3.0/0.8) (колір матове золото) (MI8214)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>MI8214</vendorCode>
@@ -188286,9 +188273,8 @@
         <param name="Вага ящ.">9</param>
         <param name="Мінімальний тиск (бар)">3,00</param>
         <param name="Мінімальна температура води (°C)">4</param>
-        <param name="Матеріал">Поліпропілен</param>
+        <param name="Матеріал">Поліпропіленова нитка</param>
         <param name="Максимальна температура води (°C)">45</param>
-        <param name="Максимальний тиск (бар)">5,00</param>
         <param name="Максимальна продуктивність (л/хв)">35</param>
         <param name="Модель">KV.0110</param>
         <param name="Тип виробу">Змінні картриджі</param>
