@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-08-16 01:11">
+<yml_catalog date="2026-08-17 01:08">
   <shop>
     <name>O&amp;L</name>
     <company>O&amp;L</company>
@@ -35291,7 +35291,7 @@
         <param name="Колір">Сталевий</param>
         <param name="Покриття">Хром</param>
       </offer>
-      <offer id="KR4744" available="true">
+      <offer id="KR4744" available="false">
         <url>https://ol.partners/products/sifoni-trapi-dlya-dushu/zlivni-trapi/dushoviy-trap-koer-fd2070x750-z-nerzh-stali-sus304-70x750mm-kr4744</url>
         <price>1924.00</price>
         <currencyId>UAH</currencyId>
@@ -35302,8 +35302,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/6932fd22-e302-4aec-9ccb-ab8455f8ba1f/image_06.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/6932fd22-e302-4aec-9ccb-ab8455f8ba1f/image_05.jpg</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Душовий трап KOER FD20-70x750 з нерж. сталі SUS304 70x750мм (KR4744)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR4744</vendorCode>
@@ -67475,7 +67475,7 @@
         <param name="Довжина кабелю (м)">10,00</param>
         <param name="Висота (мм)">270</param>
       </offer>
-      <offer id="MP6717" available="true">
+      <offer id="MP6717" available="false">
         <url>https://ol.partners/products/keramika/sidinnya-dlya-unitazu/sidinnyakrishka-dlya-unitazu-mixxus-premium-seat-cover-bevel2007-460x360x30mm-dyuroplastove-shvidkoznimne-z-mikroliftom-mp6717</url>
         <price>1794.00</price>
         <currencyId>UAH</currencyId>
@@ -67487,8 +67487,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/c932ad05-0cd6-4fed-9ace-0581fbadb61a/image_02.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/c932ad05-0cd6-4fed-9ace-0581fbadb61a/image_03.jpg</picture>
         <vendor>MIXXUS PREMIUM</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Сидіння-кришка для унітазу MIXXUS PREMIUM SEAT COVER BEVEL-2007 460x360x30mm дюропластове швидкознімне з мікроліфтом (MP6717)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>MP6717</vendorCode>
@@ -74618,7 +74618,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/743cc2a7-5da1-420f-9de5-dd868c966159/image_02.jpg</picture>
         <vendor>EUROPRODUCT</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Паяльник для труб PPR Europroduct EP.WM01 (плоскі насадки) 20/40mm (EP6091)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>EP6091</vendorCode>
@@ -76905,7 +76905,7 @@
         <param name="Керування">Механічне</param>
       </offer>
       <offer id="KR6605" available="true">
-        <url>https://ol.partners/products/truboprovodi-ta-zyednannya/trubi/trubi-dlya-teploi-pidlogi/truba-tepla-pidloga-stabil-z-kisnevim-baryerom-universalna-2537-silver-koer-pexa-evoh-kr6605</url>
+        <url>https://ol.partners/products/truboprovodi-ta-zyednannya/trubi/trubi-dlya-teploi-pidlogi/truba-tepla-pidloga-koer-stabil-pexa-evoh-25kh37-silver-universalna-z-kisnevim-baryerom-kr6605</url>
         <price>249.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>cccd3e1f-6b84-49c8-b342-dee61a5caf10</categoryId>
@@ -105818,7 +105818,7 @@
         <param name="Розміри виробу (ВхШхГ)">320x285x145</param>
       </offer>
       <offer id="KR6604" available="true">
-        <url>https://ol.partners/products/truboprovodi-ta-zyednannya/trubi/trubi-dlya-teploi-pidlogi/truba-tepla-pidloga-stabil-z-kisnevim-baryerom-universalna-2029-silver-koer-pexa-evoh-kr6604</url>
+        <url>https://ol.partners/products/truboprovodi-ta-zyednannya/trubi/trubi-dlya-teploi-pidlogi/truba-tepla-pidloga-koer-stabil-pexa-evoh-20kh29-silver-universalna-z-kisnevim-baryerom-kr6604</url>
         <price>172.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>cccd3e1f-6b84-49c8-b342-dee61a5caf10</categoryId>
@@ -112057,15 +112057,15 @@
         <param name="Довжина шланга підключення">150 см</param>
         <param name="Тип з'єднання">Гайка-Штуцер 1/2x1/2</param>
       </offer>
-      <offer id="KR6218" available="true">
+      <offer id="KR6218" available="false">
         <url>https://ol.partners/products/generatori/generator-benzinoviy-invertorniy-koer-ku4500ie-4045-kvt-elektrostarter-akumulyator-kr6218</url>
         <price>34240.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>acf670b1-cb69-42df-9bd9-ccc438f29831</categoryId>
         <picture>https://ol.partners/Products/Photo/1A627A07-AF50-4A4C-B296-F395DD59D9DD</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Генератор бензиновий інверторний KOER KU.4500iE 4,0-4,5 кВт, електростартер + акумулятор (KR6218)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR6218</vendorCode>
@@ -118496,7 +118496,7 @@
         <param name="Є УЗВ">Ні</param>
       </offer>
       <offer id="KR6606" available="true">
-        <url>https://ol.partners/products/truboprovodi-ta-zyednannya/trubi/trubi-dlya-teploi-pidlogi/truba-tepla-pidloga-stabil-z-kisnevim-baryerom-universalna-3247-silver-koer-pexa-evoh-kr6606</url>
+        <url>https://ol.partners/products/truboprovodi-ta-zyednannya/trubi/trubi-dlya-teploi-pidlogi/truba-tepla-pidloga-koer-stabil-pexa-evoh-32x47-silver-universalna-z-kisnevim-baryerom-kr6606</url>
         <price>543.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>cccd3e1f-6b84-49c8-b342-dee61a5caf10</categoryId>
@@ -142280,7 +142280,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/56a963d0-072a-445e-83cc-293a3a13d8bb/image_03_KF0076.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Кут 3/4'' НВ Koer KF.L08MF (KF0076)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KF0076</vendorCode>
@@ -147467,7 +147467,7 @@
         <picture>https://ol.partners/Products/Photo/4DC64620-89BF-4D42-A34B-643539C057EE</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Картридж поліпропіленовий PP10 2,5"х10" KOER KV-01-2510-10 (старий артикул KV.0010) (KR3157)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR3157</vendorCode>
@@ -161348,7 +161348,7 @@
         <param name="Гарантійний період (міс)">84</param>
       </offer>
       <offer id="KR6603" available="true">
-        <url>https://ol.partners/products/truboprovodi-ta-zyednannya/trubi/trubi-dlya-teploi-pidlogi/truba-tepla-pidloga-stabil-z-kisnevim-baryerom-universalna-16226-silver-koer-pexa-evoh-kr6603</url>
+        <url>https://ol.partners/products/truboprovodi-ta-zyednannya/trubi/trubi-dlya-teploi-pidlogi/truba-tepla-pidloga-koer-stabil-pexa-evoh-162kh26-silver-universalna-z-kisnevim-baryerom-kr6603</url>
         <price>124.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>cccd3e1f-6b84-49c8-b342-dee61a5caf10</categoryId>
@@ -177315,7 +177315,7 @@
         <param name="Максимально допустима кількість забруднень (г/м3)">&lt;200</param>
         <param name="Максимальна температура робочої рідини (°C)">40</param>
       </offer>
-      <offer id="KF0040" available="true">
+      <offer id="KF0040" available="false">
         <url>https://ol.partners/products/truboprovodi-ta-zyednannya/fitingi/rizbovi-zyednannya/nipel-reduktsiyniy-12-x11-2-koer-kfn0616-kf0040</url>
         <price>165.00</price>
         <currencyId>UAH</currencyId>
@@ -177324,8 +177324,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/f3f6ebf9-edef-41ef-8cab-d720a19172db/image_01.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/f3f6ebf9-edef-41ef-8cab-d720a19172db/image_03_KF0040.jpg</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Ніпель редукційний 1/2 "x1-1 / 2" Koer KF.N0616 (KF0040)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KF0040</vendorCode>
