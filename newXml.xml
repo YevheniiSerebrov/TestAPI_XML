@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-08-24 01:09">
+<yml_catalog date="2026-08-25 01:08">
   <shop>
     <name>O&amp;L</name>
     <company>O&amp;L</company>
@@ -3704,7 +3704,7 @@
         <param name="Покриття">Без покриття</param>
         <param name="Розміри (мм)">18x3/4"</param>
       </offer>
-      <offer id="ZX3243" available="true">
+      <offer id="ZX3243" available="false">
         <url>https://ol.partners/products/aksesuari-dlya-vannoi/susharki-dlya-ruk/susharka-dlya-ruk-zerix-hd1800-avtomatichna-1800vt-zx3243</url>
         <price>1784.00</price>
         <currencyId>UAH</currencyId>
@@ -3713,8 +3713,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/ca472fdf-4cc7-4483-89b0-492648f3b725/mage_01.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/ca472fdf-4cc7-4483-89b0-492648f3b725/mage_02.jpg</picture>
         <vendor>ZERIX</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Сушарка для рук Zerix HD-1800 автоматична 1800Вт (ZX3243)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>ZX3243</vendorCode>
@@ -9235,15 +9235,15 @@
         <param name="Вид виробу">Манометри</param>
         <param name="Колір">Чорний</param>
       </offer>
-      <offer id="KP3176" available="true">
+      <offer id="KP3176" available="false">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/tsirkulyatsiyni-nasosi/nasos-tsirkulyatsiyniy-chastotniy-koer-ape-206130-kp3176</url>
         <price>4040.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/725BB19C-2B46-4890-9D72-C92A7568B6B8</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Насос циркуляційний частотний Koer APE 20-6-130 (KP3176)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KP3176</vendorCode>
@@ -15036,7 +15036,6 @@
         <picture>https://cdn.olinfrastructure.com/productfile/13e769fd-0402-4595-bb79-942fc2f18365/image_16.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/13e769fd-0402-4595-bb79-942fc2f18365/image_05.png</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/13e769fd-0402-4595-bb79-942fc2f18365/image_04.png</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/13e769fd-0402-4595-bb79-942fc2f18365/image_12.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/13e769fd-0402-4595-bb79-942fc2f18365/image_09.png</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/13e769fd-0402-4595-bb79-942fc2f18365/image_07.png</picture>
         <vendor>MIXXUS PREMIUM</vendor>
@@ -20736,7 +20735,7 @@
         <param name="Ширина (мм)">70</param>
         <param name="Довжина (мм)">550</param>
       </offer>
-      <offer id="ZX5892" available="true">
+      <offer id="ZX5892" available="false">
         <url>https://ol.partners/products/aksesuari-dlya-vannoi/vidro-dlya-smittya/vidro-dlya-smittya-z-plavnim-zakrittyam-kvadratne-zerix-kubixtc0108-black-8-l-kolir-chorniy-zx5892</url>
         <price>1070.00</price>
         <currencyId>UAH</currencyId>
@@ -20749,7 +20748,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/16240732-bd84-4b5a-8dbb-ac5911a69a3a/image_01.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/16240732-bd84-4b5a-8dbb-ac5911a69a3a/image_03.jpg</picture>
         <vendor>ZERIX</vendor>
-        <stock_quantity>100</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Відро для сміття з плавним закриттям квадратне ZERIX KUBIX-TC0108 BLACK 8 л (колір чорний) (ZX5892)</name>
         <description>&lt;![CDATA[]]&gt;</description>
@@ -41577,7 +41576,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/7d1e4401-7db7-468e-b441-d06ed4ff9ab8/image_06.png</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Центробіжний насос Koer 3SDM 2/21 + 40M + пульт (KP2623)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KP2623</vendorCode>
@@ -43223,7 +43222,7 @@
         <param name="Керування">Механічне</param>
         <param name="Матеріал">Дюропласт</param>
       </offer>
-      <offer id="KR5589" available="true">
+      <offer id="KR5589" available="false">
         <url>https://ol.partners/products/aksesuari-dlya-vannoi/vidro-dlya-smittya/vidro-dlya-smittya-sensorne-pryamokutne-koer-tc02040808-8-l-kolir-biliy-kr5589</url>
         <price>3312.00</price>
         <currencyId>UAH</currencyId>
@@ -43241,8 +43240,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/54aeeb0f-0796-4fa0-b0d9-2ce3fbe25199/image_11.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/54aeeb0f-0796-4fa0-b0d9-2ce3fbe25199/image_09.png</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Відро для сміття сенсорне прямокутне KOER TC-020408-08 8 л (колір білий) (KR5589)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR5589</vendorCode>
@@ -50235,7 +50234,7 @@
         <param name="Глибина чаші (мм)">220</param>
         <param name="Ширина (мм)">450</param>
       </offer>
-      <offer id="KP3146" available="true">
+      <offer id="KP3146" available="false">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/gidroakumulyatori-dlya-sistem-vodopostachannya/gidroakumulyator-gorizontalniy-koer-khts50-50l-korpusstal-12-mm-flanetsnerzhaviyucha-stal-kp3146</url>
         <price>2360.00</price>
         <currencyId>UAH</currencyId>
@@ -50243,8 +50242,8 @@
         <picture>https://ol.partners/Products/Photo/4D23CD81-8836-4A13-9F80-5FAED201B4F4</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/7c08dbca-642d-4307-afa6-beb69d603a90/image_01.jpg</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Гідроакумулятор горизонтальний Koer KHTS-50 (50л, корпус-сталь 1,2 мм, фланець-нержавіюча сталь) (KP3146)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KP3146</vendorCode>
@@ -68019,11 +68018,6 @@
         <picture>https://cdn.olinfrastructure.com/productfile/ce6bb71a-8a6d-4bca-9f4e-805613eb93ff/image_18.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/ce6bb71a-8a6d-4bca-9f4e-805613eb93ff/image_08.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/ce6bb71a-8a6d-4bca-9f4e-805613eb93ff/image_17.jpg</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/ce6bb71a-8a6d-4bca-9f4e-805613eb93ff/image_09.jpg</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/ce6bb71a-8a6d-4bca-9f4e-805613eb93ff/image_05.jpg</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/ce6bb71a-8a6d-4bca-9f4e-805613eb93ff/image_16.jpg</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/ce6bb71a-8a6d-4bca-9f4e-805613eb93ff/image_11.jpg</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/ce6bb71a-8a6d-4bca-9f4e-805613eb93ff/image_10.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/ce6bb71a-8a6d-4bca-9f4e-805613eb93ff/image_13.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/ce6bb71a-8a6d-4bca-9f4e-805613eb93ff/image_03.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/ce6bb71a-8a6d-4bca-9f4e-805613eb93ff/image_01.jpg</picture>
@@ -69059,7 +69053,7 @@
         <param name="Виконання">Універсальна</param>
         <param name="Комплектація">Мийка, сифон, кріплення</param>
       </offer>
-      <offer id="EP3991" available="true">
+      <offer id="EP3991" available="false">
         <url>https://ol.partners/products/truboprovodi-ta-zyednannya/fitingi/rizbovi-zyednannya/zghinamerikanka-20x1-2f-vr-europroduct-ep0066-ep3991</url>
         <price>64.00</price>
         <currencyId>UAH</currencyId>
@@ -69067,8 +69061,8 @@
         <picture>https://ol.partners/Products/Photo/F776D307-A999-4B63-BE98-8FC2FB2FCED3</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/46753ab4-af65-4238-afc1-f33735a753c5/image_01.jpg</picture>
         <vendor>EUROPRODUCT</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Згін-американка 20x1 / 2F "ВР Europroduct EP.0066 (EP3991)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>EP3991</vendorCode>
@@ -73117,7 +73111,7 @@
         <param name="Довжина кабелю (м)">2,00</param>
         <param name="Діаметр виходу 1 (дюйм)">1</param>
       </offer>
-      <offer id="ZX5682" available="true">
+      <offer id="ZX5682" available="false">
         <url>https://ol.partners/products/miyki-dlya-kukhni/bagatofunktsionalni-miyki/miyka-bagatofunktsionalna-zerix-zh7546set06sus304-decor-z-vbudovanim-zmishuvachem-zx5682</url>
         <price>6693.00</price>
         <currencyId>UAH</currencyId>
@@ -73126,8 +73120,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/849082c0-06ec-4412-8f07-69cb0a78b694/image_01.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/849082c0-06ec-4412-8f07-69cb0a78b694/image_02.png</picture>
         <vendor>ZERIX</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Мийка багатофункціональна Zerix ZH7546-SET-06.SUS304 DECOR з вбудованим змішувачем (ZX5682)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>ZX5682</vendorCode>
@@ -79332,7 +79326,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/d1e0dff9-2cf8-412b-b187-86d801d916c5/image_04.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Кран кульовий Koer 1/2" ГШМ (KR.218) (KR0034)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR0034</vendorCode>
@@ -115004,7 +114998,7 @@
         <param name="Розміри виробу (ВхШхГ)">54x530x145</param>
         <param name="Ширина (мм)">530</param>
       </offer>
-      <offer id="40512001" available="true">
+      <offer id="40512001" available="false">
         <url>https://ol.partners/products/aksesuari-dlya-vannoi/politsi-u-vannu/politsya-dlya-rushnikiv-u-vannu-grohe-essentials-cube-new-40512001</url>
         <price>13230.00</price>
         <currencyId>UAH</currencyId>
@@ -115015,8 +115009,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/4f110130-e80c-4b72-b51b-0a30b6834488/image_03.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/4f110130-e80c-4b72-b51b-0a30b6834488/image_02.jpg</picture>
         <vendor>GROHE</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Полиця для рушників у ванну Grohe Essentials Cube New (40512001)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>40512001</vendorCode>
@@ -124403,7 +124397,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/5173c402-2fbf-41c6-b7a6-950dc7b80c3f/image_01.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Фільтр самоочістн. з редуктором тиску і манометром Koer KR.1249 3/4" ЗР (KR2962)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR2962</vendorCode>
@@ -131347,7 +131341,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/2cfa0a40-ab5c-4a0a-b2e0-76289d9ea8f8/image_02.png</picture>
         <vendor>MIXXUS</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Унітаз моноблок підлоговий MIXXUS BEVEL-0406-T1 690х360х790mm система змиву TORNADO 1.0 (MI6729)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>MI6729</vendorCode>
@@ -136252,13 +136246,11 @@
         <categoryId>2e53263c-eb2d-4e24-80ae-a2a492d1a63a</categoryId>
         <picture>https://ol.partners/Products/Photo/6F4B4DE7-39F6-4BA9-9BB0-658709CE09CE</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/3313ac23-7c10-4785-a059-5cd41f45bcd0/image_05.jpg</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/3313ac23-7c10-4785-a059-5cd41f45bcd0/image_16.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/3313ac23-7c10-4785-a059-5cd41f45bcd0/image_13.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/3313ac23-7c10-4785-a059-5cd41f45bcd0/image_07.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/3313ac23-7c10-4785-a059-5cd41f45bcd0/image_03.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/3313ac23-7c10-4785-a059-5cd41f45bcd0/image_04.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/3313ac23-7c10-4785-a059-5cd41f45bcd0/image_09.jpg</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/3313ac23-7c10-4785-a059-5cd41f45bcd0/image_12.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/3313ac23-7c10-4785-a059-5cd41f45bcd0/image_10.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/3313ac23-7c10-4785-a059-5cd41f45bcd0/image_02.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/3313ac23-7c10-4785-a059-5cd41f45bcd0/image_15.jpg</picture>
@@ -150511,7 +150503,7 @@
         <param name="Модель">33х500х1600.S</param>
         <param name="Колір">Білий (RAL 9016)</param>
       </offer>
-      <offer id="KP3134" available="true">
+      <offer id="KP3134" available="false">
         <url>https://ol.partners/products/truboprovodi-ta-zyednannya/fitingi/zyednannya-dlya-trub-z-polipropilenu/mufta-z-yevrokonusom-ta-nakidnoyu-gaykoyu-koer-k0240pro-white-20x34-ppr-kp3134</url>
         <price>118.00</price>
         <currencyId>UAH</currencyId>
@@ -150519,8 +150511,8 @@
         <picture>https://ol.partners/Products/Photo/D6E0E169-CB1E-4CF7-9E33-EC088E2DF658</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/fa6a59aa-67a9-4aa0-9340-72c2e437ec12/image_01.jpg</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Муфта з євроконусом та накидною гайкою Koer K0240.PRO White - 20x3/4 PPR (KP3134)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KP3134</vendorCode>
@@ -150606,17 +150598,10 @@
         <categoryId>2e53263c-eb2d-4e24-80ae-a2a492d1a63a</categoryId>
         <picture>https://ol.partners/Products/Photo/CCC27441-EA7D-4924-9795-B403581C28D3</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/1ad465f8-e29f-49e4-97a6-a8f0b9752c76/image_04.jpg</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/1ad465f8-e29f-49e4-97a6-a8f0b9752c76/image_25.jpg</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/1ad465f8-e29f-49e4-97a6-a8f0b9752c76/image_26.jpg</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/1ad465f8-e29f-49e4-97a6-a8f0b9752c76/image_29.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/1ad465f8-e29f-49e4-97a6-a8f0b9752c76/image_09.png</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/1ad465f8-e29f-49e4-97a6-a8f0b9752c76/image_07.jpg</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/1ad465f8-e29f-49e4-97a6-a8f0b9752c76/image_27.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/1ad465f8-e29f-49e4-97a6-a8f0b9752c76/image_01.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/1ad465f8-e29f-49e4-97a6-a8f0b9752c76/image_08.jpg</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/1ad465f8-e29f-49e4-97a6-a8f0b9752c76/image_24.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/1ad465f8-e29f-49e4-97a6-a8f0b9752c76/image_06.jpg</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/1ad465f8-e29f-49e4-97a6-a8f0b9752c76/image_28.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/1ad465f8-e29f-49e4-97a6-a8f0b9752c76/image_05.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/1ad465f8-e29f-49e4-97a6-a8f0b9752c76/image_03.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/1ad465f8-e29f-49e4-97a6-a8f0b9752c76/image_02.jpg</picture>
@@ -157646,7 +157631,7 @@
         <param name="Товщина (мм)">5,00</param>
         <param name="Матеріал виробу">Спінений поліетилен</param>
       </offer>
-      <offer id="38732KF0" available="true">
+      <offer id="38732KF0" available="false">
         <url>https://ol.partners/products/instalyatsii-ta-klavishi/klavishi-zmivu-ta-komplektuyuchi/panel-zmivu-grohe-skate-cosmopolitan-dlya-unitazu-38732kf0</url>
         <price>4499.00</price>
         <currencyId>UAH</currencyId>
@@ -157665,8 +157650,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/5db4db1c-f46c-4673-970e-36c07362a06e/image_07.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/5db4db1c-f46c-4673-970e-36c07362a06e/image_12.jpg</picture>
         <vendor>GROHE</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Панель змиву Grohe Skate Cosmopolitan для унітазу (38732KF0)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>38732KF0</vendorCode>
@@ -159110,7 +159095,7 @@
         <picture>https://ol.partners/Products/Photo/6AE50526-7CA3-44A3-9D8F-39E7C03B7416</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Насос циркуляційний Koer KP.GRS-15/4-130 (з кабелем та гайками) (KP3175)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KP3175</vendorCode>
@@ -166729,7 +166714,6 @@
         <picture>https://cdn.olinfrastructure.com/productfile/4b77ddc4-2952-4bec-84e6-ab679564b643/image_01.png</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/4b77ddc4-2952-4bec-84e6-ab679564b643/image_08.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/4b77ddc4-2952-4bec-84e6-ab679564b643/image_02.png</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/4b77ddc4-2952-4bec-84e6-ab679564b643/image_15.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/4b77ddc4-2952-4bec-84e6-ab679564b643/image_10.png</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/4b77ddc4-2952-4bec-84e6-ab679564b643/image_06.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/4b77ddc4-2952-4bec-84e6-ab679564b643/image_13.jpg</picture>
@@ -179968,7 +179952,6 @@
         <picture>https://cdn.olinfrastructure.com/productfile/91862d12-73cc-4c18-93a9-724a318e7538/image_01.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/91862d12-73cc-4c18-93a9-724a318e7538/image_04.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/91862d12-73cc-4c18-93a9-724a318e7538/image_05.jpg</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/91862d12-73cc-4c18-93a9-724a318e7538/image_03.jpg</picture>
         <vendor>MIXXUS PREMIUM</vendor>
         <stock_quantity>100</stock_quantity>
         <availabilityStatus>Достатньо</availabilityStatus>
@@ -183223,15 +183206,11 @@
         <currencyId>UAH</currencyId>
         <categoryId>2e53263c-eb2d-4e24-80ae-a2a492d1a63a</categoryId>
         <picture>https://ol.partners/Products/Photo/A432101B-DD9B-4CD0-925C-B5081CC5CAE1</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/97d57553-eb2f-4c41-8c06-95cff8826151/image_12.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/97d57553-eb2f-4c41-8c06-95cff8826151/image_08.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/97d57553-eb2f-4c41-8c06-95cff8826151/image_01.jpg</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/97d57553-eb2f-4c41-8c06-95cff8826151/image_11.jpg</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/97d57553-eb2f-4c41-8c06-95cff8826151/image_09.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/97d57553-eb2f-4c41-8c06-95cff8826151/image_04.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/97d57553-eb2f-4c41-8c06-95cff8826151/image_06.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/97d57553-eb2f-4c41-8c06-95cff8826151/image_07.jpg</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/97d57553-eb2f-4c41-8c06-95cff8826151/image_10.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/97d57553-eb2f-4c41-8c06-95cff8826151/image_13.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/97d57553-eb2f-4c41-8c06-95cff8826151/image_03.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/97d57553-eb2f-4c41-8c06-95cff8826151/image_05.jpg</picture>
@@ -191117,7 +191096,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/5b820a7a-f24b-4e91-9045-ab642a0e4101/image_01.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Гнучке підведення KOER KH-01-FF1/2"- 600 нержавійка ГГ- 060 см (KR0255)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR0255</vendorCode>
