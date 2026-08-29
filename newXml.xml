@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-08-28 09:37">
+<yml_catalog date="2026-08-29 05:41">
   <shop>
     <name>O&amp;L</name>
     <company>O&amp;L</company>
@@ -1830,7 +1830,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/0aa94574-64ce-424e-b8d4-041a84b634a5/image_02.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Хомут трубний оцинкований Koer KCB.10.G 3/4" (26-30) сірий (KR2785)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR2785</vendorCode>
@@ -12307,7 +12307,7 @@
         <param name="Колір">Чорний</param>
         <param name="Діаметр умовного проходу (мм)">50,00</param>
       </offer>
-      <offer id="26362LN1" available="false">
+      <offer id="26362LN1" available="true">
         <url>https://ol.partners/products/zapchastini-dlya-zmishuvacha/kriplennya-dlya-zmishuvacha/polichka-na-termostat-grohe-euphoria-system-26362ln1</url>
         <price>1890.00</price>
         <currencyId>UAH</currencyId>
@@ -12317,8 +12317,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/51ad778b-1d57-4811-a7ac-72e362e5f4ea/image_03.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/51ad778b-1d57-4811-a7ac-72e362e5f4ea/image_02.jpg</picture>
         <vendor>GROHE</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Поличка на термостат Grohe Euphoria System (26362LN1)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>26362LN1</vendorCode>
@@ -24210,7 +24210,7 @@
         <param name="Ширина (мм)">70</param>
         <param name="Довжина (мм)">550</param>
       </offer>
-      <offer id="ZX5892" available="false">
+      <offer id="ZX5892" available="true">
         <url>https://ol.partners/products/aksesuari-dlya-vannoi/vidro-dlya-smittya/vidro-dlya-smittya-z-plavnim-zakrittyam-kvadratne-zerix-kubixtc0108-black-8-l-kolir-chorniy-zx5892</url>
         <price>1070.00</price>
         <currencyId>UAH</currencyId>
@@ -24223,7 +24223,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/16240732-bd84-4b5a-8dbb-ac5911a69a3a/image_01.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/16240732-bd84-4b5a-8dbb-ac5911a69a3a/image_03.jpg</picture>
         <vendor>ZERIX</vendor>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>100</stock_quantity>
         <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Відро для сміття з плавним закриттям квадратне ZERIX KUBIX-TC0108 BLACK 8 л (колір чорний) (ZX5892)</name>
         <description>&lt;![CDATA[]]&gt;</description>
@@ -46864,6 +46864,58 @@
         <param name="Гарантійний період (міс)">96</param>
         <param name="Кількість (шт)">1</param>
       </offer>
+      <offer id="KR6166" available="true">
+        <url>https://ol.partners/products/aksesuari-dlya-vannoi/dozator-dlya-ridkogo-mila/dozator-dlya-ridkogo-mila-nastinniy-koer-as010405-sklo-kolir-chorniy-kr6166</url>
+        <price>2061.00</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>98cef2a4-d106-4da2-9b4c-f8e66696fd13</categoryId>
+        <picture>https://ol.partners/Products/Photo/D62A8908-245B-4993-9EFB-2316C06A8792</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/e1d36dcb-1802-4254-9d71-7367b0b395c4/image_11.jpg</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/e1d36dcb-1802-4254-9d71-7367b0b395c4/image_12.jpg</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/e1d36dcb-1802-4254-9d71-7367b0b395c4/image_15.jpg</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/e1d36dcb-1802-4254-9d71-7367b0b395c4/image_16.jpg</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/e1d36dcb-1802-4254-9d71-7367b0b395c4/image_18.jpg</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/e1d36dcb-1802-4254-9d71-7367b0b395c4/image_21.jpg</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/e1d36dcb-1802-4254-9d71-7367b0b395c4/image_13.jpg</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/e1d36dcb-1802-4254-9d71-7367b0b395c4/image_19.jpg</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/e1d36dcb-1802-4254-9d71-7367b0b395c4/image_14.jpg</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/e1d36dcb-1802-4254-9d71-7367b0b395c4/image_17.jpg</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/e1d36dcb-1802-4254-9d71-7367b0b395c4/image_20.jpg</picture>
+        <vendor>KOER</vendor>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Достатньо</availabilityStatus>
+        <name>Дозатор для рідкого мила настінний KOER AS-0104-05 (скло) (Колір чорний) (KR6166)</name>
+        <description>&lt;![CDATA[]]&gt;</description>
+        <vendorCode>KR6166</vendorCode>
+        <param name="Од. в упак.">10</param>
+        <param name="Об'єм ящ.">0.054</param>
+        <param name="Вага ящ.">7.7</param>
+        <param name="Гарантійний період (міс)">12</param>
+        <param name="Комплектація">Дозатор з тримачем, кріплення, інструкція</param>
+        <param name="Матеріал комплектуючих">Нержавіюча сталь SUS304, цинковий сплав, скло</param>
+        <param name="Тип конструкції">Кільцевий утримувач: колба вставляється у металеве кільце-кронштейн</param>
+        <param name="Тип фіксації до поверхні">Гвинтове кріплення (на дюбелі)</param>
+        <param name="Матеріал">Нержавіюча сталь SUS 304</param>
+        <param name="Діаметр (мм)">65</param>
+        <param name="Об'єм (л)">0,20</param>
+        <param name="Висота (мм)">161</param>
+        <param name="Глибина (мм)">91</param>
+        <param name="Розміри виробу (ВхШхГ)">161x81x91</param>
+        <param name="Ширина (мм)">81</param>
+        <param name="Країна виробник">Китай</param>
+        <param name="Серія">AS-01</param>
+        <param name="Модель">AS-0104-05</param>
+        <param name="Вид виробу">Дозатор для рідкого мила настінний</param>
+        <param name="Країна бренду">Чехія</param>
+        <param name="Тип виробу">Дозатори для рідкого мила</param>
+        <param name="Тип монтажу">Настінний</param>
+        <param name="Призначення">Для мила</param>
+        <param name="Торгова марка">KOER</param>
+        <param name="Колір">Чорний матовий</param>
+        <param name="Форма">Універсальна</param>
+        <param name="Антипалець">Так</param>
+        <param name="Поверхня">Матова</param>
+      </offer>
       <offer id="KR5937" available="true">
         <url>https://ol.partners/products/aksesuari-dlya-vannoi/vidro-dlya-smittya/vidro-dlya-smittya-sensorne-krugle-koer-tc02051205-12-l-kolir-chorniy-kr5937</url>
         <price>3795.00</price>
@@ -46916,58 +46968,6 @@
         <param name="Наявність педалі">Ні</param>
         <param name="Комплектація">Корпус відра з кришкою автоматичного відкриття, внутрішнє відро. Літієва батарея 2200mAh, 3.7V – 1 штука. Кабель для заряджання (вилка в комплект не входить)</param>
         <param name="Гарантійний період (міс)">12</param>
-      </offer>
-      <offer id="KR6166" available="true">
-        <url>https://ol.partners/products/aksesuari-dlya-vannoi/dozator-dlya-ridkogo-mila/dozator-dlya-ridkogo-mila-nastinniy-koer-as010405-sklo-kolir-chorniy-kr6166</url>
-        <price>2061.00</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>98cef2a4-d106-4da2-9b4c-f8e66696fd13</categoryId>
-        <picture>https://ol.partners/Products/Photo/D62A8908-245B-4993-9EFB-2316C06A8792</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/e1d36dcb-1802-4254-9d71-7367b0b395c4/image_11.jpg</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/e1d36dcb-1802-4254-9d71-7367b0b395c4/image_12.jpg</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/e1d36dcb-1802-4254-9d71-7367b0b395c4/image_15.jpg</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/e1d36dcb-1802-4254-9d71-7367b0b395c4/image_16.jpg</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/e1d36dcb-1802-4254-9d71-7367b0b395c4/image_18.jpg</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/e1d36dcb-1802-4254-9d71-7367b0b395c4/image_21.jpg</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/e1d36dcb-1802-4254-9d71-7367b0b395c4/image_13.jpg</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/e1d36dcb-1802-4254-9d71-7367b0b395c4/image_19.jpg</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/e1d36dcb-1802-4254-9d71-7367b0b395c4/image_14.jpg</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/e1d36dcb-1802-4254-9d71-7367b0b395c4/image_17.jpg</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/e1d36dcb-1802-4254-9d71-7367b0b395c4/image_20.jpg</picture>
-        <vendor>KOER</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
-        <name>Дозатор для рідкого мила настінний KOER AS-0104-05 (скло) (Колір чорний) (KR6166)</name>
-        <description>&lt;![CDATA[]]&gt;</description>
-        <vendorCode>KR6166</vendorCode>
-        <param name="Од. в упак.">10</param>
-        <param name="Об'єм ящ.">0.054</param>
-        <param name="Вага ящ.">7.7</param>
-        <param name="Гарантійний період (міс)">12</param>
-        <param name="Комплектація">Дозатор з тримачем, кріплення, інструкція</param>
-        <param name="Матеріал комплектуючих">Нержавіюча сталь SUS304, цинковий сплав, скло</param>
-        <param name="Тип конструкції">Кільцевий утримувач: колба вставляється у металеве кільце-кронштейн</param>
-        <param name="Тип фіксації до поверхні">Гвинтове кріплення (на дюбелі)</param>
-        <param name="Матеріал">Нержавіюча сталь SUS 304</param>
-        <param name="Діаметр (мм)">65</param>
-        <param name="Об'єм (л)">0,20</param>
-        <param name="Висота (мм)">161</param>
-        <param name="Глибина (мм)">91</param>
-        <param name="Розміри виробу (ВхШхГ)">161x81x91</param>
-        <param name="Ширина (мм)">81</param>
-        <param name="Країна виробник">Китай</param>
-        <param name="Серія">AS-01</param>
-        <param name="Модель">AS-0104-05</param>
-        <param name="Вид виробу">Дозатор для рідкого мила настінний</param>
-        <param name="Країна бренду">Чехія</param>
-        <param name="Тип виробу">Дозатори для рідкого мила</param>
-        <param name="Тип монтажу">Настінний</param>
-        <param name="Призначення">Для мила</param>
-        <param name="Торгова марка">KOER</param>
-        <param name="Колір">Чорний матовий</param>
-        <param name="Форма">Універсальна</param>
-        <param name="Антипалець">Так</param>
-        <param name="Поверхня">Матова</param>
       </offer>
       <offer id="KR6457" available="true">
         <url>https://ol.partners/products/truboprovodi-ta-zyednannya/fitingi/presfitingi-iz-nerzhaviyuchoi-stali-pressinox/kompensator-dvoroztrubniy-koer-kqs42-pressinox-aisi-304-42-kr6457</url>
@@ -64111,7 +64111,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/631221e9-87cc-4ba7-8678-cd54fd73e17c/image_04.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Насос погружной дренажний KOER QDX 9-33-0.75 (KP2767)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KP2767</vendorCode>
@@ -100214,8 +100214,8 @@
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR5799</vendorCode>
         <param name="Од. в упак.">20</param>
-        <param name="Об'єм ящ.">0</param>
-        <param name="Вага ящ.">0</param>
+        <param name="Об'єм ящ.">0.01</param>
+        <param name="Вага ящ.">5</param>
         <param name="Матеріал">Латунь</param>
         <param name="Діаметр випуску (дюйм)">1 1/2"</param>
         <param name="Тип відкриття/закриття зливного отвору">Автоматичний (СLICK-СLACK)</param>
@@ -124293,7 +124293,7 @@
         <param name="Діаметр підключення (дюйм)">1</param>
         <param name="Особливості">Робочий тиск для газу – 3 бар; Робочий тиск для води – до 20 бар</param>
       </offer>
-      <offer id="KP2660" available="false">
+      <offer id="KP2660" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/poverkhneviy-nasos/nasos-poverkh-samovsmoktuvalniy-koer-jet125-korpus-chavun-kp2660</url>
         <price>5090.00</price>
         <currencyId>UAH</currencyId>
@@ -124304,8 +124304,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/c9d60c78-7421-413f-aab6-52f50d236b0f/image_03.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/c9d60c78-7421-413f-aab6-52f50d236b0f/image_04.jpg</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Насос поверх. самовсмоктувальний Koer JET-125 корпус чавун (KP2660)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KP2660</vendorCode>
@@ -149793,44 +149793,6 @@
         <param name="Гарантійний період (міс)">120</param>
         <param name="Вага нетто, кг">8,00</param>
       </offer>
-      <offer id="39683000" available="false">
-        <url>https://ol.partners/products/instalyatsii-ta-klavishi/sistemi-instalyatsii/bachok-prikhovanogo-montazhu-grohe-39683000</url>
-        <price>4950.00</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>bae524de-6825-4762-bea5-e2c2373606ee</categoryId>
-        <picture>https://ol.partners/Products/Photo/ACB12B53-D76E-46A6-914E-B628B37D4731</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/3fdeb1e2-c342-4f26-a27d-e505092f0248/image_02.jpg</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/3fdeb1e2-c342-4f26-a27d-e505092f0248/image_03.jpg</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/3fdeb1e2-c342-4f26-a27d-e505092f0248/image_01.jpg</picture>
-        <vendor>GROHE</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
-        <name>Бачок прихованого монтажу Grohe (39683000)</name>
-        <description>&lt;![CDATA[]]&gt;</description>
-        <vendorCode>39683000</vendorCode>
-        <param name="Од. в упак.">1</param>
-        <param name="Об'єм ящ.">0</param>
-        <param name="Вага ящ.">0</param>
-        <param name="Країна бренду">Німеччина</param>
-        <param name="Торгова марка">GROHE</param>
-        <param name="Серія">Uniset</param>
-        <param name="Призначення">Для унітазу</param>
-        <param name="Тип виробу">Інсталяційні системи без панелі змиву</param>
-        <param name="Вид виробу">Інсталяційний бачок для унітазу пневматичний</param>
-        <param name="Тип монтажу">У стіну прихований</param>
-        <param name="MAX Монтажна висота (мм)">0</param>
-        <param name="Розміри виробу (ВхШхГ)">793x426x130</param>
-        <param name="MIN Монтажна висота (мм)">0</param>
-        <param name="Матеріал">ABS-пластик</param>
-        <param name="Матеріал бачка">ABS-пластик</param>
-        <param name="Матеріал кріплення">Латунне різблення</param>
-        <param name="Технологія виробництва бачка">Двокомпонентний. Бачок із двох частин</param>
-        <param name="Тип конструкції">Стандартна рамна. Одинарна рама</param>
-        <param name="Керування">Пневматичне</param>
-        <param name="Колір">Білий</param>
-        <param name="Комплектація">Без панелі змиву</param>
-        <param name="Гарантійний період (міс)">132</param>
-      </offer>
       <offer id="38840000" available="false">
         <url>https://ol.partners/products/instalyatsii-ta-klavishi/sistemi-instalyatsii/instalyatsiya-dlya-unitazu-grohe-rapid-sl-38840000</url>
         <price>6599.00</price>
@@ -149881,6 +149843,44 @@
         <param name="Гарантійний період (міс)">132</param>
         <param name="Комплектація">Без панелі змиву</param>
         <param name="Колір">Синій</param>
+      </offer>
+      <offer id="39683000" available="false">
+        <url>https://ol.partners/products/instalyatsii-ta-klavishi/sistemi-instalyatsii/bachok-prikhovanogo-montazhu-grohe-39683000</url>
+        <price>4950.00</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>bae524de-6825-4762-bea5-e2c2373606ee</categoryId>
+        <picture>https://ol.partners/Products/Photo/ACB12B53-D76E-46A6-914E-B628B37D4731</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/3fdeb1e2-c342-4f26-a27d-e505092f0248/image_02.jpg</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/3fdeb1e2-c342-4f26-a27d-e505092f0248/image_03.jpg</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/3fdeb1e2-c342-4f26-a27d-e505092f0248/image_01.jpg</picture>
+        <vendor>GROHE</vendor>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <name>Бачок прихованого монтажу Grohe (39683000)</name>
+        <description>&lt;![CDATA[]]&gt;</description>
+        <vendorCode>39683000</vendorCode>
+        <param name="Од. в упак.">1</param>
+        <param name="Об'єм ящ.">0</param>
+        <param name="Вага ящ.">0</param>
+        <param name="Країна бренду">Німеччина</param>
+        <param name="Торгова марка">GROHE</param>
+        <param name="Серія">Uniset</param>
+        <param name="Призначення">Для унітазу</param>
+        <param name="Тип виробу">Інсталяційні системи без панелі змиву</param>
+        <param name="Вид виробу">Інсталяційний бачок для унітазу пневматичний</param>
+        <param name="Тип монтажу">У стіну прихований</param>
+        <param name="MAX Монтажна висота (мм)">0</param>
+        <param name="Розміри виробу (ВхШхГ)">793x426x130</param>
+        <param name="MIN Монтажна висота (мм)">0</param>
+        <param name="Матеріал">ABS-пластик</param>
+        <param name="Матеріал бачка">ABS-пластик</param>
+        <param name="Матеріал кріплення">Латунне різблення</param>
+        <param name="Технологія виробництва бачка">Двокомпонентний. Бачок із двох частин</param>
+        <param name="Тип конструкції">Стандартна рамна. Одинарна рама</param>
+        <param name="Керування">Пневматичне</param>
+        <param name="Колір">Білий</param>
+        <param name="Комплектація">Без панелі змиву</param>
+        <param name="Гарантійний період (міс)">132</param>
       </offer>
       <offer id="KR2932" available="true">
         <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/kolektori/kolektor-z-vbudovanim-zmish-vuzlom-koer-krs10119-1-kh9-sus304-i-yevrokonus-3416-kr2932</url>
@@ -189794,7 +189794,7 @@
         <param name="Гарантійний період (міс)">24</param>
         <param name="Макс. температура навколишнього середовища (°C)">40</param>
       </offer>
-      <offer id="MI2750" available="false">
+      <offer id="MI2750" available="true">
         <url>https://ol.partners/products/protochni-vodonagrivachi/krani-vodonagrivachi/vodonagrivach-3-kw-protochniy-mixxus-electra-240ef-z-indik-temp-reflektorniy-viliv-reset-na-miyku-mi2750</url>
         <price>1380.00</price>
         <currencyId>UAH</currencyId>
@@ -189802,8 +189802,8 @@
         <picture>https://ol.partners/Products/Photo/371D1C29-51B1-43B4-B85C-82A5A1230F47</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/a02986ae-0d5f-4728-95fd-7e13e0b3c0be/image_01.jpg</picture>
         <vendor>MIXXUS</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Водонагрівач 3 kW проточний MIXXUS Electra 240-EF з індик. темп., рефлекторний вилив, RESET, на мийку (MI2750)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>MI2750</vendorCode>
