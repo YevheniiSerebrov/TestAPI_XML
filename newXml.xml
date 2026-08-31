@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-08-30 03:43">
+<yml_catalog date="2026-08-31 03:44">
   <shop>
     <name>O&amp;L</name>
     <company>O&amp;L</company>
@@ -11300,15 +11300,15 @@
         <param name="Розташування (орієнтація)">Універсальне</param>
         <param name="Форма">Заокруглена</param>
       </offer>
-      <offer id="KR6275" available="true">
+      <offer id="KR6275" available="false">
         <url>https://ol.partners/products/truboprovodi-ta-zyednannya/trubi/trubi-iz-nerzhaviyuchoi-stali-pressinox/truba-koer-kq1228-l2m-pressinox-aisi-304-28x12-kr6275</url>
         <price>519.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>cccd3e1f-6b84-49c8-b342-dee61a5caf10</categoryId>
         <picture>https://ol.partners/Products/Photo/02F0E220-CA1C-4517-9118-D0CC9D1B7377</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Труба KOER KQ.1228 L=2м PRESS-INOX AISI 304 28x1,2 (KR6275)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR6275</vendorCode>
@@ -27154,6 +27154,7 @@
         <param name="Тип виробу">Нержавіючі мийки для кухні</param>
         <param name="Торгова марка">MIXXUS</param>
         <param name="Комплектація">Мийка, змішувач, гнучка підводка, кріпильна гайка, вбудований дозатор, елементи кріплення для мийки, сітка-заглушка для мийки, сифон, випуск, перелив, сушка для посуду</param>
+        <param name="Додаткові характеристики">Більша чаша 40×38 см. Менша чаша 31×32 см</param>
         <param name="Наявність PVD покриття">Ні</param>
         <param name="Колір">Нержавіюча сталь</param>
         <param name="Структура поверхні мийки">Без структури</param>
@@ -60243,7 +60244,7 @@
         <param name="Країна бренду">Чехія</param>
         <param name="Вид виробу">Термоголовки</param>
       </offer>
-      <offer id="ZX4580" available="false">
+      <offer id="ZX4580" available="true">
         <url>https://ol.partners/products/miyki-dlya-kukhni/vrizni-miyki/miyka-kukhonna-zerix-zs7950s03-chorna-zx4580</url>
         <price>5486.00</price>
         <currencyId>UAH</currencyId>
@@ -60253,8 +60254,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/f2919e71-8690-487a-a074-0bef9e5b7afc/image_02.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/f2919e71-8690-487a-a074-0bef9e5b7afc/image_03.jpg</picture>
         <vendor>ZERIX</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Мийка кухонна Zerix ZS-7950S-03 Чорна (ZX4580)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>ZX4580</vendorCode>
@@ -65679,15 +65680,15 @@
         <param name="Габарити виробу (см)">60x80</param>
         <param name="Довжина кабелю (м)">1,20</param>
       </offer>
-      <offer id="ZX6194" available="false">
+      <offer id="ZX6194" available="true">
         <url>https://ol.partners/products/miyki-dlya-kukhni/vrizni-miyki/miyka-z-nerzhaviyuchoi-stali-zerix-zh7850d-decor-ss-color-3008-kolir-nerzhaviyka-zx6194</url>
         <price>3899.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>4b1ed2a0-7372-49d4-8570-7be730b86a84</categoryId>
         <picture>https://ol.partners/Products/Photo/0BBAE37D-DFAA-45C7-8B0F-03DE53365F3A</picture>
         <vendor>ZERIX</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Мийка з нержавіючої сталі ZERIX ZH7850-D DECOR SS COLOR (3.0/0.8) (колір нержавійка) (ZX6194)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>ZX6194</vendorCode>
@@ -69869,7 +69870,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/87faaec3-a929-4830-a1fb-89f9c0bc0375/image_11.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Тримач для туалетного паперу KOER AS-0112-01 з полицею (колір хром глянець) (KR6177)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR6177</vendorCode>
@@ -72596,15 +72597,15 @@
         <param name="Кількість вантажних місць">1</param>
         <param name="Упаковка">Стандартна</param>
       </offer>
-      <offer id="ZX6195" available="false">
+      <offer id="ZX6195" available="true">
         <url>https://ol.partners/products/miyki-dlya-kukhni/vrizni-miyki/miyka-z-nerzhaviyuchoi-stali-zerix-zh7850d-decor-graphite-3008-kolir-grafit-zx6195</url>
         <price>4727.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>4b1ed2a0-7372-49d4-8570-7be730b86a84</categoryId>
         <picture>https://ol.partners/Products/Photo/6443C3AC-D318-4B18-A664-03D164014077</picture>
         <vendor>ZERIX</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Мийка з нержавіючої сталі ZERIX ZH7850-D DECOR GRAPHITE (3.0/0.8) (колір графіт) (ZX6195)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>ZX6195</vendorCode>
@@ -80763,15 +80764,15 @@
         <param name="Ширина (мм)">200</param>
         <param name="Колір">Нержавіюча сталь</param>
       </offer>
-      <offer id="ZX6199" available="false">
+      <offer id="ZX6199" available="true">
         <url>https://ol.partners/products/miyki-dlya-kukhni/integrovani-miyki/miyka-z-nerzhaviyuchoi-stali-komplekt-zerix-zh7545set05-micro-decor-graphite-3008-kolir-grafit-zx6199</url>
         <price>4416.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>4b1ed2a0-7372-49d4-8570-7be730b86a84</categoryId>
         <picture>https://ol.partners/Products/Photo/734D5ACE-4867-4E63-88B0-AC0BD240170C</picture>
         <vendor>ZERIX</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Мийка з нержавіючої сталі КОМПЛЕКТ ZERIX ZH7545-SET-05 MICRO DECOR GRAPHITE (3.0/0.8) (колір графіт) (ZX6199)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>ZX6199</vendorCode>
@@ -103870,6 +103871,7 @@
         <param name="Потужність (Вт)">390</param>
         <param name="Колір">Чорний</param>
         <param name="Гарантійний період (міс)">12</param>
+        <param name="Комплектація">Кнопка, подрібнювач</param>
       </offer>
       <offer id="MP6542" available="true">
         <url>https://ol.partners/products/keramika/rakovini/rakovina-nakladna-mixxus-premium-diverse0112-whiteblack-455kh325kh135mm-mp6542</url>
@@ -138018,15 +138020,15 @@
         <param name="Вага (г)">148,00</param>
         <param name="Гарантійний період (міс)">84</param>
       </offer>
-      <offer id="ZX6197" available="false">
+      <offer id="ZX6197" available="true">
         <url>https://ol.partners/products/miyki-dlya-kukhni/integrovani-miyki/miyka-z-nerzhaviyuchoi-stali-komplekt-zerix-zh6845set05-micro-decor-graphite-3008-kolir-grafit-zx6197</url>
         <price>4347.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>4b1ed2a0-7372-49d4-8570-7be730b86a84</categoryId>
         <picture>https://ol.partners/Products/Photo/E1B4737A-D60A-4DB1-9BA3-2A9E91320032</picture>
         <vendor>ZERIX</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Мийка з нержавіючої сталі КОМПЛЕКТ ZERIX ZH6845-SET-05 MICRO DECOR GRAPHITE (3.0/0.8) (колір графіт) (ZX6197)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>ZX6197</vendorCode>
@@ -156631,6 +156633,40 @@
         <param name="Діаметр підключення (дюйм)">1/2</param>
         <param name="Колір">Білий</param>
       </offer>
+      <offer id="KP2578" available="true">
+        <url>https://ol.partners/products/truboprovodi-ta-zyednannya/fitingi/zyednannya-dlya-trub-z-polipropilenu/mufta-reduktsiyna-vv-90x63-ppr-koer-k0213pro-kp2578</url>
+        <price>137.00</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>cccd3e1f-6b84-49c8-b342-dee61a5caf10</categoryId>
+        <picture>https://ol.partners/Products/Photo/C2B2BF83-3082-4372-BA6A-E46AE74D95E4</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/5c3a1dfa-97bb-4545-a9f9-2d99460f2dce/image_04_mufta.jpg</picture>
+        <vendor>KOER</vendor>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Достатньо</availabilityStatus>
+        <name>Муфта редукційна ВВ 90x63 PPR Koer K0213.PRO (KP2578)</name>
+        <description>&lt;![CDATA[]]&gt;</description>
+        <vendorCode>KP2578</vendorCode>
+        <param name="Од. в упак.">40</param>
+        <param name="Об'єм ящ.">0.045</param>
+        <param name="Вага ящ.">13</param>
+        <param name="Тип">Муфта</param>
+        <param name="Призначення">Для труб</param>
+        <param name="Вид виробу">Муфта</param>
+        <param name="Країна бренду">Чехія</param>
+        <param name="Модель">K0213.PRO</param>
+        <param name="Тип виробу">Труби та фітинги PPR</param>
+        <param name="Торгова марка">KOER</param>
+        <param name="Гарантійний період (міс)">84</param>
+        <param name="Особливості">Стійкий до корозії та хімічних впливів</param>
+        <param name="D1 (мм)">61,80</param>
+        <param name="L (мм)">36,00</param>
+        <param name="L1 (мм)">29,00</param>
+        <param name="D (мм)">88,30</param>
+        <param name="H (мм)">40,00</param>
+        <param name="Тип з'єднання">Пайка</param>
+        <param name="Матеріал">Поліпропілен</param>
+        <param name="Колір">Сірий</param>
+      </offer>
       <offer id="KR6414" available="true">
         <url>https://ol.partners/products/truboprovodi-ta-zyednannya/fitingi/presfitingi-iz-nerzhaviyuchoi-stali-pressinox/kolino-90-zr-koer-kql1506m-pressinox-aisi-304-15x12-kr6414</url>
         <price>395.00</price>
@@ -156678,40 +156714,6 @@
         <param name="Колір">Сталевий</param>
         <param name="Покриття">Без покриття</param>
         <param name="Розміри (мм)">15x1/2"</param>
-      </offer>
-      <offer id="KP2578" available="true">
-        <url>https://ol.partners/products/truboprovodi-ta-zyednannya/fitingi/zyednannya-dlya-trub-z-polipropilenu/mufta-reduktsiyna-vv-90x63-ppr-koer-k0213pro-kp2578</url>
-        <price>137.00</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>cccd3e1f-6b84-49c8-b342-dee61a5caf10</categoryId>
-        <picture>https://ol.partners/Products/Photo/C2B2BF83-3082-4372-BA6A-E46AE74D95E4</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/5c3a1dfa-97bb-4545-a9f9-2d99460f2dce/image_04_mufta.jpg</picture>
-        <vendor>KOER</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
-        <name>Муфта редукційна ВВ 90x63 PPR Koer K0213.PRO (KP2578)</name>
-        <description>&lt;![CDATA[]]&gt;</description>
-        <vendorCode>KP2578</vendorCode>
-        <param name="Од. в упак.">40</param>
-        <param name="Об'єм ящ.">0.045</param>
-        <param name="Вага ящ.">13</param>
-        <param name="Тип">Муфта</param>
-        <param name="Призначення">Для труб</param>
-        <param name="Вид виробу">Муфта</param>
-        <param name="Країна бренду">Чехія</param>
-        <param name="Модель">K0213.PRO</param>
-        <param name="Тип виробу">Труби та фітинги PPR</param>
-        <param name="Торгова марка">KOER</param>
-        <param name="Гарантійний період (міс)">84</param>
-        <param name="Особливості">Стійкий до корозії та хімічних впливів</param>
-        <param name="D1 (мм)">61,80</param>
-        <param name="L (мм)">36,00</param>
-        <param name="L1 (мм)">29,00</param>
-        <param name="D (мм)">88,30</param>
-        <param name="H (мм)">40,00</param>
-        <param name="Тип з'єднання">Пайка</param>
-        <param name="Матеріал">Поліпропілен</param>
-        <param name="Колір">Сірий</param>
       </offer>
       <offer id="KR0003" available="true">
         <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/krani/krani-ventilni/ventil-kutoviy-12x12-koer-kr902-kr0003</url>
