@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-08-31 03:44">
+<yml_catalog date="2026-09-01 03:38">
   <shop>
     <name>O&amp;L</name>
     <company>O&amp;L</company>
@@ -28,7 +28,7 @@
       <category id="a3fca00e-0578-41a0-8f4d-59220071a9b0">Системи захисту від протікання води</category>
       <category id="acf670b1-cb69-42df-9bd9-ccc438f29831">Зарядні станції та генератори</category>
     </categories>
-    <offers count="5019">
+    <offers count="5020">
       <offer id="MI8321" available="false">
         <url>https://ol.partners/products/keramika/bachki-dlya-unitazu/bachok-do-unitazukompaktu-mixxus-premium-bevel0401t1-tank-430x390x140-u-komplekti-zi-zlivnoyu-armaturoyu-mi8321</url>
         <price>4002.00</price>
@@ -1357,6 +1357,38 @@
         <param name="Матеріал">Поліпропілен</param>
         <param name="Діаметр підключення (мм)">90</param>
       </offer>
+      <offer id="KR2730" available="false">
+        <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/krani/kran-dlya-pidklyuchennya-santekhpriboriv/komplekt-kraniv-2-sht-dlya-pidklyuchennya-santekhpriboriv-koer-kr5092-kr2730</url>
+        <price>375.00</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>85089059-b2ea-414c-a0f0-0cb7187f4e74</categoryId>
+        <picture>https://ol.partners/Products/Photo/06F08E0F-A250-4457-80A4-304ED88C1B3A</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/a88975e9-fe5e-4b6f-a5a2-a1a9cad70014/image_03_KR2730.jpg</picture>
+        <vendor>KOER</vendor>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <name>Комплект кранів (2 шт.) Для підключення сантехприборів Koer KR.509-2 (KR2730)</name>
+        <description>&lt;![CDATA[]]&gt;</description>
+        <vendorCode>KR2730</vendorCode>
+        <param name="Од. в упак.">50</param>
+        <param name="Об'єм ящ.">0.054</param>
+        <param name="Вага ящ.">20</param>
+        <param name="C (мм)">40,00</param>
+        <param name="B (мм)">108,00</param>
+        <param name="A (мм)">29,00</param>
+        <param name="Вид виробу">Крани приладові з латуні</param>
+        <param name="Країна бренду">Чехія</param>
+        <param name="Торгова марка">KOER</param>
+        <param name="Призначення">Для підключення змішувача</param>
+        <param name="Модель">KR.509-2</param>
+        <param name="Тип виробу">Крани приладові</param>
+        <param name="Картридж чи кран букса">Картридж</param>
+        <param name="Матеріал виробу">Латунь CW617N хромована</param>
+        <param name="Робочий тиск (бар)">до 12</param>
+        <param name="Тип приєднання">Різьбове</param>
+        <param name="Покриття">Хром</param>
+        <param name="Колір">Сталевий</param>
+      </offer>
       <offer id="KR0042" available="true">
         <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/krani/krani-kulovi/kran-kuloviy-koer-34-ggr-kr214-kr0042</url>
         <price>285.00</price>
@@ -1399,38 +1431,6 @@
         <param name="Матеріал кульового затвора">Латунь</param>
         <param name="Робочий тиск (бар)">до 20</param>
         <param name="Максимальний робочий тиск (бар)">40</param>
-      </offer>
-      <offer id="KR2730" available="false">
-        <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/krani/kran-dlya-pidklyuchennya-santekhpriboriv/komplekt-kraniv-2-sht-dlya-pidklyuchennya-santekhpriboriv-koer-kr5092-kr2730</url>
-        <price>375.00</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>85089059-b2ea-414c-a0f0-0cb7187f4e74</categoryId>
-        <picture>https://ol.partners/Products/Photo/06F08E0F-A250-4457-80A4-304ED88C1B3A</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/a88975e9-fe5e-4b6f-a5a2-a1a9cad70014/image_03_KR2730.jpg</picture>
-        <vendor>KOER</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
-        <name>Комплект кранів (2 шт.) Для підключення сантехприборів Koer KR.509-2 (KR2730)</name>
-        <description>&lt;![CDATA[]]&gt;</description>
-        <vendorCode>KR2730</vendorCode>
-        <param name="Од. в упак.">50</param>
-        <param name="Об'єм ящ.">0.054</param>
-        <param name="Вага ящ.">20</param>
-        <param name="C (мм)">40,00</param>
-        <param name="B (мм)">108,00</param>
-        <param name="A (мм)">29,00</param>
-        <param name="Вид виробу">Крани приладові з латуні</param>
-        <param name="Країна бренду">Чехія</param>
-        <param name="Торгова марка">KOER</param>
-        <param name="Призначення">Для підключення змішувача</param>
-        <param name="Модель">KR.509-2</param>
-        <param name="Тип виробу">Крани приладові</param>
-        <param name="Картридж чи кран букса">Картридж</param>
-        <param name="Матеріал виробу">Латунь CW617N хромована</param>
-        <param name="Робочий тиск (бар)">до 12</param>
-        <param name="Тип приєднання">Різьбове</param>
-        <param name="Покриття">Хром</param>
-        <param name="Колір">Сталевий</param>
       </offer>
       <offer id="KR6441" available="true">
         <url>https://ol.partners/products/truboprovodi-ta-zyednannya/fitingi/presfitingi-iz-nerzhaviyuchoi-stali-pressinox/obvid-odnoroztrubniy-koer-kqo22-pressinox-aisi-304-22x22-kr6441</url>
@@ -1830,7 +1830,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/0aa94574-64ce-424e-b8d4-041a84b634a5/image_02.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Хомут трубний оцинкований Koer KCB.10.G 3/4" (26-30) сірий (KR2785)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR2785</vendorCode>
@@ -5315,7 +5315,7 @@
         <param name="Колір">Сталевий</param>
         <param name="Гарантійний період (міс)">84</param>
       </offer>
-      <offer id="KF0025" available="false">
+      <offer id="KF0025" available="true">
         <url>https://ol.partners/products/truboprovodi-ta-zyednannya/fitingi/rizbovi-zyednannya/mufta-reduktsiyna-1x2-koer-kfc1020-kf0025</url>
         <price>325.00</price>
         <currencyId>UAH</currencyId>
@@ -5324,8 +5324,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/252a0c15-0c2d-40a4-a199-cb712092ce2e/image_03_KF0025.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/252a0c15-0c2d-40a4-a199-cb712092ce2e/image_01.jpg</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Муфта редукційна 1"x2" Koer KF.C1020 (KF0025)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KF0025</vendorCode>
@@ -7503,37 +7503,6 @@
         <param name="Матеріал виробу">Поліпропілен (PPR)</param>
         <param name="Тип з'єднання">Пайка</param>
       </offer>
-      <offer id="KP0120" available="true">
-        <url>https://ol.partners/products/truboprovodi-ta-zyednannya/fitingi/zyednannya-dlya-trub-z-polipropilenu/zyednuvalna-mufta-zr-50x11-2m-ppr-koer-k0101pro-kp0120</url>
-        <price>350.00</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>cccd3e1f-6b84-49c8-b342-dee61a5caf10</categoryId>
-        <picture>https://ol.partners/Products/Photo/D49E1EB3-005A-44C6-8280-64CB5D04F3F2</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/21bdd42d-a962-436d-b78b-704b447ccc94/image_01.jpg</picture>
-        <vendor>KOER</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
-        <name>З'єднувальна муфта ЗР 50x1.1 /2M PPR Koer K0101.PRO (KP0120)</name>
-        <description>&lt;![CDATA[]]&gt;</description>
-        <vendorCode>KP0120</vendorCode>
-        <param name="Од. в упак.">42</param>
-        <param name="Об'єм ящ.">0.024</param>
-        <param name="Вага ящ.">15.24</param>
-        <param name="Країна бренду">Чехія</param>
-        <param name="Торгова марка">KOER</param>
-        <param name="Тип">Муфта</param>
-        <param name="Призначення">Для труб</param>
-        <param name="Модель">K0101.PRO</param>
-        <param name="Вид виробу">Муфта</param>
-        <param name="Тип виробу">Труби та фітинги PPR</param>
-        <param name="Особливості">Матеріал закладних деталей - Латунь CW617N нікельована</param>
-        <param name="Гарантійний період (міс)">84</param>
-        <param name="Колір">Сірий</param>
-        <param name="Тип з'єднання">Різьба-пайка</param>
-        <param name="Матеріал">Поліпропілен</param>
-        <param name="Діаметр підключення (дюйм)">1 1/2</param>
-        <param name="Діаметр підключення (мм)">50</param>
-      </offer>
       <offer id="KR6406" available="true">
         <url>https://ol.partners/products/truboprovodi-ta-zyednannya/fitingi/presfitingi-iz-nerzhaviyuchoi-stali-pressinox/kolino-90-vr-koer-kql1506f-pressinox-aisi-304-15x12-kr6406</url>
         <price>831.00</price>
@@ -7581,6 +7550,37 @@
         <param name="Колір">Сталевий</param>
         <param name="Покриття">Без покриття</param>
         <param name="Розміри (мм)">15x1/2"</param>
+      </offer>
+      <offer id="KP0120" available="true">
+        <url>https://ol.partners/products/truboprovodi-ta-zyednannya/fitingi/zyednannya-dlya-trub-z-polipropilenu/zyednuvalna-mufta-zr-50x11-2m-ppr-koer-k0101pro-kp0120</url>
+        <price>350.00</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>cccd3e1f-6b84-49c8-b342-dee61a5caf10</categoryId>
+        <picture>https://ol.partners/Products/Photo/D49E1EB3-005A-44C6-8280-64CB5D04F3F2</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/21bdd42d-a962-436d-b78b-704b447ccc94/image_01.jpg</picture>
+        <vendor>KOER</vendor>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Достатньо</availabilityStatus>
+        <name>З'єднувальна муфта ЗР 50x1.1 /2M PPR Koer K0101.PRO (KP0120)</name>
+        <description>&lt;![CDATA[]]&gt;</description>
+        <vendorCode>KP0120</vendorCode>
+        <param name="Од. в упак.">42</param>
+        <param name="Об'єм ящ.">0.024</param>
+        <param name="Вага ящ.">15.24</param>
+        <param name="Країна бренду">Чехія</param>
+        <param name="Торгова марка">KOER</param>
+        <param name="Тип">Муфта</param>
+        <param name="Призначення">Для труб</param>
+        <param name="Модель">K0101.PRO</param>
+        <param name="Вид виробу">Муфта</param>
+        <param name="Тип виробу">Труби та фітинги PPR</param>
+        <param name="Особливості">Матеріал закладних деталей - Латунь CW617N нікельована</param>
+        <param name="Гарантійний період (міс)">84</param>
+        <param name="Колір">Сірий</param>
+        <param name="Тип з'єднання">Різьба-пайка</param>
+        <param name="Матеріал">Поліпропілен</param>
+        <param name="Діаметр підключення (дюйм)">1 1/2</param>
+        <param name="Діаметр підключення (мм)">50</param>
       </offer>
       <offer id="EP6257" available="true">
         <url>https://ol.partners/products/truboprovodi-ta-zyednannya/fitingi/zyednannya-dlya-trub-z-polipropilenu/kut-90-europroduct-ep0016-32x32-ppr-ep6257</url>
@@ -8286,7 +8286,7 @@
         <vendorCode>EK0112</vendorCode>
         <param name="Од. в упак.">1</param>
         <param name="Об'єм ящ.">0</param>
-        <param name="Вага ящ.">0</param>
+        <param name="Вага ящ.">24.9</param>
         <param name="Спосіб управління">Автоматичний</param>
         <param name="Клас енергоефективності">C</param>
         <param name="Вид водонагрівача">Накопичувальний</param>
@@ -12307,7 +12307,7 @@
         <param name="Колір">Чорний</param>
         <param name="Діаметр умовного проходу (мм)">50,00</param>
       </offer>
-      <offer id="26362LN1" available="true">
+      <offer id="26362LN1" available="false">
         <url>https://ol.partners/products/zapchastini-dlya-zmishuvacha/kriplennya-dlya-zmishuvacha/polichka-na-termostat-grohe-euphoria-system-26362ln1</url>
         <price>1890.00</price>
         <currencyId>UAH</currencyId>
@@ -12317,8 +12317,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/51ad778b-1d57-4811-a7ac-72e362e5f4ea/image_03.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/51ad778b-1d57-4811-a7ac-72e362e5f4ea/image_02.jpg</picture>
         <vendor>GROHE</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Поличка на термостат Grohe Euphoria System (26362LN1)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>26362LN1</vendorCode>
@@ -16466,15 +16466,15 @@
         <param name="Матеріал виробу">Латунь CW617N нікельована</param>
         <param name="Гарантійний період (міс)">84</param>
       </offer>
-      <offer id="EP6229" available="false">
+      <offer id="EP6229" available="true">
         <url>https://ol.partners/products/filtri-ochischennya-vodi/komplektuyuchi-dlya-filtriv-vodi/kartridzh-polipropilenoviy-pp20-25x10-europroduct-epv01251020-ep6229</url>
         <price>29.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>d191ae68-f2ee-4472-8036-e37d06c8ffc9</categoryId>
         <picture>https://ol.partners/Products/Photo/10076188-1398-416A-B6D1-C1EB158E1EF1</picture>
         <vendor>EUROPRODUCT</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Картридж поліпропіленовий PP20 2,5"x10" EUROPRODUCT EPV-01-2510-20 (EP6229)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>EP6229</vendorCode>
@@ -17295,7 +17295,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/b41f7c7b-3492-4879-ba10-0d2142ac3eb3/image_07.jpg</picture>
         <vendor>ZERIX</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Дзеркало ZERIX MIRRA MR05-70x50-REVERSE з LED Touch, Anti-fog, димером, рег. яскравості (ZX6055)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>ZX6055</vendorCode>
@@ -18766,7 +18766,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/31f5c157-3102-479e-9164-22f73b2f9421/image_01.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Душовий трап KOER FD07-20x800-SLENDER "тонкий" з нерж. сталі SUS304 20x800мм (KR5137)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR5137</vendorCode>
@@ -37971,38 +37971,6 @@
         <param name="Особливості">Стійкий до корозії та хімічних впливів</param>
         <param name="Гарантійний період (міс)">84</param>
       </offer>
-      <offer id="NF3210" available="true">
-        <url>https://ol.partners/products/truboprovodi-ta-zyednannya/fitingi/rizbovi-zyednannya/futorka-nolf-nfcf06101mx12f-nf3210</url>
-        <price>82.00</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>cccd3e1f-6b84-49c8-b342-dee61a5caf10</categoryId>
-        <picture>https://ol.partners/Products/Photo/AC89233C-0FD3-4DFF-A2CA-EC99DE2FB5D3</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/329b82a6-cde4-4967-a2e9-d8034ae784cf/image_03.jpg</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/329b82a6-cde4-4967-a2e9-d8034ae784cf/image_02.jpg</picture>
-        <vendor>NOLF</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
-        <name>Футорка NOLF NFC.F0610-1"Mx1/2"F (NF3210)</name>
-        <description>&lt;![CDATA[]]&gt;</description>
-        <vendorCode>NF3210</vendorCode>
-        <param name="Од. в упак.">240</param>
-        <param name="Об'єм ящ.">0</param>
-        <param name="Вага ящ.">0</param>
-        <param name="Гарантійний період (міс)">84</param>
-        <param name="Торгова марка">NOLF</param>
-        <param name="Вид виробу">Футорка</param>
-        <param name="Тип виробу">Латунний фітинг</param>
-        <param name="Модель">NFC.F0610</param>
-        <param name="Тип">Футорка</param>
-        <param name="Країна бренду">Німеччина</param>
-        <param name="Призначення">Для труб</param>
-        <param name="Тип з'єднання">Різьбовий</param>
-        <param name="Матеріал">Латунь CW617N</param>
-        <param name="G1 (дюйм)">1</param>
-        <param name="G2 (дюйм)">1/2</param>
-        <param name="Покриття">Немає</param>
-        <param name="Колір">Латунний</param>
-      </offer>
       <offer id="NF3241" available="true">
         <url>https://ol.partners/products/truboprovodi-ta-zyednannya/fitingi/rizbovi-zyednannya/vrizka-v-bak-z-kontrgaykoyu-nolf-nfc45010-1-latunna-nf3241</url>
         <price>177.00</price>
@@ -38035,6 +38003,38 @@
         <param name="G (дюйм)">1</param>
         <param name="Діаметр підключення (дюйм)">1</param>
         <param name="Гарантійний період (міс)">84</param>
+      </offer>
+      <offer id="NF3210" available="true">
+        <url>https://ol.partners/products/truboprovodi-ta-zyednannya/fitingi/rizbovi-zyednannya/futorka-nolf-nfcf06101mx12f-nf3210</url>
+        <price>82.00</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>cccd3e1f-6b84-49c8-b342-dee61a5caf10</categoryId>
+        <picture>https://ol.partners/Products/Photo/AC89233C-0FD3-4DFF-A2CA-EC99DE2FB5D3</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/329b82a6-cde4-4967-a2e9-d8034ae784cf/image_03.jpg</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/329b82a6-cde4-4967-a2e9-d8034ae784cf/image_02.jpg</picture>
+        <vendor>NOLF</vendor>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Достатньо</availabilityStatus>
+        <name>Футорка NOLF NFC.F0610-1"Mx1/2"F (NF3210)</name>
+        <description>&lt;![CDATA[]]&gt;</description>
+        <vendorCode>NF3210</vendorCode>
+        <param name="Од. в упак.">240</param>
+        <param name="Об'єм ящ.">0</param>
+        <param name="Вага ящ.">0</param>
+        <param name="Гарантійний період (міс)">84</param>
+        <param name="Торгова марка">NOLF</param>
+        <param name="Вид виробу">Футорка</param>
+        <param name="Тип виробу">Латунний фітинг</param>
+        <param name="Модель">NFC.F0610</param>
+        <param name="Тип">Футорка</param>
+        <param name="Країна бренду">Німеччина</param>
+        <param name="Призначення">Для труб</param>
+        <param name="Тип з'єднання">Різьбовий</param>
+        <param name="Матеріал">Латунь CW617N</param>
+        <param name="G1 (дюйм)">1</param>
+        <param name="G2 (дюйм)">1/2</param>
+        <param name="Покриття">Немає</param>
+        <param name="Колір">Латунний</param>
       </offer>
       <offer id="MP6497" available="true">
         <url>https://ol.partners/products/keramika/rakovini/rakovina-mebleva-mixxus-premium-cubic1503-810kh460kh170mm-otvir-pid-zmishuvach-pereliv-mp6497</url>
@@ -48336,15 +48336,15 @@
         <param name="Довжина труби (м)">2</param>
         <param name="Розміри (мм)">15x1</param>
       </offer>
-      <offer id="EP6233" available="false">
+      <offer id="EP6233" available="true">
         <url>https://ol.partners/products/filtri-ochischennya-vodi/komplektuyuchi-dlya-filtriv-vodi/kartridzh-iz-polipropilenovoi-nitki-pp20-25x10-europroduct-epv02251020-ep6233</url>
         <price>54.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>d191ae68-f2ee-4472-8036-e37d06c8ffc9</categoryId>
         <picture>https://ol.partners/Products/Photo/AA4FECE9-A952-4CDC-BFF8-F58D2B316960</picture>
         <vendor>EUROPRODUCT</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Картридж із поліпропіленової нитки PP20 2,5"x10" EUROPRODUCT EPV-02-2510-20 (EP6233)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>EP6233</vendorCode>
@@ -53975,42 +53975,6 @@
         <param name="Гарантійний період (міс)">96</param>
         <param name="Тип з'єднання">Гайка-Штуцер 1/2x1/2</param>
       </offer>
-      <offer id="ZX6186" available="false">
-        <url>https://ol.partners/products/miyki-dlya-kukhni/vrizni-miyki/miyka-z-nerzhaviyuchoi-stali-zerix-zh5850l-decor-ss-color-3008-kolir-nerzhaviyka-zx6186</url>
-        <price>3968.00</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>4b1ed2a0-7372-49d4-8570-7be730b86a84</categoryId>
-        <picture>https://ol.partners/Products/Photo/33AB4862-2E81-4A1D-B88F-690E939E113C</picture>
-        <vendor>ZERIX</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
-        <name>Мийка з нержавіючої сталі ZERIX ZH5850L DECOR SS COLOR (3.0/0.8) (колір нержавійка) (ZX6186)</name>
-        <description>&lt;![CDATA[]]&gt;</description>
-        <vendorCode>ZX6186</vendorCode>
-        <param name="Од. в упак.">1</param>
-        <param name="Об'єм ящ.">0</param>
-        <param name="Вага ящ.">0</param>
-        <param name="Матеріал виробу">Нержавіюча сталь</param>
-        <param name="Кількість чаш (шт)">1</param>
-        <param name="Кількість отворів">2 отвори</param>
-        <param name="Є крило для посуду">Так</param>
-        <param name="Є отвір під змішувач">Так</param>
-        <param name="Товщина мийки (мм)">3.0/0.8</param>
-        <param name="Модель">ZH5850L</param>
-        <param name="Тип виробу">Нержавіючі мийки для кухні</param>
-        <param name="Вид виробу">HANDMADE мийки</param>
-        <param name="Країна бренду">Чехія</param>
-        <param name="Торгова марка">ZERIX</param>
-        <param name="Країна виробник">Китай</param>
-        <param name="Наявність PVD покриття">Так</param>
-        <param name="Структура поверхні мийки">Decor</param>
-        <param name="Виконання">Універсальна</param>
-        <param name="Колір">Нержавіюча сталь</param>
-        <param name="Гарантійний період (міс)">36</param>
-        <param name="Комплектація">Мийка, сифон, кріплення</param>
-        <param name="Довжина (мм)">580</param>
-        <param name="Ширина (мм)">500</param>
-      </offer>
       <offer id="ZX4537" available="true">
         <url>https://ol.partners/products/miyki-dlya-kukhni/vrizni-miyki/miyka-kukhonna-zerix-zs510r13-grafitnaya-zx4537</url>
         <price>3174.00</price>
@@ -54047,6 +54011,42 @@
         <param name="Довжина (мм)">510</param>
         <param name="Ширина (мм)">510</param>
         <param name="Глибина чаші (мм)">200</param>
+      </offer>
+      <offer id="ZX6186" available="false">
+        <url>https://ol.partners/products/miyki-dlya-kukhni/vrizni-miyki/miyka-z-nerzhaviyuchoi-stali-zerix-zh5850l-decor-ss-color-3008-kolir-nerzhaviyka-zx6186</url>
+        <price>3968.00</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>4b1ed2a0-7372-49d4-8570-7be730b86a84</categoryId>
+        <picture>https://ol.partners/Products/Photo/33AB4862-2E81-4A1D-B88F-690E939E113C</picture>
+        <vendor>ZERIX</vendor>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <name>Мийка з нержавіючої сталі ZERIX ZH5850L DECOR SS COLOR (3.0/0.8) (колір нержавійка) (ZX6186)</name>
+        <description>&lt;![CDATA[]]&gt;</description>
+        <vendorCode>ZX6186</vendorCode>
+        <param name="Од. в упак.">1</param>
+        <param name="Об'єм ящ.">0</param>
+        <param name="Вага ящ.">0</param>
+        <param name="Матеріал виробу">Нержавіюча сталь</param>
+        <param name="Кількість чаш (шт)">1</param>
+        <param name="Кількість отворів">2 отвори</param>
+        <param name="Є крило для посуду">Так</param>
+        <param name="Є отвір під змішувач">Так</param>
+        <param name="Товщина мийки (мм)">3.0/0.8</param>
+        <param name="Модель">ZH5850L</param>
+        <param name="Тип виробу">Нержавіючі мийки для кухні</param>
+        <param name="Вид виробу">HANDMADE мийки</param>
+        <param name="Країна бренду">Чехія</param>
+        <param name="Торгова марка">ZERIX</param>
+        <param name="Країна виробник">Китай</param>
+        <param name="Наявність PVD покриття">Так</param>
+        <param name="Структура поверхні мийки">Decor</param>
+        <param name="Виконання">Універсальна</param>
+        <param name="Колір">Нержавіюча сталь</param>
+        <param name="Гарантійний період (міс)">36</param>
+        <param name="Комплектація">Мийка, сифон, кріплення</param>
+        <param name="Довжина (мм)">580</param>
+        <param name="Ширина (мм)">500</param>
       </offer>
       <offer id="EP4077" available="true">
         <url>https://ol.partners/products/truboprovodi-ta-zyednannya/fitingi/zyednannya-dlya-trub-z-polipropilenu/triynik-20x20x20-ppr-europroduct-ep0026-ep4077</url>
@@ -61828,7 +61828,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/3a0e15c7-de77-421c-9f67-944458c34247/image_02.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Колекторний блок з термостатіч. клапанами Koer KR.1100-03 1"x3 ways (KR2629)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR2629</vendorCode>
@@ -65636,7 +65636,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/1aed7224-f47c-49b4-9622-2941231bc99e/image_04.jpg</picture>
         <vendor>ZERIX</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Дзеркало ZERIX PRIME MR02-60x80 з LED Touch, Anti-fog, димером, рег. яскравості (ZX6051)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>ZX6051</vendorCode>
@@ -68169,7 +68169,7 @@
         <param name="Торгова марка">GROHE</param>
         <param name="Матеріал виробу">Латунь</param>
       </offer>
-      <offer id="ZX5023" available="false">
+      <offer id="ZX5023" available="true">
         <url>https://ol.partners/products/aksesuari-dlya-kukhni/susharka-dlya-posudu/susharka-dlya-posudu-zerix-bas01-gray-kolir-siriy-zx5023</url>
         <price>414.00</price>
         <currencyId>UAH</currencyId>
@@ -68177,8 +68177,8 @@
         <picture>https://ol.partners/Products/Photo/A6531869-DD33-4E9B-844E-D1D843198366</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/919b90c5-3184-404f-8fd3-35a35724b19a/image_02.jpg</picture>
         <vendor>ZERIX</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Сушарка для посуду Zerix BAS-01 GRAY (колір сірий) (ZX5023)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>ZX5023</vendorCode>
@@ -77133,7 +77133,7 @@
         <param name="Тип монтажу">На виріб</param>
         <param name="Тип виробу">Крани для питної води</param>
       </offer>
-      <offer id="ZX4998" available="true">
+      <offer id="ZX4998" available="false">
         <url>https://ol.partners/products/aksesuari-dlya-vannoi/shtangi-teleskopichni/shtanga-dlya-shtorki-teleskopichna-pryama-zerix-cra110x200-110cm200cm-alyuminiy-zx4998</url>
         <price>244.00</price>
         <currencyId>UAH</currencyId>
@@ -77152,8 +77152,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/473f525e-4263-46aa-8037-fdd400ad40f8/image_10.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/473f525e-4263-46aa-8037-fdd400ad40f8/image_05.jpg</picture>
         <vendor>ZERIX</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Штанга для шторки телескопічна пряма ZERIX CRA-110x200 110cm-200cm (алюміній) (ZX4998)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>ZX4998</vendorCode>
@@ -78385,7 +78385,7 @@
         <picture>https://ol.partners/Products/Photo/57DFD804-C3FB-4479-804D-CF459A8D1CD7</picture>
         <vendor>EUROPRODUCT</vendor>
         <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Картридж із поліпропіленової нитки PP1 2,5"x10" EUROPRODUCT EPV-02-2510-01 (EP6230)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>EP6230</vendorCode>
@@ -79458,7 +79458,7 @@
         <param name="Покриття">Нікель</param>
         <param name="Гарантійний період (міс)">84</param>
       </offer>
-      <offer id="ZX5024" available="false">
+      <offer id="ZX5024" available="true">
         <url>https://ol.partners/products/aksesuari-dlya-kukhni/susharka-dlya-posudu/susharka-dlya-posudu-zerix-bas01-black-kolir-chorniy-zx5024</url>
         <price>396.00</price>
         <currencyId>UAH</currencyId>
@@ -79466,8 +79466,8 @@
         <picture>https://ol.partners/Products/Photo/FAB32E81-9150-4F79-869B-1BC71492898A</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/2ede8117-e38c-4fb3-b2af-3458b0fea19f/image_02.jpg</picture>
         <vendor>ZERIX</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Сушарка для посуду Zerix BAS-01 Black (колір чорний) (ZX5024)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>ZX5024</vendorCode>
@@ -84065,6 +84065,23 @@
         <param name="Комплектація">Ізоляційна стрічка, пульт, інструкція, гарантійний талон</param>
         <param name="Максимальна глибина занурення (м)">60</param>
       </offer>
+      <offer id="EP6276" available="true">
+        <url>https://ol.partners/products/filtri-ochischennya-vodi/zvorotniy-osmos/sistema-zvorotnogo-osmosu-europroduct-epv91-5-stupeniv-pompa-membrana-75-galon-ep6276</url>
+        <price>7349.00</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>d191ae68-f2ee-4472-8036-e37d06c8ffc9</categoryId>
+        <picture>https://ol.partners/Products/Photo/4BAF5034-87FD-41DE-A429-4D687F6C76FC</picture>
+        <vendor>EUROPRODUCT</vendor>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Достатньо</availabilityStatus>
+        <name>Система зворотного осмосу 5 ступенів + помпа (мембрана 75 галон) EUROPRODUCT EPV-91 (EP6276)</name>
+        <description>&lt;![CDATA[]]&gt;</description>
+        <vendorCode>EP6276</vendorCode>
+        <param name="Од. в упак.">1</param>
+        <param name="Об'єм ящ.">0</param>
+        <param name="Вага ящ.">0</param>
+        <param name="Торгова марка">EUROPRODUCT</param>
+      </offer>
       <offer id="LL1215" available="true">
         <url>https://ol.partners/products/aksesuari-dlya-vannoi/milnitsi/milnitsya-nastilna-matova-zerix-lr751-ll1215</url>
         <price>55.00</price>
@@ -84478,33 +84495,6 @@
         <param name="Глибина чаші (мм)">220</param>
         <param name="Комплектація">Мийка, змішувач, гнучка підводка, кріпильна гайка, вбудований дозатор, елементи кріплення для мийки, сітка-заглушка для мийки, сифон, випуск, перелив, сушка для посуду</param>
       </offer>
-      <offer id="EP6266" available="true">
-        <url>https://ol.partners/products/truboprovodi-ta-zyednannya/fitingi/zyednannya-dlya-trub-z-polipropilenu/triynik-reduktsiyniy-europroduct-ep0036-40x25x40-ppr-ep6266</url>
-        <price>19.35</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>cccd3e1f-6b84-49c8-b342-dee61a5caf10</categoryId>
-        <picture>https://ol.partners/Products/Photo/FC0FB5F7-1A23-45EA-BEAA-BD4BBAC738F2</picture>
-        <vendor>EUROPRODUCT</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
-        <name>Трійник редукційний Europroduct EP.0036 - 40x25x40 PPR (EP6266)</name>
-        <description>&lt;![CDATA[]]&gt;</description>
-        <vendorCode>EP6266</vendorCode>
-        <param name="Од. в упак.">100</param>
-        <param name="Об'єм ящ.">0.039</param>
-        <param name="Вага ящ.">8</param>
-        <param name="Гарантійний період (міс)">12</param>
-        <param name="Модель">EP.0036</param>
-        <param name="Призначення">Для труб</param>
-        <param name="Вид виробу">Трійник</param>
-        <param name="Країна бренду">Україна</param>
-        <param name="Тип виробу">Труби та фітинги PPR</param>
-        <param name="Торгова марка">EUROPRODUCT</param>
-        <param name="Тип">Трійник</param>
-        <param name="Тип з'єднання">Пайка</param>
-        <param name="Матеріал">Поліпропілен</param>
-        <param name="Колір">Сірий</param>
-      </offer>
       <offer id="NF3239" available="true">
         <url>https://ol.partners/products/truboprovodi-ta-zyednannya/fitingi/rizbovi-zyednannya/vrizka-v-bak-z-kontrgaykoyu-nolf-nfc45006-12-latunna-nf3239</url>
         <price>92.00</price>
@@ -84617,30 +84607,6 @@
         <param name="Гарантія на комплектуючі (міс)">36</param>
         <param name="Комплектація">Без панелі змиву</param>
         <param name="Колір">Червоний</param>
-      </offer>
-      <offer id="ZX3008" available="true">
-        <url>https://ol.partners/products/truboprovodi-ta-zyednannya/gnuchka-pidvodka/gnuchkiy-shlang-dlya-pidklyuchennya-vodi-gayka-12-gayka-12-40-sm-silik-obolonka-zerix-zx3008</url>
-        <price>60.00</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>85089059-b2ea-414c-a0f0-0cb7187f4e74</categoryId>
-        <picture>https://ol.partners/Products/Photo/576DDD01-932F-402B-A82B-2ED6F921C77D</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/1285e220-87d3-4a84-9dee-c7c955ee91ec/image_01.jpg</picture>
-        <vendor>ZERIX</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
-        <name>Гнучкий шланг для підключення води гайка 1/2 - гайка 1/2 (40 см) (силік. оболонка) Zerix (ZX3008)</name>
-        <description>&lt;![CDATA[]]&gt;</description>
-        <vendorCode>ZX3008</vendorCode>
-        <param name="Од. в упак.">200</param>
-        <param name="Об'єм ящ.">0.029</param>
-        <param name="Вага ящ.">17.7</param>
-        <param name="Торгова марка">ZERIX</param>
-        <param name="Країна бренду">Чехія</param>
-        <param name="Тип виробу">Шланги та гнучкі підведення</param>
-        <param name="Вид виробу">Шланги в оплетенні</param>
-        <param name="Гарантійний період (міс)">96</param>
-        <param name="Кількість (шт)">1</param>
-        <param name="Тип з'єднання">Гайка-Гайка 1/2x1/2</param>
       </offer>
       <offer id="KP3178" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/tsirkulyatsiyni-nasosi/nasos-tsirkulyatsiyniy-chastotniy-koer-ape-258180-kp3178</url>
@@ -85725,7 +85691,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/d1e0dff9-2cf8-412b-b187-86d801d916c5/image_04.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Кран кульовий Koer 1/2" ГШМ (KR.218) (KR0034)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR0034</vendorCode>
@@ -88616,7 +88582,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/4872aa99-a3b3-4d6c-8b05-fa20d27950db/image_03_KR0173.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Вентиль кутовий 1/2x1/2 "антіпротічка" Koer KR.901-Gi (KR0173)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR0173</vendorCode>
@@ -94651,14 +94617,14 @@
         <param name="Діаметр підключення (дюйм)">1/2</param>
         <param name="Колір">Сірий</param>
       </offer>
-      <offer id="EP6143" available="false">
+      <offer id="EP6143" available="true">
         <url>https://ol.partners/products/radiatori-opalennya/sektsiyni-radiatori/radiator-sektsiyniy-europroduct-100-bimetal500-ep6143-tsina-vkazana-za-1-sektsiyu</url>
         <price>370.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>271f5959-3c31-47d1-81a4-4ed3ce39cde4</categoryId>
         <picture>https://ol.partners/Products/Photo/09CBED2D-3065-46C9-AD42-4F88D0FC7D28</picture>
         <vendor>EUROPRODUCT</vendor>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>100</stock_quantity>
         <availabilityStatus>Достатньо</availabilityStatus>
         <name>Радіатор секційний Europroduct 100 Bimetal-500 (EP6143) / ціна вказана за 1 секцію</name>
         <description>&lt;![CDATA[]]&gt;</description>
@@ -102640,6 +102606,34 @@
         <param name="Покриття">Без покриття</param>
         <param name="Колір">Латунний</param>
       </offer>
+      <offer id="ZX1556" available="true">
+        <url>https://ol.partners/products/truboprovodi-ta-zyednannya/gnuchka-pidvodka/gnuchkiy-shlang-dlya-pidklyuchennya-vodi-gayka-12-gayka-12-150-sm-zerix-zx1556</url>
+        <price>125.00</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>85089059-b2ea-414c-a0f0-0cb7187f4e74</categoryId>
+        <picture>https://ol.partners/Products/Photo/B65C819C-BE8A-4B12-849F-56B92ED7FB4E</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/b054185b-1a2d-4440-828a-18c7419f2a0f/image_04.jpg</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/b054185b-1a2d-4440-828a-18c7419f2a0f/image_01.jpg</picture>
+        <vendor>ZERIX</vendor>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Достатньо</availabilityStatus>
+        <name>Гнучкий шланг для підключення води гайка 1/2'' - гайка 1/2'' (150 см) Zerix (ZX1556)</name>
+        <description>&lt;![CDATA[]]&gt;</description>
+        <vendorCode>ZX1556</vendorCode>
+        <param name="Од. в упак.">70</param>
+        <param name="Об'єм ящ.">0.041</param>
+        <param name="Вага ящ.">16</param>
+        <param name="Торгова марка">ZERIX</param>
+        <param name="Тип виробу">Шланги та гнучкі підведення</param>
+        <param name="Тип">В обплетенні</param>
+        <param name="Країна бренду">Чехія</param>
+        <param name="Вид виробу">Шланги в оплетенні</param>
+        <param name="Тип з'єднання">Гайка-Гайка 1/2x1/2</param>
+        <param name="Довжина шланга підключення">150 см</param>
+        <param name="Матеріал виробу">Нержавіюча сталь</param>
+        <param name="Кількість (шт)">1</param>
+        <param name="Гарантійний період (міс)">96</param>
+      </offer>
       <offer id="ZX3175" available="false">
         <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/krani/kran-dlya-pidklyuchennya-santekhpriboriv/kran-dlya-pidklyuchennya-santekhpriboriv-siniy-zerix-val01-zx3175</url>
         <price>119.00</price>
@@ -102671,34 +102665,6 @@
         <param name="C (мм)">32,00</param>
         <param name="Тип приєднання">Різьбове</param>
         <param name="Матеріал виробу">Нержавіюча сталь SUS304</param>
-      </offer>
-      <offer id="ZX1556" available="true">
-        <url>https://ol.partners/products/truboprovodi-ta-zyednannya/gnuchka-pidvodka/gnuchkiy-shlang-dlya-pidklyuchennya-vodi-gayka-12-gayka-12-150-sm-zerix-zx1556</url>
-        <price>125.00</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>85089059-b2ea-414c-a0f0-0cb7187f4e74</categoryId>
-        <picture>https://ol.partners/Products/Photo/B65C819C-BE8A-4B12-849F-56B92ED7FB4E</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/b054185b-1a2d-4440-828a-18c7419f2a0f/image_04.jpg</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/b054185b-1a2d-4440-828a-18c7419f2a0f/image_01.jpg</picture>
-        <vendor>ZERIX</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
-        <name>Гнучкий шланг для підключення води гайка 1/2'' - гайка 1/2'' (150 см) Zerix (ZX1556)</name>
-        <description>&lt;![CDATA[]]&gt;</description>
-        <vendorCode>ZX1556</vendorCode>
-        <param name="Од. в упак.">70</param>
-        <param name="Об'єм ящ.">0.041</param>
-        <param name="Вага ящ.">16</param>
-        <param name="Торгова марка">ZERIX</param>
-        <param name="Тип виробу">Шланги та гнучкі підведення</param>
-        <param name="Тип">В обплетенні</param>
-        <param name="Країна бренду">Чехія</param>
-        <param name="Вид виробу">Шланги в оплетенні</param>
-        <param name="Тип з'єднання">Гайка-Гайка 1/2x1/2</param>
-        <param name="Довжина шланга підключення">150 см</param>
-        <param name="Матеріал виробу">Нержавіюча сталь</param>
-        <param name="Кількість (шт)">1</param>
-        <param name="Гарантійний період (міс)">96</param>
       </offer>
       <offer id="ZX5142" available="true">
         <url>https://ol.partners/products/truboprovodi-ta-zyednannya/gnuchka-pidvodka/gnuchke-pidvedennya-zerix-zhn02ff12100-neylonove-obpletennya-gayki-nerzh-zx5142</url>
@@ -108663,7 +108629,7 @@
         <param name="Особливості">Матеріал закладних деталей - Латунь CW617N нікельована</param>
         <param name="Гарантійний період (міс)">84</param>
       </offer>
-      <offer id="WH0612" available="true">
+      <offer id="WH0612" available="false">
         <url>https://ol.partners/products/boyleri/vodonagrivach-kvadrat-mixxus-ewh13080-cube-wetv-nakopichuvalniy-80-l-mokriy-ten-20-kw-wh0612</url>
         <price>9158.00</price>
         <currencyId>UAH</currencyId>
@@ -108674,8 +108640,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/e120eddf-3bc7-4583-8c3c-680f76739ed5/image_03.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/e120eddf-3bc7-4583-8c3c-680f76739ed5/image_02.jpg</picture>
         <vendor>MIXXUS</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Водонагрівач "Квадрат" Mixxus EWH-13080 CUBE WET(V) накопичувальний 80 л, мокрий тен 2,0 kW (WH0612)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>WH0612</vendorCode>
@@ -113924,35 +113890,6 @@
         <param name="Діаметр підключення (мм)">20</param>
         <param name="Колір">Сірий</param>
       </offer>
-      <offer id="KP0047" available="true">
-        <url>https://ol.partners/products/truboprovodi-ta-zyednannya/fitingi/zyednannya-dlya-trub-z-polipropilenu/mufta-reduktsiyna-vv-63x40-ppr-koer-k0039pro-kp0047</url>
-        <price>46.00</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>cccd3e1f-6b84-49c8-b342-dee61a5caf10</categoryId>
-        <picture>https://ol.partners/Products/Photo/04904586-E739-4FBB-B410-FB01C44CE456</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/c38c2a28-7022-4d78-b583-86451370a4fe/image_01.jpg</picture>
-        <vendor>KOER</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
-        <name>Муфта редукційна ВВ 63x40 PPR Koer K0039.PRO (KP0047)</name>
-        <description>&lt;![CDATA[]]&gt;</description>
-        <vendorCode>KP0047</vendorCode>
-        <param name="Од. в упак.">108</param>
-        <param name="Об'єм ящ.">0.045</param>
-        <param name="Вага ящ.">13.93</param>
-        <param name="Особливості">Стійкий до корозії та хімічних впливів</param>
-        <param name="Гарантійний період (міс)">84</param>
-        <param name="Країна бренду">Чехія</param>
-        <param name="Тип виробу">Труби та фітинги PPR</param>
-        <param name="Тип">Муфта</param>
-        <param name="Призначення">Для труб</param>
-        <param name="Модель">K0039.PRO</param>
-        <param name="Торгова марка">KOER</param>
-        <param name="Вид виробу">Муфта</param>
-        <param name="Тип з'єднання">Пайка</param>
-        <param name="Матеріал">Поліпропілен</param>
-        <param name="Колір">Сірий</param>
-      </offer>
       <offer id="KP0025" available="true">
         <url>https://ol.partners/products/truboprovodi-ta-zyednannya/fitingi/zyednannya-dlya-trub-z-polipropilenu/kut-90-25-ppr-koer-k0020pro-kp0025</url>
         <price>9.49</price>
@@ -113985,6 +113922,35 @@
         <param name="Модель">K0020.PRO</param>
         <param name="Гарантійний період (міс)">84</param>
         <param name="Особливості">Стійкий до корозії та хімічних впливів</param>
+        <param name="Колір">Сірий</param>
+      </offer>
+      <offer id="KP0047" available="true">
+        <url>https://ol.partners/products/truboprovodi-ta-zyednannya/fitingi/zyednannya-dlya-trub-z-polipropilenu/mufta-reduktsiyna-vv-63x40-ppr-koer-k0039pro-kp0047</url>
+        <price>46.00</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>cccd3e1f-6b84-49c8-b342-dee61a5caf10</categoryId>
+        <picture>https://ol.partners/Products/Photo/04904586-E739-4FBB-B410-FB01C44CE456</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/c38c2a28-7022-4d78-b583-86451370a4fe/image_01.jpg</picture>
+        <vendor>KOER</vendor>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Достатньо</availabilityStatus>
+        <name>Муфта редукційна ВВ 63x40 PPR Koer K0039.PRO (KP0047)</name>
+        <description>&lt;![CDATA[]]&gt;</description>
+        <vendorCode>KP0047</vendorCode>
+        <param name="Од. в упак.">108</param>
+        <param name="Об'єм ящ.">0.045</param>
+        <param name="Вага ящ.">13.93</param>
+        <param name="Особливості">Стійкий до корозії та хімічних впливів</param>
+        <param name="Гарантійний період (міс)">84</param>
+        <param name="Країна бренду">Чехія</param>
+        <param name="Тип виробу">Труби та фітинги PPR</param>
+        <param name="Тип">Муфта</param>
+        <param name="Призначення">Для труб</param>
+        <param name="Модель">K0039.PRO</param>
+        <param name="Торгова марка">KOER</param>
+        <param name="Вид виробу">Муфта</param>
+        <param name="Тип з'єднання">Пайка</param>
+        <param name="Матеріал">Поліпропілен</param>
         <param name="Колір">Сірий</param>
       </offer>
       <offer id="KR5018" available="true">
@@ -121003,6 +120969,30 @@
         <param name="Покриття">Без покриття</param>
         <param name="Колір">Сталевий</param>
       </offer>
+      <offer id="ZX3008" available="true">
+        <url>https://ol.partners/products/truboprovodi-ta-zyednannya/gnuchka-pidvodka/gnuchkiy-shlang-dlya-pidklyuchennya-vodi-gayka-12-gayka-12-40-sm-silik-obolonka-zerix-zx3008</url>
+        <price>60.00</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>85089059-b2ea-414c-a0f0-0cb7187f4e74</categoryId>
+        <picture>https://ol.partners/Products/Photo/576DDD01-932F-402B-A82B-2ED6F921C77D</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/1285e220-87d3-4a84-9dee-c7c955ee91ec/image_01.jpg</picture>
+        <vendor>ZERIX</vendor>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Достатньо</availabilityStatus>
+        <name>Гнучкий шланг для підключення води гайка 1/2 - гайка 1/2 (40 см) (силік. оболонка) Zerix (ZX3008)</name>
+        <description>&lt;![CDATA[]]&gt;</description>
+        <vendorCode>ZX3008</vendorCode>
+        <param name="Од. в упак.">200</param>
+        <param name="Об'єм ящ.">0.029</param>
+        <param name="Вага ящ.">17.7</param>
+        <param name="Торгова марка">ZERIX</param>
+        <param name="Країна бренду">Чехія</param>
+        <param name="Тип виробу">Шланги та гнучкі підведення</param>
+        <param name="Вид виробу">Шланги в оплетенні</param>
+        <param name="Гарантійний період (міс)">96</param>
+        <param name="Кількість (шт)">1</param>
+        <param name="Тип з'єднання">Гайка-Гайка 1/2x1/2</param>
+      </offer>
       <offer id="MP6560" available="true">
         <url>https://ol.partners/products/keramika/rakovini/rakovina-nakladna-mixxus-premium-wave0106-marble-620kh360kh160mm-mp6560</url>
         <price>5152.00</price>
@@ -124975,7 +124965,7 @@
         <picture>https://ol.partners/Products/Photo/6801C0EF-524E-40D8-99B5-13570C94A5F6</picture>
         <vendor>EUROPRODUCT</vendor>
         <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Картридж поліпропіленовий PP1 2,5"x10" EUROPRODUCT EPV-01-2510-01 (EP6226)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>EP6226</vendorCode>
@@ -131795,15 +131785,15 @@
         <param name="Гарантійний період (міс)">12</param>
         <param name="Умови експлуатації та догляд">1. Рекомендується прати не рідше 1 разу на місяць у ручному режимі при температурі не більше 30°С. 2. Для збереження зовнішнього вигляду виробу рекомендується споліскувати фіранку після прийому душу. 3. При появі плісняви рекомендується замочити фіранку в розчині прального порошку з теплою водою та невеликої кількості відбілювача на 30-40 хв, після чого прати у ручному режимі за температури 30 °С. Якщо через нетривалий час цвіль з'явиться знову, рекомендується замінити виріб на новий.</param>
       </offer>
-      <offer id="EP6227" available="false">
+      <offer id="EP6227" available="true">
         <url>https://ol.partners/products/filtri-ochischennya-vodi/komplektuyuchi-dlya-filtriv-vodi/kartridzh-polipropilenoviy-pp5-25x10-europroduct-epv01251005-ep6227</url>
         <price>29.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>d191ae68-f2ee-4472-8036-e37d06c8ffc9</categoryId>
         <picture>https://ol.partners/Products/Photo/8AF97C6D-BA6F-4175-A60A-E14F5D63B03B</picture>
         <vendor>EUROPRODUCT</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Картридж поліпропіленовий PP5 2,5"x10" EUROPRODUCT EPV-01-2510-05 (EP6227)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>EP6227</vendorCode>
@@ -138623,41 +138613,6 @@
         <param name="Поверхня">Глянцева</param>
         <param name="Форма">Кругла</param>
       </offer>
-      <offer id="KF0131" available="true">
-        <url>https://ol.partners/products/truboprovodi-ta-zyednannya/fitingi/rizbovi-zyednannya/futorka-12kh1-khrom-koer-kff0610chr-kf0131</url>
-        <price>130.00</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>cccd3e1f-6b84-49c8-b342-dee61a5caf10</categoryId>
-        <picture>https://ol.partners/Products/Photo/2D442F50-F61E-4176-AC36-ECACD397DA3E</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/af9d9628-3c18-41ff-bfc3-c08e75ab343f/image_03_KF0131.jpg</picture>
-        <vendor>KOER</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
-        <name>Футорка 1/2"х1" (хром) Koer KF.F0610.chr (KF0131)</name>
-        <description>&lt;![CDATA[]]&gt;</description>
-        <vendorCode>KF0131</vendorCode>
-        <param name="Од. в упак.">400</param>
-        <param name="Об'єм ящ.">0.021</param>
-        <param name="Вага ящ.">32.6</param>
-        <param name="Призначення">Для труб</param>
-        <param name="Вид виробу">Футорка</param>
-        <param name="Модель">KF.F0610.CHR</param>
-        <param name="Тип виробу">Латунний фітинг</param>
-        <param name="Тип">Футорка</param>
-        <param name="Країна бренду">Чехія</param>
-        <param name="Торгова марка">KOER</param>
-        <param name="Колір">Сталевий</param>
-        <param name="Покриття">Хром</param>
-        <param name="Вага (г)">76,00</param>
-        <param name="A (мм)">20,00</param>
-        <param name="G1 (дюйм)">1</param>
-        <param name="G2 (дюйм)">1/2</param>
-        <param name="Тип з'єднання">Різьбовий</param>
-        <param name="Номінальний тиск (бар)">40,00</param>
-        <param name="Матеріал">Латунь CW617N</param>
-        <param name="Матеріал виробу">Латунь CW617N хромована</param>
-        <param name="Гарантійний період (міс)">84</param>
-      </offer>
       <offer id="KF0083" available="true">
         <url>https://ol.partners/products/truboprovodi-ta-zyednannya/fitingi/rizbovi-zyednannya/futorka-1-kh114-koer-kff1012-kf0083</url>
         <price>147.00</price>
@@ -138691,6 +138646,41 @@
         <param name="Номінальний тиск (бар)">25,00</param>
         <param name="Тип з'єднання">Різьбовий</param>
         <param name="Матеріал">Латунь CW617N</param>
+        <param name="Гарантійний період (міс)">84</param>
+      </offer>
+      <offer id="KF0131" available="true">
+        <url>https://ol.partners/products/truboprovodi-ta-zyednannya/fitingi/rizbovi-zyednannya/futorka-12kh1-khrom-koer-kff0610chr-kf0131</url>
+        <price>130.00</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>cccd3e1f-6b84-49c8-b342-dee61a5caf10</categoryId>
+        <picture>https://ol.partners/Products/Photo/2D442F50-F61E-4176-AC36-ECACD397DA3E</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/af9d9628-3c18-41ff-bfc3-c08e75ab343f/image_03_KF0131.jpg</picture>
+        <vendor>KOER</vendor>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Достатньо</availabilityStatus>
+        <name>Футорка 1/2"х1" (хром) Koer KF.F0610.chr (KF0131)</name>
+        <description>&lt;![CDATA[]]&gt;</description>
+        <vendorCode>KF0131</vendorCode>
+        <param name="Од. в упак.">400</param>
+        <param name="Об'єм ящ.">0.021</param>
+        <param name="Вага ящ.">32.6</param>
+        <param name="Призначення">Для труб</param>
+        <param name="Вид виробу">Футорка</param>
+        <param name="Модель">KF.F0610.CHR</param>
+        <param name="Тип виробу">Латунний фітинг</param>
+        <param name="Тип">Футорка</param>
+        <param name="Країна бренду">Чехія</param>
+        <param name="Торгова марка">KOER</param>
+        <param name="Колір">Сталевий</param>
+        <param name="Покриття">Хром</param>
+        <param name="Вага (г)">76,00</param>
+        <param name="A (мм)">20,00</param>
+        <param name="G1 (дюйм)">1</param>
+        <param name="G2 (дюйм)">1/2</param>
+        <param name="Тип з'єднання">Різьбовий</param>
+        <param name="Номінальний тиск (бар)">40,00</param>
+        <param name="Матеріал">Латунь CW617N</param>
+        <param name="Матеріал виробу">Латунь CW617N хромована</param>
         <param name="Гарантійний період (міс)">84</param>
       </offer>
       <offer id="KR0126" available="true">
@@ -138890,41 +138880,6 @@
         <param name="Гарантійний період (міс)">84</param>
         <param name="Колір">Сірий</param>
       </offer>
-      <offer id="ZM5574" available="true">
-        <url>https://ol.partners/products/miyki-dlya-kukhni/vrizni-miyki/miyka-zerix-z383806160md-micro-decor-zm5574</url>
-        <price>911.00</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>4b1ed2a0-7372-49d4-8570-7be730b86a84</categoryId>
-        <picture>https://ol.partners/Products/Photo/5641C03E-280C-4DAE-A9BE-ED97A4BD55C4</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/bee90780-1cb5-4e84-b2a4-15e928c3b667/image_03.jpg</picture>
-        <vendor>ZERIX</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
-        <name>Мийка Zerix Z3838-06-160MD (micro decor) (ZM5574)</name>
-        <description>&lt;![CDATA[]]&gt;</description>
-        <vendorCode>ZM5574</vendorCode>
-        <param name="Од. в упак.">10</param>
-        <param name="Об'єм ящ.">0.082</param>
-        <param name="Вага ящ.">15.5</param>
-        <param name="Структура поверхні мийки">Micro Decor</param>
-        <param name="Колір">Нержавіюча сталь</param>
-        <param name="Виконання">Універсальна</param>
-        <param name="Глибина чаші (мм)">160</param>
-        <param name="Ширина (мм)">380</param>
-        <param name="Довжина (мм)">380</param>
-        <param name="Країна виробник">Китай</param>
-        <param name="Країна бренду">Чехія</param>
-        <param name="Тип виробу">Нержавіючі мийки для кухні</param>
-        <param name="Торгова марка">ZERIX</param>
-        <param name="Вид виробу">Врізні мийки</param>
-        <param name="Кількість отворів">1 отвір</param>
-        <param name="Є отвір під змішувач">Так</param>
-        <param name="Кількість чаш (шт)">1</param>
-        <param name="Товщина мийки (мм)">0.6</param>
-        <param name="Матеріал виробу">Нержавіюча сталь</param>
-        <param name="Є крило для посуду">Ні</param>
-        <param name="Комплектація">Мийка, сифон, кріплення, стрічка ущільнювача, сітка</param>
-      </offer>
       <offer id="ZX1610" available="true">
         <url>https://ol.partners/products/miyki-dlya-kukhni/nakladni-miyki/kukhonna-miyka-nakladna-zerix-z506004160e-satin-zx1610</url>
         <price>794.00</price>
@@ -138959,6 +138914,41 @@
         <param name="Є отвір під змішувач">Так</param>
         <param name="Є крило для посуду">Ні</param>
         <param name="Кількість отворів">1 отвір</param>
+      </offer>
+      <offer id="ZM5574" available="true">
+        <url>https://ol.partners/products/miyki-dlya-kukhni/vrizni-miyki/miyka-zerix-z383806160md-micro-decor-zm5574</url>
+        <price>911.00</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>4b1ed2a0-7372-49d4-8570-7be730b86a84</categoryId>
+        <picture>https://ol.partners/Products/Photo/5641C03E-280C-4DAE-A9BE-ED97A4BD55C4</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/bee90780-1cb5-4e84-b2a4-15e928c3b667/image_03.jpg</picture>
+        <vendor>ZERIX</vendor>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Достатньо</availabilityStatus>
+        <name>Мийка Zerix Z3838-06-160MD (micro decor) (ZM5574)</name>
+        <description>&lt;![CDATA[]]&gt;</description>
+        <vendorCode>ZM5574</vendorCode>
+        <param name="Од. в упак.">10</param>
+        <param name="Об'єм ящ.">0.082</param>
+        <param name="Вага ящ.">15.5</param>
+        <param name="Структура поверхні мийки">Micro Decor</param>
+        <param name="Колір">Нержавіюча сталь</param>
+        <param name="Виконання">Універсальна</param>
+        <param name="Глибина чаші (мм)">160</param>
+        <param name="Ширина (мм)">380</param>
+        <param name="Довжина (мм)">380</param>
+        <param name="Країна виробник">Китай</param>
+        <param name="Країна бренду">Чехія</param>
+        <param name="Тип виробу">Нержавіючі мийки для кухні</param>
+        <param name="Торгова марка">ZERIX</param>
+        <param name="Вид виробу">Врізні мийки</param>
+        <param name="Кількість отворів">1 отвір</param>
+        <param name="Є отвір під змішувач">Так</param>
+        <param name="Кількість чаш (шт)">1</param>
+        <param name="Товщина мийки (мм)">0.6</param>
+        <param name="Матеріал виробу">Нержавіюча сталь</param>
+        <param name="Є крило для посуду">Ні</param>
+        <param name="Комплектація">Мийка, сифон, кріплення, стрічка ущільнювача, сітка</param>
       </offer>
       <offer id="ZX6105" available="true">
         <url>https://ol.partners/products/aksesuari-dlya-kukhni/susharka-dlya-posudu/susharka-dlya-posudu-zerix-bas01sus-gray-z-nerzh-stali-sus304-kolir-siriy-zx6105</url>
@@ -140663,33 +140653,6 @@
         <param name="Сидіння">Slim Duroplast/Soft-close/Quick relase</param>
         <param name="Матеріал">Дюропласт</param>
       </offer>
-      <offer id="EP6263" available="true">
-        <url>https://ol.partners/products/truboprovodi-ta-zyednannya/fitingi/zyednannya-dlya-trub-z-polipropilenu/mufta-europroduct-ep0006-63x63-ppr-ep6263</url>
-        <price>41.00</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>cccd3e1f-6b84-49c8-b342-dee61a5caf10</categoryId>
-        <picture>https://ol.partners/Products/Photo/FFA546F8-36E4-4B11-A7A3-6D4DEEE7DD76</picture>
-        <vendor>EUROPRODUCT</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
-        <name>Муфта Europroduct EP.0006 - 63x63 PPR (EP6263)</name>
-        <description>&lt;![CDATA[]]&gt;</description>
-        <vendorCode>EP6263</vendorCode>
-        <param name="Од. в упак.">60</param>
-        <param name="Об'єм ящ.">0.044</param>
-        <param name="Вага ящ.">8</param>
-        <param name="Колір">Сірий</param>
-        <param name="Модель">EP.0006</param>
-        <param name="Тип виробу">Труби та фітинги PPR</param>
-        <param name="Торгова марка">EUROPRODUCT</param>
-        <param name="Тип">Муфта</param>
-        <param name="Країна бренду">Україна</param>
-        <param name="Призначення">Для труб</param>
-        <param name="Вид виробу">Муфта</param>
-        <param name="Тип з'єднання">Пайка</param>
-        <param name="Матеріал">Поліпропілен</param>
-        <param name="Гарантійний період (міс)">12</param>
-      </offer>
       <offer id="EP4060" available="true">
         <url>https://ol.partners/products/truboprovodi-ta-zyednannya/fitingi/zyednannya-dlya-trub-z-polipropilenu/mufta-perekhidna-25x32-ppr-europroduct-ep0009-ep4060</url>
         <price>7.08</price>
@@ -140718,6 +140681,33 @@
         <param name="Матеріал">Поліпропілен</param>
         <param name="Тип з'єднання">Пайка</param>
         <param name="Колір">Сірий</param>
+      </offer>
+      <offer id="EP6263" available="true">
+        <url>https://ol.partners/products/truboprovodi-ta-zyednannya/fitingi/zyednannya-dlya-trub-z-polipropilenu/mufta-europroduct-ep0006-63x63-ppr-ep6263</url>
+        <price>41.00</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>cccd3e1f-6b84-49c8-b342-dee61a5caf10</categoryId>
+        <picture>https://ol.partners/Products/Photo/FFA546F8-36E4-4B11-A7A3-6D4DEEE7DD76</picture>
+        <vendor>EUROPRODUCT</vendor>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Достатньо</availabilityStatus>
+        <name>Муфта Europroduct EP.0006 - 63x63 PPR (EP6263)</name>
+        <description>&lt;![CDATA[]]&gt;</description>
+        <vendorCode>EP6263</vendorCode>
+        <param name="Од. в упак.">60</param>
+        <param name="Об'єм ящ.">0.044</param>
+        <param name="Вага ящ.">8</param>
+        <param name="Колір">Сірий</param>
+        <param name="Модель">EP.0006</param>
+        <param name="Тип виробу">Труби та фітинги PPR</param>
+        <param name="Торгова марка">EUROPRODUCT</param>
+        <param name="Тип">Муфта</param>
+        <param name="Країна бренду">Україна</param>
+        <param name="Призначення">Для труб</param>
+        <param name="Вид виробу">Муфта</param>
+        <param name="Тип з'єднання">Пайка</param>
+        <param name="Матеріал">Поліпропілен</param>
+        <param name="Гарантійний період (міс)">12</param>
       </offer>
       <offer id="KR3414" available="true">
         <url>https://ol.partners/products/sifoni-trapi-dlya-dushu/zlivni-trapi/dushoviy-trap-koer-fd10100x100180black-100x100mm-pryamiy-vidvid-kolir-chorniy-kr3414</url>
@@ -153209,7 +153199,7 @@
         <param name="Модель">33х500х1600.S</param>
         <param name="Колір">Білий (RAL 9016)</param>
       </offer>
-      <offer id="KP3134" available="true">
+      <offer id="KP3134" available="false">
         <url>https://ol.partners/products/truboprovodi-ta-zyednannya/fitingi/zyednannya-dlya-trub-z-polipropilenu/mufta-z-yevrokonusom-ta-nakidnoyu-gaykoyu-koer-k0240pro-white-20x34-ppr-kp3134</url>
         <price>118.00</price>
         <currencyId>UAH</currencyId>
@@ -153217,8 +153207,8 @@
         <picture>https://ol.partners/Products/Photo/D6E0E169-CB1E-4CF7-9E33-EC088E2DF658</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/fa6a59aa-67a9-4aa0-9340-72c2e437ec12/image_01.jpg</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Муфта з євроконусом та накидною гайкою Koer K0240.PRO White - 20x3/4 PPR (KP3134)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KP3134</vendorCode>
@@ -156553,6 +156543,33 @@
         <param name="Матеріал виробу">Оцинкована сталь</param>
         <param name="Тип конструкції">Х-подібна</param>
         <param name="Тип кріплення">механічне кріплення, гайки швидкого монтажу</param>
+      </offer>
+      <offer id="EP6266" available="true">
+        <url>https://ol.partners/products/truboprovodi-ta-zyednannya/fitingi/zyednannya-dlya-trub-z-polipropilenu/triynik-reduktsiyniy-europroduct-ep0036-40x25x40-ppr-ep6266</url>
+        <price>19.35</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>cccd3e1f-6b84-49c8-b342-dee61a5caf10</categoryId>
+        <picture>https://ol.partners/Products/Photo/FC0FB5F7-1A23-45EA-BEAA-BD4BBAC738F2</picture>
+        <vendor>EUROPRODUCT</vendor>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Достатньо</availabilityStatus>
+        <name>Трійник редукційний Europroduct EP.0036 - 40x25x40 PPR (EP6266)</name>
+        <description>&lt;![CDATA[]]&gt;</description>
+        <vendorCode>EP6266</vendorCode>
+        <param name="Од. в упак.">100</param>
+        <param name="Об'єм ящ.">0.039</param>
+        <param name="Вага ящ.">8</param>
+        <param name="Гарантійний період (міс)">12</param>
+        <param name="Модель">EP.0036</param>
+        <param name="Призначення">Для труб</param>
+        <param name="Вид виробу">Трійник</param>
+        <param name="Країна бренду">Україна</param>
+        <param name="Тип виробу">Труби та фітинги PPR</param>
+        <param name="Торгова марка">EUROPRODUCT</param>
+        <param name="Тип">Трійник</param>
+        <param name="Тип з'єднання">Пайка</param>
+        <param name="Матеріал">Поліпропілен</param>
+        <param name="Колір">Сірий</param>
       </offer>
       <offer id="KR6316" available="true">
         <url>https://ol.partners/products/truboprovodi-ta-zyednannya/fitingi/presfitingi-iz-nerzhaviyuchoi-stali-pressinox/mufta-nasuvna-koer-kqc22-pressinox-aisi-304-22x22-kr6316</url>
@@ -168662,7 +168679,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/53d82338-a69f-4491-b3c1-622f20bf9add/image_02.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Колекторний блок з витратомірами та євроконусами Koer KR.1210-3 - 1"x3 WAYS (KR5265)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR5265</vendorCode>
@@ -172779,7 +172796,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/203faae2-07b6-4ffe-8016-12905a89b762/image_02.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Комплект для монтажу алюмінієвих та біметалевих радіаторів KOER SET-28 9x170mm гумове покриття (KR5652)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR5652</vendorCode>
@@ -184357,7 +184374,7 @@
         <param name="Довжина шланга підключення">100 см</param>
         <param name="Тип з'єднання">Гайка-Штуцер 1/2x1/2</param>
       </offer>
-      <offer id="31574SD1" available="false">
+      <offer id="31574SD1" available="true">
         <url>https://ol.partners/products/miyki-dlya-kukhni/vrizni-miyki/miyka-dlya-kukhni-iz-nerzhaviyuchoi-stali-grohe-k700u-31574sd1</url>
         <price>16686.00</price>
         <currencyId>UAH</currencyId>
@@ -184373,8 +184390,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/a0d71351-eaab-414f-8868-b905c0bbb716/image_02.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/a0d71351-eaab-414f-8868-b905c0bbb716/image_08.jpg</picture>
         <vendor>GROHE</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Мийка для кухні із нержавіючої сталі Grohe K700U (31574SD1)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>31574SD1</vendorCode>
@@ -190776,7 +190793,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/9d677503-67dd-42cd-968d-b794a113e680/image_01.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Реле тиску для насоса Koer MSG -1 (KP2791)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KP2791</vendorCode>
