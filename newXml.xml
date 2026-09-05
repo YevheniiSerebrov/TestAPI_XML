@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-09-04 02:58">
+<yml_catalog date="2026-09-05 03:00">
   <shop>
     <name>O&amp;L</name>
     <company>O&amp;L</company>
@@ -6899,7 +6899,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/72d54224-b79b-4e91-8150-483875f0ea7d/image_01.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Кран кульовий Koer 3/4" ГШМ (KR.218) (KR0043)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR0043</vendorCode>
@@ -25388,7 +25388,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/108a8ce6-2762-458e-b32f-640f445434fe/image_01.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Кран кульовий Koer 1 1/2" ГШР (KR.215) (KR0022)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR0022</vendorCode>
@@ -39956,7 +39956,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/c205713a-fdc0-4e04-b152-d2a1feb97a56/image_16.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Інсталяція для підвісного унітазу KOER KT-0403 500x165x820mm (без панелі змиву) (KR5313)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR5313</vendorCode>
@@ -41444,7 +41444,7 @@
         <param name="Діаметр (мм)">225</param>
         <param name="Розміри виробу (ВхШхГ)">350x225x225</param>
       </offer>
-      <offer id="WP2907" available="true">
+      <offer id="WP2907" available="false">
         <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/krani/krani-kulovi/kran-kuloviy-waterpro-12-gshm-staleva-metelik-wp2907</url>
         <price>88.00</price>
         <currencyId>UAH</currencyId>
@@ -41452,8 +41452,8 @@
         <picture>https://ol.partners/Products/Photo/8C482806-F66A-44FF-893F-91EB1E86D1D6</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/d050d5a4-1d57-4f0e-bdcd-42df9bd53cee/image_04.jpg</picture>
         <vendor>WATERPRO</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Кран кульовий Waterpro 1/2" ГШМ (сталева метелик) (WP2907)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>WP2907</vendorCode>
@@ -43521,7 +43521,7 @@
         <param name="Колір">Сталевий</param>
         <param name="Гарантійний період (міс)">12</param>
       </offer>
-      <offer id="KR3199" available="false">
+      <offer id="KR3199" available="true">
         <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/kolektorna-shafa/shafa-kolektorna-koer-kr8021-580x580x150-zovnishnya-kr3199</url>
         <price>2473.00</price>
         <currencyId>UAH</currencyId>
@@ -43530,8 +43530,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/a1ae4425-35eb-47bb-af93-c801ab1f93d4/image_02.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/a1ae4425-35eb-47bb-af93-c801ab1f93d4/image_01.jpg</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Шафа колекторна Koer KR.8021 580x580x150, зовнішня (KR3199)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR3199</vendorCode>
@@ -49188,7 +49188,7 @@
         <param name="Висота (мм)">135</param>
         <param name="Ширина (мм)">415</param>
       </offer>
-      <offer id="KR3203" available="true">
+      <offer id="KR3203" available="false">
         <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/kolektorna-shafa/shafa-kolektorna-koer-kr8021-1150x580x150-zovnishnya-kr3203</url>
         <price>3910.00</price>
         <currencyId>UAH</currencyId>
@@ -49197,8 +49197,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/88ce0f2d-799a-4a14-b164-8a875ad74bfe/image_02.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/88ce0f2d-799a-4a14-b164-8a875ad74bfe/image_01.jpg</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Шафа колекторна Koer KR.8021 1150x580x150 (зовнішня) (KR3203)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR3203</vendorCode>
@@ -78286,15 +78286,15 @@
         <param name="Керування">Пневматичне</param>
         <param name="Матеріал">ABS-пластик</param>
       </offer>
-      <offer id="KR6276" available="true">
+      <offer id="KR6276" available="false">
         <url>https://ol.partners/products/truboprovodi-ta-zyednannya/trubi/trubi-iz-nerzhaviyuchoi-stali-pressinox/truba-koer-kq1235-l2m-pressinox-aisi-304-35x15-kr6276</url>
         <price>752.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>cccd3e1f-6b84-49c8-b342-dee61a5caf10</categoryId>
         <picture>https://ol.partners/Products/Photo/2E2224F2-7CAE-465D-AC5E-BA1306D1EB94</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Труба KOER KQ.1235 L=2м PRESS-INOX AISI 304 35x1,5 (KR6276)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR6276</vendorCode>
@@ -103689,7 +103689,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/707ea14b-f467-4f04-b4ba-ad89dfea8c29/image_02.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Генератор бензиновий інверторний Koer KU.2000i (KR3426)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR3426</vendorCode>
@@ -128456,7 +128456,7 @@
         <param name="Довжина (м)">13</param>
         <param name="Товщина (мм)">0,10</param>
       </offer>
-      <offer id="MP6683" available="false">
+      <offer id="MP6683" available="true">
         <url>https://ol.partners/products/keramika/komplektuyuchi-do-keramichnoi-santekhniki/sistema-upravlinnya-zmivom-pisuara-mixxus-premium-bevel2301-z-ik-datchikom-avtomat-zmivu-zhivlennya-vid-batareyok-adapter-dlya-zhivlennya-220v-mp6683</url>
         <price>1932.00</price>
         <currencyId>UAH</currencyId>
@@ -128467,8 +128467,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/e7806f5e-088d-4991-a22f-83ba77d1d333/image_03.png</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/e7806f5e-088d-4991-a22f-83ba77d1d333/image_04.png</picture>
         <vendor>MIXXUS PREMIUM</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Система управління змивом пісуара MIXXUS PREMIUM BEVEL-2301 з ІК датчиком автомат. змиву, живлення від батарейок + адаптер для живлення 220В (MP6683)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>MP6683</vendorCode>
@@ -142814,7 +142814,7 @@
         <param name="Об'єм (л)">5,04</param>
         <param name="Колір">Білий (RAL 9016)</param>
       </offer>
-      <offer id="KR5604" available="true">
+      <offer id="KR5604" available="false">
         <url>https://ol.partners/products/aksesuari-dlya-vannoi/vidro-dlya-smittya/vidro-dlya-smittya-z-plavnim-zakrittyam-pryamokutne-koer-tc01031507-15-l-kolir-grafit-kr5604</url>
         <price>2277.00</price>
         <currencyId>UAH</currencyId>
@@ -142828,7 +142828,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/301ac3a1-b6f4-4ad0-933a-3df6fbb47e96/image_07.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/301ac3a1-b6f4-4ad0-933a-3df6fbb47e96/image_06.jpg</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>100</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Відро для сміття з плавним закриттям прямокутне KOER TC-010315-07 15 л (колір графіт) (KR5604)</name>
         <description>&lt;![CDATA[]]&gt;</description>
@@ -173805,7 +173805,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/4ccd662e-d417-465b-a679-4c43da0ade0e/image_07.jpg</picture>
         <vendor>MIXXUS PREMIUM</vendor>
         <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Раковина підвісна-накладна MIXXUS PREMIUM QUADRO-0201 500х440х120mm (отвір під змішувач, перелив) (MP6478)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>MP6478</vendorCode>
