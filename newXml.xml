@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-09-05 03:00">
+<yml_catalog date="2026-09-06 03:00">
   <shop>
     <name>O&amp;L</name>
     <company>O&amp;L</company>
@@ -17063,15 +17063,15 @@
         <param name="Поверхня">Глянцева</param>
         <param name="Колір">Білий</param>
       </offer>
-      <offer id="KR0233" available="false">
+      <offer id="KR0233" available="true">
         <url>https://ol.partners/products/truboprovodi-ta-zyednannya/trubi/polipropilenovi-trubi-ppr/truba-kompozit-bazalt-koer-ppr-25x42-60-m-kr0233</url>
         <price>59.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>cccd3e1f-6b84-49c8-b342-dee61a5caf10</categoryId>
         <picture>https://ol.partners/Products/Photo/D0439F4A-1FB8-4E49-ADAB-F524800A889F</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Труба композит (базальт) Koer PPR 25x4.2 (60 м) (KR0233)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR0233</vendorCode>
@@ -190465,7 +190465,7 @@
         <param name="Гарантійний період (міс)">24</param>
         <param name="Макс. температура навколишнього середовища (°C)">40</param>
       </offer>
-      <offer id="MI2750" available="true">
+      <offer id="MI2750" available="false">
         <url>https://ol.partners/products/protochni-vodonagrivachi/krani-vodonagrivachi/vodonagrivach-3-kw-protochniy-mixxus-electra-240ef-z-indik-temp-reflektorniy-viliv-reset-na-miyku-mi2750</url>
         <price>1380.00</price>
         <currencyId>UAH</currencyId>
@@ -190473,8 +190473,8 @@
         <picture>https://ol.partners/Products/Photo/371D1C29-51B1-43B4-B85C-82A5A1230F47</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/a02986ae-0d5f-4728-95fd-7e13e0b3c0be/image_01.jpg</picture>
         <vendor>MIXXUS</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Водонагрівач 3 kW проточний MIXXUS Electra 240-EF з індик. темп., рефлекторний вилив, RESET, на мийку (MI2750)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>MI2750</vendorCode>
