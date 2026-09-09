@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-09-08 03:08">
+<yml_catalog date="2026-09-09 03:09">
   <shop>
     <name>O&amp;L</name>
     <company>O&amp;L</company>
@@ -23449,7 +23449,7 @@
         <param name="Ширина (мм)">70</param>
         <param name="Довжина (мм)">550</param>
       </offer>
-      <offer id="ZX5892" available="true">
+      <offer id="ZX5892" available="false">
         <url>https://ol.partners/products/aksesuari-dlya-vannoi/vidro-dlya-smittya/vidro-dlya-smittya-z-plavnim-zakrittyam-kvadratne-zerix-kubixtc0108-black-8-l-kolir-chorniy-zx5892</url>
         <price>1070.00</price>
         <currencyId>UAH</currencyId>
@@ -23462,7 +23462,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/16240732-bd84-4b5a-8dbb-ac5911a69a3a/image_01.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/16240732-bd84-4b5a-8dbb-ac5911a69a3a/image_03.jpg</picture>
         <vendor>ZERIX</vendor>
-        <stock_quantity>100</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Відро для сміття з плавним закриттям квадратне ZERIX KUBIX-TC0108 BLACK 8 л (колір чорний) (ZX5892)</name>
         <description>&lt;![CDATA[]]&gt;</description>
@@ -27884,7 +27884,7 @@
         <param name="Країна бренду">Чехія</param>
         <param name="Торгова марка">KOER</param>
       </offer>
-      <offer id="KR3068" available="false">
+      <offer id="KR3068" available="true">
         <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/krani/krani-kulovi/kran-ggm-dlya-pidklyuchennya-datchika-temperaturi-koer-kr230-34-kr3068</url>
         <price>364.00</price>
         <currencyId>UAH</currencyId>
@@ -27893,8 +27893,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/403acb87-0da3-4a2c-8e30-f359de6e4665/image_01.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/403acb87-0da3-4a2c-8e30-f359de6e4665/image_02.jpg</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Кран ГГМ для підключення датчика температури Koer KR.230 - 3/4" (KR3068)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR3068</vendorCode>
@@ -51436,7 +51436,7 @@
         <param name="Ширина (мм)">500</param>
         <param name="Висота (мм)">700</param>
       </offer>
-      <offer id="PM0620" available="true">
+      <offer id="PM0620" available="false">
         <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/krani/krani-kulovi/kran-kuloviy-plamix-pvm34-fm-pvc-pm0620</url>
         <price>36.00</price>
         <currencyId>UAH</currencyId>
@@ -51444,8 +51444,8 @@
         <picture>https://ol.partners/Products/Photo/23A5C698-8371-4CB3-91AF-63AD0C55DFE1</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/9b622d99-dfa0-4623-a07e-751e2dc51d92/PM0620-PLAMIX-PVM-34-FM-1.jpg</picture>
         <vendor>PLAMIX</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Кран кульовий Plamix PVM-3/4" FM PVC (PM0620)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>PM0620</vendorCode>
@@ -60415,7 +60415,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/8bd48321-266c-43bc-9c4a-0eb898a21dc3/image_02.jpg</picture>
         <vendor>MIXXUS</vendor>
         <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Водонагрівач 3 kW проточний MIXXUS Electra 240-E з індик. темп., RESET, на мийку (MI2749)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>MI2749</vendorCode>
@@ -61521,7 +61521,7 @@
         <picture>https://ol.partners/Products/Photo/ACB296C9-6245-46F5-8420-EA552253DD73</picture>
         <vendor>ZERIX</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Відро для сміття кругле ZERIX STRONG-MB0130 BLACK 30 л (колір чорний) (ZX4633)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>ZX4633</vendorCode>
@@ -68595,7 +68595,7 @@
         <param name="Особливості">Робоча температура 0-110 °;Область робочих тисків для оптимальної продуктивності 0,5-7 бар; Права різьба.</param>
         <param name="Гарантійний період (міс)">12</param>
       </offer>
-      <offer id="WH0598" available="true">
+      <offer id="WH0598" available="false">
         <url>https://ol.partners/products/boyleri/vodonagrivach-ploskiy-mixxus-ewh10080-flat-dry-nakopichuvalniy-80-l-sukhiy-ten-2-kw-wh0598</url>
         <price>11187.00</price>
         <currencyId>UAH</currencyId>
@@ -68606,8 +68606,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/8afcbf64-32ca-4ad1-be07-d6f28b716997/image_01.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/8afcbf64-32ca-4ad1-be07-d6f28b716997/image_03.jpg</picture>
         <vendor>MIXXUS</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Водонагрівач "Плоский" MIXXUS EWH-10080 FLAT DRY накопичувальний 80 л, сухий тен 2 kW (WH0598)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>WH0598</vendorCode>
@@ -110071,15 +110071,15 @@
         <param name="Тип виливу">Поворотний</param>
         <param name="Колір">Нержавіюча сталь</param>
       </offer>
-      <offer id="EP6228" available="false">
+      <offer id="EP6228" available="true">
         <url>https://ol.partners/products/filtri-ochischennya-vodi/komplektuyuchi-dlya-filtriv-vodi/kartridzh-polipropilenoviy-pp10-25x10-europroduct-epv01251010-ep6228</url>
         <price>29.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>d191ae68-f2ee-4472-8036-e37d06c8ffc9</categoryId>
         <picture>https://ol.partners/Products/Photo/A64561A5-D386-48FE-8054-1A806E12AAF0</picture>
         <vendor>EUROPRODUCT</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Картридж поліпропіленовий PP10 2,5"x10" EUROPRODUCT EPV-01-2510-10 (EP6228)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>EP6228</vendorCode>
@@ -112838,7 +112838,7 @@
         <param name="Тип виливу">Поворотний</param>
         <param name="Колір">Білий</param>
       </offer>
-      <offer id="KR2797" available="true">
+      <offer id="KR2797" available="false">
         <url>https://ol.partners/products/truboprovodi-ta-zyednannya/ustatkuvannya-dlya-montazhu/khomuti-na-trubi/khomut-trubniy-otsinkovaniy-koer-kcb20-1-3236-chorniy-kr2797</url>
         <price>38.00</price>
         <currencyId>UAH</currencyId>
@@ -112848,8 +112848,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/e9700bf1-591e-436a-8f00-e1d196787e26/image_03_KR2797.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/e9700bf1-591e-436a-8f00-e1d196787e26/image_01.jpg</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Хомут трубний оцинкований Koer KCB.20 1" (32-36) чорний (KR2797)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR2797</vendorCode>
@@ -125572,8 +125572,8 @@
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR5923</vendorCode>
         <param name="Од. в упак.">48</param>
-        <param name="Об'єм ящ.">0</param>
-        <param name="Вага ящ.">0</param>
+        <param name="Об'єм ящ.">0.041</param>
+        <param name="Вага ящ.">23.7</param>
         <param name="Тип виробу">Опора Т-подібна</param>
         <param name="Торгова марка">KOER</param>
         <param name="Країна бренду">Чехія</param>
@@ -132710,7 +132710,7 @@
         <param name="Колір">Латунний</param>
         <param name="Покриття">Немає</param>
       </offer>
-      <offer id="MI6696" available="true">
+      <offer id="MI6696" available="false">
         <url>https://ol.partners/products/keramika/rakovini/rakovina-monoblok-mixxus-style1101-440kh380kh830mm-otvir-pid-zmishuvach-pereliv-mi6696</url>
         <price>8625.00</price>
         <currencyId>UAH</currencyId>
@@ -132726,8 +132726,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/401c0cc7-963d-48d5-94a4-682e826aae51/image_02.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/401c0cc7-963d-48d5-94a4-682e826aae51/image_03.jpg</picture>
         <vendor>MIXXUS</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Раковина моноблок MIXXUS STYLE-1101 440х380х830mm (отвір під змішувач, перелив) (MI6696)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>MI6696</vendorCode>
@@ -140289,7 +140289,7 @@
         <picture>https://ol.partners/Products/Photo/4ED7E33C-CE25-477D-AD6D-129CC21963DF</picture>
         <vendor>EUROPRODUCT</vendor>
         <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Картридж із поліпропіленової нитки PP5 2,5"x10" EUROPRODUCT EPV-02-2510-05 (EP6231)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>EP6231</vendorCode>
@@ -146034,15 +146034,15 @@
         <param name="Країна бренду">Німеччина</param>
         <param name="Торгова марка">MIXXUS</param>
       </offer>
-      <offer id="KO1067" available="true">
+      <offer id="KO1067" available="false">
         <url>https://ol.partners/products/radiatori-opalennya/stalevi-radiatori/radiator-staleviy-korado-22vk-500x900-z-nizhnim-pidklyuchennyam-ko1067</url>
         <price>7776.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>271f5959-3c31-47d1-81a4-4ed3ce39cde4</categoryId>
         <picture>https://ol.partners/Products/Photo/7E078CE8-8928-410C-8F35-28742247931B</picture>
         <vendor>KORADO</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Радіатор сталевий Korado 22VK 500x900 з нижнім підключенням (KO1067)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KO1067</vendorCode>
@@ -148459,8 +148459,8 @@
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR5919</vendorCode>
         <param name="Од. в упак.">60</param>
-        <param name="Об'єм ящ.">0</param>
-        <param name="Вага ящ.">0</param>
+        <param name="Об'єм ящ.">0.031</param>
+        <param name="Вага ящ.">16</param>
         <param name="Сумісність з комплектуючою">Монтажні профілі, шини, кронштейни, кріплення M8</param>
         <param name="Область застосування">Сантехніка, опалення, вентиляція, кондиціонування, інженерні мережі</param>
         <param name="Призначення">Для кутового з’єднання монтажних профілів, шин і кріпильних вузлів</param>
@@ -149256,8 +149256,8 @@
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR5922</vendorCode>
         <param name="Од. в упак.">30</param>
-        <param name="Об'єм ящ.">0</param>
-        <param name="Вага ящ.">0</param>
+        <param name="Об'єм ящ.">0.051</param>
+        <param name="Вага ящ.">24.2</param>
         <param name="Покриття">Оцинкована</param>
         <param name="Тип виробу">Опора Т-подібна</param>
         <param name="Модель">KCI.0140</param>
@@ -156862,7 +156862,7 @@
         <param name="Покриття">Без покриття</param>
         <param name="Колір">Сталевий</param>
       </offer>
-      <offer id="KR5909" available="true">
+      <offer id="KR5909" available="false">
         <url>https://ol.partners/products/truboprovodi-ta-zyednannya/fitingi/chavunniy-fiting/mufta-zatiskna-iz-zovnishnoyu-rizboyu-koer-kcic10m-1mx314342-kr5909</url>
         <price>516.00</price>
         <currencyId>UAH</currencyId>
@@ -156873,8 +156873,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/634a785f-e204-4463-89f5-48adb319a5fa/image_03.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/634a785f-e204-4463-89f5-48adb319a5fa/image_04.jpg</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Муфта затискна із зовнішньою різьбою KOER KCI.C10M - 1"Мx31,4-34,2 (KR5909)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR5909</vendorCode>
@@ -158099,15 +158099,15 @@
         <param name="Форма">П-подібна універсальна</param>
         <param name="Колір">Нержавіюча сталь</param>
       </offer>
-      <offer id="ZX4989" available="true">
+      <offer id="ZX4989" available="false">
         <url>https://ol.partners/products/aksesuari-dlya-vannoi/shtori-dlya-vannoi/shtorka-dlya-vannoi-zerix-sct005180x180-z-poliesteru-vizerunok-rozhevosiriy-zx4989</url>
         <price>368.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>98cef2a4-d106-4da2-9b4c-f8e66696fd13</categoryId>
         <picture>https://ol.partners/Products/Photo/48AC44E7-D4D9-46A0-800D-E8BCD3B1EDCE</picture>
         <vendor>ZERIX</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Шторка для ванної ZERIX SCT-005-180x180 з поліестеру (Візерунок рожево-сірий) (ZX4989)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>ZX4989</vendorCode>
@@ -166753,8 +166753,8 @@
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR5918</vendorCode>
         <param name="Од. в упак.">60</param>
-        <param name="Об'єм ящ.">0</param>
-        <param name="Вага ящ.">0</param>
+        <param name="Об'єм ящ.">0.044</param>
+        <param name="Вага ящ.">24</param>
         <param name="Країна бренду">Чехія</param>
         <param name="Тип виробу">Опора Т-подібна</param>
         <param name="Торгова марка">KOER</param>
@@ -170959,8 +170959,8 @@
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR5840</vendorCode>
         <param name="Од. в упак.">20</param>
-        <param name="Об'єм ящ.">0</param>
-        <param name="Вага ящ.">0</param>
+        <param name="Об'єм ящ.">0.043</param>
+        <param name="Вага ящ.">14.5</param>
         <param name="З'єднувальний діаметр (дюйм)">1/2</param>
         <param name="Покриття">Хром</param>
         <param name="Колір">Сталевий</param>
@@ -184097,8 +184097,8 @@
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR5920</vendorCode>
         <param name="Од. в упак.">120</param>
-        <param name="Об'єм ящ.">0</param>
-        <param name="Вага ящ.">0</param>
+        <param name="Об'єм ящ.">0.024</param>
+        <param name="Вага ящ.">9.4</param>
         <param name="Тип конструкції">Шпилька з шайбами ​​швидкого монтажу</param>
         <param name="Різьблення">M8</param>
         <param name="Матеріал виробу">Оцинкована сталь</param>
@@ -185008,7 +185008,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/a0d71351-eaab-414f-8868-b905c0bbb716/image_08.jpg</picture>
         <vendor>GROHE</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Мийка для кухні із нержавіючої сталі Grohe K700U (31574SD1)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>31574SD1</vendorCode>
