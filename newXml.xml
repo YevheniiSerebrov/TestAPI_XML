@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-09-09 03:09">
+<yml_catalog date="2026-09-10 03:09">
   <shop>
     <name>O&amp;L</name>
     <company>O&amp;L</company>
@@ -388,7 +388,7 @@
       </offer>
       <offer id="KP3233" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/poverkhneviy-nasos/nasos-poverkhneviy-bagatostupeneviy-koer-tcm54314055-kp3233</url>
-        <price>6050.00</price>
+        <price>6370.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/CE75460A-D866-4291-8D7E-D67B1D4A7012</picture>
@@ -841,7 +841,7 @@
       </offer>
       <offer id="KP2766" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/drenazhni-nasosi/nasos-pogruzhnoy-drenazhniy-koer-qdx-1816055-kp2766</url>
-        <price>4720.00</price>
+        <price>4960.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/631EC16B-F3E0-4573-AB0B-37E4E12CB8D0</picture>
@@ -2340,7 +2340,7 @@
       </offer>
       <offer id="KP3456" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/poverkhneviy-nasos/nasos-poverkhneviy-samovsmoktuyuchiy-koer-jet125a-korpus-chavun-n50mq35kbmp1100-vt-1x-1kp3456</url>
-        <price>5090.00</price>
+        <price>5360.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/C3AD4D03-6B8A-403C-AB92-549A106E38AE</picture>
@@ -2596,7 +2596,7 @@
       </offer>
       <offer id="KP2895" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/tsirkulyatsiyni-nasosi/nasos-tsirkulyatsiyniy-energozberigayuchiy-flantseviy-koer-star-grs-6515f-kp2895</url>
-        <price>34160.00</price>
+        <price>35930.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/4FB8A071-00F7-46E4-B051-9F5BE80BAC4A</picture>
@@ -3647,7 +3647,7 @@
       </offer>
       <offer id="KP2633" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/sverdlovinni-nasosi/tsentrobizhniy-nasos-koer-4sdm-27-25m-pult-kp2633</url>
-        <price>6120.00</price>
+        <price>6430.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/811661B5-7B36-4E1F-A36E-D5958E704876</picture>
@@ -5205,7 +5205,7 @@
       </offer>
       <offer id="KP2620" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/sverdlovinni-nasosi/tsentrobizhniy-nasos-koer-3sdm-238-pult-kp2620</url>
-        <price>8630.00</price>
+        <price>9080.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/4E9C7CC2-1040-4A5D-9283-ECFAC3740F92</picture>
@@ -5268,7 +5268,7 @@
       </offer>
       <offer id="KP2888" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/poverkhneviy-nasos/nasos-poverkhneviy-vidtsentroviy-koer-thf6b1-kp2888</url>
-        <price>8740.00</price>
+        <price>9200.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/B9860B0A-612D-4FC4-A73E-2B8D17596735</picture>
@@ -5997,7 +5997,7 @@
       </offer>
       <offer id="KP3136" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/nasosi-pidvischennya-tisku/nasos-pidvischennya-tisku-koer-kpgrs-1511-n11m-q3kbm-p200-vt-z-kabelem-ta-gaykami-kp3136</url>
-        <price>2830.00</price>
+        <price>2970.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/71BFBAF6-CCA6-4FAC-98ED-BB1DB1E62B20</picture>
@@ -6172,7 +6172,7 @@
       </offer>
       <offer id="KP2648" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/sverdlovinni-nasosi/nasos-glibinniy-shnekoviy-koer-4qgd-185005-kp2648</url>
-        <price>4040.00</price>
+        <price>4250.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/4E6E7232-BCC9-4153-A99A-1538421419B3</picture>
@@ -7127,7 +7127,7 @@
       </offer>
       <offer id="KP2618" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/sverdlovinni-nasosi/tsentrobizhniy-nasos-koer-3sdm-221-pult-kp2618</url>
-        <price>5710.00</price>
+        <price>6010.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/ED149F4F-51E3-4CE3-AFC9-3E32748EB0D5</picture>
@@ -7603,7 +7603,7 @@
       </offer>
       <offer id="KP0253" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/tsirkulyatsiyni-nasosi/nasos-tsirkulyatsiyniy-vidtsentr-koer-kpgrs25-82180-kp0253</url>
-        <price>1990.00</price>
+        <price>2090.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/58F61F61-A71A-4AE7-9738-26B1CEDA8662</picture>
@@ -7754,7 +7754,7 @@
       </offer>
       <offer id="KP3147" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/gidroakumulyatori-dlya-sistem-vodopostachannya/gidroakumulyator-gorizontalniy-koer-khts80-80l-korpusstal-12-mm-flanetsnerzhaviyucha-stal-kp3147</url>
-        <price>4220.00</price>
+        <price>4440.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/C0682C00-064A-4F74-BB4D-6612A643B943</picture>
@@ -7821,7 +7821,7 @@
       </offer>
       <offer id="KP2885" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/poverkhneviy-nasos/nasos-poverkhneviy-vidtsentroviy-koer-2tcp25160a-15x125-kp2885</url>
-        <price>11360.00</price>
+        <price>11950.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/BADD5A19-B152-4C5E-98CC-ECCE5AC33199</picture>
@@ -7903,7 +7903,7 @@
       </offer>
       <offer id="KP3163" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/sverdlovinni-nasosi/tsentrobizhniy-nasos-koer-25sdm-153120m-1-kp3163</url>
-        <price>7020.00</price>
+        <price>7380.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/8B683DFE-467A-47AD-B64D-23308F2C9EE0</picture>
@@ -8195,7 +8195,7 @@
       </offer>
       <offer id="KP2784" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/zapchastini-ta-aksesuari-dlya-nasosiv/kontroler-tisku-elektronniy-dlya-nasosa-koer-ks3-kutoviy-1kp2784</url>
-        <price>1020.00</price>
+        <price>1080.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/C0EDAAF7-8AEB-4E65-8010-5447B1A73CC0</picture>
@@ -8851,7 +8851,7 @@
       </offer>
       <offer id="KP2881" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/poverkhneviy-nasos/nasos-poverkhneviy-vidtsentroviy-koer-cpm146-1x1-kp2881</url>
-        <price>4100.00</price>
+        <price>4310.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/ED37DB3C-7497-4C59-A7EE-977AE47EE021</picture>
@@ -11337,8 +11337,8 @@
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR5759</vendorCode>
         <param name="Од. в упак.">80</param>
-        <param name="Об'єм ящ.">0</param>
-        <param name="Вага ящ.">0</param>
+        <param name="Об'єм ящ.">0.018</param>
+        <param name="Вага ящ.">16.4</param>
         <param name="Матеріал виробу">Латунь</param>
         <param name="Матеріал кульового затвора">Латунь</param>
         <param name="Тип приєднання">Різьбове</param>
@@ -11459,7 +11459,7 @@
       </offer>
       <offer id="KP2770" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/tsirkulyatsiyni-nasosi/nasos-tsirkulyatsiyniy-flants-koer-grs-5015fm-kp2770</url>
-        <price>11240.00</price>
+        <price>11820.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/4345D60A-A222-43D8-9F13-68312E5D6238</picture>
@@ -11820,7 +11820,7 @@
       </offer>
       <offer id="KB0002" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/rozshiryuvalni-baki-dlya-sistem-opalennya/bak-rozshiryuvalniy-dlya-sistemi-opalennya-ploskiy-koer-bp8-8l-kb0002</url>
-        <price>1400.00</price>
+        <price>1470.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/42F03702-F521-49DC-9A9B-D12712BE55E7</picture>
@@ -11934,7 +11934,7 @@
       </offer>
       <offer id="KP3176" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/tsirkulyatsiyni-nasosi/nasos-tsirkulyatsiyniy-chastotniy-koer-ape-206130-kp3176</url>
-        <price>4040.00</price>
+        <price>4250.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/725BB19C-2B46-4890-9D72-C92A7568B6B8</picture>
@@ -12266,7 +12266,7 @@
       </offer>
       <offer id="KP3160" available="false">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/sverdlovinni-nasosi/tsentrobizhniy-nasos-koer-25sdm-151215m-1-kp3160</url>
-        <price>4780.00</price>
+        <price>5030.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/5B5F088F-B66B-4A21-9AB0-A169BDFB3168</picture>
@@ -13926,7 +13926,7 @@
       </offer>
       <offer id="KP3141" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/fekalni-ta-kanalizatsiyni-nasosi/nasos-drenazhnofekalniy-koer-wfd2511075-kp3141</url>
-        <price>6210.00</price>
+        <price>6530.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/94A82CD3-7C9B-4966-842A-DF28220D6402</picture>
@@ -14104,7 +14104,7 @@
       </offer>
       <offer id="KP3256" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/poverkhneviy-nasos/nasos-poverkhneviy-vikhroviy-koer-qb100-n75m-q3kbm-p900-vt-1x1-kp3256</url>
-        <price>4100.00</price>
+        <price>4310.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/EC32FB7F-28F6-429C-942B-723821DA1C44</picture>
@@ -14237,7 +14237,7 @@
       </offer>
       <offer id="KP2882" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/nasosni-stantsii/nasosna-ministantsiya-vikhr-koer-kgp-125c-n35m-q24kbm-p370-vt-1x1-pidklpryame-kp2882</url>
-        <price>3290.00</price>
+        <price>3460.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/4136C99F-E914-4A5A-87B7-4369CDB29513</picture>
@@ -15076,7 +15076,7 @@
       </offer>
       <offer id="KP2894" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/tsirkulyatsiyni-nasosi/nasos-tsirkulyatsiyniy-energozberigayuchiy-flantseviy-koer-star-grs-5012f-kp2894</url>
-        <price>27950.00</price>
+        <price>29390.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/6C0FD23B-A981-4805-9BD6-E5E994616888</picture>
@@ -15228,8 +15228,8 @@
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR6213</vendorCode>
         <param name="Од. в упак.">1</param>
-        <param name="Об'єм ящ.">0</param>
-        <param name="Вага ящ.">0</param>
+        <param name="Об'єм ящ.">0.043</param>
+        <param name="Вага ящ.">23.9</param>
         <param name="Об'єм (л)">4,86</param>
         <param name="Вага (кг)">23,70</param>
         <param name="Довжина (мм)">900</param>
@@ -15762,7 +15762,7 @@
       </offer>
       <offer id="KB0005" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/rozshiryuvalni-baki-dlya-sistem-opalennya/bak-rozshiryuvalniy-dlya-sistemi-opalennya-koer-bv5-vertikalniy-kb0005</url>
-        <price>650.00</price>
+        <price>690.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/00CCC6C3-7D78-4B0C-B9F6-717F1065144D</picture>
@@ -17216,7 +17216,7 @@
       </offer>
       <offer id="KP3309" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/sverdlovinni-nasosi/nasos-sverdlovinniy-koer-4tms51527-nizhniy-zabir-vodi-n52m-q6kbm-p800-vt-kab12m-114-kp3309</url>
-        <price>5960.00</price>
+        <price>6270.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/20D4801B-91CC-4E68-833D-A7C18AB23632</picture>
@@ -19515,7 +19515,7 @@
       </offer>
       <offer id="KP3235" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/poverkhneviy-nasos/nasos-poverkhneviy-bagatostupeneviy-koer-tcm5464808-kp3235</url>
-        <price>7510.00</price>
+        <price>7900.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/7CA88366-2A0C-4D3C-A334-CC6F03CE7C61</picture>
@@ -19935,7 +19935,7 @@
       </offer>
       <offer id="KP2899" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/tsirkulyatsiyni-nasosi/nasos-tsirkulyatsiyniy-koer-kpgrs326180-z-gaykami-kabelem-ta-vilkoyu-obmotka-mid-kp2899</url>
-        <price>1840.00</price>
+        <price>1940.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/7C0C7F62-04FD-4AF2-9C8D-3C15F145CA3E</picture>
@@ -20537,7 +20537,7 @@
       </offer>
       <offer id="KP3364" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/sverdlovinni-nasosi/nasos-sverdlovinniy-vidtsentroviy-koer-4sdm8172m-n107m-q108m3-p2200-vt-kab2m-kp3364</url>
-        <price>10680.00</price>
+        <price>11240.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/0BCD8DFE-41EF-4367-AFF8-4666B2BAA7E5</picture>
@@ -20718,7 +20718,7 @@
       </offer>
       <offer id="KP3359" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/sverdlovinni-nasosi/nasos-sverdlovinniy-vidtsentroviy-koer-4sdm61550m-n108m-q84m3-p1500-vt-kab50m-kp3359</url>
-        <price>13230.00</price>
+        <price>13910.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/F6B586FA-BF7A-491B-AE46-B2CC3926C96A</picture>
@@ -22230,7 +22230,7 @@
       </offer>
       <offer id="KP3362" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/sverdlovinni-nasosi/nasos-sverdlovinniy-vidtsentroviy-koer-4sdm8935m-n57m-q108m3-p1100-vt-kab35m-kp3362</url>
-        <price>9560.00</price>
+        <price>10060.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/014EF14B-C286-4C97-8499-FAE05E46AC97</picture>
@@ -24027,7 +24027,7 @@
       </offer>
       <offer id="KP3352" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/drenazhni-nasosi/nasos-drenazhniy-koer-kdn400-korpus-nerzhaviyucha-stal-n7m-q75kbm-p400-vt-kp3352</url>
-        <price>2170.00</price>
+        <price>2290.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/2C9901E4-7664-4A2F-93C4-AC3672921CCD</picture>
@@ -24583,7 +24583,7 @@
       </offer>
       <offer id="KP2658" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/poverkhneviy-nasos/nasos-poverkhon-samovsmoktuvalniy-koer-jet60-kp2658</url>
-        <price>3660.00</price>
+        <price>3850.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/33086AD3-E9D6-4017-84E1-84E2DE64941D</picture>
@@ -24992,7 +24992,7 @@
       </offer>
       <offer id="KP2636" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/sverdlovinni-nasosi/tsentrobizhniy-nasos-koer-4sdm-215-50m-pult-kp2636</url>
-        <price>9440.00</price>
+        <price>9930.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/D6CD6190-CED8-42F9-AC25-3A4A24F3184C</picture>
@@ -25955,7 +25955,7 @@
       </offer>
       <offer id="KP2786" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/zapchastini-ta-aksesuari-dlya-nasosiv/kontroler-tisku-elektronniy-koer-ks8at-dlya-nasosa-kp2786</url>
-        <price>1180.00</price>
+        <price>1240.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/53CB63DC-F34B-47BB-8B9A-C1C3D0D97A31</picture>
@@ -27830,7 +27830,7 @@
       </offer>
       <offer id="KP2763" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/poverkhneviy-nasos/nasos-poverkhn-samovsmoktuvalniy-koer-jet150-kp2763</url>
-        <price>7640.00</price>
+        <price>8030.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/FFF35754-F22F-4CDF-BBF0-B3AA6A9C76FC</picture>
@@ -28101,7 +28101,7 @@
       </offer>
       <offer id="KP3375" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/nasosni-stantsii/nasosna-stantsiya-koer-auto-js800a-n48m-q35kbm-p800-vt-1x1z-pyatirnikom-kp3375</url>
-        <price>8070.00</price>
+        <price>8490.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/8A0D35E3-1A58-46F7-9CA2-225359B8369F</picture>
@@ -28148,7 +28148,7 @@
       </offer>
       <offer id="KP3148" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/gidroakumulyatori-dlya-sistem-vodopostachannya/gidroakumulyator-gorizontalniy-koer-khts100-100l-korpusstal-12-mm-flanetsnerzhaviyucha-stal-kp3148</url>
-        <price>4660.00</price>
+        <price>4900.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/F17E9CF3-AD0D-4D3C-AF0B-4FD0C762DF10</picture>
@@ -28291,7 +28291,7 @@
       </offer>
       <offer id="KP2643" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/sverdlovinni-nasosi/tsentrobizhniy-nasos-koer-4sdm-410-40m-pult-kp2643</url>
-        <price>9130.00</price>
+        <price>9600.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/288AC958-1D0C-4E79-A557-A8782C8ECD4B</picture>
@@ -29237,8 +29237,8 @@
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR5651</vendorCode>
         <param name="Од. в упак.">22</param>
-        <param name="Об'єм ящ.">0</param>
-        <param name="Вага ящ.">0</param>
+        <param name="Об'єм ящ.">0.023</param>
+        <param name="Вага ящ.">14.1</param>
         <param name="Торгова марка">KOER</param>
         <param name="Тип виробу">Аксесуари для водонагрівачів</param>
         <param name="Країна бренду">Чехія</param>
@@ -29256,7 +29256,7 @@
       </offer>
       <offer id="KP0255" available="false">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/nasosi-pidvischennya-tisku/nasos-pidvischennya-tisku-koer-kpp15grs15-z-gaykami-kabelem-i-vilkoyu-kp0255</url>
-        <price>3350.00</price>
+        <price>3520.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/4DB8244E-E6EC-439F-B7F4-166A7C9FB03C</picture>
@@ -29368,7 +29368,7 @@
       </offer>
       <offer id="KP2893" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/tsirkulyatsiyni-nasosi/nasos-tsirkulyatsiyniy-energozber-flantseviy-koer-star-grs-4010f-kp2893</url>
-        <price>26390.00</price>
+        <price>27760.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/B6D5234E-84D1-4B9A-9B74-800A91EF0699</picture>
@@ -29961,7 +29961,7 @@
       </offer>
       <offer id="KB0014" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/rozshiryuvalni-baki-dlya-sistem-opalennya/bak-rozshiryuvalniy-koer-bv19-dlya-sistemi-opalennya-vertikalniy-19l-34-epdm-kb0014</url>
-        <price>1090.00</price>
+        <price>1140.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/BEE006E5-860C-49C5-809B-3800F41F26EC</picture>
@@ -30486,7 +30486,7 @@
       </offer>
       <offer id="KP3144" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/sverdlovinni-nasosi/vibratsiyniy-nasos-odnoklapanniy-verkhniy-zabir-koer-kvp-6020-h70m-q12kbm-p250-20m-kabobmmid-kp3144</url>
-        <price>1770.00</price>
+        <price>1860.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/B47EB555-B58E-4FA8-A053-3D5623E6F549</picture>
@@ -30717,7 +30717,7 @@
       </offer>
       <offer id="KP3311" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/nasosni-stantsii/nasosna-stantsiya-intelektualna-energozberigayucha-koer-sca330-n45mq54kbmp750-vt1x1-kp3311</url>
-        <price>11490.00</price>
+        <price>12080.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/96AAA867-149D-4F99-A895-82AB27B37725</picture>
@@ -31232,7 +31232,7 @@
       </offer>
       <offer id="KP2632" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/sverdlovinni-nasosi/tsentrobizhniy-nasos-koer-4sdm-237-pult-kp2632</url>
-        <price>13460.00</price>
+        <price>14150.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/909818A6-2E13-417B-A347-1C25DFAA5187</picture>
@@ -31582,7 +31582,7 @@
       </offer>
       <offer id="KP3367" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/sverdlovinni-nasosi/nasos-sverdlovinniy-vidtsentroviy-koer-4sd12122m-380v-n81m-q162m3-p2200-vt-kab2m-kp3367</url>
-        <price>12540.00</price>
+        <price>13190.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/1E4DBC17-726F-4A2D-A2CC-C584D024ADB1</picture>
@@ -32149,7 +32149,7 @@
       </offer>
       <offer id="KP2969" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/drenazhni-nasosi/nasos-drenazhniy-koer-kdp400-pro-kp2969</url>
-        <price>1680.00</price>
+        <price>1760.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/D51CEBA8-9E8A-4701-8647-F0D7F1EC3B36</picture>
@@ -32401,7 +32401,7 @@
       </offer>
       <offer id="KP2665" available="false">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/fekalni-ta-kanalizatsiyni-nasosi/nasos-drenfekalni-korpus-nerzh-koer-wqd-209075s-steel-kp2665</url>
-        <price>6090.00</price>
+        <price>6400.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/2D83B0B4-6481-4B37-8A5A-9533E2C7C1B1</picture>
@@ -32500,7 +32500,7 @@
       </offer>
       <offer id="KP2886" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/poverkhneviy-nasos/nasos-poverkhneviy-vidtsentroviy-koer-thf6b4-kp2886</url>
-        <price>11000.00</price>
+        <price>11570.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/23B6D3B3-2FB6-47C3-BDBA-EED814BD906B</picture>
@@ -32756,7 +32756,7 @@
       </offer>
       <offer id="KP2761" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/poverkhneviy-nasos/nasos-poverkhneviy-vikhroviy-koer-qb70-kp2761</url>
-        <price>3040.00</price>
+        <price>3200.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/3FC6407C-A27D-47E2-96FA-AB6CAADD2DF9</picture>
@@ -34022,7 +34022,7 @@
       </offer>
       <offer id="KP2653" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/nasosni-stantsii/nasosna-stantsiya-koer-auto-qb60-kp2653</url>
-        <price>4840.00</price>
+        <price>5090.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/6A42D5CF-8CD3-41B0-A396-EE7963AA61D2</picture>
@@ -34310,7 +34310,7 @@
       </offer>
       <offer id="KB0015" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/rozshiryuvalni-baki-dlya-sistem-opalennya/bak-rozshiryuvalniy-koer-bv24-dlya-sistemi-opalennya-vertikalniy-24l-34-epdm-kb0015</url>
-        <price>1110.00</price>
+        <price>1160.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/A2DF5246-04AB-45E2-800D-A6ED27628D03</picture>
@@ -34377,7 +34377,7 @@
       </offer>
       <offer id="KP2785" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/zapchastini-ta-aksesuari-dlya-nasosiv/kontroler-tisku-elektronniy-dlya-nasosa-koer-ks8r-kp2785</url>
-        <price>1110.00</price>
+        <price>1170.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/BD551905-E6FC-4170-A277-13267A42797A</picture>
@@ -35309,7 +35309,7 @@
       </offer>
       <offer id="KP3308" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/sverdlovinni-nasosi/nasos-sverdlovinniy-koer-4tms51456-nizhniy-zabir-vodi-n45m-q6kbm-p600-vt-kab12m-114-kp3308</url>
-        <price>5530.00</price>
+        <price>5810.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/55AA67EF-68D2-4054-9CDB-C7D165964B25</picture>
@@ -36931,7 +36931,7 @@
         <param name="Гарантійний період (міс)">12</param>
         <param name="Кінцевий тиск (бар)">6,00</param>
       </offer>
-      <offer id="KP0171" available="true">
+      <offer id="KP0171" available="false">
         <url>https://ol.partners/products/truboprovodi-ta-zyednannya/fitingi/zyednannya-dlya-trub-z-polipropilenu/zghinamerikanka-zr-20x1-2m-ppr-koer-k0135pro-kp0171</url>
         <price>118.00</price>
         <currencyId>UAH</currencyId>
@@ -36939,8 +36939,8 @@
         <picture>https://ol.partners/Products/Photo/585307B6-5543-4B8D-B00D-8CAE23D73029</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/a1560b4f-e942-44e4-a6b5-621707f66489/image_03_KP0171.jpg</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Згін-американка ЗР 20x1 / 2M PPR Koer K0135.PRO (KP0171)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KP0171</vendorCode>
@@ -38007,7 +38007,7 @@
         <param name="Тип з'єднання">Різьбовий</param>
         <param name="Матеріал виробу">Латунь CW617N</param>
       </offer>
-      <offer id="40536000" available="true">
+      <offer id="40536000" available="false">
         <url>https://ol.partners/products/aksesuari-dlya-vannoi/dozator-dlya-ridkogo-mila/dozator-dlya-miyuchogo-zasobu-grohe-40536000</url>
         <price>3726.00</price>
         <currencyId>UAH</currencyId>
@@ -38016,8 +38016,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/5730f262-050f-40a5-9260-73f9ef2ab7b8/image_01.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/5730f262-050f-40a5-9260-73f9ef2ab7b8/image_02.jpg</picture>
         <vendor>GROHE</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Дозатор для миючого засобу Grohe (40536000)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>40536000</vendorCode>
@@ -38895,7 +38895,7 @@
       </offer>
       <offer id="KP3236" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/poverkhneviy-nasos/nasos-poverkhneviy-bagatostupeneviy-koer-tcm87212055-kp3236</url>
-        <price>8010.00</price>
+        <price>8430.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/095477C7-BC0E-4F30-A41F-893863F12403</picture>
@@ -40338,7 +40338,7 @@
       </offer>
       <offer id="KP2889" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/poverkhneviy-nasos/nasos-poverkhneviy-vidtsentroviy-koer-thf6b3-kp2889</url>
-        <price>11130.00</price>
+        <price>11710.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/3C0F1928-52C6-442A-8508-48BDE087FEB7</picture>
@@ -43789,7 +43789,7 @@
       </offer>
       <offer id="KP2873" available="false">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/sverdlovinni-nasosi/tsentrobizhniy-nasos-koer-4kdm-3740m-1-14-kp2873</url>
-        <price>5810.00</price>
+        <price>6110.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/6E853825-13D6-4BAF-8363-606F1C62DE93</picture>
@@ -44043,7 +44043,7 @@
       </offer>
       <offer id="KP2623" available="false">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/sverdlovinni-nasosi/tsentrobizhniy-nasos-koer-3sdm-221-40m-pult-kp2623</url>
-        <price>7820.00</price>
+        <price>8230.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/7F7A97AF-1B07-47F2-A0C0-3FA49729398C</picture>
@@ -44438,7 +44438,7 @@
       </offer>
       <offer id="KP2760" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/nasosi-pidvischennya-tisku/nasos-pidvischennya-tisku-koer-kpgrs-129-kp2760</url>
-        <price>2080.00</price>
+        <price>2190.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/754017C0-E0D8-497B-A37C-26ACB3BFEA66</picture>
@@ -46064,7 +46064,7 @@
       </offer>
       <offer id="KB0004" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/rozshiryuvalni-baki-dlya-sistem-opalennya/bak-rozshiryuvalniy-dlya-sistemi-opalennya-ploskiy-koer-bp12-kb0004</url>
-        <price>1530.00</price>
+        <price>1610.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/AADCF59D-AD58-4CAD-94E5-A122C509109A</picture>
@@ -46597,7 +46597,7 @@
       </offer>
       <offer id="KP0246" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/tsirkulyatsiyni-nasosi/nasos-tsirkulyatsiyniy-vidtsentr-energosbereg-koer-kpn254180-kp0246</url>
-        <price>3760.00</price>
+        <price>3950.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/E8DDFAEE-A5D0-4E77-A0F8-D0B2B6B212FD</picture>
@@ -46703,7 +46703,7 @@
       </offer>
       <offer id="KP2878" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/sverdlovinni-nasosi/nasos-glibinniy-shnekoviy-koer-4qgd-12100075-1-kp2878</url>
-        <price>4720.00</price>
+        <price>4960.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/14866EBA-DF29-44D8-A63E-DA3793A433E5</picture>
@@ -46746,7 +46746,7 @@
       </offer>
       <offer id="KP2869" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/sverdlovinni-nasosi/tsentrobizhniy-glibinniy-nasos-koer-3kdm-21130m-1-kp2869</url>
-        <price>4780.00</price>
+        <price>5020.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/DA53CAA8-FAE9-41B4-8B0E-8CC902B5DD92</picture>
@@ -48391,7 +48391,7 @@
       </offer>
       <offer id="KP3138" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/fekalni-ta-kanalizatsiyni-nasosi/nasos-drenazhnofekalniy-koer-wfd151415n-korpus-nerzh-freza-kp3138</url>
-        <price>10370.00</price>
+        <price>10910.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/29573CFA-C291-4B69-A7E3-12BA46FF2B4D</picture>
@@ -49667,7 +49667,7 @@
       </offer>
       <offer id="KP2655" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/poverkhneviy-nasos/nasos-poverkhneviy-tsentrobizhniy-koer-kga1a-kp2655</url>
-        <price>4530.00</price>
+        <price>4770.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/BD55330E-5ECC-406C-8E7E-D9B6E3D49DD9</picture>
@@ -50689,7 +50689,7 @@
       </offer>
       <offer id="KP3260" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/poverkhneviy-nasos/nasos-poverkhneviy-samovsmoktuyuchiy-koer-js1100-korpus-nerzhaviyka-n56m-q36kbm-p1100-vt-1x1-kp3260</url>
-        <price>5280.00</price>
+        <price>5550.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/AA7B77F0-364B-440E-8C94-B54CE72085DA</picture>
@@ -51204,7 +51204,7 @@
       </offer>
       <offer id="KP2657" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/poverkhneviy-nasos/nasos-poverkhon-samovsmoktuvalniy-koer-jet100-kp2657</url>
-        <price>4220.00</price>
+        <price>4440.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/40166CEF-1D67-4787-9BAA-00C6373E8AE2</picture>
@@ -51436,7 +51436,7 @@
         <param name="Ширина (мм)">500</param>
         <param name="Висота (мм)">700</param>
       </offer>
-      <offer id="PM0620" available="false">
+      <offer id="PM0620" available="true">
         <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/krani/krani-kulovi/kran-kuloviy-plamix-pvm34-fm-pvc-pm0620</url>
         <price>36.00</price>
         <currencyId>UAH</currencyId>
@@ -51444,8 +51444,8 @@
         <picture>https://ol.partners/Products/Photo/23A5C698-8371-4CB3-91AF-63AD0C55DFE1</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/9b622d99-dfa0-4623-a07e-751e2dc51d92/PM0620-PLAMIX-PVM-34-FM-1.jpg</picture>
         <vendor>PLAMIX</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Кран кульовий Plamix PVM-3/4" FM PVC (PM0620)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>PM0620</vendorCode>
@@ -52612,7 +52612,7 @@
       </offer>
       <offer id="KP3146" available="false">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/gidroakumulyatori-dlya-sistem-vodopostachannya/gidroakumulyator-gorizontalniy-koer-khts50-50l-korpusstal-12-mm-flanetsnerzhaviyucha-stal-kp3146</url>
-        <price>2360.00</price>
+        <price>2480.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/4D23CD81-8836-4A13-9F80-5FAED201B4F4</picture>
@@ -52689,7 +52689,7 @@
       </offer>
       <offer id="KR3428" available="false">
         <url>https://ol.partners/products/generatori/generator-benzinoviy-invertorniy-koer-ku3800ie-kr3428</url>
-        <price>32140.00</price>
+        <price>34950.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>acf670b1-cb69-42df-9bd9-ccc438f29831</categoryId>
         <picture>https://ol.partners/Products/Photo/E28E9585-C82F-4D3A-A3C9-4D646D32EFD9</picture>
@@ -53545,7 +53545,7 @@
       </offer>
       <offer id="KP2621" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/sverdlovinni-nasosi/vidtsentroviy-nasos-koer-3sdm-211-25m-pult-kp2621</url>
-        <price>5530.00</price>
+        <price>5810.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/64C2D232-E6AB-40BB-AED7-31E24C26DC22</picture>
@@ -54326,7 +54326,7 @@
       </offer>
       <offer id="KR6219" available="false">
         <url>https://ol.partners/products/generatori/generator-benzinoviy-invertorniy-koer-ku5500ie-5055-kvt-elektrostarter-akumulyator-kr6219</url>
-        <price>42950.00</price>
+        <price>46700.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>acf670b1-cb69-42df-9bd9-ccc438f29831</categoryId>
         <picture>https://ol.partners/Products/Photo/537ECAC3-F1E0-438F-B37F-2C78FB22F971</picture>
@@ -54763,7 +54763,7 @@
       </offer>
       <offer id="KP0247" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/tsirkulyatsiyni-nasosi/nasos-tsirkulyatsiyniy-energozb-koer-kpn25-6180-kp0247</url>
-        <price>3820.00</price>
+        <price>4020.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/791AF2E8-FC46-4756-8490-3BB736E1A3B0</picture>
@@ -55291,7 +55291,7 @@
       </offer>
       <offer id="KP3365" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/sverdlovinni-nasosi/nasos-sverdlovinniy-vidtsentroviy-koer-4sdm8232m-n145m-q108m3-p3000-vt-kab2m-kp3365</url>
-        <price>13600.00</price>
+        <price>14310.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/48A52D3A-1E07-4039-BE3D-732BA6B758EA</picture>
@@ -55663,7 +55663,7 @@
       </offer>
       <offer id="KP2890" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/poverkhneviy-nasos/nasos-poverkhneviy-vidtsentroviy-koer-thf5a-3x3-kp2890</url>
-        <price>9250.00</price>
+        <price>9730.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/8E2D0E85-4A13-4832-967C-910C5DD974F3</picture>
@@ -55875,7 +55875,7 @@
       </offer>
       <offer id="KP2628" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/sverdlovinni-nasosi/tsentrobizhniy-nasos-koer-4sdm-212-pult-kp2628</url>
-        <price>6660.00</price>
+        <price>7010.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/52C346C4-AA92-4381-9A88-FD38CDE38740</picture>
@@ -56202,7 +56202,7 @@
       </offer>
       <offer id="KP2641" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/sverdlovinni-nasosi/tsentrobizhniy-nasos-koer-4sdm-46-20m-pult-kp2641</url>
-        <price>6900.00</price>
+        <price>7260.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/9AB7C664-0CBE-46AE-80A1-073AAFCB8D57</picture>
@@ -56774,7 +56774,7 @@
       </offer>
       <offer id="KP2793" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/sverdlovinni-nasosi/vikhroviy-nasos-z-pultom-koer-4skm200-kp2793</url>
-        <price>8760.00</price>
+        <price>9210.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/D2197716-4FFC-4DAF-B81B-EEE6B7AF2563</picture>
@@ -57561,7 +57561,7 @@
       </offer>
       <offer id="KP2625" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/sverdlovinni-nasosi/tsentrobizhniy-nasos-koer-3sdm-238-50m-pult-kp2625</url>
-        <price>12360.00</price>
+        <price>13000.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/3AE92E9D-272E-4E85-B39D-A473D0126CED</picture>
@@ -57625,7 +57625,7 @@
       </offer>
       <offer id="KP2876" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/sverdlovinni-nasosi/tsentrobizhniy-nasos-koer-4kdm-31550m-1-14-kp2876</url>
-        <price>8660.00</price>
+        <price>9110.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/13353A2F-532A-4CC7-9B37-8D1289AEC490</picture>
@@ -57726,7 +57726,7 @@
       </offer>
       <offer id="KP2891" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/poverkhneviy-nasos/nasos-poverkhneviy-vidtsentroviy-koer-thf6a-kp2891</url>
-        <price>11050.00</price>
+        <price>11630.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/44E012D9-56C3-4D06-8FA2-8D92A5CA1918</picture>
@@ -58542,7 +58542,7 @@
       </offer>
       <offer id="KP3179" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/tsirkulyatsiyni-nasosi/nasos-tsirkulyatsiyniy-chastotniy-koer-ape-328180-kp3179</url>
-        <price>4410.00</price>
+        <price>4640.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/19BE59EF-13F6-42E2-99B4-83006D69A36C</picture>
@@ -58696,7 +58696,7 @@
       </offer>
       <offer id="KP2637" available="false">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/sverdlovinni-nasosi/tsentrobizhniy-nasos-koer-4sdm-221-50m-pult-kp2637</url>
-        <price>12360.00</price>
+        <price>13000.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/FA899E38-BF6E-4834-A95E-0C15EAA3C468</picture>
@@ -59643,7 +59643,7 @@
       </offer>
       <offer id="KP2617" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/sverdlovinni-nasosi/tsentrobizhniy-nasos-koer-3sdm-215-pult-kp2617</url>
-        <price>4910.00</price>
+        <price>5160.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/973A95AF-47F5-4C9A-91F0-F715EB881A9A</picture>
@@ -60240,7 +60240,7 @@
       </offer>
       <offer id="KP2663" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/fekalni-ta-kanalizatsiyni-nasosi/nasos-drenfekalni-koer-wqd-18-15-075-cast-korpus-chavun-kp2663</url>
-        <price>5780.00</price>
+        <price>6070.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/29F306C8-4DAA-4160-A9DC-6BCD2656EF9C</picture>
@@ -61513,14 +61513,14 @@
         <param name="Колір">Сталевий</param>
         <param name="Гарантійний період (міс)">12</param>
       </offer>
-      <offer id="ZX4633" available="true">
+      <offer id="ZX4633" available="false">
         <url>https://ol.partners/products/aksesuari-dlya-vannoi/vidro-dlya-smittya/vidro-dlya-smittya-krugle-zerix-strongmb0130-black-30-l-kolir-chorniy-zx4633</url>
         <price>2798.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>98cef2a4-d106-4da2-9b4c-f8e66696fd13</categoryId>
         <picture>https://ol.partners/Products/Photo/ACB296C9-6245-46F5-8420-EA552253DD73</picture>
         <vendor>ZERIX</vendor>
-        <stock_quantity>100</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Відро для сміття кругле ZERIX STRONG-MB0130 BLACK 30 л (колір чорний) (ZX4633)</name>
         <description>&lt;![CDATA[]]&gt;</description>
@@ -61639,7 +61639,7 @@
       </offer>
       <offer id="KP3428" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/nasosni-stantsii/nasosna-ministantsiya-vikhrova-intelektualna-koer-pwz-250-h30m-q37-lkhv-p250-vt-1x1-kp3428</url>
-        <price>3910.00</price>
+        <price>4120.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/7739FD25-4A44-4401-A61C-2B1D63F2EA62</picture>
@@ -61907,7 +61907,7 @@
       </offer>
       <offer id="KP3101" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/tsirkulyatsiyni-nasosi/nasos-tsirkulyatsiyniy-koer-ape-256130-chastotniy-n6m-q29kbm-p45-vt-kp3101</url>
-        <price>4040.00</price>
+        <price>4250.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/3BD7CF35-0C50-47E8-AAEE-C25D6366B477</picture>
@@ -62523,7 +62523,7 @@
       </offer>
       <offer id="KP3355" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/drenazhni-nasosi/nasos-drenazhniy-koer-kdn900-korpus-nerzhaviyucha-stal-n10m-q12kbm-p900-vt-kp3355</url>
-        <price>2640.00</price>
+        <price>2780.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/0BE73618-1F37-4977-AAF7-22A7253FFC01</picture>
@@ -63053,7 +63053,7 @@
       </offer>
       <offer id="KP2765" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/poverkhneviy-nasos/nasos-poverkhneviy-tsentrobizhniy-koer-2dk20-kp2765</url>
-        <price>6330.00</price>
+        <price>6660.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/4985FB92-6043-45F5-A5AF-0D7E8DBBEB99</picture>
@@ -63463,7 +63463,7 @@
       </offer>
       <offer id="KP2767" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/drenazhni-nasosi/nasos-pogruzhnoy-drenazhniy-koer-qdx-933075-kp2767</url>
-        <price>5150.00</price>
+        <price>5420.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/2D3084E3-D368-45A2-9346-32B46E41F4F4</picture>
@@ -63674,7 +63674,7 @@
       </offer>
       <offer id="KP2649" available="false">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/sverdlovinni-nasosi/nasos-glibinniy-shnekoviy-koer-4qgd-12100075-kp2649</url>
-        <price>4720.00</price>
+        <price>4960.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/BBB7191C-5CE9-4877-AA25-74D8417FB275</picture>
@@ -64380,7 +64380,7 @@
       </offer>
       <offer id="KP3145" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/sverdlovinni-nasosi/vibratsiyniy-nasos-nizhniy-zabir-koer-kvp-60120-kp3145</url>
-        <price>1770.00</price>
+        <price>1860.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/130DD0B8-F29E-4F5F-B890-14AE5BDD2BCC</picture>
@@ -65505,7 +65505,7 @@
       </offer>
       <offer id="KB0003" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/rozshiryuvalni-baki-dlya-sistem-opalennya/bak-rozshiryuvalniy-dlya-sistemi-opalennya-ploskiy-koer-bp10-kb0003</url>
-        <price>1460.00</price>
+        <price>1540.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/18E79CC0-560B-4EF6-8346-A8B0D02297EA</picture>
@@ -65992,7 +65992,7 @@
       </offer>
       <offer id="KP3261" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/nasosni-stantsii/nasosna-stantsiya-koer-auto-js1100-n56m-q36kbm-p1100-vt-1x1-z-pyatirnikom-kp3261</url>
-        <price>8880.00</price>
+        <price>9340.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/7FFF02AE-1E2C-450A-9C9E-4E1966F042A4</picture>
@@ -66136,7 +66136,7 @@
       </offer>
       <offer id="KP2762" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/nasosni-stantsii/nasosna-stantsiya-koer-auto-qb80-24l-kp2762</url>
-        <price>6710.00</price>
+        <price>7050.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/B46711B2-AB44-4C72-ADDB-50B03DF6DC13</picture>
@@ -66348,7 +66348,7 @@
       </offer>
       <offer id="KP3252" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/poverkhneviy-nasos/nasos-poverkhneviy-vidtsentroviy-koer-bcn-1902411-n24m-q114kbm-p1100-vt-1-14x1-14-kp3252</url>
-        <price>4600.00</price>
+        <price>4830.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/3DF5ACE4-1A26-40F9-B343-05514AF110F9</picture>
@@ -67169,7 +67169,7 @@
       </offer>
       <offer id="KP3237" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/poverkhneviy-nasos/nasos-poverkhneviy-bagatostupeneviy-koer-tcm87424095-kp3237</url>
-        <price>8880.00</price>
+        <price>9340.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/0D8467B7-1F25-4FC9-B5E9-DE7008111013</picture>
@@ -67911,7 +67911,7 @@
       </offer>
       <offer id="KP2638" available="false">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/sverdlovinni-nasosi/tsentrobizhniy-nasos-koer-4sdm-228-50m-pult-kp2638</url>
-        <price>14840.00</price>
+        <price>15610.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/6B3B9A94-C9F6-4784-A4DB-A68187A84A3D</picture>
@@ -67976,7 +67976,7 @@
       </offer>
       <offer id="KP2887" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/poverkhneviy-nasos/nasos-poverkhneviy-vidtsentroviy-koer-thf6s-kp2887</url>
-        <price>7380.00</price>
+        <price>7760.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/C75730FD-EA67-4FE8-8D00-0410BDFD5DC6</picture>
@@ -68254,7 +68254,7 @@
       </offer>
       <offer id="KB0013" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/gidroakumulyatori-dlya-sistem-vodopostachannya/gidroakumulyator-vertikalniy-koer-kvts50-50l-korpusstal-12mm-kb0013</url>
-        <price>2480.00</price>
+        <price>2610.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/9BE87D3A-B096-4793-BF30-533B5D23CE63</picture>
@@ -68942,7 +68942,7 @@
       </offer>
       <offer id="KP2664" available="false">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/fekalni-ta-kanalizatsiyni-nasosi/nasos-drenfek-korpus-chavun-freza-koer-wqd-20-1515-freza-kp2664</url>
-        <price>9250.00</price>
+        <price>9730.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/343B5A79-A6E4-4ABC-BC06-BED1B6745298</picture>
@@ -69517,7 +69517,7 @@
       </offer>
       <offer id="KP2795" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/tsirkulyatsiyni-nasosi/retsirkulyatsiyniy-nasos-koer-kprp256180-ss-z-gaykami-kp2795</url>
-        <price>2910.00</price>
+        <price>3060.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/40091DAB-7097-45E6-A54C-A3E7360224EF</picture>
@@ -69932,7 +69932,7 @@
       </offer>
       <offer id="KP3143" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/drenazhni-nasosi/nasos-drenazhnofekalniy-koer-wfd15911-korpus-nerzh-kp3143</url>
-        <price>7140.00</price>
+        <price>7510.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/5F5432D3-2DBC-4A51-A5C4-18622EDAA31D</picture>
@@ -70116,7 +70116,7 @@
       </offer>
       <offer id="KP2929" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/fekalni-ta-kanalizatsiyni-nasosi/kanalizatsiyna-ustanovka-koer-kwc400-up-kp2929</url>
-        <price>9040.00</price>
+        <price>9500.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/3911E70D-D27D-49FB-BD94-A7D51844C90A</picture>
@@ -71139,7 +71139,7 @@
       </offer>
       <offer id="KP3234" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/poverkhneviy-nasos/nasos-poverkhneviy-bagatostupeneviy-koer-tcm5446607-kp3234</url>
-        <price>6580.00</price>
+        <price>6920.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/069585B1-4CF9-4B30-B46E-79B6A7DEED44</picture>
@@ -71308,7 +71308,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/46753ab4-af65-4238-afc1-f33735a753c5/image_01.jpg</picture>
         <vendor>EUROPRODUCT</vendor>
         <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Згін-американка 20x1 / 2F "ВР Europroduct EP.0066 (EP3991)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>EP3991</vendorCode>
@@ -72884,7 +72884,7 @@
       </offer>
       <offer id="KP0249" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/tsirkulyatsiyni-nasosi/nasos-tsirkulyatsiyniy-vidtsentr-koer-kpgrs25-6180-kp0249</url>
-        <price>1830.00</price>
+        <price>1930.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/8CC5A850-A25E-4CD7-8CDF-B38517744AB6</picture>
@@ -73993,7 +73993,7 @@
       </offer>
       <offer id="KP3164" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/sverdlovinni-nasosi/tsentrobizhniy-nasos-koer-25sdm-154020m-1-kp3164</url>
-        <price>8260.00</price>
+        <price>8690.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/E4EBF376-1BB8-4E86-BC44-CFB49042A512</picture>
@@ -74295,7 +74295,7 @@
       </offer>
       <offer id="KP3395" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/poverkhneviy-nasos/nasos-poverkhneviy-samousmoktuyuchiy-koer-js800a-korpus-nerzhaviyucha-stal-n48m-q35kbm-p800-vt-1x1-kp3395</url>
-        <price>4780.00</price>
+        <price>5030.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/60CFB682-1051-4B61-9FE1-1ADA7C590156</picture>
@@ -74684,7 +74684,7 @@
       </offer>
       <offer id="KP2896" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/sverdlovinni-nasosi/vibratsiyniy-nasos-verkh-zabir-koer-kvp-60-obmotkamid-kp2896</url>
-        <price>1530.00</price>
+        <price>1610.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/5E23E895-1C82-4240-A192-6E7C7ADA0AE6</picture>
@@ -75320,7 +75320,7 @@
       </offer>
       <offer id="KP3360" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/sverdlovinni-nasosi/nasos-sverdlovinniy-vidtsentroviy-koer-4sdm6212m-n151m-q84m3-p2200-vt-kab2m-kp3360</url>
-        <price>10930.00</price>
+        <price>11500.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/8C5F4236-0A47-4181-B6E5-AABA3DA1FBE9</picture>
@@ -75628,7 +75628,7 @@
       </offer>
       <offer id="KP2927" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/fekalni-ta-kanalizatsiyni-nasosi/kanalizatsiyna-ustanovka-koer-kwc100-kp2927</url>
-        <price>7170.00</price>
+        <price>7540.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/01165BB5-6C64-4F38-BCE7-D7480CDCF248</picture>
@@ -76212,7 +76212,7 @@
       </offer>
       <offer id="KP2892" available="false">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/fekalni-ta-kanalizatsiyni-nasosi/nasos-drenazhnofekalniy-koer-wqd-17-korpus-chavun-kp2892</url>
-        <price>5220.00</price>
+        <price>5490.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/D91F1275-EF56-477F-AA13-1D0CFEBD098E</picture>
@@ -76305,7 +76305,7 @@
       </offer>
       <offer id="KP2787" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/zapchastini-ta-aksesuari-dlya-nasosiv/kontroler-tisku-koer-ks5-elektronniy-kp2787</url>
-        <price>1490.00</price>
+        <price>1570.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/C162D6EC-5CC4-4EA9-B5F4-B57B69C5C2CC</picture>
@@ -76449,7 +76449,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/ccf47a63-dfa8-40db-8f4e-5a7d7eccffcd/image_06.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Комплект накладок до сифону для ванни KOER BD-04-12 напівавтомат (Колір золото матове) 1 1/2'' (KR5445)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR5445</vendorCode>
@@ -77131,7 +77131,7 @@
       </offer>
       <offer id="KP2652" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/poverkhneviy-nasos/nasos-poverkhneviy-vikhroviy-koer-qb80-kp2652</url>
-        <price>3420.00</price>
+        <price>3590.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/89C5176C-3A7D-46FC-A8CD-081437A291F9</picture>
@@ -78399,7 +78399,7 @@
         <param name="Гарантійний період (міс)">84</param>
       </offer>
       <offer id="KR6605" available="true">
-        <url>https://ol.partners/products/truboprovodi-ta-zyednannya/trubi/trubi-dlya-teploi-pidlogi/truba-tepla-pidloga-koer-stabil-pexa-evoh-25kh37-silver-universalna-z-kisnevim-baryerom-kr6605</url>
+        <url>https://ol.partners/products/truboprovodi-ta-zyednannya/trubi/trubi-dlya-teploi-pidlogi/truba-universalna-koer-stabil-pexa-evoh-25kh37-silver-z-kisnevim-baryerom-kr6605</url>
         <price>249.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>cccd3e1f-6b84-49c8-b342-dee61a5caf10</categoryId>
@@ -78408,7 +78408,7 @@
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
         <availabilityStatus>Достатньо</availabilityStatus>
-        <name>Труба тепла підлога KOER STABIL PEX-A EVOH 25х3,7 (SILVER) універсальна з кисневим бар'єром (KR6605)</name>
+        <name>Труба універсальна KOER STABIL PEX-A EVOH 25х3,7 (SILVER) з кисневим бар'єром (KR6605)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR6605</vendorCode>
         <param name="Од. в упак.">50</param>
@@ -78425,7 +78425,7 @@
         <param name="Країна бренду">Чехія</param>
         <param name="Тип виробу">Труби PEX і PERT</param>
         <param name="Торгова марка">KOER</param>
-        <param name="Призначення">Для теплої підлоги</param>
+        <param name="Призначення">Для систем опалення</param>
         <param name="Вид виробу">Труби PEX</param>
         <param name="Робочий тиск (бар)">10</param>
         <param name="Тип з'єднання">Напресовка-еверлок</param>
@@ -82683,7 +82683,7 @@
       </offer>
       <offer id="KP3100" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/tsirkulyatsiyni-nasosi/tsirkulyatsiyniy-nasos-koer-ape-254180-chastotniy-kp3100</url>
-        <price>4010.00</price>
+        <price>4210.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/12A08244-C9F5-4B88-9BBF-066B3692AB8B</picture>
@@ -82854,7 +82854,7 @@
       </offer>
       <offer id="KP3171" available="false">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/benzonasosi-palivni-nasosi/nasos-dlya-dizelnogo-paliva-koer-krt12dc-kp3171</url>
-        <price>1860.00</price>
+        <price>1960.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/25F0FA07-1514-4E54-AF8C-643642298A07</picture>
@@ -83050,7 +83050,7 @@
       </offer>
       <offer id="KP2642" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/sverdlovinni-nasosi/vidtsentroviy-nasos-koer-4sdm-48-35m-pult-kp2642</url>
-        <price>8320.00</price>
+        <price>8750.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/3A030845-ABCF-4E75-972B-A6DCBE213DE6</picture>
@@ -83441,7 +83441,7 @@
       </offer>
       <offer id="KP3178" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/tsirkulyatsiyni-nasosi/nasos-tsirkulyatsiyniy-chastotniy-koer-ape-258180-kp3178</url>
-        <price>4280.00</price>
+        <price>4510.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/BB6B5924-7D47-44D4-A541-C95AE07AC306</picture>
@@ -83955,7 +83955,7 @@
       </offer>
       <offer id="KB0001" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/rozshiryuvalni-baki-dlya-sistem-opalennya/bak-rozshiryuvalniy-dlya-sistemi-opalennya-ploskiy-koer-bp6-6l-kb0001</url>
-        <price>1340.00</price>
+        <price>1400.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/F7EA987D-1860-4179-9092-E58D2C93A6C6</picture>
@@ -84483,7 +84483,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/d1e0dff9-2cf8-412b-b187-86d801d916c5/image_04.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Кран кульовий Koer 1/2" ГШМ (KR.218) (KR0034)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR0034</vendorCode>
@@ -84790,7 +84790,7 @@
       </offer>
       <offer id="KP0252" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/tsirkulyatsiyni-nasosi/nasos-tsirkulyatsiyniy-vidtsentr-koer-kpgrs32-8180-kp0252</url>
-        <price>2980.00</price>
+        <price>3140.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/920F2FE1-1CF8-4DF3-A01D-8901EBD97BD9</picture>
@@ -85609,8 +85609,8 @@
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR6215</vendorCode>
         <param name="Од. в упак.">1</param>
-        <param name="Об'єм ящ.">0</param>
-        <param name="Вага ящ.">0</param>
+        <param name="Об'єм ящ.">0.057</param>
+        <param name="Вага ящ.">32.4</param>
         <param name="Колір">Білий (RAL 9016)</param>
         <param name="Теплоносій">Вода та незамерзаючі рідини</param>
         <param name="Тип різби">Внутрішня</param>
@@ -86678,7 +86678,7 @@
       </offer>
       <offer id="KP3151" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/poverkhneviy-nasos/nasos-poverkhneviy-koer-bcn-16022075-vidtsentroviy-1-14x1-14-kp3151</url>
-        <price>4410.00</price>
+        <price>4640.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/ABC1E50A-C853-4F78-BBDA-C2D4EC4AFE7F</picture>
@@ -87258,7 +87258,7 @@
       </offer>
       <offer id="KP3172" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/benzonasosi-palivni-nasosi/nasos-dlya-dizelnogo-paliva-koer-krt24dc-kp3172</url>
-        <price>1860.00</price>
+        <price>1960.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/F3F30338-313E-46B6-B997-6F5000A2A9F4</picture>
@@ -87365,7 +87365,7 @@
         <param name="Додаткові характеристики">Матеріал різьблення - латунь</param>
         <param name="Комплектація">Корпус фільтру; кронштейн; сервісний ключ; шурупи для кріплення кронштейна до корпусу фільтра; картридж нитка</param>
       </offer>
-      <offer id="KR0173" available="true">
+      <offer id="KR0173" available="false">
         <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/krani/krani-ventilni/ventil-kutoviy-12x12-antiprotichka-koer-kr901gi-kr0173</url>
         <price>289.00</price>
         <currencyId>UAH</currencyId>
@@ -87373,8 +87373,8 @@
         <picture>https://ol.partners/Products/Photo/B6D97DEA-41D6-4745-8DBC-2C50B95EBBD8</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/4872aa99-a3b3-4d6c-8b05-fa20d27950db/image_03_KR0173.jpg</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Вентиль кутовий 1/2x1/2 "антіпротічка" Koer KR.901-Gi (KR0173)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR0173</vendorCode>
@@ -89678,7 +89678,7 @@
       </offer>
       <offer id="KP3177" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/tsirkulyatsiyni-nasosi/nasos-tsirkulyatsiyniy-chastotniy-koer-ape-258130-kp3177</url>
-        <price>4220.00</price>
+        <price>4440.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/0740B566-6D76-4A45-BAB2-140DA06D679A</picture>
@@ -90030,7 +90030,7 @@
       </offer>
       <offer id="KP3306" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/nasosni-stantsii/nasosna-stantsiya-koer-master-600-intelektualna-energozberigayucha-n62mq4kbmp600-vt-1x1-kp3306</url>
-        <price>10060.00</price>
+        <price>10580.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/C6D1C542-6603-43C5-8BAC-E15686CA30ED</picture>
@@ -90669,7 +90669,7 @@
       </offer>
       <offer id="KP0078" available="true">
         <url>https://ol.partners/products/truboprovodi-ta-zyednannya/trubi/obvodi/obvid-korotkiy-koer-ppr-25-k0066pro-kp0078</url>
-        <price>33.00</price>
+        <price>32.64</price>
         <currencyId>UAH</currencyId>
         <categoryId>cccd3e1f-6b84-49c8-b342-dee61a5caf10</categoryId>
         <picture>https://ol.partners/Products/Photo/8AC5DC10-0F1A-4E89-9F76-5B5CDD56B94E</picture>
@@ -91037,7 +91037,7 @@
       </offer>
       <offer id="KP2666" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/sverdlovinni-nasosi/vikhroviy-nasos-z-pultom-koer-4skm100-kp2666</url>
-        <price>6090.00</price>
+        <price>6600.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/7D9DCD42-6DB0-4590-8213-A3C87F3BAD41</picture>
@@ -91481,7 +91481,7 @@
       </offer>
       <offer id="KP3307" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/sverdlovinni-nasosi/nasos-sverdlovinniy-koer-4tms51385-nizhniy-zabir-vodi-n38m-q6kbm-p370-vt-kab12m-114-kp3307</url>
-        <price>5340.00</price>
+        <price>5620.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/C8E0F29F-46F0-477A-9DCC-39D2BE9D63C3</picture>
@@ -92173,7 +92173,7 @@
       </offer>
       <offer id="KP2771" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/tsirkulyatsiyni-nasosi/nasos-tsirkulyatsiyniy-flantseviy-koer-grs-6511f-kp2771</url>
-        <price>12790.00</price>
+        <price>13460.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/7B63939F-DD87-479E-9CDE-399C8D6570BA</picture>
@@ -92226,7 +92226,7 @@
       </offer>
       <offer id="KP2930" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/fekalni-ta-kanalizatsiyni-nasosi/kanalizatsiyna-ustanovka-koer-kwc450-kp2930</url>
-        <price>8450.00</price>
+        <price>8880.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/13D329F9-2FCD-4562-801C-28D6C7F09BA6</picture>
@@ -93051,7 +93051,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/852fde7a-70ac-44ae-b4c3-3dffda12347c/ZX4783-ZERIX-ELW14-E-3,3-kW-2.jpg</picture>
         <vendor>ZERIX</vendor>
         <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Водонагрівач 3,3 kW проточний ZERIX ELW14-E з індик. темп., на мийку (ZX4783)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>ZX4783</vendorCode>
@@ -93505,15 +93505,15 @@
         <param name="Тип з'єднання">Різьбовий</param>
         <param name="Матеріал виробу">Поліпропілен</param>
       </offer>
-      <offer id="KP3255" available="false">
+      <offer id="KP3255" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/nasosi-pidvischennya-tisku/nasos-pidvischennya-tisku-energozberezhennya-koer-kbs1518140-n18m-q21kbm-p85vt-z-gaykami-kp3255</url>
-        <price>2170.00</price>
+        <price>2290.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/CE4503E0-9879-4DD1-9B20-DBA9E5DBA3F3</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Насос підвищення тиску енергозбереження Koer KBS15-18-140 Н=18М, Q=2.1кбМ, P=85Вт (з гайками)  (KP3255)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KP3255</vendorCode>
@@ -94160,7 +94160,7 @@
       </offer>
       <offer id="KR3430" available="false">
         <url>https://ol.partners/products/generatori/generator-benzinoviy-koer-ku3000b-kr3430</url>
-        <price>11410.00</price>
+        <price>12410.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>acf670b1-cb69-42df-9bd9-ccc438f29831</categoryId>
         <picture>https://ol.partners/Products/Photo/847FE2CA-EFD6-48EC-944A-B831595CC880</picture>
@@ -94293,7 +94293,7 @@
       </offer>
       <offer id="KP2792" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/sverdlovinni-nasosi/vikhroviy-nasos-koer-4skm150-z-pultom-n105m-q3kbm-p1100-vt-1-kp2792</url>
-        <price>7140.00</price>
+        <price>7510.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/EF8A159F-22F5-4335-8928-726A52607969</picture>
@@ -94736,7 +94736,7 @@
       </offer>
       <offer id="KP3156" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/zapchastini-ta-aksesuari-dlya-nasosiv/kontroler-tisku-elektronniy-koer-ksr2-dlya-nasosa-11kvt-1-kp3156</url>
-        <price>1040.00</price>
+        <price>1090.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/FFB35A46-1F93-4ED3-8563-8FBB530DF54C</picture>
@@ -95253,7 +95253,7 @@
       </offer>
       <offer id="KP3232" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/poverkhneviy-nasos/nasos-poverkhneviy-bagatostupeneviy-koer-tcm54233037-kp3232</url>
-        <price>5740.00</price>
+        <price>6040.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/C2BDE736-9A1B-4220-B0D9-3F0366E02D60</picture>
@@ -96412,7 +96412,7 @@
       </offer>
       <offer id="KP2768" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/sverdlovinni-nasosi/vikhroviy-nasos-koer-4skm100b-bez-pulta-kp2768</url>
-        <price>5680.00</price>
+        <price>6370.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/53863063-664D-4F47-BFAA-C910AB4F1C34</picture>
@@ -98814,7 +98814,7 @@
       </offer>
       <offer id="KP2645" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/sverdlovinni-nasosi/vidtsentroviy-nasos-koer-4sdm-424-50m-pult-kp2645</url>
-        <price>17390.00</price>
+        <price>18290.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/3F840EC5-1AFC-4110-B658-C8CC95EC69F2</picture>
@@ -103680,7 +103680,7 @@
       </offer>
       <offer id="KR3426" available="true">
         <url>https://ol.partners/products/generatori/generator-benzinoviy-invertorniy-koer-ku2000i-kr3426</url>
-        <price>19640.00</price>
+        <price>21360.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>acf670b1-cb69-42df-9bd9-ccc438f29831</categoryId>
         <picture>https://ol.partners/Products/Photo/5FD54B5E-3BF9-4B8F-B51E-2CC8DC351200</picture>
@@ -104119,13 +104119,13 @@
         <picture>https://cdn.olinfrastructure.com/productfile/d7bce277-2d30-4d50-9d32-0bf49d5aa176/image_02.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Радіатор сталевий KOER 22 x 500 x 600B (1315 Вт, 16,74 кг, нижнє підключення, з термоклапаном, з універсальним кріпленням) (KR6210)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR6210</vendorCode>
         <param name="Од. в упак.">1</param>
-        <param name="Об'єм ящ.">0</param>
-        <param name="Вага ящ.">0</param>
+        <param name="Об'єм ящ.">0.029</param>
+        <param name="Вага ящ.">17.6</param>
         <param name="Колір">Білий (RAL 9016)</param>
         <param name="Жорсткість води (мг-екв/л)">&lt;7</param>
         <param name="Вміст зважених речовин (мг/л)">&lt;5</param>
@@ -105050,7 +105050,7 @@
         <param name="Гарантійний період (міс)">84</param>
         <param name="Особливості">Матеріал закладних деталей комбінованих фітингів: Латунь CW617N</param>
       </offer>
-      <offer id="WH0599" available="true">
+      <offer id="WH0599" available="false">
         <url>https://ol.partners/products/boyleri/vodonagrivach-ploskiy-mixxus-ewh10100-flat-dry-nakopichuvalniy-100-l-sukhiy-ten-2-kw-wh0599</url>
         <price>12128.00</price>
         <currencyId>UAH</currencyId>
@@ -105061,8 +105061,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/2f4cc372-8a67-432b-9a0f-ad0c5f5ab26f/image_03.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/2f4cc372-8a67-432b-9a0f-ad0c5f5ab26f/image_02.jpg</picture>
         <vendor>MIXXUS</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Водонагрівач "Плоский" MIXXUS EWH-10100 FLAT DRY накопичувальний 100 л, сухий тен 2 kW (WH0599)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>WH0599</vendorCode>
@@ -105166,7 +105166,7 @@
       </offer>
       <offer id="KP3431" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/nasosni-stantsii/nasosna-ministantsiya-vikhrova-intelektualna-koer-pwz-750-h50m-q56-lkhv-p750-vt-1x1-kp3431</url>
-        <price>5190.00</price>
+        <price>5450.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/77F40CD0-859A-489A-B1A5-0856F7B94926</picture>
@@ -105368,7 +105368,7 @@
       </offer>
       <offer id="KP2898" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/nasosni-stantsii/nasosna-stantsiya-koer-auto-js600-n40m-q27kbm-p600-vt-1x1z-pyatirnikom-kp2898</url>
-        <price>7140.00</price>
+        <price>7510.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/A234E306-C069-47C4-BCF8-9280B3DE3276</picture>
@@ -105836,7 +105836,7 @@
       </offer>
       <offer id="KP3258" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/poverkhneviy-nasos/nasos-poverkhneviy-koer-cpm200-vidtsentroviy-n45m-q96kbm-p1500-vt-1x1-kp3258</url>
-        <price>7140.00</price>
+        <price>7510.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/1D87010D-81DD-4405-A3FB-B4882FF19BD1</picture>
@@ -106304,7 +106304,7 @@
       </offer>
       <offer id="KP2973" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/drenazhni-nasosi/drenazhniy-nasos-koer-kdp750-combi-kp2973</url>
-        <price>2550.00</price>
+        <price>2680.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/B32A691E-91D1-4890-9DF3-B4D988C98799</picture>
@@ -106503,7 +106503,7 @@
       </offer>
       <offer id="KP3099" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/tsirkulyatsiyni-nasosi/tsirkulyatsiyniy-nasos-koer-ape-254130-chastotniy-kp3099</url>
-        <price>3910.00</price>
+        <price>4120.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/EE7CC306-7C88-42E9-9092-80D4EDABD2B2</picture>
@@ -107199,7 +107199,7 @@
       </offer>
       <offer id="KP3374" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/nasosni-stantsii/nasosna-stantsiya-koer-auto-js1100a-n45m-q45kbm-p1100-vt-1x1-z-pyatirnikom-kp3374</url>
-        <price>8880.00</price>
+        <price>9340.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/15BA0B66-DD4C-406E-9EA5-7159D7C22B40</picture>
@@ -108201,7 +108201,7 @@
       </offer>
       <offer id="KP3238" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/poverkhneviy-nasos/nasos-poverkhneviy-bagatostupeneviy-koer-tcm8754511-kp3238</url>
-        <price>9500.00</price>
+        <price>9990.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/639745F4-E690-4791-9FE9-9D1A049DAC00</picture>
@@ -108252,7 +108252,7 @@
       </offer>
       <offer id="KP2622" available="false">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/sverdlovinni-nasosi/tsentrobizhniy-nasos-koer-3sdm-215-40m-pult-kp2622</url>
-        <price>7080.00</price>
+        <price>7450.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/0B4E67C8-3575-4847-A042-22E5CDA2297F</picture>
@@ -109105,7 +109105,7 @@
         <param name="Розміри виробу (ВхШхГ)">320x285x145</param>
       </offer>
       <offer id="KR6604" available="true">
-        <url>https://ol.partners/products/truboprovodi-ta-zyednannya/trubi/trubi-dlya-teploi-pidlogi/truba-tepla-pidloga-koer-stabil-pexa-evoh-20kh29-silver-universalna-z-kisnevim-baryerom-kr6604</url>
+        <url>https://ol.partners/products/truboprovodi-ta-zyednannya/trubi/trubi-dlya-teploi-pidlogi/truba-universalna-koer-stabil-pexa-evoh-20kh29-silver-z-kisnevim-baryerom-kr6604</url>
         <price>172.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>cccd3e1f-6b84-49c8-b342-dee61a5caf10</categoryId>
@@ -109114,7 +109114,7 @@
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
         <availabilityStatus>Достатньо</availabilityStatus>
-        <name>Труба тепла підлога KOER STABIL PEX-A EVOH 20х2,9 (SILVER) універсальна з кисневим бар'єром (KR6604)</name>
+        <name>Труба універсальна KOER STABIL PEX-A EVOH 20х2,9 (SILVER) з кисневим бар'єром (KR6604)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR6604</vendorCode>
         <param name="Од. в упак.">100</param>
@@ -109124,7 +109124,7 @@
         <param name="Тип виробу">Труби PEX і PERT</param>
         <param name="Країна бренду">Чехія</param>
         <param name="Торгова марка">KOER</param>
-        <param name="Призначення">Для теплої підлоги</param>
+        <param name="Призначення">Для систем опалення</param>
         <param name="Матеріал">Поліетилен</param>
         <param name="Тип з'єднання">Напресовка-еверлок</param>
         <param name="Робочий тиск (бар)">10</param>
@@ -109374,7 +109374,7 @@
       </offer>
       <offer id="KP3427" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/nasosni-stantsii/nasosna-ministantsiya-vikhrova-intelektualna-koer-pwz-125-h24m-q33-lkhv-p125-vt-1x1-kp3427</url>
-        <price>3760.00</price>
+        <price>3950.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/DA6922AA-C6E4-4125-AFC9-9CD723A3CE74</picture>
@@ -109473,7 +109473,7 @@
       </offer>
       <offer id="KP2769" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/tsirkulyatsiyni-nasosi/nasos-tsirkulyatsiyniy-flantseviy-koer-grs-4010f-n10m-q18kbm-p550-vt-kp2769</url>
-        <price>9560.00</price>
+        <price>10060.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/DDDEC698-5BED-494A-A0AE-203AB1ABA219</picture>
@@ -110476,7 +110476,7 @@
       </offer>
       <offer id="KR3427" available="false">
         <url>https://ol.partners/products/generatori/generator-benzinoviy-invertorniy-koer-ku3300i-kr3427</url>
-        <price>27030.00</price>
+        <price>29390.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>acf670b1-cb69-42df-9bd9-ccc438f29831</categoryId>
         <picture>https://ol.partners/Products/Photo/55E2021C-0040-4097-8049-59FE0236F1A9</picture>
@@ -111383,7 +111383,7 @@
       </offer>
       <offer id="KP2971" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/drenazhni-nasosi/nasos-drenazhniy-koer-kdp750-pro-kp2971</url>
-        <price>1930.00</price>
+        <price>2020.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/B912F817-5D95-4DE8-9A58-CEA67C21EFC4</picture>
@@ -112361,7 +112361,7 @@
       </offer>
       <offer id="KP2634" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/sverdlovinni-nasosi/tsentrobizhniy-nasos-koer-4sdm-29-40m-pult-kp2634</url>
-        <price>7700.00</price>
+        <price>8100.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/991E8895-E3E1-4367-89B9-A74574BE4657</picture>
@@ -112838,7 +112838,7 @@
         <param name="Тип виливу">Поворотний</param>
         <param name="Колір">Білий</param>
       </offer>
-      <offer id="KR2797" available="false">
+      <offer id="KR2797" available="true">
         <url>https://ol.partners/products/truboprovodi-ta-zyednannya/ustatkuvannya-dlya-montazhu/khomuti-na-trubi/khomut-trubniy-otsinkovaniy-koer-kcb20-1-3236-chorniy-kr2797</url>
         <price>38.00</price>
         <currencyId>UAH</currencyId>
@@ -112848,8 +112848,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/e9700bf1-591e-436a-8f00-e1d196787e26/image_03_KR2797.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/e9700bf1-591e-436a-8f00-e1d196787e26/image_01.jpg</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Хомут трубний оцинкований Koer KCB.20 1" (32-36) чорний (KR2797)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR2797</vendorCode>
@@ -115323,7 +115323,7 @@
       </offer>
       <offer id="KR6218" available="false">
         <url>https://ol.partners/products/generatori/generator-benzinoviy-invertorniy-koer-ku4500ie-4045-kvt-elektrostarter-akumulyator-kr6218</url>
-        <price>34240.00</price>
+        <price>37230.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>acf670b1-cb69-42df-9bd9-ccc438f29831</categoryId>
         <picture>https://ol.partners/Products/Photo/1A627A07-AF50-4A4C-B296-F395DD59D9DD</picture>
@@ -116791,7 +116791,7 @@
       </offer>
       <offer id="KP3149" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/rozshiryuvalni-baki-dlya-sistem-opalennya/bak-rozshiryuvalniy-dlya-sistemi-opalennya-vertikalniy-koer-kvt2-2l-12-epdm-kp3149</url>
-        <price>280.00</price>
+        <price>290.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/61A99FB4-F8A7-4CFB-8646-918F2A420EE7</picture>
@@ -117517,7 +117517,7 @@
       </offer>
       <offer id="KP3370" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/sverdlovinni-nasosi/nasos-sverdlovinniy-vidtsentroviy-koer-4sd12312m-380v-n210m-q162m3-p7500-vt-kab2m-kp3370</url>
-        <price>26700.00</price>
+        <price>28090.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/FF03EAAA-8736-4500-BB8F-1D7CB766D1DD</picture>
@@ -118122,7 +118122,7 @@
       </offer>
       <offer id="KP2631" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/sverdlovinni-nasosi/tsentrobizhniy-nasos-koer-4sdm-228-pult-kp2631</url>
-        <price>10520.00</price>
+        <price>11070.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/3646A8C5-FD5E-4B35-999A-761622C24001</picture>
@@ -118885,7 +118885,7 @@
       </offer>
       <offer id="KP2635" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/sverdlovinni-nasosi/vidtsentroviy-nasos-pult-koer-4sdm-212-50m-kp2635</url>
-        <price>8760.00</price>
+        <price>9210.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/C0E17116-909D-454D-9593-7F7F93F705BE</picture>
@@ -120591,7 +120591,7 @@
         <param name="Є УЗВ">Ні</param>
       </offer>
       <offer id="KR6606" available="true">
-        <url>https://ol.partners/products/truboprovodi-ta-zyednannya/trubi/trubi-dlya-teploi-pidlogi/truba-tepla-pidloga-koer-stabil-pexa-evoh-32x47-silver-universalna-z-kisnevim-baryerom-kr6606</url>
+        <url>https://ol.partners/products/truboprovodi-ta-zyednannya/trubi/trubi-dlya-teploi-pidlogi/truba-universalna-koer-stabil-pexa-evoh-32x47-silver-z-kisnevim-baryerom-kr6606</url>
         <price>543.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>cccd3e1f-6b84-49c8-b342-dee61a5caf10</categoryId>
@@ -120600,7 +120600,7 @@
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
         <availabilityStatus>Достатньо</availabilityStatus>
-        <name>Труба тепла підлога KOER STABIL PEX-A EVOH 32x4,7 (SILVER) універсальна з кисневим бар'єром (KR6606)</name>
+        <name>Труба універсальна KOER STABIL PEX-A EVOH 32x4,7 (SILVER) з кисневим бар'єром (KR6606)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR6606</vendorCode>
         <param name="Од. в упак.">50</param>
@@ -120610,7 +120610,7 @@
         <param name="Країна бренду">Чехія</param>
         <param name="Тип виробу">Труби PEX і PERT</param>
         <param name="Вид виробу">Труби PEX</param>
-        <param name="Призначення">Для теплої підлоги</param>
+        <param name="Призначення">Для систем опалення</param>
         <param name="Максимальна температура робочої рідини (°C)">90</param>
         <param name="Особливості">Продається бухтою, не ріжемо</param>
         <param name="Гарантійний період (міс)">84</param>
@@ -122280,7 +122280,7 @@
       </offer>
       <offer id="KP2662" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/poverkhneviy-nasos/nasos-poverkhon-samovsmoktuvalniy-koer-js600-korpus-nerzh-kp2662</url>
-        <price>4220.00</price>
+        <price>4440.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/A5BFF339-56A6-4FFE-8110-6FAF56A68E3D</picture>
@@ -122373,7 +122373,7 @@
       </offer>
       <offer id="KP3371" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/zapchastini-ta-aksesuari-dlya-nasosiv/rele-tisku-elektronne-koer-ksr10-regulyuyuche-do-15-kvt-kabel-z-yevrovilkoyu-ta-rozetkoyu-kp3371</url>
-        <price>1430.00</price>
+        <price>1500.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/D3D93377-2CCD-4508-8DAE-E9EE81DF780E</picture>
@@ -123534,7 +123534,7 @@
       </offer>
       <offer id="KP2660" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/poverkhneviy-nasos/nasos-poverkh-samovsmoktuvalniy-koer-jet125-korpus-chavun-kp2660</url>
-        <price>5090.00</price>
+        <price>5360.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/F5F0C1F1-C034-4124-9D47-46444B66B75E</picture>
@@ -123941,7 +123941,7 @@
       </offer>
       <offer id="KB0006" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/rozshiryuvalni-baki-dlya-sistem-opalennya/bak-rozshiryuvalniy-dlya-sistemi-opalennya-koer-bv8-vertikalniy-kb0006</url>
-        <price>700.00</price>
+        <price>740.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/216F55B3-81A4-4E1A-96E0-E14519CEAD71</picture>
@@ -123973,7 +123973,7 @@
       </offer>
       <offer id="KP3135" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/sverdlovinni-nasosi/vibratsiyniy-nasos-nizhniy-zabir-vodi-koer-kvp-601-obmotkamid-kp3135</url>
-        <price>1530.00</price>
+        <price>1610.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/C46271C7-B574-40F2-8345-69924E5918B6</picture>
@@ -124011,7 +124011,7 @@
       </offer>
       <offer id="KB0016" available="false">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/gidroakumulyatori-dlya-sistem-vodopostachannya/gidroakumulyator-vertikalniy-koer-kvts100-100l-korpusstal-12mm-flanetsnerzhaviyucha-stal-kb0016</url>
-        <price>4780.00</price>
+        <price>5030.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/4A934349-F744-4FD5-B0D7-93977DA6C9D9</picture>
@@ -124940,7 +124940,7 @@
       </offer>
       <offer id="KP3154" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/zapchastini-ta-aksesuari-dlya-nasosiv/kontroler-tisku-elektronniy-koer-ksr1-dlya-nasosa-11kvt-1-kp3154</url>
-        <price>1090.00</price>
+        <price>1150.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/740CF68A-0524-4382-AB9D-6F655E56B5B1</picture>
@@ -125328,7 +125328,7 @@
       </offer>
       <offer id="KP2640" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/sverdlovinni-nasosi/tsentrobizhniy-nasos-koer-4sdm-424-pult-kp2640</url>
-        <price>13170.00</price>
+        <price>13850.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/BB68990E-5FF4-428B-9CE1-319D0DF9150C</picture>
@@ -127020,7 +127020,7 @@
       </offer>
       <offer id="KP3137" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/fekalni-ta-kanalizatsiyni-nasosi/nasos-drenazhnofekalniy-koer-wfd111011n-korpus-nerzh-freza-kp3137</url>
-        <price>8380.00</price>
+        <price>8820.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/3812467D-48A9-4465-ABE7-37A93176CB5E</picture>
@@ -127154,7 +127154,7 @@
       </offer>
       <offer id="KB0012" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/gidroakumulyatori-dlya-sistem-vodopostachannya/gidroakumulyator-gorizontalniy-koer-khts24-24l-korpusstal-1mm-flanetsnerzhaviyka-kb0012</url>
-        <price>1490.00</price>
+        <price>1570.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/56775E35-AE3B-46F7-BC9E-E3CAAF64F297</picture>
@@ -128588,7 +128588,7 @@
       </offer>
       <offer id="KP3305" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/nasosni-stantsii/nasosna-stantsiya-koer-master-400-intelektualna-energozberigayucha-n42mq4kbmp400-vt-1x1-kp3305</url>
-        <price>8820.00</price>
+        <price>9280.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/FC31C328-251A-45B1-8636-77BE1FAD1BCE</picture>
@@ -129538,7 +129538,7 @@
       </offer>
       <offer id="KP0250" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/tsirkulyatsiyni-nasosi/nasos-tsirkulyatsiyniy-vidtsentr-koer-kpgrs254130-kp0250</url>
-        <price>1750.00</price>
+        <price>1840.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/6DBD996B-8A7B-48EE-9B01-3956E10198AB</picture>
@@ -130655,7 +130655,7 @@
       </offer>
       <offer id="KP3139" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/fekalni-ta-kanalizatsiyni-nasosi/nasos-drenazhnofekalniy-koer-wsd111011-korpus-nerzh-kp3139</url>
-        <price>8070.00</price>
+        <price>8490.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/CFF68B51-7A63-4B5B-B1AC-6745004DD4ED</picture>
@@ -131917,7 +131917,7 @@
       </offer>
       <offer id="KP2659" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/poverkhneviy-nasos/nasos-poverkh-samovsmoktuvalniy-koer-jet100b-kp2659</url>
-        <price>4750.00</price>
+        <price>5000.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/031A7035-2EE1-443E-9F15-4E5057C677B8</picture>
@@ -132542,7 +132542,7 @@
       </offer>
       <offer id="KP3417" available="false">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/zapchastini-ta-aksesuari-dlya-nasosiv/rele-tisku-elektronne-koer-ks17-regulyuyuche-do-22-kvt-kabel-z-yevrovilkoyu-kp3417</url>
-        <price>1060.00</price>
+        <price>1110.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/BEDFDA12-FAC1-48F0-8200-200C980E54E1</picture>
@@ -134457,7 +134457,7 @@
       </offer>
       <offer id="KP2783" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/zapchastini-ta-aksesuari-dlya-nasosiv/kontroler-tisku-koer-ks2-elektronniy-kp2783</url>
-        <price>900.00</price>
+        <price>950.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/E2798209-373D-4E59-97FC-C1A935BA6E4E</picture>
@@ -135081,7 +135081,7 @@
       </offer>
       <offer id="KP3157" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/zapchastini-ta-aksesuari-dlya-nasosiv/kontroler-tisku-regulyuyuchiy-koer-ksr12-tsifroviy-do-22kvt-1-kp3157</url>
-        <price>2110.00</price>
+        <price>2220.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/50CD4C1D-B346-433A-98CC-51EB0FCCD001</picture>
@@ -136175,7 +136175,7 @@
       </offer>
       <offer id="KP2884" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/poverkhneviy-nasos/nasos-poverkhneviy-vidtsentroviy-koer-2tcp25160b-15x1-kp2884</url>
-        <price>9500.00</price>
+        <price>9990.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/B501C112-14A7-497F-A574-1E5322557FFE</picture>
@@ -137263,7 +137263,7 @@
       </offer>
       <offer id="KP2972" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/drenazhni-nasosi/nasos-drenazhniy-koer-kdp550-combi-kp2972</url>
-        <price>2420.00</price>
+        <price>2550.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/38D62A1F-908B-4A33-BD8B-C7A1F0D32BCC</picture>
@@ -138778,7 +138778,7 @@
       </offer>
       <offer id="KP2874" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/sverdlovinni-nasosi/tsentrobizhniy-nasos-koer-4kdm-3940m-1-14-kp2874</url>
-        <price>6400.00</price>
+        <price>6730.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/692DAFFC-4CF4-4AA0-BAA4-6324F41B0B54</picture>
@@ -138914,7 +138914,7 @@
       </offer>
       <offer id="KP2661" available="false">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/poverkhneviy-nasos/nasos-poverkh-samovsmoktuvalniy-koer-js800-korpus-nerzh-kp2661</url>
-        <price>4780.00</price>
+        <price>5030.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/FE3AC107-C901-40CB-AB35-FF1282A09FDC</picture>
@@ -139842,7 +139842,7 @@
       </offer>
       <offer id="KR3431" available="false">
         <url>https://ol.partners/products/generatori/generator-benzinoviy-koer-ku3000eb-kr3431</url>
-        <price>14960.00</price>
+        <price>16260.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>acf670b1-cb69-42df-9bd9-ccc438f29831</categoryId>
         <picture>https://ol.partners/Products/Photo/4FD4ED8B-3407-44A7-9AD0-38ACB2F16B3A</picture>
@@ -140427,7 +140427,7 @@
       </offer>
       <offer id="KP0248" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/tsirkulyatsiyni-nasosi/nasos-tsirkulyatsiyniy-vidtsentr-koer-kpgrs25-4180-kp0248</url>
-        <price>1780.00</price>
+        <price>1870.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/10AC072F-E265-4DBB-9528-E10B665B29D9</picture>
@@ -140645,7 +140645,7 @@
       </offer>
       <offer id="KP0251" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/tsirkulyatsiyni-nasosi/nasos-tsirkulyatsiyniy-vidtsentr-koer-kpgrs25-6130-kp0251</url>
-        <price>1800.00</price>
+        <price>1890.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/9A977C17-2CA2-4715-B94E-FB216A37EA29</picture>
@@ -141629,7 +141629,7 @@
       </offer>
       <offer id="KR3432" available="false">
         <url>https://ol.partners/products/generatori/generator-benzinoviy-koer-ku5500eb-kr3432</url>
-        <price>26430.00</price>
+        <price>28740.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>acf670b1-cb69-42df-9bd9-ccc438f29831</categoryId>
         <picture>https://ol.partners/Products/Photo/CD2F4540-9F85-4830-82A1-60590D3DC796</picture>
@@ -141661,7 +141661,7 @@
       </offer>
       <offer id="KP2669" available="false">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/nasosni-stantsii/nasosna-stantsiya-koer-auto-js800-pyaternik-kp2669</url>
-        <price>8070.00</price>
+        <price>8490.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/5EC45AA2-FC3C-4B5B-B487-0EC4013B27B9</picture>
@@ -143601,7 +143601,7 @@
       </offer>
       <offer id="KP2790" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/zapchastini-ta-aksesuari-dlya-nasosiv/komplekt-avtomatiki-dlya-nasosnoi-stantsii-koer-sk9-kp2790</url>
-        <price>360.00</price>
+        <price>380.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/9E7042E0-8226-4D6E-9BDF-7B3F951FE405</picture>
@@ -144290,7 +144290,7 @@
       </offer>
       <offer id="KP3356" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/drenazhni-nasosi/nasos-drenazhniy-koer-kdn1100-korpus-nerzhaviyucha-stal-n105m-q135kbm-p1100-vt-kp3356</url>
-        <price>2730.00</price>
+        <price>2870.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/C3C4A798-B441-486C-91BF-4F6E40A2ACCE</picture>
@@ -145011,7 +145011,7 @@
       </offer>
       <offer id="KP3155" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/zapchastini-ta-aksesuari-dlya-nasosiv/kontroler-tisku-elektronniy-koer-ksr3-dlya-nasosa-11kvt-1-kp3155</url>
-        <price>1110.00</price>
+        <price>1170.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/67251B05-7885-4472-BBB3-085FEDE8C1BF</picture>
@@ -145928,7 +145928,7 @@
       </offer>
       <offer id="KP2667" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/nasosni-stantsii/nasosna-stantsiya-koer-auto-jet125-z-pyaternikom-kp2667</url>
-        <price>9380.00</price>
+        <price>9860.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/2D9696C8-AE2C-4382-9399-766A3FD573E2</picture>
@@ -148476,7 +148476,7 @@
       </offer>
       <offer id="KP2646" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/sverdlovinni-nasosi/nasos-glibinniy-shnekoviy-koer-3qgd-0850037-kp2646</url>
-        <price>3350.00</price>
+        <price>3530.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/A87B1455-A757-4EDB-8F2E-FB6E799045E8</picture>
@@ -150203,7 +150203,7 @@
       </offer>
       <offer id="KP2639" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/sverdlovinni-nasosi/vidtsentroviy-nasos-koer-4sdm-237-50m-pult-kp2639</url>
-        <price>18570.00</price>
+        <price>19530.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/295E0073-D3A1-4E59-992D-C2E7D275C880</picture>
@@ -150269,7 +150269,7 @@
       </offer>
       <offer id="KP3366" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/sverdlovinni-nasosi/nasos-sverdlovinniy-vidtsentroviy-koer-4sdm12122m-n81m-q162m3-p2200-vt-kab2m-kp3366</url>
-        <price>11490.00</price>
+        <price>12080.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/C1C33100-2C38-4204-90ED-203061FD085D</picture>
@@ -150899,7 +150899,7 @@
       </offer>
       <offer id="KP2871" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/sverdlovinni-nasosi/tsentrobizhniy-nasos-koer-3kdm-22150m-1-kp2871</url>
-        <price>7820.00</price>
+        <price>8230.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/4A8DC7CB-33F3-4D78-ABF2-0421AB490D98</picture>
@@ -150942,7 +150942,7 @@
       </offer>
       <offer id="KP2627" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/sverdlovinni-nasosi/tsentrobizhniy-nasos-koer-4sdm-29-pult-kp2627</url>
-        <price>6010.00</price>
+        <price>6320.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/39497E84-B53E-47F9-9719-B1A2CAAEAAB6</picture>
@@ -151588,7 +151588,7 @@
       </offer>
       <offer id="KP2928" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/fekalni-ta-kanalizatsiyni-nasosi/kanalizatsiyna-ustanovka-koer-kwcs-kp2928</url>
-        <price>6490.00</price>
+        <price>6830.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/1993D522-47A4-41B6-934C-21B8A94B9DBD</picture>
@@ -151667,7 +151667,7 @@
       </offer>
       <offer id="KP3173" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/benzonasosi-palivni-nasosi/nasos-dlya-dizelnogo-paliva-koer-krt220ac-kp3173</url>
-        <price>2240.00</price>
+        <price>2350.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/C4EDA689-4FFF-47CE-A489-45C2C588A1F9</picture>
@@ -152189,7 +152189,7 @@
       </offer>
       <offer id="KP3363" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/sverdlovinni-nasosi/nasos-sverdlovinniy-vidtsentroviy-koer-4sdm81245m-n76m-q108m3-p1500-vt-kab45m-kp3363</url>
-        <price>11670.00</price>
+        <price>12280.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/BC284299-3158-493A-B168-EE811E29A358</picture>
@@ -153102,7 +153102,7 @@
         <vendorCode>EK0107</vendorCode>
         <param name="Од. в упак.">1</param>
         <param name="Об'єм ящ.">0</param>
-        <param name="Вага ящ.">0</param>
+        <param name="Вага ящ.">17.1</param>
         <param name="Висота (мм)">593</param>
         <param name="Об'єм (л)">50,00</param>
         <param name="Ширина (мм)">440</param>
@@ -154210,7 +154210,7 @@
       </offer>
       <offer id="KP2968" available="false">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/poverkhneviy-nasos/nasos-poverkhneviy-koer-kdp505a-kp2968</url>
-        <price>10250.00</price>
+        <price>10780.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/B0D8F439-3417-4E6C-A0B6-EA27466CABF0</picture>
@@ -156205,7 +156205,7 @@
       </offer>
       <offer id="KP2619" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/sverdlovinni-nasosi/tsentrobizhniy-nasos-koer-3sdm-227-pult-kp2619</url>
-        <price>6890.00</price>
+        <price>7770.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/631CF942-69CE-4669-AF4D-73B8B1C8F747</picture>
@@ -157485,7 +157485,7 @@
       </offer>
       <offer id="KP3175" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/tsirkulyatsiyni-nasosi/nasos-tsirkulyatsiyniy-koer-kpgrs154130-z-kabelem-ta-gaykami-kp3175</url>
-        <price>1710.00</price>
+        <price>1800.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/6AE50526-7CA3-44A3-9D8F-39E7C03B7416</picture>
@@ -158707,7 +158707,7 @@
       </offer>
       <offer id="KP3161" available="false">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/sverdlovinni-nasosi/tsentrobizhniy-nasos-koer-25sdm-151715m-1-kp3161</url>
-        <price>5280.00</price>
+        <price>5550.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/919CE032-ED04-497B-89EF-24AEAC20B64F</picture>
@@ -159105,7 +159105,7 @@
       </offer>
       <offer id="KP0254" available="false">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/nasosi-pidvischennya-tisku/nasos-pidvischennya-tisku-koer-kpp15grs10-z-gaykami-kabelem-i-vilkoyu-kp0254</url>
-        <price>2860.00</price>
+        <price>3000.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/26FA9368-93FC-4344-B1AA-F1C86352DAF6</picture>
@@ -159351,7 +159351,7 @@
         <param name="Висота (мм)">500</param>
         <param name="Колір">Білий (RAL 9016)</param>
       </offer>
-      <offer id="ZX5891" available="true">
+      <offer id="ZX5891" available="false">
         <url>https://ol.partners/products/aksesuari-dlya-vannoi/vidro-dlya-smittya/vidro-dlya-smittya-z-plavnim-zakrittyam-kvadratne-zerix-kubixtc0108-ss-color-8l-kolir-nerzhaviyka-zx5891</url>
         <price>1035.00</price>
         <currencyId>UAH</currencyId>
@@ -159364,8 +159364,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/255a0f46-d39d-4ac3-854c-07ddb5a7fb69/image_01.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/255a0f46-d39d-4ac3-854c-07ddb5a7fb69/image_04.jpg</picture>
         <vendor>ZERIX</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Відро для сміття з плавним закриттям квадратне ZERIX KUBIX-TC0108 SS COLOR 8л (колір нержавійка) (ZX5891)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>ZX5891</vendorCode>
@@ -159698,7 +159698,7 @@
       </offer>
       <offer id="KP3377" available="false">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/poverkhneviy-nasos/nasos-poverkhneviy-samovsmoktuyuchiy-koer-js800-korpus-nerzh-n46m-q33kbm-p800-vt-1x1-kp3377</url>
-        <price>4780.00</price>
+        <price>5030.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/2862288D-2EC5-4EEF-8168-E81586E224C6</picture>
@@ -160146,7 +160146,7 @@
       </offer>
       <offer id="KP2875" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/sverdlovinni-nasosi/tsentrobizhniy-nasos-koer-4kdm-31250m-1-14-kp2875</url>
-        <price>7860.00</price>
+        <price>8260.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/00E57521-6B68-48A4-9D5E-CCEC5C9925E9</picture>
@@ -160760,7 +160760,7 @@
         <param name="Гарантійний період (міс)">84</param>
       </offer>
       <offer id="KR6603" available="true">
-        <url>https://ol.partners/products/truboprovodi-ta-zyednannya/trubi/trubi-dlya-teploi-pidlogi/truba-tepla-pidloga-koer-stabil-pexa-evoh-162kh26-silver-universalna-z-kisnevim-baryerom-kr6603</url>
+        <url>https://ol.partners/products/truboprovodi-ta-zyednannya/trubi/trubi-dlya-teploi-pidlogi/truba-universalnaya-koer-stabil-pexa-evoh-162kh26-silver-s-kislorodnym-barerom-kr6603</url>
         <price>124.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>cccd3e1f-6b84-49c8-b342-dee61a5caf10</categoryId>
@@ -160769,13 +160769,13 @@
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
         <availabilityStatus>Достатньо</availabilityStatus>
-        <name>Труба тепла підлога KOER STABIL PEX-A EVOH 16,2х2,6 (SILVER) універсальна з кисневим бар'єром (KR6603)</name>
+        <name>Труба универсальная KOER STABIL PEX-A EVOH 16,2х2,6 (SILVER) с кислородным барьером (KR6603)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR6603</vendorCode>
         <param name="Од. в упак.">100</param>
         <param name="Об'єм ящ.">0.075</param>
         <param name="Вага ящ.">13</param>
-        <param name="Призначення">Для теплої підлоги</param>
+        <param name="Призначення">Для систем опалення</param>
         <param name="Тип виробу">Труби PEX і PERT</param>
         <param name="Вид виробу">Труби PEX</param>
         <param name="Країна бренду">Чехія</param>
@@ -160839,7 +160839,7 @@
       </offer>
       <offer id="KP2970" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/drenazhni-nasosi/nasos-drenazhniy-koer-kdp550-pro-kp2970</url>
-        <price>1800.00</price>
+        <price>1890.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/3B2D603E-4007-4E3B-B7E3-E1ACC5B9BE1E</picture>
@@ -161473,7 +161473,7 @@
       </offer>
       <offer id="KP3368" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/sverdlovinni-nasosi/nasos-sverdlovinniy-vidtsentroviy-koer-4sd12162m-380v-n108m-q162m3-p3000-vt-kab2m-kp3368</url>
-        <price>15530.00</price>
+        <price>16330.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/B044F405-81A6-4B1F-8DED-374D85C3E147</picture>
@@ -162343,7 +162343,7 @@
       </offer>
       <offer id="KP2626" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/sverdlovinni-nasosi/tsentrobizhniy-nasos-koer-4sdm-27-pult-kp2626</url>
-        <price>5600.00</price>
+        <price>5890.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/A801816F-1E2F-4BC5-A809-6B82746FC3E0</picture>
@@ -162407,7 +162407,7 @@
       </offer>
       <offer id="KR3429" available="false">
         <url>https://ol.partners/products/generatori/generator-benzinoviy-koer-ku2800b-kr3429</url>
-        <price>9010.00</price>
+        <price>9800.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>acf670b1-cb69-42df-9bd9-ccc438f29831</categoryId>
         <picture>https://ol.partners/Products/Photo/65A11093-D78C-4CAF-9C9C-CC58E018E976</picture>
@@ -163606,7 +163606,7 @@
       </offer>
       <offer id="KP3429" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/nasosni-stantsii/nasosna-ministantsiya-vikhrova-intelektualna-koer-pwz-370-h36m-q40-lkhv-p370-vt-1x1-kp3429</url>
-        <price>4070.00</price>
+        <price>4280.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/D586C0F3-4EB5-4908-9E84-31A5E657918B</picture>
@@ -164193,7 +164193,7 @@
       </offer>
       <offer id="KP2644" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/sverdlovinni-nasosi/tsentrobizhniy-nasos-koer-4sdm-414-50m-pult-kp2644</url>
-        <price>11550.00</price>
+        <price>12150.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/60012FAC-D9E4-4F60-9641-B72501606D26</picture>
@@ -165174,7 +165174,7 @@
       </offer>
       <offer id="KP3357" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/sverdlovinni-nasosi/nasos-sverdlovinniy-vidtsentroviy-koer-4sdm6935m-n65m-q84m3-p920-vt-kabel35m-kp3357</url>
-        <price>9250.00</price>
+        <price>9730.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/7E38DFDC-3FB4-4834-B39F-5BEECBDB3B68</picture>
@@ -165453,7 +165453,7 @@
       </offer>
       <offer id="KP3361" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/sverdlovinni-nasosi/nasos-sverdlovinniy-vidtsentroviy-koer-4sdm6272m-n194m-q84m3-p3000-vt-kab2m-kp3361</url>
-        <price>14280.00</price>
+        <price>15020.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/873390E2-8D1E-4DA6-A910-A9A65F85F736</picture>
@@ -165883,7 +165883,7 @@
       </offer>
       <offer id="KP2650" available="false">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/sverdlovinni-nasosi/nasos-glibinniy-shnekoviy-koer-4qgd-1512011-kp2650</url>
-        <price>5460.00</price>
+        <price>5750.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/01C0DB9B-10F5-41D0-BA7D-B43278016F74</picture>
@@ -167080,7 +167080,7 @@
       </offer>
       <offer id="KP3142" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/drenazhni-nasosi/nasos-drenazhnofekalniy-koer-wfd25815-korpus-nerzh-kp3142</url>
-        <price>9000.00</price>
+        <price>9470.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/1A22EB66-0053-4C6B-8D3E-4752EE27CDD1</picture>
@@ -167390,7 +167390,7 @@
       </offer>
       <offer id="KP2656" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/poverkhneviy-nasos/nasos-poverkhneviy-vidtsentroviy-koer-kga1s-kp2656</url>
-        <price>4840.00</price>
+        <price>5090.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/B288FD52-0281-4A41-8CFA-1AFA01106DE0</picture>
@@ -167653,7 +167653,7 @@
       </offer>
       <offer id="KP2796" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/tsirkulyatsiyni-nasosi/nasos-tsirkulyatsiyniy-koer-kpgrs257130-z-kabelem-bez-gayok-kp2796</url>
-        <price>1920.00</price>
+        <price>2020.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/5AFACA22-24E5-4970-B678-E54EAEE364E1</picture>
@@ -168363,7 +168363,7 @@
       </offer>
       <offer id="KP3354" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/drenazhni-nasosi/nasos-drenazhniy-koer-kdn750-korpus-nerzhaviyucha-stal-n9m-q106kbm-p750-vt-kp3354</url>
-        <price>2520.00</price>
+        <price>2650.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/48125CDE-59C1-4418-8CC9-048E23D9CFCD</picture>
@@ -168438,7 +168438,7 @@
       </offer>
       <offer id="KP2647" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/sverdlovinni-nasosi/nasos-glibinniy-shnekoviy-koer-4qgd-1250037-kp2647</url>
-        <price>3600.00</price>
+        <price>3790.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/FCB6ED9E-FD2E-4C2D-A7CA-49697ABD3EE4</picture>
@@ -168500,7 +168500,7 @@
       </offer>
       <offer id="KP2772" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/tsirkulyatsiyni-nasosi/nasos-tsirkulyatsiyniy-koer-grs-3212-kp2772</url>
-        <price>6150.00</price>
+        <price>6470.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/4404F60E-541E-41AB-B53B-AA54E94E6347</picture>
@@ -169314,7 +169314,7 @@
       </offer>
       <offer id="KP2782" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/zapchastini-ta-aksesuari-dlya-nasosiv/kontroler-tisku-koer-ks1-elektronniy-z-kabelem-kp2782</url>
-        <price>990.00</price>
+        <price>1050.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/3C0B9825-4011-4275-947B-33247B5B550B</picture>
@@ -169588,7 +169588,7 @@
       </offer>
       <offer id="KP3353" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/drenazhni-nasosi/nasos-drenazhniy-koer-kdn550-korpus-nerzhaviyucha-stal-n8m-q87kbm-p550-vt-kp3353</url>
-        <price>2390.00</price>
+        <price>2510.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/A66932ED-0173-422A-967D-1E36CEC7A2FC</picture>
@@ -170209,7 +170209,7 @@
       </offer>
       <offer id="KP3430" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/nasosni-stantsii/nasosna-ministantsiya-vikhrova-intelektualna-koer-pwz-550-h42m-q50-lkhv-p550-vt-1x1-kp3430</url>
-        <price>4890.00</price>
+        <price>5150.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/BF6C3039-FC01-48C4-8288-A85D89142EC7</picture>
@@ -173167,7 +173167,7 @@
       </offer>
       <offer id="KP2624" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/sverdlovinni-nasosi/tsentrobizhniy-nasos-koer-3sdm-227-50m-pult-kp2624</url>
-        <price>9930.00</price>
+        <price>10440.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/34E51B56-8D1B-4860-8821-6D44F2C893C0</picture>
@@ -174446,7 +174446,7 @@
       </offer>
       <offer id="KP2654" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/poverkhneviy-nasos/nasos-poverkhneviy-vidtsentroviy-koer-cpm158-kp2654</url>
-        <price>4410.00</price>
+        <price>4640.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/2576732A-DEC4-47FD-9EA2-7B50CB35A958</picture>
@@ -175212,7 +175212,7 @@
       </offer>
       <offer id="KP2883" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/nasosni-stantsii/nasosna-ministantsiya-vikhr-koer-kgp-125-n35m-q24kbm-p370-vt-1x1-pidklkutove-kp2883</url>
-        <price>3290.00</price>
+        <price>3460.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/123F1FBE-67DD-4426-AD95-BA9F77B1785A</picture>
@@ -175874,7 +175874,7 @@
       </offer>
       <offer id="KP2872" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/sverdlovinni-nasosi/tsentrobizhniy-nasos-koer-3kdm-23360m-1-kp2872</url>
-        <price>10660.00</price>
+        <price>11210.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/6CFAD4C4-9EC9-4672-A26A-40B8A0C2FA5D</picture>
@@ -176260,7 +176260,7 @@
       </offer>
       <offer id="KP3162" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/sverdlovinni-nasosi/tsentrobizhniy-nasos-koer-25sdm-152420m-1-kp3162</url>
-        <price>5960.00</price>
+        <price>6270.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/5A51EE44-B88A-4D94-8AFB-D653AE497078</picture>
@@ -176691,7 +176691,7 @@
       </offer>
       <offer id="KP2764" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/poverkhneviy-nasos/nasos-poverkhn-samovsmoktuvalniy-koer-jet200-kp2764</url>
-        <price>8570.00</price>
+        <price>9010.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/5D728C63-16AE-4761-A3A9-70C7B61E55FA</picture>
@@ -177314,7 +177314,7 @@
       </offer>
       <offer id="KB0007" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/rozshiryuvalni-baki-dlya-sistem-opalennya/bak-rozshiryuvalniy-dlya-sistemi-opalennya-koer-bv12-kb0007</url>
-        <price>1010.00</price>
+        <price>1060.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/4423EA95-DE92-4358-9791-E438EAE34779</picture>
@@ -177925,7 +177925,7 @@
       </offer>
       <offer id="KP2616" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/sverdlovinni-nasosi/tsentrobizhniy-nasos-koer-3sdm-211-pult-kp2616</url>
-        <price>4530.00</price>
+        <price>4770.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/B876C416-F6A4-4CE3-B5C0-548AE7941A36</picture>
@@ -178479,7 +178479,7 @@
       </offer>
       <offer id="KP3102" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/tsirkulyatsiyni-nasosi/nasos-tsirkulyatsiyniy-chastotniy-koer-ape-256180-n6m-q32kbm-p45-vt-kp3102</url>
-        <price>4130.00</price>
+        <price>4340.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/03A927F8-F44F-4E6F-9859-9D3162D1CA2B</picture>
@@ -180981,7 +180981,7 @@
       </offer>
       <offer id="KP3393" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/nasosni-stantsii/nasosna-stantsiya-koer-auto-jet125a-n50m-q35kbm-p1100-vt-1x1-z-pyatirnikom-kp3393</url>
-        <price>9380.00</price>
+        <price>9860.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/6B1A117A-F770-44F0-90F6-A69670FEFD1D</picture>
@@ -181490,7 +181490,7 @@
       </offer>
       <offer id="KP3394" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/poverkhneviy-nasos/nasos-poverkhneviy-samousmoktuyuchiy-koer-js1100a-korpus-nerzhaviyucha-stal-n45m-q45kbm-p1100-vt-1x1-kp3394</url>
-        <price>5280.00</price>
+        <price>5550.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/01DF9881-D10C-4C7D-81AB-DC36990D8C1A</picture>
@@ -182686,7 +182686,7 @@
       </offer>
       <offer id="KP2877" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/sverdlovinni-nasosi/tsentrobizhniy-nasos-koer-4kdm-3242m-1-14-kp2877</url>
-        <price>8880.00</price>
+        <price>9340.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/772E7F55-7464-4EF2-BE5A-B85365F20679</picture>
@@ -183965,7 +183965,7 @@
       </offer>
       <offer id="KP2879" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/sverdlovinni-nasosi/nasos-glibinniy-shnekoviy-koer-4qgd-1512011-1-kp2879</url>
-        <price>5460.00</price>
+        <price>5750.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/B16D9EDD-5452-4ABD-9880-88D65761E07B</picture>
@@ -186046,7 +186046,7 @@
       </offer>
       <offer id="KP3310" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/nasosni-stantsii/nasosna-stantsiya-intelektualna-energozberigayucha-koer-sca230-n42mq45kbmp600-vt1x1-kp3310</url>
-        <price>10870.00</price>
+        <price>11430.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/D358C7DE-E108-48BB-9BB5-1E21227B8FA7</picture>
@@ -187768,7 +187768,7 @@
       </offer>
       <offer id="KP2629" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/sverdlovinni-nasosi/tsentrobizhniy-nasos-pult-koer-4sdm-215-kp2629</url>
-        <price>7330.00</price>
+        <price>7710.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/66DC44E4-3F30-4DEB-BA36-38822C13A852</picture>
@@ -188199,7 +188199,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/a6ccc306-54e6-433b-a314-3c6a8d6fb811/image_04.jpg</picture>
         <vendor>ZERIX</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Йоржик для унітазу підлоговий ZERIX AFB-901 (колір нержавійка) (ZX5077)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>ZX5077</vendorCode>
@@ -188931,7 +188931,7 @@
       </offer>
       <offer id="KP2870" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/sverdlovinni-nasosi/tsentrobizhniy-nasos-koer-3kdm-21540m-1-kp2870</url>
-        <price>5650.00</price>
+        <price>5940.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/D1A127F4-1B16-4F87-9CA1-9D6AB6A86E54</picture>
@@ -189276,7 +189276,7 @@
       </offer>
       <offer id="KP3257" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/nasosi-pidvischennya-tisku/nasos-pidvischennya-tisku-koer-mr80-energozberigayuchiy-n16m-q13kbm-p80-vt-12-kp3257</url>
-        <price>2300.00</price>
+        <price>2420.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/5CB7AFD7-C6D4-4BF5-8468-4113F60EF412</picture>
@@ -190376,7 +190376,7 @@
       </offer>
       <offer id="KP3358" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/sverdlovinni-nasosi/nasos-sverdlovinniy-vidtsentroviy-koer-4sdm61140m-n79m-q84m3-p1100-vt-kab40m-kp3358</url>
-        <price>10000.00</price>
+        <price>10520.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/31D3EB6F-4C0F-4328-BB61-79F8FF8AC5CC</picture>
@@ -190422,7 +190422,7 @@
       </offer>
       <offer id="KP3369" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/sverdlovinni-nasosi/nasos-sverdlovinniy-vidtsentroviy-koer-4sd12262m-380v-n176m-q162m3-p5500-vt-kab2m-kp3369</url>
-        <price>22980.00</price>
+        <price>24170.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/2DFD186C-9583-40C1-9E60-3B0220A4BA06</picture>
@@ -190956,7 +190956,7 @@
       </offer>
       <offer id="KP2630" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/sverdlovinni-nasosi/tsentrobizhniy-nasos-pult-koer-4sdm-221-kp2630</url>
-        <price>8810.00</price>
+        <price>9270.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/EEC7C103-3EA1-4D53-9BFB-336E5C448AFD</picture>
@@ -191145,7 +191145,7 @@
       </offer>
       <offer id="KR3433" available="false">
         <url>https://ol.partners/products/generatori/generator-benzinoviy-koer-ku7500eb-kr3433</url>
-        <price>29320.00</price>
+        <price>31880.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>acf670b1-cb69-42df-9bd9-ccc438f29831</categoryId>
         <picture>https://ol.partners/Products/Photo/7AF24E92-8304-475E-8380-2C271FEA116B</picture>
@@ -191438,7 +191438,7 @@
       </offer>
       <offer id="KP2791" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/zapchastini-ta-aksesuari-dlya-nasosiv/rele-tisku-dlya-nasosa-koer-msg-1-kp2791</url>
-        <price>240.00</price>
+        <price>250.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/907F6C69-A5B2-460E-ABA3-664BC2D956F8</picture>
@@ -191629,7 +191629,7 @@
       </offer>
       <offer id="KP2651" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/poverkhneviy-nasos/nasos-poverkhneviy-vikhroviy-koer-qb60-kp2651</url>
-        <price>2140.00</price>
+        <price>2250.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>f4087857-f58b-41d1-b1e0-7b407b3e3bfa</categoryId>
         <picture>https://ol.partners/Products/Photo/2AEA1DE1-A714-4E89-8A05-E680C8AF2D29</picture>
