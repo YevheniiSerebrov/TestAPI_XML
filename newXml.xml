@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-09-12 03:11">
+<yml_catalog date="2026-09-13 03:14">
   <shop>
     <name>O&amp;L</name>
     <company>O&amp;L</company>
@@ -12104,7 +12104,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/0385cc93-7c7f-413d-89f7-c873c26808d3/image_03.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Донний клапан для раковини з переливом KOER PW-03-05 автоматичний (Click-Clack) (Колір чорний) 1 1/4'' (KR3396)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR3396</vendorCode>
@@ -35043,7 +35043,7 @@
         <param name="Ширина (мм)">450</param>
         <param name="Довжина (мм)">600</param>
       </offer>
-      <offer id="KR5590" available="true">
+      <offer id="KR5590" available="false">
         <url>https://ol.partners/products/aksesuari-dlya-vannoi/vidro-dlya-smittya/vidro-dlya-smittya-sensorne-pryamokutne-koer-tc02040807-8-l-kolir-grafit-kr5590</url>
         <price>3533.00</price>
         <currencyId>UAH</currencyId>
@@ -35061,8 +35061,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/ccdbe899-01f3-4beb-9167-d7c6fd48a3c2/image_07.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/ccdbe899-01f3-4beb-9167-d7c6fd48a3c2/image_10.jpg</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Відро для сміття сенсорне прямокутне KOER TC-020408-07 8 л (колір графіт) (KR5590)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR5590</vendorCode>
@@ -74397,7 +74397,7 @@
         <currencyId>UAH</currencyId>
         <categoryId>cccd3e1f-6b84-49c8-b342-dee61a5caf10</categoryId>
         <picture>https://ol.partners/Products/Photo/55514DC7-002B-4055-A968-9CD77EEEEA8E</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/84f19d2b-6202-4629-8e2e-fa2ec92052a3/image_03_KP0110.jpg</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/84f19d2b-6202-4629-8e2e-fa2ec92052a3/image_01.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
         <availabilityStatus>Достатньо</availabilityStatus>
@@ -74408,11 +74408,7 @@
         <param name="Об'єм ящ.">0.024</param>
         <param name="Вага ящ.">14.09</param>
         <param name="Діаметр підключення (мм)">50</param>
-        <param name="d (мм)">48,90</param>
-        <param name="L (мм)">23,00</param>
-        <param name="D (мм)">48,90</param>
         <param name="Діаметр підключення (дюйм)">1 1/2</param>
-        <param name="H (мм)">52,00</param>
         <param name="Торгова марка">KOER</param>
         <param name="Модель">K0092.PRO</param>
         <param name="Тип">Муфта</param>
@@ -140281,14 +140277,14 @@
         <param name="Діаметр підключення (дюйм)">1/2х3/4</param>
         <param name="Гарантійний період (міс)">84</param>
       </offer>
-      <offer id="EP6231" available="false">
+      <offer id="EP6231" available="true">
         <url>https://ol.partners/products/filtri-ochischennya-vodi/komplektuyuchi-dlya-filtriv-vodi/kartridzh-iz-polipropilenovoi-nitki-pp5-25x10-europroduct-epv02251005-ep6231</url>
         <price>91.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>d191ae68-f2ee-4472-8036-e37d06c8ffc9</categoryId>
         <picture>https://ol.partners/Products/Photo/4ED7E33C-CE25-477D-AD6D-129CC21963DF</picture>
         <vendor>EUROPRODUCT</vendor>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>100</stock_quantity>
         <availabilityStatus>Достатньо</availabilityStatus>
         <name>Картридж із поліпропіленової нитки PP5 2,5"x10" EUROPRODUCT EPV-02-2510-05 (EP6231)</name>
         <description>&lt;![CDATA[]]&gt;</description>
