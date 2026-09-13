@@ -7,7 +7,7 @@ base_path = os.path.dirname(os.path.abspath(__file__))
 input_file = os.path.join(base_path, "OL_xml_my.xml")
 output_file = os.path.join(base_path, "newXml.xml")
 
-api_url = "https://back-prod.olinfrastructure.com/b2b/product-export/file/71541BF1-E7C1-4335-B6DD-A31E05F89989/xml"
+api_url = "https://back-prod.olinfrastructure.com/b2b/product-export/file/AC64DC0F-2835-4F16-A5F6-803BEB6FDE52/xml"
 
 try:
     # 2. Fetch the data
