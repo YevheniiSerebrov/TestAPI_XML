@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-10-10 04:24">
+<yml_catalog date="2026-10-11 04:05">
   <shop>
     <name>O&amp;L</name>
     <company>O&amp;L</company>
@@ -3847,7 +3847,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/46753ab4-af65-4238-afc1-f33735a753c5/image_01.jpg</picture>
         <vendor>EUROPRODUCT</vendor>
         <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Згін-американка 20x1 / 2F "ВР Europroduct EP.0066 (EP3991)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>EP3991</vendorCode>
@@ -32727,7 +32727,7 @@
         <param name="Гарантія на корпус змішувача (міс)">60</param>
         <param name="Гарантія на деталі змішувача (міс)">12</param>
       </offer>
-      <offer id="ZX6101" available="true">
+      <offer id="ZX6101" available="false">
         <url>https://ol.partners/products/aksesuari-dlya-vannoi/shtangi-teleskopichni/shtanga-dlya-shtorki-kutova-zerix-crsa90x90-90x90cm-nerzhaviyucha-stal-zx6101</url>
         <price>368.00</price>
         <currencyId>UAH</currencyId>
@@ -32747,8 +32747,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/91f41d8d-6f01-4aee-8e22-42f79d3fbe35/image_11.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/91f41d8d-6f01-4aee-8e22-42f79d3fbe35/image_05.jpg</picture>
         <vendor>ZERIX</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Штанга для шторки кутова ZERIX CRS-A-90x90 90x90cm (нержавіюча сталь) (ZX6101)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>ZX6101</vendorCode>
@@ -158685,7 +158685,7 @@
         <param name="Максимальна висота (см)">115</param>
         <param name="Загальна довжина (мм)">340</param>
       </offer>
-      <offer id="AC0655" available="false">
+      <offer id="AC0655" available="true">
         <url>https://ol.partners/products/aksesuari-dlya-vannoi/shtangi-teleskopichni/shtanga-dlya-shtorki-teleskopichna-pryama-mixxus-cra110x200-110cm200cm-alyuminiy-ac0655</url>
         <price>313.00</price>
         <currencyId>UAH</currencyId>
@@ -158704,8 +158704,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/44f8a43b-6850-4129-b38c-c7bd274ac177/image_13.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/44f8a43b-6850-4129-b38c-c7bd274ac177/image_04.jpg</picture>
         <vendor>MIXXUS</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Штанга для шторки телескопічна пряма MIXXUS CRA-110x200 110cm-200cm (алюміній) (AC0655)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>AC0655</vendorCode>
@@ -405502,7 +405502,7 @@
         <picture>https://ol.partners/Products/Photo/3E68EBC4-754E-4463-85FE-0D9FD1F0D18C</picture>
         <vendor>ZERIX</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Змішувач для ванни Zerix Z22219-6 (ZX0466)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>ZX0466</vendorCode>
