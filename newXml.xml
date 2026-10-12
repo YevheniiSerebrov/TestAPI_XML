@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-10-11 04:05">
+<yml_catalog date="2026-10-12 04:24">
   <shop>
     <name>O&amp;L</name>
     <company>O&amp;L</company>
@@ -2026,6 +2026,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/cae39315-44a5-4c3b-8617-badd737fc56f/image_03.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/cae39315-44a5-4c3b-8617-badd737fc56f/image_02.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/cae39315-44a5-4c3b-8617-badd737fc56f/image_01.jpg</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/cae39315-44a5-4c3b-8617-badd737fc56f/image_06.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/cae39315-44a5-4c3b-8617-badd737fc56f/image_04.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/cae39315-44a5-4c3b-8617-badd737fc56f/image_05.jpg</picture>
         <vendor>MIXXUS</vendor>
@@ -13163,7 +13164,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/082ea6a2-8442-4d8e-81c5-8e9b5c0fd0f5/image_01.jpg</picture>
         <vendor>EUROPRODUCT</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Кран кульовий 1/2" ГШМ Europroduct EP.110 (EP2934)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>EP2934</vendorCode>
@@ -14525,6 +14526,7 @@
         <currencyId>UAH</currencyId>
         <categoryId>b8c5c570-73be-4b8b-8196-f390f31aaaa8</categoryId>
         <picture>https://ol.partners/Products/Photo/FA814842-07CD-4628-B79C-F3E328325A56</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/9b49e0dc-f60a-46c7-a331-086593d00a37/image_06.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/9b49e0dc-f60a-46c7-a331-086593d00a37/image_01.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/9b49e0dc-f60a-46c7-a331-086593d00a37/image_02.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/9b49e0dc-f60a-46c7-a331-086593d00a37/image_04.jpg</picture>
@@ -19222,7 +19224,7 @@
       </offer>
       <offer id="GU0004" available="true">
         <url>https://ol.partners/products/zapchastini-dlya-zmishuvacha/vilivi-dlya-zmishuvacha/viliv-dlya-zmishuvacha-ploskiy-haiba-m7230f-30-sm-gu0004</url>
-        <price>249.00</price>
+        <price>258.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>7b5a36ec-24d8-481d-bf39-0364f754bca1</categoryId>
         <picture>https://ol.partners/Products/Photo/74D2CFA4-2A2B-46E1-9AD2-4348E5B2F85C</picture>
@@ -49805,7 +49807,7 @@
       </offer>
       <offer id="KR2962" available="true">
         <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/filtr-gruboi-ochistki/filtr-samoochistn-z-reduktorom-tisku-i-manometrom-koer-kr1249-34-zr-kr2962</url>
-        <price>2291.00</price>
+        <price>2567.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>fc522387-ec3c-4bf1-98b2-6a96a3f4bb10</categoryId>
         <picture>https://ol.partners/Products/Photo/7637246C-A75B-4F91-B367-529212E0EF9C</picture>
@@ -81027,6 +81029,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/9a47b0bd-14e8-4303-9b48-dbe9214b3624/image_02.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/9a47b0bd-14e8-4303-9b48-dbe9214b3624/image_03.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/9a47b0bd-14e8-4303-9b48-dbe9214b3624/image_01.jpg</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/9a47b0bd-14e8-4303-9b48-dbe9214b3624/image_06.png</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/9a47b0bd-14e8-4303-9b48-dbe9214b3624/image_04.jpg</picture>
         <vendor>MIXXUS</vendor>
         <stock_quantity>100</stock_quantity>
@@ -87551,7 +87554,7 @@
         <param name="Діаметр підключення (дюйм)">3/4</param>
         <param name="Матеріал виробу">Латунь</param>
       </offer>
-      <offer id="EP2949" available="true">
+      <offer id="EP2949" available="false">
         <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/krani/krani-kulovi/kran-kuloviy-1-12-gshr-europroduct-ep210-ep2949</url>
         <price>968.00</price>
         <currencyId>UAH</currencyId>
@@ -87560,8 +87563,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/fcf5a63a-541f-4c75-a27c-398cbbd74e5f/image_01.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/fcf5a63a-541f-4c75-a27c-398cbbd74e5f/image_04.jpg</picture>
         <vendor>EUROPRODUCT</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Кран кульовий 1 1/2" ГШР Europroduct EP.210 (EP2949)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>EP2949</vendorCode>
@@ -91767,15 +91770,15 @@
         <param name="Керування">Механічне</param>
         <param name="Матеріал">Пластик</param>
       </offer>
-      <offer id="MI0611" available="true">
+      <offer id="MI0611" available="false">
         <url>https://ol.partners/products/zmishuvachi-ta-krani/zmishuvachi-dlya-vanni/zmishuvach-dlya-vanni-z-povorotnim-vilivom/zmishuvach-dlya-vanni-mixxus-premium-vesta-140-euro-kolir-khrom-mi0611</url>
         <price>2282.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>c2f36242-64cb-47db-b8a9-e32c00e667c8</categoryId>
         <picture>https://ol.partners/Products/Photo/4E1E8786-4721-4195-9286-5E16D35AD138</picture>
         <vendor>MIXXUS PREMIUM</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Змішувач для ванни MIXXUS PREMIUM VESTA 140 EURO (Колір хром) (MI0611)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>MI0611</vendorCode>
@@ -92307,7 +92310,7 @@
         <picture>https://ol.partners/Products/Photo/7AE14632-D56A-4BB2-9AA5-967BF5A71597</picture>
         <vendor>MIXXUS PREMIUM</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Змішувач для кухні MIXXUS PREMIUM FOBOS 273 (Колір хром) (MI0619)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>MI0619</vendorCode>
@@ -100629,7 +100632,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/3327d6d3-b759-4227-a135-34dc14680497/image_03_KP0166.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Згін-американка ВР 32x1F PPR Koer K0131.PRO (KP0166)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KP0166</vendorCode>
@@ -121945,7 +121948,7 @@
         <picture>https://ol.partners/Products/Photo/B8EB3631-B166-4FA5-B692-FA3162CC6919</picture>
         <vendor>KOER</vendor>
         <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Девіатор LUNA KOER KR.525 (OL0020)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>OL0020</vendorCode>
@@ -123812,7 +123815,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/6334ce55-8a67-40c5-900d-dc74fe2b33b7/image_03_KR2799.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Хомут трубний оцинкований Koer KCB.20 1-1 /2" (47-51) чорний (KR2799)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR2799</vendorCode>
@@ -125501,7 +125504,7 @@
       </offer>
       <offer id="KR5781" available="true">
         <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/filtr-gruboi-ochistki/filtr-samoochisniy-z-manometrom-1-koer-kr1250-kr5781</url>
-        <price>2295.00</price>
+        <price>1967.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>d3ba59a8-80a1-4cae-84f9-c852cd6c19e9</categoryId>
         <picture>https://ol.partners/Products/Photo/4F93BADB-3470-40FE-A29F-C08FE2B39104</picture>
@@ -126692,7 +126695,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/7188bf7a-69aa-41ed-91a1-e3e38434f481/image_03.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Муфта затискна із зовнішньою різьбою KOER KCI.C16M - 1 1/2"Мx47,9-51,5 (KR5915)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR5915</vendorCode>
@@ -158605,7 +158608,7 @@
       </offer>
       <offer id="KR2750" available="false">
         <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/krani/kran-pivniy/kran-polivu-z-konnektorom-dlya-shvidkogo-pidklyuchennya-12-koer-kr257-kr2750</url>
-        <price>189.00</price>
+        <price>225.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>fb4a3e48-fe1d-4979-b1b3-3ff326246b75</categoryId>
         <picture>https://ol.partners/Products/Photo/AE5C8499-96EB-4345-A106-CB55A385DB60</picture>
@@ -171700,6 +171703,7 @@
         <currencyId>UAH</currencyId>
         <categoryId>b8c5c570-73be-4b8b-8196-f390f31aaaa8</categoryId>
         <picture>https://ol.partners/Products/Photo/9687B6E7-4294-4A50-88A5-944471042C01</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/b49f7973-e9d7-4fc3-8b19-354e3cebb80e/image_06.png</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/b49f7973-e9d7-4fc3-8b19-354e3cebb80e/image_01.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/b49f7973-e9d7-4fc3-8b19-354e3cebb80e/image_02.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/b49f7973-e9d7-4fc3-8b19-354e3cebb80e/image_05.jpg</picture>
@@ -174466,6 +174470,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/8c27436a-bd82-4fb4-a329-c81fef082f56/image_02.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/8c27436a-bd82-4fb4-a329-c81fef082f56/image_01.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/8c27436a-bd82-4fb4-a329-c81fef082f56/image_04.jpg</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/8c27436a-bd82-4fb4-a329-c81fef082f56/image_06.jpg</picture>
         <vendor>MIXXUS</vendor>
         <stock_quantity>100</stock_quantity>
         <availabilityStatus>Малий залишок</availabilityStatus>
@@ -196622,15 +196627,15 @@
         <param name="Тип монтажу">Врізні</param>
         <param name="Торгова марка">CHAMPION</param>
       </offer>
-      <offer id="MI2878" available="true">
+      <offer id="MI2878" available="false">
         <url>https://ol.partners/products/zmishuvachi-ta-krani/zmishuvachi-dlya-kukhni/zmishuvachi-dlya-kukhni-nastinni/zmishuvach-dlya-kukhni-mixxus-premium-aura-005-kolir-khrom-mi2878</url>
         <price>1555.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>2bd266ee-c645-4822-98b2-8002dcfe7e65</categoryId>
         <picture>https://ol.partners/Products/Photo/BEA4ED13-578A-47BD-838E-96F4A1F960BA</picture>
         <vendor>MIXXUS PREMIUM</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Змішувач для кухні MIXXUS PREMIUM AURA 005 (Колір хром) (MI2878)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>MI2878</vendorCode>
@@ -202204,6 +202209,7 @@
         <currencyId>UAH</currencyId>
         <categoryId>b8c5c570-73be-4b8b-8196-f390f31aaaa8</categoryId>
         <picture>https://ol.partners/Products/Photo/24495FFB-E658-4E82-8577-0ECED7151B55</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/7b3a5114-1d1c-47a7-825d-967b4470d08d/image_06.png</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/7b3a5114-1d1c-47a7-825d-967b4470d08d/image_04.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/7b3a5114-1d1c-47a7-825d-967b4470d08d/image_01.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/7b3a5114-1d1c-47a7-825d-967b4470d08d/image_02.jpg</picture>
@@ -206284,7 +206290,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/eb61ab63-01a0-457d-b043-95801b22e4c7/image_01.jpg</picture>
         <vendor>EUROPRODUCT</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>З'єднувальна муфта 20x1/2M" ЗР Europroduct EP.0058 (EP3983)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>EP3983</vendorCode>
@@ -214027,6 +214033,7 @@
         <categoryId>b8c5c570-73be-4b8b-8196-f390f31aaaa8</categoryId>
         <picture>https://ol.partners/Products/Photo/2726AD0B-A33C-42DC-89CD-EDE74F5BF049</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/b3c43477-8ab2-4d57-aa73-7f2b9a437616/image_02.jpg</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/b3c43477-8ab2-4d57-aa73-7f2b9a437616/image_06.png</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/b3c43477-8ab2-4d57-aa73-7f2b9a437616/image_04.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/b3c43477-8ab2-4d57-aa73-7f2b9a437616/image_03.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/b3c43477-8ab2-4d57-aa73-7f2b9a437616/image_01.jpg</picture>
@@ -241064,6 +241071,7 @@
         <categoryId>b8c5c570-73be-4b8b-8196-f390f31aaaa8</categoryId>
         <picture>https://ol.partners/Products/Photo/77B6EC7C-86B5-484C-9DEF-5E2317E0394B</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/b4ce00e1-852c-4056-bc31-50cff17dce5a/image_05.jpg</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/b4ce00e1-852c-4056-bc31-50cff17dce5a/image_06.png</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/b4ce00e1-852c-4056-bc31-50cff17dce5a/image_01.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/b4ce00e1-852c-4056-bc31-50cff17dce5a/image_04.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/b4ce00e1-852c-4056-bc31-50cff17dce5a/image_02.jpg</picture>
@@ -256559,7 +256567,7 @@
       </offer>
       <offer id="GU0045" available="true">
         <url>https://ol.partners/products/zapchastini-dlya-zmishuvacha/vilivi-dlya-zmishuvacha/viliv-dlya-zmishuvacha-haiba-271-gu0045</url>
-        <price>152.00</price>
+        <price>166.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>7b5a36ec-24d8-481d-bf39-0364f754bca1</categoryId>
         <picture>https://ol.partners/Products/Photo/0FCDAD61-559A-4A9B-AE9E-7500CA25A515</picture>
@@ -262775,6 +262783,7 @@
         <currencyId>UAH</currencyId>
         <categoryId>b8c5c570-73be-4b8b-8196-f390f31aaaa8</categoryId>
         <picture>https://ol.partners/Products/Photo/7DF7D510-A817-49BB-B035-5F51AAE43C70</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/a4882ac0-034b-44a2-a826-a502c868797e/image_06.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/a4882ac0-034b-44a2-a826-a502c868797e/image_04.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/a4882ac0-034b-44a2-a826-a502c868797e/image_03.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/a4882ac0-034b-44a2-a826-a502c868797e/image_02.jpg</picture>
@@ -300211,7 +300220,7 @@
       </offer>
       <offer id="KR2749" available="true">
         <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/krani/kran-pivniy/kran-pivniy-12-koer-kr256-kr2749</url>
-        <price>209.00</price>
+        <price>218.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>fb4a3e48-fe1d-4979-b1b3-3ff326246b75</categoryId>
         <picture>https://ol.partners/Products/Photo/9A782189-745A-41B3-8512-C597EC9B4679</picture>
@@ -306883,7 +306892,7 @@
       </offer>
       <offer id="KR2656" available="true">
         <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/filtr-gruboi-ochistki/filtr-samoochisniy-z-manometrom-12-koer-kr1250-kr2656</url>
-        <price>1458.00</price>
+        <price>1367.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>d3ba59a8-80a1-4cae-84f9-c852cd6c19e9</categoryId>
         <picture>https://ol.partners/Products/Photo/C3A849C1-B373-46B0-880D-B05252EC89A3</picture>
@@ -336537,7 +336546,7 @@
       </offer>
       <offer id="KR4872" available="true">
         <url>https://ol.partners/products/truboprovodi-ta-zyednannya/fitingi/rizbovi-zyednannya/kutnik-rivnoprokhidniy-90-koer-kal20-2028mm-x-2028mm-kr4872</url>
-        <price>177.00</price>
+        <price>231.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>c87e1651-8177-4a00-a703-fcf29d88f146</categoryId>
         <picture>https://ol.partners/Products/Photo/1A284B52-33CA-44C0-94F7-06D6B5D2394E</picture>
@@ -358001,7 +358010,7 @@
         <picture>https://ol.partners/Products/Photo/43CFBBD3-D884-44D2-8098-284A82433890</picture>
         <vendor>MIXXUS</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Змішувач для кухні MIXXUS TLB4-722 (Колір хром) (MI6467)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>MI6467</vendorCode>
@@ -392780,7 +392789,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/f0602b31-f36c-44f6-9b3d-e203505f5900/image_01.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Сепаратор шламу 3/4" універсальний магнітний (латунний) KOER KR.1275-20 (KR5851)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR5851</vendorCode>
@@ -403387,6 +403396,7 @@
         <picture>https://ol.partners/Products/Photo/F21E0D4F-4FF9-48C2-84C4-B12EE49BED40</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/525f4ecd-8f59-4301-85de-0daa64d3507b/image_04.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/525f4ecd-8f59-4301-85de-0daa64d3507b/image_01.jpg</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/525f4ecd-8f59-4301-85de-0daa64d3507b/image_06.png</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/525f4ecd-8f59-4301-85de-0daa64d3507b/image_05.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/525f4ecd-8f59-4301-85de-0daa64d3507b/image_02.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/525f4ecd-8f59-4301-85de-0daa64d3507b/image_03.jpg</picture>
@@ -406659,7 +406669,7 @@
         <param name="Комплектація">Гнучка підводка, аератор, елемент кріплення</param>
         <param name="Гарантія на корпус змішувача (міс)">60</param>
       </offer>
-      <offer id="KP0164" available="true">
+      <offer id="KP0164" available="false">
         <url>https://ol.partners/products/truboprovodi-ta-zyednannya/fitingi/zyednannya-dlya-trub-z-polipropilenu/zghinamerikanka-vr-20x1-2f-ppr-koer-k0129pro-kp0164</url>
         <price>121.00</price>
         <currencyId>UAH</currencyId>
@@ -406667,8 +406677,8 @@
         <picture>https://ol.partners/Products/Photo/9242C1E9-18E3-40CF-9A21-375E3EC6973A</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/9ffbf19c-f6b1-4d53-8c74-172263ca55bf/image_03_KP0164.jpg</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Згін-американка ВР 20x1 / 2F PPR Koer K0129.PRO (KP0164)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KP0164</vendorCode>
@@ -410261,7 +410271,7 @@
       </offer>
       <offer id="KR2657" available="true">
         <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/filtr-gruboi-ochistki/filtr-samoochisniy-z-manometrom-34-koer-kr1250-kr2657</url>
-        <price>1566.00</price>
+        <price>1343.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>d3ba59a8-80a1-4cae-84f9-c852cd6c19e9</categoryId>
         <picture>https://ol.partners/Products/Photo/A1212CA8-B7B6-40C0-90C9-2EB012A91018</picture>
@@ -430008,6 +430018,7 @@
         <currencyId>UAH</currencyId>
         <categoryId>b8c5c570-73be-4b8b-8196-f390f31aaaa8</categoryId>
         <picture>https://ol.partners/Products/Photo/90BBB806-9BE2-4EBE-A104-6F57FCF7451E</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/6149e3c7-a1ab-4698-b665-d67d4567b06e/image_06.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/6149e3c7-a1ab-4698-b665-d67d4567b06e/image_02.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/6149e3c7-a1ab-4698-b665-d67d4567b06e/image_04.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/6149e3c7-a1ab-4698-b665-d67d4567b06e/image_01.jpg</picture>
@@ -430763,6 +430774,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/41402bde-60b1-4005-b037-1e97c3f3338c/image_01.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/41402bde-60b1-4005-b037-1e97c3f3338c/image_04.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/41402bde-60b1-4005-b037-1e97c3f3338c/image_03.jpg</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/41402bde-60b1-4005-b037-1e97c3f3338c/image_06.jpg</picture>
         <vendor>MIXXUS</vendor>
         <stock_quantity>100</stock_quantity>
         <availabilityStatus>Достатньо</availabilityStatus>
