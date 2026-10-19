@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-10-18 03:05">
+<yml_catalog date="2026-10-19 03:19">
   <shop>
     <name>O&amp;L</name>
     <company>O&amp;L</company>
@@ -10698,7 +10698,7 @@
         <param name="Покриття">З покриттям</param>
         <param name="Гарантія на корпус змішувача (міс)">60</param>
         <param name="Гарантія на деталі змішувача (міс)">12</param>
-        <param name="Комплектація">Шланг 150 см, ручна лійка, тримач для лійки, аератор, ексцентрики, чашки, гумові прокладки</param>
+        <param name="Комплектація">Шланг 150 см, ручна лійка на 3 режими 12х24 см, чашки, ексцентрики, гумові прокладки, тримач для лійки, посібник з експлуатації та гарантійний талон</param>
         <param name="Країна виробник">Китай</param>
         <param name="Тип виробу">Змішувачі для ванни</param>
         <param name="Країна бренду">Німеччина</param>
@@ -10719,7 +10719,9 @@
         <param name="Тип керування">Одноважільні</param>
         <param name="Максимальний тиск (бар)">10,00</param>
         <param name="Тип перемикання на душ">EURO</param>
+        <param name="Довжина виливу (см)">11-15</param>
         <param name="Загальна довжина (мм)">170</param>
+        <param name="Довжина виливу (мм)">115</param>
       </offer>
       <offer id="LE2757" available="true">
         <url>https://ol.partners/products/zapchastini-dlya-zmishuvacha/liyki-dlya-dushu/liyka-dlya-dushu-stelova-gferro-sh30-le2757</url>
@@ -13462,9 +13464,12 @@
         <param name="Тип виливу">Поворотний</param>
         <param name="Стиль">Класичний</param>
         <param name="Колір">Хром</param>
-        <param name="Комплектація">Шланг 150 см, ручна лійка, тримач для лійки, аератор, ексцентрики, чашки, гумові прокладки</param>
+        <param name="Комплектація">Шланг 150 см, ручна лійка на 5 режимів 8,5х19,5 см, чашки, ексцентрики, гумові прокладки, тримач для лійки</param>
         <param name="Гарантія на деталі змішувача (міс)">12</param>
         <param name="Гарантія на корпус змішувача (міс)">60</param>
+        <param name="Загальна довжина (мм)">380</param>
+        <param name="Довжина виливу (мм)">325</param>
+        <param name="Довжина виливу (см)">31-35</param>
       </offer>
       <offer id="KR5716" available="true">
         <url>https://ol.partners/products/radiatori-opalennya/komplektuyuchi-do-radiatoriv/komplekt-radiatorniy/komplekt-dlya-pidklyuchennya-radiatora-kutoviy-z-termogolovkoyu-12-koer-set29-kr5716</url>
@@ -15554,7 +15559,8 @@
         <param name="Тип керування">Одноважільні</param>
         <param name="Гарантія на корпус змішувача (міс)">60</param>
         <param name="Гарантія на деталі змішувача (міс)">12</param>
-        <param name="Комплектація">Гігієнічна лійка, корпус, душовий шланг, ексцентрики</param>
+        <param name="Особливості">Декоративна накладка 7х13 см</param>
+        <param name="Комплектація">Шланг 125 см, лійка для гігієнічного душу 5,5х11 см, внутрішній блок, кріплення, посібник з експлуатації та гарантійний талон</param>
         <param name="Тип виробу">Змішувачі для гігієнічного душу</param>
         <param name="Торгова марка">KOER</param>
         <param name="Країна виробник">Китай</param>
@@ -16622,6 +16628,9 @@
         <param name="Од. в упак.">10</param>
         <param name="Об'єм ящ.">0.064</param>
         <param name="Вага ящ.">9.2</param>
+        <param name="Довжина виливу (мм)">320</param>
+        <param name="Загальна довжина (мм)">380</param>
+        <param name="Довжина виливу (см)">31-35</param>
         <param name="Картридж чи кран букса">Картридж</param>
         <param name="Мінімальний тиск (бар)">0,50</param>
         <param name="MAX різниця тиску гарячої та холодної води (бар)">1,50</param>
@@ -20879,7 +20888,7 @@
         <param name="Робочий тиск (бар)">1-5</param>
         <param name="Картридж чи кран букса">Картридж</param>
         <param name="Тип керування">Поворотні</param>
-        <param name="Довжина шланга (см)">125</param>
+        <param name="Довжина шланга (см)">120</param>
         <param name="Матеріал виробу">Латунь</param>
         <param name="Торгова марка">KOER</param>
         <param name="Вид виробу">Змішувачі для гігієнічного душу прихованого монтажу</param>
@@ -20894,8 +20903,9 @@
         <param name="Покриття">З покриттям</param>
         <param name="Колір">Хром</param>
         <param name="Гарантія на деталі змішувача (міс)">12</param>
-        <param name="Комплектація">Гігієнічна лійка, корпус, душовий шланг, ексцентрики</param>
         <param name="Гарантія на корпус змішувача (міс)">60</param>
+        <param name="Особливості">Декоративна накладка 10х10 см, панель керування 16х3,7х7, 5 см</param>
+        <param name="Комплектація">Шланг 120 см, лійка для гігієнічного душу 4,5х10,5 см, внутрішній блок, кріплення, посібник з експлуатації та гарантійний талон</param>
       </offer>
       <offer id="ZX1566" available="true">
         <url>https://ol.partners/products/truboprovodi-ta-zyednannya/gnuchka-pidvodka/gnuchkiy-shlang-dlya-pidklyuchennya-vodi-gayka-12-shtutser-12-120-sm-zerix-zx1566</url>
@@ -32349,6 +32359,9 @@
         <param name="Група товару">Змішувачі</param>
         <param name="Торгова марка">HAIBA</param>
         <param name="Модель">009</param>
+        <param name="Довжина виливу (см)">11-15</param>
+        <param name="Загальна довжина (мм)">165</param>
+        <param name="Довжина виливу (мм)">115</param>
         <param name="MAX різниця тиску гарячої та холодної води (бар)">1,50</param>
         <param name="Робочий тиск (бар)">1-5</param>
         <param name="Тип керування">Одноважільні</param>
@@ -32361,7 +32374,7 @@
         <param name="Мінімальний тиск (бар)">0,50</param>
         <param name="Гарантія на деталі змішувача (міс)">12</param>
         <param name="Гарантія на корпус змішувача (міс)">60</param>
-        <param name="Комплектація">Шланг 150 см, ручна лійка, тримач для лійки, ексцентрики, чашки, гумові прокладки, посібник з експлуатації та гарантійний талон</param>
+        <param name="Комплектація">Шланг 150 см, ручна лійка на 5 режимів 8,5х19,5 см, чашки, ексцентрики, гумові прокладки, тримач для лійки, посібник з експлуатації та гарантійний талон</param>
         <param name="Тип виливу">Литий</param>
         <param name="Покриття">З покриттям</param>
         <param name="Стиль">Класичний</param>
@@ -41013,7 +41026,7 @@
         <picture>https://ol.partners/Products/Photo/B052A6D0-BA91-45AA-B7F8-612EB945E0E9</picture>
         <vendor>MIXXUS</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Кран для підключення сантехприладів MIXXUS VAL-06-1/2x1/2 з нерж. сталі SUS304 (Колір нерж) (MI6809)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>MI6809</vendorCode>
@@ -41704,7 +41717,6 @@
         <currencyId>UAH</currencyId>
         <categoryId>7bd5f9e6-540a-4542-b449-789ef0743d5f</categoryId>
         <picture>https://ol.partners/Products/Photo/C968DC29-CD3D-4688-B587-75533EF7C6E9</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/fd23d635-1883-4100-863c-f5bfb6b628f6/image_04.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/fd23d635-1883-4100-863c-f5bfb6b628f6/image_03.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/fd23d635-1883-4100-863c-f5bfb6b628f6/image_04.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/fd23d635-1883-4100-863c-f5bfb6b628f6/image_05.jpg</picture>
@@ -48909,9 +48921,12 @@
         <param name="Країна виробник">Китай</param>
         <param name="Тип виробу">Змішувачі для біде</param>
         <param name="Серія">028</param>
+        <param name="Довжина виливу (см)">11-15</param>
+        <param name="Висота змішувача (см)">16-20</param>
+        <param name="Загальна довжина (мм)">150</param>
         <param name="Висота змішувача (мм)">160</param>
         <param name="Довжина виливу (мм)">130</param>
-        <param name="Висота до виливу (мм)">99</param>
+        <param name="Висота до виливу (мм)">100</param>
         <param name="Комплектація">Гнучка підводка, аератор Neoperl, кріпильна гайка</param>
         <param name="Гарантія на деталі змішувача (міс)">12</param>
         <param name="Гарантія на корпус змішувача (міс)">60</param>
@@ -49122,7 +49137,7 @@
         <picture>https://ol.partners/Products/Photo/CEAE86D2-954F-4D0F-9F4B-6079C7983FA1</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Фільтр газовий Koer KG.F01.A - 1/2" алюмінієвий (KR5862)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR5862</vendorCode>
@@ -59450,9 +59465,12 @@
         <param name="Колір">Хром</param>
         <param name="Вилив">Довгий вилив</param>
         <param name="Стиль">Класичний</param>
-        <param name="Комплектація">Шланг 150 см, ручна лійка, чашки, ексцентрики, гумові прокладки, тримач для лійки</param>
+        <param name="Комплектація">Шланг 150 см, ручна лійка на 3 режими 10,5х24 см, чашки, ексцентрики, гумові прокладки, тримач для лійки, посібник з експлуатації та гарантійний талон</param>
         <param name="Гарантія на деталі змішувача (міс)">12</param>
         <param name="Гарантія на корпус змішувача (міс)">60</param>
+        <param name="Загальна довжина (мм)">330</param>
+        <param name="Довжина виливу (см)">26-30</param>
+        <param name="Довжина виливу (мм)">270</param>
       </offer>
       <offer id="KP0034" available="true">
         <url>https://ol.partners/products/truboprovodi-ta-zyednannya/fitingi/zyednannya-dlya-trub-z-polipropilenu/khrestovina-40-ppr-koer-k0028pro-kp0034</url>
@@ -60443,10 +60461,12 @@
         <param name="Колір">Хром</param>
         <param name="Тип виливу">Литий</param>
         <param name="Стиль">Класичний</param>
+        <param name="Довжина виливу (см)">11-15</param>
+        <param name="Довжина виливу (мм)">125</param>
+        <param name="Загальна довжина (мм)">175</param>
         <param name="Гарантія на корпус змішувача (міс)">60</param>
         <param name="Гарантія на деталі змішувача (міс)">12</param>
-        <param name="Комплектація">Шланг 150 см, ручна лійка, тримач для лійки, аератор, ексцентрики, чашки, гумові прокладки</param>
-        <param name="Загальна довжина (мм)">180</param>
+        <param name="Комплектація">Шланг 150 см, ручна лійка 10х26 см, тримач для лійки, аератор, ексцентрики, чашки, гумові прокладки</param>
       </offer>
       <offer id="MI6388" available="true">
         <url>https://ol.partners/products/zmishuvachi-ta-krani/zmishuvachi-dlya-kukhni/zmishuvachi-odnovazhilni-dlya-kukhni/zmishuvach-dlya-kukhni-champion-yub-011135-nut-mi6388</url>
@@ -64151,7 +64171,8 @@
         <param name="Колір">Хром</param>
         <param name="Гарантія на деталі змішувача (міс)">12</param>
         <param name="Гарантія на корпус змішувача (міс)">60</param>
-        <param name="Комплектація">Шланг 150 см, ручна лійка, тримач для лійки, чашки, ексцентрики, аератор, гумові прокладки</param>
+        <param name="Комплектація">Шланг 150 см, ручна лійка 10х25 см, тримач для лійки, аератор, ексцентрики, чашки, гумові прокладки</param>
+        <param name="Особливості">Панель 27,5х8 см</param>
         <param name="Довжина шланга (см)">150</param>
         <param name="Матеріал виробу">Латунь</param>
         <param name="MAX різниця тиску гарячої та холодної води (бар)">1,50</param>
@@ -64171,6 +64192,8 @@
         <param name="Серія">TERRA</param>
         <param name="Модель">009</param>
         <param name="Тип виробу">Змішувачі для ванни</param>
+        <param name="Довжина виливу (мм)">10</param>
+        <param name="Довжина виливу (см)">5-10</param>
       </offer>
       <offer id="MI5828" available="true">
         <url>https://ol.partners/products/zmishuvachi-ta-krani/zmishuvachi-dlya-vanni/liti-zmishuvachi-dlya-vannoi/zmishuvach-dlya-vanni-mixxus-premium-benedict-009-button-kolir-khrom-mi5828</url>
@@ -67944,10 +67967,17 @@
         <param name="Картридж чи кран букса">Картридж</param>
         <param name="Тип керування">Одноважільні</param>
         <param name="MAX різниця тиску гарячої та холодної води (бар)">1,50</param>
+        <param name="Особливості">Розміри ручної лійки: 12х24 см. Розміри стельової лійки: 25х25 см. Довжина кронштейна для тропічного душу 40 см</param>
+        <param name="Гарантія на деталі змішувача (міс)">12</param>
+        <param name="Комплектація">Змішувач, верхній душ, кронштейн верхнього душу, блок змішувача, що вбудовується, декоративна накладка 19х13 см, рукоятка управління, шланг 150 см, ручна лійка, тримач для лійки, посібник з експлуатації та гарантійний талон</param>
+        <param name="Гарантія на корпус змішувача (міс)">60</param>
         <param name="Вилив">Короткий вилив</param>
         <param name="Стиль">Модерн</param>
         <param name="Колір">Чорний матовий</param>
         <param name="Покриття">З покриттям</param>
+        <param name="Довжина виливу (см)">16-20</param>
+        <param name="Довжина виливу (мм)">185</param>
+        <param name="Загальна довжина (мм)">258</param>
         <param name="Група товару">Змішувачі</param>
         <param name="Вид виробу">Душові системи вбудованого монтажу на 3 режими</param>
         <param name="Торгова марка">KOER</param>
@@ -67957,10 +67987,6 @@
         <param name="Країна виробник">Китай</param>
         <param name="Країна бренду">Чехія</param>
         <param name="Тип монтажу">Вбудовані</param>
-        <param name="Гарантія на деталі змішувача (міс)">12</param>
-        <param name="Комплектація">Шланг 150 см, ручна лійка, стельова лійка, тримач для лійки</param>
-        <param name="Гарантія на корпус змішувача (міс)">60</param>
-        <param name="Загальна довжина (мм)">240</param>
       </offer>
       <offer id="RAD076" available="false">
         <url>https://ol.partners/products/radiatori-opalennya/stalevi-radiatori/staleviy-radiator-koer-22x300x1300s-1659-vt-2171-kg-bokove-pidklyuchennya-rad076</url>
@@ -75014,7 +75040,10 @@
         <param name="Максимальна температура води (°C)">90</param>
         <param name="Діаметр картриджа (мм)">35</param>
         <param name="Робочий тиск (бар)">1-5</param>
-        <param name="Комплектація">Шланг 150 см, ручна лійка, чашки, ексцентрики, гумові прокладки</param>
+        <param name="Загальна довжина (мм)">360</param>
+        <param name="Довжина виливу (см)">26-30</param>
+        <param name="Довжина виливу (мм)">290</param>
+        <param name="Комплектація">Шланг 150 см, ручна лійка 1 режим розміром 8х21,5 см, тримач для лійки, ексцентрики, чашки, гумові прокладки, посібник з експлуатації та гарантійний талон</param>
         <param name="Гарантія на корпус змішувача (міс)">24</param>
         <param name="Гарантія на деталі змішувача (міс)">12</param>
       </offer>
@@ -81668,8 +81697,11 @@
         <param name="Тип монтажу">Настінні</param>
         <param name="Тип виробу">Змішувачі для ванни</param>
         <param name="Гарантія на деталі змішувача (міс)">12</param>
-        <param name="Комплектація">Шланг 150 см, лійка, тримач для лійки, ексцентрики, чашки, гумові прокладки, посібник з експлуатації та гарантійний талон</param>
+        <param name="Комплектація">Шланг 150 см, ручна режимна лійка 11х25,5 см, чашки, ексцентрики, гумові прокладки, тримач для лійки, посібник з експлуатації та гарантійний талон</param>
         <param name="Гарантія на корпус змішувача (міс)">60</param>
+        <param name="Довжина виливу (см)">11-15</param>
+        <param name="Довжина виливу (мм)">115</param>
+        <param name="Загальна довжина (мм)">186</param>
       </offer>
       <offer id="MI6855" available="true">
         <url>https://ol.partners/products/dushovi-peregorodki-ta-kabini/dushovi-peregorodki-walkin/dushova-peregorodka-walkin-mixxus-premium-flat-sp0290x200tr-black-prozore-sklo-8mm-mi6855</url>
@@ -88009,6 +88041,10 @@
         <param name="Од. в упак.">4</param>
         <param name="Об'єм ящ.">0.079</param>
         <param name="Вага ящ.">25.9</param>
+        <param name="Особливості">Розміри ручної лійки: 12х24 см. Розміри стельової лійки: 25х25 см. Довжина кронштейна для тропічного душу 40 см</param>
+        <param name="Комплектація">Змішувач, верхній душ, кронштейн верхнього душу, блок змішувача, що вбудовується, декоративна накладка 19х13 см, рукоятка управління, шланг 150 см, ручна лійка, тримач для лійки, посібник з експлуатації та гарантійний талон</param>
+        <param name="Гарантія на корпус змішувача (міс)">60</param>
+        <param name="Гарантія на деталі змішувача (міс)">12</param>
         <param name="Тип керування">Одноважільні</param>
         <param name="Максимальний тиск (бар)">10,00</param>
         <param name="Матеріал виробу">Латунь</param>
@@ -88024,6 +88060,9 @@
         <param name="Вилив">Короткий вилив</param>
         <param name="Покриття">З покриттям</param>
         <param name="Колір">Хром</param>
+        <param name="Довжина виливу (см)">16-20</param>
+        <param name="Довжина виливу (мм)">185</param>
+        <param name="Загальна довжина (мм)">258</param>
         <param name="Тип виробу">Душові системи вбудованого монтажу</param>
         <param name="Вид виробу">Душові системи вбудованого монтажу на 3 режими</param>
         <param name="Модель">KB-66009-01</param>
@@ -88033,10 +88072,6 @@
         <param name="Тип монтажу">Вбудовані</param>
         <param name="Торгова марка">KOER</param>
         <param name="Група товару">Змішувачі</param>
-        <param name="Комплектація">Шланг 150 см, ручна лійка, стельова лійка, тримач для лійки</param>
-        <param name="Гарантія на корпус змішувача (міс)">60</param>
-        <param name="Гарантія на деталі змішувача (міс)">12</param>
-        <param name="Загальна довжина (мм)">240</param>
       </offer>
       <offer id="ZX4739" available="false">
         <url>https://ol.partners/products/zmishuvachi-ta-krani/zmishuvachi-dlya-kukhni/zmishuvachi-dlya-kukhni-nastinni/zmishuvach-dlya-kukhni-zerix-gta-005-zx4739</url>
@@ -89239,6 +89274,10 @@
         <param name="Мінімальна температура води (°C)">5</param>
         <param name="Тип керування">Одноважільні</param>
         <param name="Довжина шланга (см)">150</param>
+        <param name="Особливості">Розміри ручної лійки: 12х24 см. Розміри стельової лійки: 25х25 см. Довжина кронштейна для тропічного душу 40 см</param>
+        <param name="Гарантія на деталі змішувача (міс)">12</param>
+        <param name="Комплектація">Змішувач, верхній душ, кронштейн верхнього душу, блок змішувача, що вбудовується, декоративна накладка 19х13 см, рукоятка управління, шланг 150 см, ручна лійка, тримач для лійки, посібник з експлуатації та гарантійний талон</param>
+        <param name="Гарантія на корпус змішувача (міс)">60</param>
         <param name="Країна виробник">Китай</param>
         <param name="Країна бренду">Чехія</param>
         <param name="Група товару">Змішувачі</param>
@@ -89248,14 +89287,13 @@
         <param name="Торгова марка">KOER</param>
         <param name="Тип виробу">Душові системи вбудованого монтажу</param>
         <param name="Серія">009 WHITE CHROME</param>
-        <param name="Гарантія на деталі змішувача (міс)">12</param>
-        <param name="Комплектація">Шланг 150 см, ручна лійка, стельова лійка, тримач для лійки</param>
-        <param name="Гарантія на корпус змішувача (міс)">60</param>
         <param name="Покриття">З покриттям</param>
         <param name="Колір">Білий матовий/хром</param>
         <param name="Стиль">Модерн</param>
         <param name="Вилив">Короткий вилив</param>
-        <param name="Загальна довжина (мм)">240</param>
+        <param name="Довжина виливу (мм)">185</param>
+        <param name="Загальна довжина (мм)">258</param>
+        <param name="Довжина виливу (см)">16-20</param>
       </offer>
       <offer id="ZX5088" available="true">
         <url>https://ol.partners/products/sifoni-trapi-dlya-dushu/armatura-dlya-unitaziv/armatura-spuskna-zerix-as02-iz-dvoma-rezhimami-zlivu-knopka-khromovana-zx5088</url>
@@ -90233,6 +90271,7 @@
         <param name="Картридж чи кран букса">Картридж</param>
         <param name="MAX різниця тиску гарячої та холодної води (бар)">1,50</param>
         <param name="Робочий тиск (бар)">1-5</param>
+        <param name="Міжосьова відстань кріплень (мм)">760</param>
         <param name="Мінімальний тиск (бар)">0,50</param>
         <param name="Мінімальна температура води (°C)">5</param>
         <param name="Тип керування">Одноважільні</param>
@@ -90240,6 +90279,7 @@
         <param name="Матеріал виробу">Латунь</param>
         <param name="Максимальний тиск (бар)">10,00</param>
         <param name="Максимальна температура води (°C)">90</param>
+        <param name="Довжина шланга (см)">150</param>
         <param name="Колір">Графіт</param>
         <param name="Покриття">З покриттям</param>
         <param name="Стиль">Модерн</param>
@@ -90247,6 +90287,10 @@
         <param name="Комплектація">Шланг 150 см, ручна лійка, стельова лійка, чашки, ексцентрики, гумові прокладки, тримач для лійки</param>
         <param name="Гарантія на корпус змішувача (міс)">60</param>
         <param name="Гарантія на деталі змішувача (міс)">12</param>
+        <param name="Особливості">Розміри ручної лійки: 24,5х8 см. Розміри стельової лійки: 29,5х19 см. Максимальна висота 148 см. Мінімальна 86 см.</param>
+        <param name="Довжина виливу (мм)">125</param>
+        <param name="Максимальна висота (см)">148</param>
+        <param name="Довжина виливу (см)">11-15</param>
         <param name="Тип монтажу">Настінні</param>
         <param name="Країна бренду">Німеччина</param>
         <param name="Тип виробу">Душові колони</param>
@@ -92841,7 +92885,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/18222ee0-e2dd-4bd5-8afd-dcc71033eb4b/image_03_NF2922.jpg</picture>
         <vendor>NOLF</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Кран кульовий 1-1/2" ГГР (NF.611) Nolf (NF2922)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>NF2922</vendorCode>
@@ -95182,7 +95226,7 @@
         <param name="Покриття">З покриттям</param>
         <param name="Гарантія на корпус змішувача (міс)">60</param>
         <param name="Гарантія на деталі змішувача (міс)">12</param>
-        <param name="Комплектація">Гігієнічна лійка, змішувач, шланг 120 см, кріплення</param>
+        <param name="Комплектація">Шланг 120 см, лійка для гігієнічного душу 4,5х10,5 см, чашки, ексцентрики, гумові прокладки, посібник з експлуатації та гарантійний талон</param>
       </offer>
       <offer id="NF2981" available="true">
         <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/filtr-gruboi-ochistki/filtr-gruboi-ochistki-1-nff04b-nolf-nf2981</url>
@@ -97045,9 +97089,12 @@
         <param name="Модель">KB-66029-05</param>
         <param name="Гарантія на деталі змішувача (міс)">12</param>
         <param name="Гарантія на корпус змішувача (міс)">60</param>
-        <param name="Особливості">Діаметр стельової лійки 302 мм. Діаметр ручної лійки 135 мм.</param>
-        <param name="Комплектація">Шланг 150 см, ручна лійка, стельова лійка, тримач для лійки</param>
+        <param name="Особливості">Розміри ручної лійки: 13,5х25 см. Розміри стельової лійки: 30х30 см. Довжина кронштейна для тропічного душу 22,2 см</param>
+        <param name="Комплектація">Змішувач, верхній душ, кронштейн верхнього душу, блок змішувача, що вбудовується, декоративна накладка 16х16 см, рукоятка управління, шланг 150 см, ручна лійка, тримач для лійки, посібник з експлуатації та гарантійний талон</param>
         <param name="Довжина виливу (мм)">187</param>
+        <param name="Довжина виливу (см)">16-20</param>
+        <param name="Висота змішувача (мм)">160</param>
+        <param name="Висота змішувача (см)">16-20</param>
         <param name="Робочий тиск (бар)">1-5</param>
         <param name="Тип керування">Одноважільні</param>
         <param name="Картридж чи кран букса">Картридж</param>
@@ -99978,7 +100025,11 @@
         <param name="MAX різниця тиску гарячої та холодної води (бар)">1,50</param>
         <param name="Максимальний тиск (бар)">10,00</param>
         <param name="Матеріал виробу">Латунь</param>
-        <param name="Комплектація">Шланг 150 см, ручна лійка, чашки, ексцентрики, гумові прокладки, тримач для лійки</param>
+        <param name="Довжина шланга (см)">150</param>
+        <param name="Загальна довжина (мм)">175</param>
+        <param name="Довжина виливу (мм)">125</param>
+        <param name="Довжина виливу (см)">11-15</param>
+        <param name="Комплектація">Шланг 150 см, ручна лійка на 2 режими 8х24,5 см, чашки, ексцентрики, гумові прокладки, тримач для лійки, посібник з експлуатації та гарантійний талон</param>
         <param name="Гарантія на деталі змішувача (міс)">12</param>
         <param name="Гарантія на корпус змішувача (міс)">60</param>
         <param name="Колір">Хром</param>
@@ -101331,6 +101382,7 @@
         <param name="Колір">Чорний матовий</param>
         <param name="Стиль">Модерн</param>
         <param name="Покриття">З покриттям</param>
+        <param name="Загальна довжина (мм)">120</param>
       </offer>
       <offer id="KR6631" available="true">
         <url>https://ol.partners/products/truboprovodi-ta-zyednannya/fitingi/rizbovi-zyednannya/perekhidnik-iz-zr-koer-kaa10m32-3244mm-x-1m-kr6631</url>
@@ -101593,7 +101645,7 @@
         <param name="Довжина виливу (мм)">225</param>
         <param name="Висота змішувача (мм)">130</param>
       </offer>
-      <offer id="KP0173" available="true">
+      <offer id="KP0173" available="false">
         <url>https://ol.partners/products/truboprovodi-ta-zyednannya/fitingi/zyednannya-dlya-trub-z-polipropilenu/zghinamerikanka-zr-32x1m-ppr-koer-k0137pro-kp0173</url>
         <price>319.00</price>
         <currencyId>UAH</currencyId>
@@ -101601,8 +101653,8 @@
         <picture>https://ol.partners/Products/Photo/4F3B5F76-89B6-4499-9FA5-A4DB39139598</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/e1017c6b-77b0-4ca2-a8df-1c6cdd4e27c3/image_03_KP0173.jpg</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Згін-американка ЗР 32x1M PPR Koer K0137.PRO (KP0173)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KP0173</vendorCode>
@@ -104105,8 +104157,11 @@
         <param name="Максимальний тиск (бар)">10,00</param>
         <param name="Довжина шланга (см)">150</param>
         <param name="Гарантія на деталі змішувача (міс)">12</param>
-        <param name="Комплектація">Шланг 150 см, ручна лійка, чашки, ексцентрики, гумові прокладки</param>
+        <param name="Комплектація">Шланг 150 см, ручна лійка 8х21 см, тримач для лійки, аератор, ексцентрики, чашки, гумові прокладки</param>
         <param name="Гарантія на корпус змішувача (міс)">24</param>
+        <param name="Загальна довжина (мм)">360</param>
+        <param name="Довжина виливу (см)">26-30</param>
+        <param name="Довжина виливу (мм)">290</param>
       </offer>
       <offer id="AC0015" available="true">
         <url>https://ol.partners/products/zapchastini-dlya-zmishuvacha/aeratori-na-kran/aerator-povorotniy-m22m24-champion-ae004-plastik-ac0015</url>
@@ -107290,9 +107345,12 @@
         <param name="MAX різниця тиску гарячої та холодної води (бар)">1,50</param>
         <param name="Картридж чи кран букса">Картридж</param>
         <param name="Діаметр картриджа (мм)">35</param>
-        <param name="Комплектація">Шланг 150 см, ручна лійка, тримач для лійки, аератор, ексцентрики, чашки, гумові прокладки</param>
+        <param name="Комплектація">Шланг 150 см, ручна лійка 9х20,5 см, тримач для лійки, аератор, ексцентрики, чашки, гумові прокладки</param>
         <param name="Гарантія на деталі змішувача (міс)">12</param>
         <param name="Гарантія на корпус змішувача (міс)">60</param>
+        <param name="Довжина виливу (см)">26-30</param>
+        <param name="Довжина виливу (мм)">275</param>
+        <param name="Загальна довжина (мм)">335</param>
         <param name="Колір">Хром</param>
         <param name="Покриття">З покриттям</param>
         <param name="Стиль">Класичний</param>
@@ -112876,6 +112934,12 @@
         <param name="Тип керування">Одноважільні</param>
         <param name="Довжина шланга підключення">60 см</param>
         <param name="Робочий тиск (бар)">1-5</param>
+        <param name="Довжина виливу (см)">11-15</param>
+        <param name="Довжина виливу (мм)">130</param>
+        <param name="Висота до виливу (мм)">100</param>
+        <param name="Висота змішувача (мм)">160</param>
+        <param name="Загальна довжина (мм)">150</param>
+        <param name="Висота змішувача (см)">16-20</param>
         <param name="Комплектація">Гнучка підводка, аератор Neoperl, кріпильна гайка</param>
         <param name="Гарантія на корпус змішувача (міс)">60</param>
         <param name="Гарантія на деталі змішувача (міс)">12</param>
@@ -112892,9 +112956,6 @@
         <param name="Тип виливу">Литий</param>
         <param name="Колір">Графіт</param>
         <param name="Покриття">З покриттям</param>
-        <param name="Довжина виливу (мм)">130</param>
-        <param name="Висота до виливу (мм)">99</param>
-        <param name="Висота змішувача (мм)">160</param>
       </offer>
       <offer id="HB0945" available="true">
         <url>https://ol.partners/products/zmishuvachi-ta-krani/zmishuvachi-dlya-vanni/zmishuvach-dlya-vanni-z-povorotnim-vilivom/zmishuvach-dlya-vanni-haiba-dominox-140-rubber-euro-kolir-khrom-hb0945</url>
@@ -119989,9 +120050,12 @@
         <param name="Країна бренду">Китай</param>
         <param name="Вид виробу">Змішувачі для ванни з коротким зливом</param>
         <param name="Модель">009</param>
+        <param name="Загальна довжина (мм)">160</param>
+        <param name="Довжина виливу (см)">11-15</param>
+        <param name="Довжина виливу (мм)">110</param>
         <param name="Гарантія на корпус змішувача (міс)">24</param>
         <param name="Гарантія на деталі змішувача (міс)">12</param>
-        <param name="Комплектація">Шланг 150 см, ручна лійка, тримач для лійки, аератор, ексцентрики, чашки, гумові прокладки</param>
+        <param name="Комплектація">Шланг 150 см, ручна лійка 8х21 см, тримач для лійки, аератор, ексцентрики, чашки, гумові прокладки</param>
       </offer>
       <offer id="ZX2789" available="true">
         <url>https://ol.partners/products/zmishuvachi-ta-krani/zmishuvachi-dlya-vanni/zmishuvach-dlya-vanni-z-povorotnim-vilivom/zmishuvach-dlya-vanni-zerix-pud3-146-zx2789</url>
@@ -120991,6 +121055,9 @@
         <param name="Тип виробу">Змішувачі для ванни</param>
         <param name="Модель">006</param>
         <param name="Країна виробник">Китай</param>
+        <param name="Загальна довжина (мм)">380</param>
+        <param name="Довжина виливу (см)">31-35</param>
+        <param name="Довжина виливу (мм)">320</param>
         <param name="Максимальна температура води (°C)">90</param>
         <param name="Максимальний тиск (бар)">10,00</param>
         <param name="Тип керування">Одноважільні</param>
@@ -121004,7 +121071,7 @@
         <param name="Матеріал виробу">ABS-пластик</param>
         <param name="Гарантія на деталі змішувача (міс)">12</param>
         <param name="Гарантія на корпус змішувача (міс)">24</param>
-        <param name="Комплектація">Шланг 150 см, ручна лійка, тримач для лійки, аератор, ексцентрики, чашки, гумові прокладки</param>
+        <param name="Комплектація">Шланг 150 см, ручна лійка 8х21 см, тримач для лійки, аератор, ексцентрики, чашки, гумові прокладки</param>
         <param name="Тип виливу">Поворотний</param>
         <param name="Стиль">Класичний</param>
         <param name="Покриття">Без покриття</param>
@@ -121719,21 +121786,23 @@
         <param name="Од. в упак.">10</param>
         <param name="Об'єм ящ.">0.066</param>
         <param name="Вага ящ.">18.4</param>
+        <param name="Комплектація">Шланг 150 см, ручна лійка 8х20 см, чашки, ексцентрики, гумові прокладки, тримач для лійки, посібник з експлуатації та гарантійний талон</param>
         <param name="Гарантія на деталі змішувача (міс)">12</param>
         <param name="Гарантія на корпус змішувача (міс)">60</param>
-        <param name="Комплектація">Шланг 150 см, лійка розміром 8х20 см, чашки, ексцентрики, гумові прокладки, настінний тримач для лійки</param>
         <param name="Мінімальний тиск (бар)">0,50</param>
         <param name="Максимальна температура води (°C)">90</param>
         <param name="Максимальний тиск (бар)">10,00</param>
         <param name="Мінімальна температура води (°C)">5</param>
         <param name="Матеріал виробу">Цинковий сплав</param>
         <param name="Картридж чи кран букса">Картридж</param>
+        <param name="Довжина шланга (см)">150</param>
         <param name="Тип керування">Одноважільні</param>
         <param name="Діаметр картриджа (мм)">40</param>
         <param name="MAX різниця тиску гарячої та холодної води (бар)">1,50</param>
         <param name="Робочий тиск (бар)">1-5</param>
-        <param name="Довжина виливу (мм)">320</param>
-        <param name="Загальна довжина (мм)">390</param>
+        <param name="Довжина виливу (мм)">270</param>
+        <param name="Довжина виливу (см)">26-30</param>
+        <param name="Загальна довжина (мм)">335</param>
         <param name="Колір">Хром</param>
         <param name="Стиль">Класичний</param>
         <param name="Тип виливу">Поворотний</param>
@@ -121957,6 +122026,9 @@
         <param name="Од. в упак.">10</param>
         <param name="Об'єм ящ.">0.075</param>
         <param name="Вага ящ.">13.8</param>
+        <param name="Довжина виливу (см)">31-35</param>
+        <param name="Довжина виливу (мм)">320</param>
+        <param name="Загальна довжина (мм)">390</param>
         <param name="Країна виробник">Китай</param>
         <param name="Модель">006</param>
         <param name="Тип виробу">Змішувачі для ванни</param>
@@ -121966,7 +122038,7 @@
         <param name="Вид виробу">Змішувачі для ванни з довгим виливом</param>
         <param name="Тип монтажу">Настінні</param>
         <param name="Група товару">Змішувачі</param>
-        <param name="Комплектація">Шланг 150 см, ручна лійка, тримач для лійки, аератор, ексцентрики, чашки, гумові прокладки</param>
+        <param name="Комплектація">Шланг 150 см, ручна лійка 8х21 см, тримач для лійки, аератор, ексцентрики, чашки, гумові прокладки</param>
         <param name="Гарантія на корпус змішувача (міс)">24</param>
         <param name="Гарантія на деталі змішувача (міс)">12</param>
         <param name="Тип керування">Одноважільні</param>
@@ -122402,7 +122474,7 @@
         <param name="Колір">Чорний матовий</param>
         <param name="Покриття">З покриттям</param>
         <param name="Гарантія на корпус змішувача (міс)">24</param>
-        <param name="Комплектація">Стоп лійка, тримач для лійки</param>
+        <param name="Комплектація">Гнучкий спіральний шланг 37 см у спокої. Лійка для гігієнічного душу 3х14 см. Декоративна накладка 5х5 см. Кран-деркажетель з кнопками 11х3 см</param>
         <param name="Гарантія на деталі змішувача (міс)">6</param>
       </offer>
       <offer id="KR6634" available="true">
@@ -130458,10 +130530,19 @@
         <param name="Од. в упак.">3</param>
         <param name="Об'єм ящ.">0.143</param>
         <param name="Вага ящ.">21.7</param>
+        <param name="Максимальна висота (см)">140</param>
         <param name="Гарантія на деталі змішувача (міс)">12</param>
         <param name="Гарантія на корпус змішувача (міс)">60</param>
         <param name="Додаткові характеристики">З функцією "водоспад"</param>
+        <param name="Особливості">Розміри ручної лійки: 24,5х13 см. Розміри стельової лійки: 33х22 см. Максимальна висота 140 см. Мінімальна 110 см. Панель 46х12х4,5 см</param>
         <param name="Комплектація">Шланг 150 см, ручна лійка, стельова лійка, чашки, ексцентрики, гумові прокладки, тримач для лійки</param>
+        <param name="Довжина шланга (см)">150</param>
+        <param name="Наявність термостату">Так</param>
+        <param name="Міжосьова відстань кріплень (мм)">1010</param>
+        <param name="Матеріал виробу">Латунь</param>
+        <param name="Індикатор температури">Так</param>
+        <param name="Тип керування">Кнопкові</param>
+        <param name="Картридж чи кран букса">Картридж</param>
         <param name="Серія">SPACE</param>
         <param name="Група товару">Змішувачі</param>
         <param name="Модель">009-J</param>
@@ -130471,11 +130552,6 @@
         <param name="Торгова марка">MIXXUS PREMIUM</param>
         <param name="Країна бренду">Німеччина</param>
         <param name="Тип монтажу">Настінні</param>
-        <param name="Наявність термостату">Так</param>
-        <param name="Матеріал виробу">Латунь</param>
-        <param name="Індикатор температури">Так</param>
-        <param name="Тип керування">Кнопкові</param>
-        <param name="Картридж чи кран букса">Картридж</param>
         <param name="Колір">Білий матовий</param>
         <param name="Вилив">Без виливу</param>
         <param name="Покриття">З покриттям</param>
@@ -138397,6 +138473,9 @@
         <param name="Колір">Хром</param>
         <param name="Покриття">З покриттям</param>
         <param name="Тип виливу">Литий</param>
+        <param name="Довжина виливу (мм)">115</param>
+        <param name="Довжина виливу (см)">11-15</param>
+        <param name="Загальна довжина (мм)">180</param>
         <param name="Вид виробу">Змішувачі для ванни з коротким зливом</param>
         <param name="Країна бренду">Чехія</param>
         <param name="Група товару">Змішувачі</param>
@@ -138406,7 +138485,7 @@
         <param name="Торгова марка">ZERIX</param>
         <param name="Серія">NEL</param>
         <param name="Додаткові характеристики">Перемикач у виливі: 90°</param>
-        <param name="Комплектація">Шланг 150 см, лійка, тримач для лійки, аератор, ексцентрики, чашки, гумові прокладки</param>
+        <param name="Комплектація">Шланг 150 см, ручна лійка на 5 режимів 8,5х19,5 см, чашки, ексцентрики, гумові прокладки, тримач для лійки</param>
         <param name="Гарантія на корпус змішувача (міс)">60</param>
         <param name="Гарантія на деталі змішувача (міс)">12</param>
         <param name="Мінімальна температура води (°C)">5</param>
@@ -138420,7 +138499,6 @@
         <param name="Картридж чи кран букса">Картридж</param>
         <param name="Максимальний тиск (бар)">10,00</param>
         <param name="Матеріал виробу">Цинковий сплав</param>
-        <param name="Загальна довжина (мм)">180</param>
       </offer>
       <offer id="ZX0112" available="true">
         <url>https://ol.partners/products/zapchastini-dlya-zmishuvacha/shlangi-dlya-dushu/shlang-zerix-chrf01-roztyazhniy-200250-sm-upakovka-blister-zx0112</url>
@@ -144580,8 +144658,8 @@
         <param name="Об'єм ящ.">0.034</param>
         <param name="Вага ящ.">15.3</param>
         <param name="Гарантія на корпус змішувача (міс)">60</param>
-        <param name="Комплектація">Гігієнічна лійка, корпус, душовий шланг, ексцентрики</param>
         <param name="Гарантія на деталі змішувача (міс)">12</param>
+        <param name="Комплектація">Шланг 120 см, лійка для гігієнічного душу 6х13 см, чашки, ексцентрики, гумові прокладки, посібник з експлуатації та гарантійний талон</param>
         <param name="Картридж чи кран букса">Картридж</param>
         <param name="Мінімальна температура води (°C)">5</param>
         <param name="Максимальний тиск (бар)">10,00</param>
@@ -145460,7 +145538,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/8793f911-d92b-4ba5-adb0-6e0b8ac1b79c/image_03_KF0030.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Ніпель 1 '' Koer KF.N10 (KF0030)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KF0030</vendorCode>
@@ -146662,8 +146740,9 @@
         <param name="Довжина шланга (см)">125</param>
         <param name="Максимальний тиск (бар)">10,00</param>
         <param name="Загальна довжина (мм)">130</param>
+        <param name="Особливості">Декоративна накладка 7х13 см</param>
+        <param name="Комплектація">Шланг 125 см, лійка для гігієнічного душу 5,5х11 см, внутрішній блок, кріплення, посібник з експлуатації та гарантійний талон</param>
         <param name="Гарантія на корпус змішувача (міс)">60</param>
-        <param name="Комплектація">Гігієнічна лійка, корпус, душовий шланг, ексцентрики</param>
         <param name="Гарантія на деталі змішувача (міс)">12</param>
       </offer>
       <offer id="KR4750" available="true">
@@ -148995,9 +149074,12 @@
         <param name="Од. в упак.">10</param>
         <param name="Об'єм ящ.">0.051</param>
         <param name="Вага ящ.">19.8</param>
+        <param name="Довжина виливу (мм)">325</param>
+        <param name="Загальна довжина (мм)">380</param>
+        <param name="Довжина виливу (см)">31-35</param>
         <param name="Гарантія на корпус змішувача (міс)">60</param>
+        <param name="Комплектація">Шланг 150 см, ручна лійка 8х20 см, чашки, ексцентрики, гумові прокладки, тримач для лійки, посібник з експлуатації та гарантійний талон</param>
         <param name="Гарантія на деталі змішувача (міс)">12</param>
-        <param name="Комплектація">Шланг 150 см, лійка, тримач для лійки, аератор, ексцентрики, чашки, гумові прокладки</param>
         <param name="Тип виливу">Поворотний</param>
         <param name="Покриття">З покриттям</param>
         <param name="Стиль">Класичний</param>
@@ -149015,6 +149097,7 @@
         <param name="Картридж чи кран букса">Картридж</param>
         <param name="Робочий тиск (бар)">1-5</param>
         <param name="Матеріал виробу">Цинковий сплав</param>
+        <param name="Довжина шланга (см)">150</param>
         <param name="MAX різниця тиску гарячої та холодної води (бар)">1,50</param>
         <param name="Діаметр картриджа (мм)">35</param>
         <param name="Максимальна температура води (°C)">90</param>
@@ -163910,9 +163993,12 @@
         <param name="Торгова марка">MIXXUS PREMIUM</param>
         <param name="Вид виробу">Змішувачі для ванни з коротким зливом</param>
         <param name="Тип виробу">Змішувачі для ванни</param>
-        <param name="Комплектація">Шланг 150 см, ручна лійка, тримач для лійки, чашки, ексцентрики, аератор, гумові прокладки</param>
+        <param name="Комплектація">Шланг 150 см, ручна лійка 10х25 см, тримач для лійки, аератор, ексцентрики, чашки, гумові прокладки</param>
+        <param name="Особливості">Панель 27,5х8 см</param>
         <param name="Гарантія на деталі змішувача (міс)">12</param>
         <param name="Гарантія на корпус змішувача (міс)">60</param>
+        <param name="Довжина виливу (см)">5-10</param>
+        <param name="Довжина виливу (мм)">10</param>
         <param name="Колір">Графіт</param>
         <param name="Стиль">Модерн</param>
         <param name="Вилив">Короткий вилив</param>
@@ -169501,8 +169587,9 @@
         <param name="Тип монтажу">Вбудовані</param>
         <param name="Тип виробу">Змішувачі для гігієнічного душу</param>
         <param name="Гарантія на деталі змішувача (міс)">12</param>
+        <param name="Особливості">Декоративна накладка 11х11 см</param>
         <param name="Гарантія на корпус змішувача (міс)">60</param>
-        <param name="Комплектація">Гігієнічна лійка, змішувач, шланг 120 см, кріплення</param>
+        <param name="Комплектація">Шланг 120 см, лійка для гігієнічного душу 4,5х10,5 см, внутрішній блок, кріплення, посібник з експлуатації та гарантійний талон</param>
       </offer>
       <offer id="30305001" available="false">
         <url>https://ol.partners/products/zmishuvachi-ta-krani/zmishuvachi-dlya-kukhni/zmishuvach-z-visuvnim-vilivom-dlya-kukhni/zmishuvach-dlya-kukhni-z-visuvnim-vilivom-grohe-eurosmart-new-30305001</url>
@@ -172515,6 +172602,12 @@
         <param name="Од. в упак.">40</param>
         <param name="Об'єм ящ.">0.047</param>
         <param name="Вага ящ.">8.5</param>
+        <param name="Загальна довжина (мм)">185</param>
+        <param name="Висота змішувача (мм)">310</param>
+        <param name="Довжина виливу (мм)">160</param>
+        <param name="Довжина виливу (см)">16-20</param>
+        <param name="Висота до виливу (мм)">240</param>
+        <param name="Висота змішувача (см)">31-35</param>
         <param name="Модель">005</param>
         <param name="Вид виробу">Монокрани для умивальника</param>
         <param name="Торгова марка">PLAMIX</param>
@@ -188957,6 +189050,9 @@
         <param name="Тип керування">Одноважільні</param>
         <param name="Максимальна температура води (°C)">90</param>
         <param name="Максимальний тиск (бар)">10,00</param>
+        <param name="Комплектація">Шланг 120 см, лійка для гігієнічного душу 6х13 см, чашки, ексцентрики, гумові прокладки, посібник з експлуатації та гарантійний талон</param>
+        <param name="Гарантія на деталі змішувача (міс)">12</param>
+        <param name="Гарантія на корпус змішувача (міс)">60</param>
         <param name="Тип виробу">Змішувачі для гігієнічного душу</param>
         <param name="Модель">024</param>
         <param name="Серія">MATIS</param>
@@ -188966,9 +189062,6 @@
         <param name="Країна бренду">Німеччина</param>
         <param name="Країна виробник">Китай</param>
         <param name="Тип монтажу">Настінні</param>
-        <param name="Гарантія на деталі змішувача (міс)">12</param>
-        <param name="Гарантія на корпус змішувача (міс)">60</param>
-        <param name="Комплектація">Гігієнічна лійка, корпус, душовий шланг, ексцентрики</param>
       </offer>
       <offer id="MI6849" available="true">
         <url>https://ol.partners/products/dushovi-peregorodki-ta-kabini/dushovi-peregorodki-walkin/dushova-peregorodka-walkin-mixxus-premium-flat-sp0180x200tr-chrome-prozore-sklo-8mm-mi6849</url>
@@ -194471,7 +194564,7 @@
         <param name="Колір">Хром</param>
         <param name="Стиль">Модерн</param>
         <param name="Гарантія на корпус змішувача (міс)">60</param>
-        <param name="Комплектація">Гігієнічна лійка, корпус, душовий шланг, ексцентрики</param>
+        <param name="Комплектація">Шланг 120 см, лійка для гігієнічного душу 4,5х13,7 см, чашки, ексцентрики, гумові прокладки, посібник з експлуатації та гарантійний талон</param>
         <param name="Гарантія на деталі змішувача (міс)">12</param>
       </offer>
       <offer id="AC3585" available="true">
@@ -196226,7 +196319,9 @@
         <param name="Покриття">Без покриття</param>
         <param name="Колір">Білий глянцевий</param>
         <param name="Загальна довжина (мм)">90</param>
+        <param name="Висота змішувача (см)">10-15</param>
         <param name="Довжина виливу (мм)">40</param>
+        <param name="Висота змішувача (мм)">110</param>
         <param name="Гарантія на корпус змішувача (міс)">24</param>
         <param name="Гарантія на деталі змішувача (міс)">12</param>
       </offer>
@@ -213472,6 +213567,7 @@
         <param name="Тип керування">Одноважільні</param>
         <param name="Максимальний тиск (бар)">10,00</param>
         <param name="Мінімальний тиск (бар)">0,50</param>
+        <param name="Міжосьова відстань кріплень (мм)">1070</param>
         <param name="Робочий тиск (бар)">1-5</param>
         <param name="Картридж чи кран букса">Картридж</param>
         <param name="Мінімальна температура води (°C)">5</param>
@@ -213494,8 +213590,12 @@
         <param name="Покриття">З покриттям</param>
         <param name="Колір">Хром</param>
         <param name="Гарантія на корпус змішувача (міс)">60</param>
-        <param name="Комплектація">Шланг 150 см, ручна лійка, стельова лійка, чашки, ексцентрики, гумові прокладки, тримач для лійки</param>
+        <param name="Комплектація">Шланг 150 см, ручна лійка 3 режими, стельова лійка, чашки, ексцентрики, гумові прокладки, тримач для лійки</param>
         <param name="Гарантія на деталі змішувача (міс)">12</param>
+        <param name="Особливості">Розміри ручної лійки: 23х10 см. Розміри стельової лійки: 22х22 см. Максимальна висота 165 см. Мінімальна 130 см.</param>
+        <param name="Довжина виливу (см)">5-10</param>
+        <param name="Максимальна висота (см)">165</param>
+        <param name="Довжина виливу (мм)">70</param>
       </offer>
       <offer id="HB0550" available="false">
         <url>https://ol.partners/products/miyki-dlya-kukhni/vrizni-miyki/miyka-kukhonna-haiba-58x48-polish-hb0550</url>
@@ -217663,9 +217763,12 @@
         <param name="Модель">KB-66009-05</param>
         <param name="Країна бренду">Чехія</param>
         <param name="Торгова марка">KOER</param>
+        <param name="Довжина виливу (мм)">185</param>
+        <param name="Довжина виливу (см)">16-20</param>
+        <param name="Загальна довжина (мм)">258</param>
         <param name="Гарантія на деталі змішувача (міс)">12</param>
-        <param name="Комплектація">Шланг 150 см, ручна лійка, стельова лійка, тримач для лійки</param>
-        <param name="Особливості">Розміри стельової лійки: 30х30 см.</param>
+        <param name="Комплектація">Змішувач, верхній душ, кронштейн верхнього душу, блок змішувача, що вбудовується, декоративна накладка 19х13 см, рукоятка управління, шланг 150 см, ручна лійка, тримач для лійки, посібник з експлуатації та гарантійний талон</param>
+        <param name="Особливості">Розміри ручної лійки: 12х24 см. Розміри стельової лійки: 25х25 см. Довжина кронштейна для тропічного душу 40 см</param>
         <param name="Гарантія на корпус змішувача (міс)">60</param>
       </offer>
       <offer id="AC0684" available="true">
@@ -221450,7 +221553,7 @@
         <param name="Гарантійний період (міс)">12</param>
         <param name="Комплектація">Корпус відра з кришкою, внутрішнє відро</param>
       </offer>
-      <offer id="KR0097" available="true">
+      <offer id="KR0097" available="false">
         <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/krani/kran-z-amerikankoyu-polusgin/kran-z-amerikankoyu-34-koer-kr227w-biliy-kr0097</url>
         <price>471.00</price>
         <currencyId>UAH</currencyId>
@@ -221459,8 +221562,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/b110ff87-0e21-4935-80c4-82c98cdd6fd8/image_01.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/b110ff87-0e21-4935-80c4-82c98cdd6fd8/image_04_KR0097.jpg</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Кран з американкою 3/4" (Koer KR.227.W) білий (KR0097)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR0097</vendorCode>
@@ -222185,9 +222288,11 @@
         <param name="Колір">Хром</param>
         <param name="Стиль">Класичний</param>
         <param name="Гарантія на корпус змішувача (міс)">60</param>
-        <param name="Комплектація">Шланг 150 см, ручна лійка, тримач для лійки, аератор, ексцентрики, чашки, гумові прокладки</param>
+        <param name="Комплектація">Шланг 150 см, ручна лійка 8х24,5 см, чашки, ексцентрики, гумові прокладки, тримач для лійки, посібник з експлуатації та гарантійний талон</param>
         <param name="Гарантія на деталі змішувача (міс)">12</param>
+        <param name="Довжина виливу (мм)">105</param>
         <param name="Загальна довжина (мм)">155</param>
+        <param name="Довжина виливу (см)">5-10</param>
       </offer>
       <offer id="KR3030" available="true">
         <url>https://ol.partners/products/truboprovodi-ta-zyednannya/fitingi/rizbovi-zyednannya/triynik-koer-kft06ffmwn-12-vvz-bez-nikelyu-kr3030</url>
@@ -223316,10 +223421,13 @@
         <param name="Серія">018</param>
         <param name="Модель">KI-66018-02</param>
         <param name="Торгова марка">KOER</param>
-        <param name="Особливості">Розміри стельової лійки: O200 мм</param>
+        <param name="Особливості">Розміри ручної лійки: 11х23,5 см. Розміри стельової лійки: 25х25 см. Довжина кронштейну для тропічного душу 40 см</param>
         <param name="Гарантія на деталі змішувача (міс)">12</param>
-        <param name="Комплектація">Шланг 150 см, ручна лійка, стельова лійка, тримач для лійки</param>
+        <param name="Комплектація">Змішувач, верхній душ, кронштейн верхнього душу, блок змішувача, що вбудовується, декоративна накладка 16х16 см, рукоятка управління, шланг 150 см, ручна лійка 3 режими, тримач для лійки, посібник з експлуатації та гарантійний талон</param>
         <param name="Гарантія на корпус змішувача (міс)">60</param>
+        <param name="Довжина виливу (см)">16-20</param>
+        <param name="Загальна довжина (мм)">228</param>
+        <param name="Довжина виливу (мм)">180</param>
         <param name="Тип виливу">Литий</param>
         <param name="Стиль">Модерн</param>
         <param name="Покриття">Без покриття</param>
@@ -223537,9 +223645,12 @@
         <param name="Тип виливу">Литий</param>
         <param name="Покриття">З покриттям</param>
         <param name="Колір">Хром</param>
-        <param name="Висота до виливу (мм)">99</param>
+        <param name="Довжина виливу (см)">11-15</param>
+        <param name="Висота до виливу (мм)">100</param>
         <param name="Довжина виливу (мм)">130</param>
+        <param name="Висота змішувача (см)">16-20</param>
         <param name="Висота змішувача (мм)">160</param>
+        <param name="Загальна довжина (мм)">150</param>
       </offer>
       <offer id="ZX3029" available="true">
         <url>https://ol.partners/products/truboprovodi-ta-zyednannya/gnuchka-pidvodka/gnuchki-shlangi-dlya-zmishuvacha-gayka-12-shtutser-m10-50-sm-2-sht-silik-obolonka-zerix-zx3029</url>
@@ -229388,7 +229499,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/fb59c48d-5e4a-48bb-8b72-044e4294765a/image_01.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Фільтр газовий 1/2" Koer KG.F01.A (KR3103)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR3103</vendorCode>
@@ -238110,9 +238221,11 @@
         <param name="Тип перемикання на душ">EURO</param>
         <param name="MAX різниця тиску гарячої та холодної води (бар)">1,50</param>
         <param name="Гарантія на корпус змішувача (міс)">60</param>
-        <param name="Комплектація">Шланг 150 см, ручна лійка, тримач для лійки, аератор, ексцентрики, чашки, гумові прокладки</param>
+        <param name="Комплектація">Шланг 150 см, ручна лійка на 3 режими 12х24 см, чашки, ексцентрики, гумові прокладки, тримач для лійки, посібник з експлуатації та гарантійний талон</param>
         <param name="Гарантія на деталі змішувача (міс)">12</param>
-        <param name="Загальна довжина (мм)">187</param>
+        <param name="Довжина виливу (см)">11-15</param>
+        <param name="Загальна довжина (мм)">190</param>
+        <param name="Довжина виливу (мм)">135</param>
       </offer>
       <offer id="KB0015" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/rozshiryuvalni-baki-dlya-sistem-opalennya/bak-rozshiryuvalniy-koer-bv24-dlya-sistemi-opalennya-vertikalniy-24l-34-epdm-kb0015</url>
@@ -238567,6 +238680,9 @@
         <param name="Робочий тиск (бар)">1-5</param>
         <param name="Покриття">З покриттям</param>
         <param name="Колір">Графіт</param>
+        <param name="Комплектація">Гнучкий спіральний шланг 31 см у спокої. Лійка для гігієнічного душу 2,5х14 см. Декоративна накладка 5х5 см. Кран-деркажетель з кнопками 8,1х8,1 см</param>
+        <param name="Гарантія на деталі змішувача (міс)">6</param>
+        <param name="Гарантія на корпус змішувача (міс)">24</param>
         <param name="Тип виробу">Змішувачі для гігієнічного душу</param>
         <param name="Країна виробник">Китай</param>
         <param name="Група товару">Змішувачі</param>
@@ -238575,9 +238691,6 @@
         <param name="Вид виробу">Гігієнічні душі моно</param>
         <param name="Країна бренду">Китай</param>
         <param name="Тип монтажу">Настінні</param>
-        <param name="Гарантія на деталі змішувача (міс)">6</param>
-        <param name="Гарантія на корпус змішувача (міс)">24</param>
-        <param name="Комплектація">Стоп лійка, тримач для лійки</param>
       </offer>
       <offer id="HB0566" available="false">
         <url>https://ol.partners/products/miyki-dlya-kukhni/vrizni-miyki/miyka-kukhonna-haiba-78x43-satin-hb0566</url>
@@ -247130,7 +247243,7 @@
         <param name="Вага ящ.">6</param>
         <param name="Комплектація">Шланг 150 см, ручна лійка, стельова лійка, чашки, ексцентрики, гумові прокладки, тримач для лійки</param>
         <param name="Гарантія на корпус змішувача (міс)">60</param>
-        <param name="Особливості">Розміри стельової лійки: 20,5 х30, 5 см. Максимальна висота 135 см. Мінімальна 76 см.</param>
+        <param name="Особливості">Розміри ручної лійки: 25,5х11 см. Розміри стельової лійки: 32х21 см. Максимальна висота 142 см. Мінімальна 83 см.</param>
         <param name="Гарантія на деталі змішувача (міс)">12</param>
         <param name="Група товару">Змішувачі</param>
         <param name="Країна бренду">Китай</param>
@@ -247147,7 +247260,7 @@
         <param name="Покриття">З покриттям</param>
         <param name="Стиль">Модерн</param>
         <param name="MAX різниця тиску гарячої та холодної води (бар)">1,50</param>
-        <param name="Міжосьова відстань кріплень (мм)">695</param>
+        <param name="Міжосьова відстань кріплень (мм)">705</param>
         <param name="Картридж чи кран букса">Картридж</param>
         <param name="Мінімальна температура води (°C)">5</param>
         <param name="Діаметр картриджа (мм)">35</param>
@@ -247158,7 +247271,9 @@
         <param name="Мінімальний тиск (бар)">0,50</param>
         <param name="Робочий тиск (бар)">1-5</param>
         <param name="Тип керування">Одноважільні</param>
-        <param name="Максимальна висота (см)">135</param>
+        <param name="Довжина виливу (см)">11-15</param>
+        <param name="Максимальна висота (см)">142</param>
+        <param name="Довжина виливу (мм)">115</param>
       </offer>
       <offer id="CH6565" available="true">
         <url>https://ol.partners/products/zmishuvachi-ta-krani/zmishuvachi-dlya-kukhni/zmishuvachi-odnovazhilni-dlya-kukhni/zmishuvach-dlya-kukhni-champion-asa00425cm-z-nerzh-stali-sus304-ch6565</url>
@@ -250291,7 +250406,9 @@
         <param name="Тип виливу">Литий</param>
         <param name="Колір">Хром</param>
         <param name="Стиль">Класичний</param>
-        <param name="Загальна довжина (мм)">195</param>
+        <param name="Загальна довжина (мм)">190</param>
+        <param name="Довжина виливу (см)">11-15</param>
+        <param name="Довжина виливу (мм)">110</param>
         <param name="Країна виробник">Китай</param>
         <param name="Модель">009</param>
         <param name="Група товару">Змішувачі</param>
@@ -250301,7 +250418,7 @@
         <param name="Торгова марка">MIXXUS PREMIUM</param>
         <param name="Тип виробу">Змішувачі для ванни</param>
         <param name="Тип монтажу">Настінні</param>
-        <param name="Комплектація">Шланг 150 см, ручна лійка, тримач для лійки, аератор, ексцентрики, чашки, гумові прокладки</param>
+        <param name="Комплектація">Шланг 150 см, ручна лійка 10х26 см, тримач для лійки, аератор, ексцентрики, чашки, гумові прокладки</param>
         <param name="Гарантія на корпус змішувача (міс)">60</param>
         <param name="Гарантія на деталі змішувача (міс)">12</param>
       </offer>
@@ -251780,7 +251897,7 @@
         <param name="Робочий тиск (бар)">1-5</param>
         <param name="Гарантія на деталі змішувача (міс)">12</param>
         <param name="Гарантія на корпус змішувача (міс)">60</param>
-        <param name="Комплектація">Гігієнічна лійка, змішувач, шланг 120 см, кріплення</param>
+        <param name="Комплектація">Шланг 120 см, лійка для гігієнічного душу 4,5х10,5 см, чашки, ексцентрики, гумові прокладки, посібник з експлуатації та гарантійний талон</param>
         <param name="Тип монтажу">Настінні</param>
         <param name="Країна бренду">Чехія</param>
         <param name="Серія">037 GRAPHITE</param>
@@ -255227,8 +255344,9 @@
         <param name="Країна виробник">Китай</param>
         <param name="Вид виробу">Змішувачі для гігієнічного душу прихованого монтажу</param>
         <param name="Гарантія на деталі змішувача (міс)">12</param>
+        <param name="Особливості">Декоративна накладка 7х7 см</param>
         <param name="Гарантія на корпус змішувача (міс)">60</param>
-        <param name="Комплектація">Гігієнічна лійка, тримач для лійки, шланг</param>
+        <param name="Комплектація">Шланг 120 см, лійка для гігієнічного душу 4,5х10,5 см, внутрішній блок, кріплення, посібник з експлуатації та гарантійний талон</param>
         <param name="Картридж чи кран букса">Картридж</param>
         <param name="Мінімальний тиск (бар)">0,50</param>
         <param name="Мінімальна температура води (°C)">5</param>
@@ -255236,6 +255354,7 @@
         <param name="Робочий тиск (бар)">1-5</param>
         <param name="Максимальна температура води (°C)">90</param>
         <param name="Матеріал виробу">Латунь</param>
+        <param name="Довжина шланга (см)">120</param>
         <param name="Тип керування">Одноважільні</param>
         <param name="MAX різниця тиску гарячої та холодної води (бар)">1,50</param>
         <param name="Максимальний тиск (бар)">10,00</param>
@@ -255274,7 +255393,7 @@
         <param name="Вага (г)">66,00</param>
         <param name="Гарантійний період (міс)">84</param>
       </offer>
-      <offer id="KR2885" available="true">
+      <offer id="KR2885" available="false">
         <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/uniboks-dlya-teploi-pidlogi/uniboks-dlya-tp-rtl-koer-kr3002-kr2885</url>
         <price>1794.00</price>
         <currencyId>UAH</currencyId>
@@ -255284,8 +255403,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/8ca61e0a-a58f-4239-af72-cd6a7e45f9a5/image_044.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/8ca61e0a-a58f-4239-af72-cd6a7e45f9a5/image_01.jpg</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Унібокс для ТП (RTL) Koer KR.3002 (KR2885)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR2885</vendorCode>
@@ -262559,7 +262678,7 @@
         <param name="Об'єм ящ.">0.051</param>
         <param name="Вага ящ.">9.9</param>
         <param name="Гарантія на корпус змішувача (міс)">24</param>
-        <param name="Комплектація">Ексцентрики, чашки, гумові прокладки</param>
+        <param name="Комплектація">Шланг 150 см, ручна лійка 1 режим розміром 8х21 см, тримач для лійки, ексцентрики, чашки, гумові прокладки, посібник з експлуатації та гарантійний талон</param>
         <param name="Гарантія на деталі змішувача (міс)">12</param>
         <param name="Колір">Білий глянцевий</param>
         <param name="Покриття">Без покриття</param>
@@ -262571,10 +262690,14 @@
         <param name="Діаметр картриджа (мм)">35</param>
         <param name="Мінімальний тиск (бар)">0,50</param>
         <param name="Мінімальна температура води (°C)">5</param>
+        <param name="Довжина шланга (см)">150</param>
         <param name="Максимальний тиск (бар)">10,00</param>
         <param name="Максимальна температура води (°C)">90</param>
         <param name="Тип керування">Одноважільні</param>
         <param name="MAX різниця тиску гарячої та холодної води (бар)">1,50</param>
+        <param name="Довжина виливу (см)">5-10</param>
+        <param name="Загальна довжина (мм)">160</param>
+        <param name="Довжина виливу (мм)">100</param>
         <param name="Група товару">Змішувачі</param>
         <param name="Серія">CEZAR</param>
         <param name="Країна бренду">Китай</param>
@@ -262661,9 +262784,12 @@
         <param name="Матеріал виробу">Нержавіюча сталь SUS304</param>
         <param name="Картридж чи кран букса">Картридж</param>
         <param name="Мінімальна температура води (°C)">5</param>
+        <param name="Загальна довжина (мм)">235</param>
+        <param name="Довжина виливу (см)">16-20</param>
+        <param name="Довжина виливу (мм)">180</param>
         <param name="Гарантія на деталі змішувача (міс)">12</param>
-        <param name="Особливості">Розміри стельової лійки: 250 мм</param>
-        <param name="Комплектація">Шланг 150 см, ручна лійка, стельова лійка, тримач для лійки</param>
+        <param name="Особливості">Розміри ручної лійки: 10х23,5 см. Розміри стельової лійки: 25х25 см. Довжина кронштейну для тропічного душу 40 см</param>
+        <param name="Комплектація">Змішувач, верхній душ, кронштейн верхнього душу, блок змішувача, що вбудовується, декоративна накладка 16х16 см, рукоятка управління, шланг 150 см, ручна лійка 3 режими, тримач для лійки, посібник з експлуатації та гарантійний талон</param>
         <param name="Гарантія на корпус змішувача (міс)">60</param>
         <param name="Серія">016</param>
         <param name="Група товару">Змішувачі</param>
@@ -264356,6 +264482,10 @@
         <param name="Од. в упак.">4</param>
         <param name="Об'єм ящ.">0.162</param>
         <param name="Вага ящ.">23.5</param>
+        <param name="Довжина виливу (мм)">187</param>
+        <param name="Довжина виливу (см)">16-20</param>
+        <param name="Висота змішувача (мм)">160</param>
+        <param name="Висота змішувача (см)">16-20</param>
         <param name="Колір">Графіт</param>
         <param name="Стиль">Модерн</param>
         <param name="Покриття">З покриттям</param>
@@ -264380,9 +264510,10 @@
         <param name="Торгова марка">KOER</param>
         <param name="Серія">029</param>
         <param name="Країна виробник">Китай</param>
-        <param name="Комплектація">Шланг 150 см, ручна лійка, стельова лійка, тримач для лійки</param>
+        <param name="Комплектація">Змішувач, верхній душ, кронштейн верхнього душу, блок змішувача, що вбудовується, декоративна накладка 16х16 см, рукоятка управління, шланг 150 см, ручна лійка, тримач для лійки, посібник з експлуатації та гарантійний талон</param>
         <param name="Гарантія на корпус змішувача (міс)">60</param>
         <param name="Гарантія на деталі змішувача (міс)">12</param>
+        <param name="Особливості">Розміри ручної лійки: 13,5х25 см. Розміри стельової лійки: 30х30 см. Довжина кронштейна для тропічного душу 22,2 см</param>
       </offer>
       <offer id="EP0095" available="true">
         <url>https://ol.partners/products/zmishuvachi-ta-krani/zmishuvachi-dlya-vanni/zmishuvach-dlya-vanni-z-povorotnim-vilivom/zmishuvach-dlya-vanni-ep-smes-140-ep0095</url>
@@ -276750,8 +276881,11 @@
         <param name="Тип виливу">Поворотний</param>
         <param name="Стиль">Класичний</param>
         <param name="Гарантія на деталі змішувача (міс)">12</param>
-        <param name="Комплектація">Шланг 150 см, ручна лійка, чашки, ексцентрики, гумові прокладки</param>
+        <param name="Комплектація">Шланг 150 см, ручна лійка 1 режим розміром 8х21 см, тримач для лійки, ексцентрики, чашки, гумові прокладки, посібник з експлуатації та гарантійний талон</param>
         <param name="Гарантія на корпус змішувача (міс)">24</param>
+        <param name="Загальна довжина (мм)">380</param>
+        <param name="Довжина виливу (см)">31-35</param>
+        <param name="Довжина виливу (мм)">315</param>
       </offer>
       <offer id="ZX0190" available="true">
         <url>https://ol.partners/products/zmishuvachi-ta-krani/zmishuvachi-dlya-umivalnika/odnovazhilniy-zmishuvach-dlya-rakovini/zmishuvach-dlya-umivalnika-zerix-sop1-045-zx0190</url>
@@ -279778,6 +279912,8 @@
         <param name="Од. в упак.">6</param>
         <param name="Об'єм ящ.">0.103</param>
         <param name="Вага ящ.">17.1</param>
+        <param name="Довжина виливу (мм)">200</param>
+        <param name="Довжина виливу (см)">16-20</param>
         <param name="Тип керування">Одноважільні</param>
         <param name="Максимальний тиск (бар)">10,00</param>
         <param name="Матеріал виробу">Латунь</param>
@@ -279797,7 +279933,9 @@
         <param name="Країна бренду">Німеччина</param>
         <param name="Торгова марка">MIXXUS PREMIUM</param>
         <param name="Гарантія на корпус змішувача (міс)">60</param>
+        <param name="Комплектація">Змішувач, верхній душ 20х20 см, кронштейн верхнього душу 31,5 см, блок змішувача, що вбудовується, декоративна накладка 17,5х12,5 см, рукоятка управління, вилив, посібник з екплуатації та гарантійний талон</param>
         <param name="Гарантія на деталі змішувача (міс)">12</param>
+        <param name="Особливості">Розміри стельової лійки: 20х20 см. Довжина кронштейну для тропічного душу 31,5 см</param>
         <param name="Колір">Хром</param>
       </offer>
       <offer id="EP4031" available="true">
@@ -280795,7 +280933,10 @@
         <param name="Група товару">Змішувачі</param>
         <param name="Гарантія на деталі змішувача (міс)">12</param>
         <param name="Гарантія на корпус змішувача (міс)">60</param>
-        <param name="Комплектація">Шланг 150 см, ручна лійка, тримач для лійки, аератор, ексцентрики, чашки, гумові прокладки</param>
+        <param name="Комплектація">Шланг 150 см, ручна лійка 10х26 см, тримач для лійки, аератор, ексцентрики, чашки, гумові прокладки</param>
+        <param name="Загальна довжина (мм)">155</param>
+        <param name="Довжина виливу (мм)">115</param>
+        <param name="Довжина виливу (см)">11-15</param>
         <param name="Покриття">З покриттям</param>
         <param name="Колір">Хром</param>
         <param name="Тип виливу">Литий</param>
@@ -283696,13 +283837,18 @@
         <param name="Робочий тиск (бар)">1-5</param>
         <param name="Матеріал виробу">Латунь</param>
         <param name="Мінімальна температура води (°C)">5</param>
+        <param name="Особливості">Розміри ручної лійки: 8х24,5 см. Розміри стельової лійки: 29,5х19 см. Довжина кронштейну для тропічного душу 40 см</param>
+        <param name="Гарантія на корпус змішувача (міс)">60</param>
+        <param name="Гарантія на деталі змішувача (міс)">12</param>
+        <param name="Комплектація">Змішувач, верхній душ, кронштейн верхнього душу, блок змішувача, що вбудовується, декоративна накладка 15х20 см, рукоятка управління, шланг 150 см, ручна лійка, тримач для лійки, посібник з експлуатації та гарантійний талон</param>
         <param name="Колір">Графіт</param>
         <param name="Вилив">Короткий вилив</param>
         <param name="Стиль">Модерн</param>
         <param name="Покриття">З покриттям</param>
-        <param name="Гарантія на корпус змішувача (міс)">60</param>
-        <param name="Гарантія на деталі змішувача (міс)">12</param>
-        <param name="Комплектація">Шланг 150 см, ручна лійка, стельова лійка, чашки, ексцентрики, гумові прокладки, тримач для лійки</param>
+        <param name="Довжина виливу (см)">11-15</param>
+        <param name="Висота змішувача (см)">16-20</param>
+        <param name="Висота змішувача (мм)">200</param>
+        <param name="Довжина виливу (мм)">125</param>
       </offer>
       <offer id="KR6328" available="true">
         <url>https://ol.partners/products/truboprovodi-ta-zyednannya/fitingi/presfitingi-iz-nerzhaviyuchoi-stali-pressinox/vstavka-perekhidna-reduktsiyna-zv-koer-kqi3528-pressinox-aisi-304-35x28-kr6328</url>
@@ -289024,6 +289170,10 @@
         <param name="Од. в упак.">4</param>
         <param name="Об'єм ящ.">0.047</param>
         <param name="Вага ящ.">10.8</param>
+        <param name="Комплектація">Шланг 125 см, лійка для гігієнічного душу 5,5х11 см, внутрішній блок, кріплення, посібник з експлуатації та гарантійний талон</param>
+        <param name="Гарантія на деталі змішувача (міс)">12</param>
+        <param name="Особливості">Декоративна накладка 7х13 см</param>
+        <param name="Гарантія на корпус змішувача (міс)">60</param>
         <param name="Тип виробу">Змішувачі для гігієнічного душу</param>
         <param name="Вид виробу">Змішувачі для гігієнічного душу прихованого монтажу</param>
         <param name="Серія">028</param>
@@ -289048,9 +289198,6 @@
         <param name="Мінімальна температура води (°C)">5</param>
         <param name="Мінімальний тиск (бар)">0,50</param>
         <param name="Діаметр картриджа (мм)">35</param>
-        <param name="Гарантія на деталі змішувача (міс)">12</param>
-        <param name="Комплектація">Гігієнічна лійка, корпус, душовий шланг, ексцентрики</param>
-        <param name="Гарантія на корпус змішувача (міс)">60</param>
       </offer>
       <offer id="NF3114" available="true">
         <url>https://ol.partners/products/truboprovodi-ta-zyednannya/fitingi/rizbovi-zyednannya/podovzhuvach-nolf-nfce0640chr1240mm-khrom-nf3114</url>
@@ -289809,6 +289956,7 @@
         <param name="Максимальний тиск (бар)">10,00</param>
         <param name="Гарантія на корпус змішувача (міс)">60</param>
         <param name="Гарантія на деталі змішувача (міс)">12</param>
+        <param name="Комплектація">Шланг 150 см, ручна лійка на 3 режими 12х23,5 см, настінний тримач для лійки, штуцер підключення шланга, блок прихованого монтажу (монтажний бокс), що вбудовується, зовнішня панель змішувача з важелем управління.</param>
         <param name="Торгова марка">HAIBA</param>
         <param name="Модель">3</param>
         <param name="Група товару">Змішувачі</param>
@@ -289821,6 +289969,8 @@
         <param name="Колір">Хром</param>
         <param name="Стиль">Модерн</param>
         <param name="Покриття">З покриттям</param>
+        <param name="Висота змішувача (см)">16-20</param>
+        <param name="Висота змішувача (мм)">160</param>
       </offer>
       <offer id="KR0256" available="true">
         <url>https://ol.partners/products/truboprovodi-ta-zyednannya/gnuchka-pidvodka/gnuchke-pidvedennya-koer-kh01ff12-800-nerzhaviyka-gg-080-sm-kr0256</url>
@@ -293669,8 +293819,11 @@
         <param name="Об'єм ящ.">0.062</param>
         <param name="Вага ящ.">17.8</param>
         <param name="Гарантія на деталі змішувача (міс)">12</param>
-        <param name="Комплектація">Шланг 150 см, ручна лійка, тримач для лійки, ексцентрики, чашки, гумові прокладки, посібник з експлуатації та гарантійний талон</param>
+        <param name="Комплектація">Шланг 150 см, ручна лійка на 5 режимів 8,5х19,5 см, тримач для лійки, ексцентрики, чашки, гумові прокладки, посібник з експлуатації та гарантійний талон</param>
         <param name="Гарантія на корпус змішувача (міс)">60</param>
+        <param name="Довжина виливу (см)">11-15</param>
+        <param name="Загальна довжина (мм)">158</param>
+        <param name="Довжина виливу (мм)">110</param>
         <param name="Діаметр картриджа (мм)">30</param>
         <param name="Мінімальна температура води (°C)">5</param>
         <param name="Максимальна температура води (°C)">90</param>
@@ -297257,7 +297410,8 @@
         <param name="Об'єм ящ.">0.046</param>
         <param name="Вага ящ.">17.8</param>
         <param name="Гарантія на деталі змішувача (міс)">12</param>
-        <param name="Комплектація">Гігієнічна лійка, змішувач, шланг 120 см, кріплення</param>
+        <param name="Особливості">Декоративна накладка 11х11 см</param>
+        <param name="Комплектація">Шланг 120 см, лійка для гігієнічного душу 4,5х10,5 см, внутрішній блок, кріплення, посібник з експлуатації та гарантійний талон</param>
         <param name="Гарантія на корпус змішувача (міс)">60</param>
         <param name="Група товару">Змішувачі</param>
         <param name="Країна бренду">Чехія</param>
@@ -298210,6 +298364,20 @@
         <param name="Од. в упак.">8</param>
         <param name="Об'єм ящ.">0.222</param>
         <param name="Вага ящ.">20.2</param>
+        <param name="Довжина шланга (см)">150</param>
+        <param name="Матеріал виробу">ABS-пластик</param>
+        <param name="Мінімальна температура води (°C)">5</param>
+        <param name="Діаметр картриджа (мм)">35</param>
+        <param name="Тип керування">Одноважільні</param>
+        <param name="Міжосьова відстань кріплень (мм)">800</param>
+        <param name="Картридж чи кран букса">Картридж</param>
+        <param name="Мінімальний тиск (бар)">0,50</param>
+        <param name="Максимальна температура води (°C)">90</param>
+        <param name="MAX різниця тиску гарячої та холодної води (бар)">1,50</param>
+        <param name="Максимальний тиск (бар)">10,00</param>
+        <param name="Довжина виливу (см)">5-10</param>
+        <param name="Довжина виливу (мм)">100</param>
+        <param name="Максимальна висота (см)">142</param>
         <param name="Тип виробу">Душові колони</param>
         <param name="Група товару">Змішувачі</param>
         <param name="Країна виробник">Китай</param>
@@ -298220,17 +298388,9 @@
         <param name="Вид виробу">Душові колони на 3 режими</param>
         <param name="Модель">008-J</param>
         <param name="Гарантія на корпус змішувача (міс)">24</param>
+        <param name="Особливості">Розміри ручної лійки: 24х18 см. Розміри стельової лійки: 23х23 см. Максимальна висота 142 см. Мінімальна 90 см.</param>
         <param name="Гарантія на деталі змішувача (міс)">12</param>
-        <param name="Комплектація">Шланг для душу, ручна лійка, стельова лійка, чашки, ексцентрики, гумові прокладки, тримач для лійки</param>
-        <param name="Матеріал виробу">ABS-пластик</param>
-        <param name="Мінімальна температура води (°C)">5</param>
-        <param name="Діаметр картриджа (мм)">35</param>
-        <param name="Тип керування">Одноважільні</param>
-        <param name="Картридж чи кран букса">Картридж</param>
-        <param name="Мінімальний тиск (бар)">0,50</param>
-        <param name="Максимальна температура води (°C)">90</param>
-        <param name="MAX різниця тиску гарячої та холодної води (бар)">1,50</param>
-        <param name="Максимальний тиск (бар)">10,00</param>
+        <param name="Комплектація">Шланг для душу, ручна лійка 3 режими, стельова лійка, чашки, ексцентрики, гумові прокладки, тримач для лійки</param>
         <param name="Колір">Білий глянцевий</param>
         <param name="Покриття">Без покриття</param>
         <param name="Вилив">Короткий вилив</param>
@@ -299720,7 +299880,7 @@
         <param name="Група товару">Змішувачі</param>
         <param name="Тип монтажу">Настінні</param>
         <param name="Гарантія на корпус змішувача (міс)">24</param>
-        <param name="Комплектація">Стоп лійка, тримач для лійки</param>
+        <param name="Комплектація">Гнучкий спіральний шланг 31 см у спокої. Лійка для гігієнічного душу 2,5х14 см. Декоративна накладка 5х5 см. Кран-деркажетель з кнопками 8,1х8,1 см</param>
         <param name="Гарантія на деталі змішувача (міс)">6</param>
         <param name="Покриття">З покриттям</param>
         <param name="Колір">Чорний матовий</param>
@@ -306618,6 +306778,7 @@
         <param name="Об'єм ящ.">0.049</param>
         <param name="Вага ящ.">15</param>
         <param name="Максимальний тиск (бар)">10,00</param>
+        <param name="Довжина шланга (см)">150</param>
         <param name="Максимальна температура води (°C)">90</param>
         <param name="Картридж чи кран букса">Кран букса</param>
         <param name="Розмір кран букси (дюйм)">1/2</param>
@@ -306641,8 +306802,11 @@
         <param name="Серія">DMT-A</param>
         <param name="Торгова марка">CHAMPION</param>
         <param name="Гарантія на корпус змішувача (міс)">24</param>
-        <param name="Комплектація">Шланг 150 см, ручна лійка, тримач для лійки, чашки, ексцентрики, гумові прокладки</param>
+        <param name="Комплектація">Шланг 150 см, ручна лійка 6,5х17,5 см, чашки, ексцентрики, гумові прокладки, тримач для лійки, посібник з експлуатації та гарантійний талон</param>
         <param name="Гарантія на деталі змішувача (міс)">6</param>
+        <param name="Довжина виливу (мм)">300</param>
+        <param name="Довжина виливу (см)">26-30</param>
+        <param name="Загальна довжина (мм)">335</param>
       </offer>
       <offer id="EP4047" available="true">
         <url>https://ol.partners/products/radiatori-opalennya/komplektuyuchi-do-radiatoriv/krani-na-radiator/kran-radiatorniy-kutoviy-europroduct-ep0122-25x34m-latunniy-kulya-ep4047</url>
@@ -309890,9 +310054,12 @@
         <param name="Колір">Хром</param>
         <param name="Покриття">З покриттям</param>
         <param name="Стиль">Модерн</param>
-        <param name="Комплектація">Шланг 150 см, ручна лійка, чашки, ексцентрики, гумові прокладки, тримач для лійки</param>
         <param name="Гарантія на деталі змішувача (міс)">12</param>
+        <param name="Комплектація">Шланг 150 см, ручна лійка на 5 режимів 10,3х23 см, чашки, ексцентрики, гумові прокладки, тримач для лійки, посібник з експлуатації та гарантійний талон</param>
         <param name="Гарантія на корпус змішувача (міс)">60</param>
+        <param name="Довжина виливу (см)">11-15</param>
+        <param name="Загальна довжина (мм)">160</param>
+        <param name="Довжина виливу (мм)">113</param>
       </offer>
       <offer id="ZX6126" available="true">
         <url>https://ol.partners/products/dushovi-koloni-ta-sistemi/dushovi-koloni/dushova-kolona-zi-zmishuvachem-zerix-rex009j-graphite-z-nerzh-stali-kolir-grafit-zx6126</url>
@@ -310031,7 +310198,7 @@
         <param name="Тип монтажу">Настінні</param>
         <param name="Група товару">Змішувачі</param>
         <param name="Гарантія на деталі змішувача (міс)">12</param>
-        <param name="Комплектація">Гігієнічна лійка, корпус, душовий шланг, ексцентрики</param>
+        <param name="Комплектація">Шланг 120 см, лійка для гігієнічного душу 6х13 см, чашки, ексцентрики, гумові прокладки, посібник з експлуатації та гарантійний талон</param>
         <param name="Гарантія на корпус змішувача (міс)">60</param>
         <param name="Стиль">Модерн</param>
         <param name="Покриття">З покриттям</param>
@@ -313076,7 +313243,7 @@
         <param name="Форма">Кругла</param>
         <param name="Поверхня">Матова</param>
       </offer>
-      <offer id="KR3005" available="true">
+      <offer id="KR3005" available="false">
         <url>https://ol.partners/products/truboprovodi-ta-zyednannya/fitingi/rizbovi-zyednannya/podovzhuvach-koer-wme0630wn-12-30mm-kr3005</url>
         <price>63.00</price>
         <currencyId>UAH</currencyId>
@@ -313085,8 +313252,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/eea5b0ca-3653-44f8-aedf-0fce8fd8c0d9/image_01.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/eea5b0ca-3653-44f8-aedf-0fce8fd8c0d9/image_04_udlinKF0110.jpg</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Подовжувач Koer WM.E06-30.WN - 1/2 "-30мм (KR3005)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR3005</vendorCode>
@@ -314103,6 +314270,9 @@
         <param name="Од. в упак.">4</param>
         <param name="Об'єм ящ.">0.078</param>
         <param name="Вага ящ.">25.6</param>
+        <param name="Довжина виливу (мм)">185</param>
+        <param name="Довжина виливу (см)">16-20</param>
+        <param name="Загальна довжина (мм)">258</param>
         <param name="MAX різниця тиску гарячої та холодної води (бар)">1,50</param>
         <param name="Картридж чи кран букса">Картридж</param>
         <param name="Робочий тиск (бар)">1-5</param>
@@ -314118,7 +314288,10 @@
         <param name="Покриття">З покриттям</param>
         <param name="Стиль">Модерн</param>
         <param name="Колір">Золото матове</param>
-        <param name="Загальна довжина (мм)">240</param>
+        <param name="Особливості">Розміри ручної лійки: 12х24 см. Розміри стельової лійки: 25х25 см. Довжина кронштейна для тропічного душу 40 см</param>
+        <param name="Гарантія на деталі змішувача (міс)">12</param>
+        <param name="Комплектація">Змішувач, верхній душ, кронштейн верхнього душу, блок змішувача, що вбудовується, декоративна накладка 19х13 см, рукоятка управління, шланг 150 см, ручна лійка, тримач для лійки, посібник з експлуатації та гарантійний талон</param>
+        <param name="Гарантія на корпус змішувача (міс)">60</param>
         <param name="Вид виробу">Душові системи вбудованого монтажу на 3 режими</param>
         <param name="Модель">KB-66009-12</param>
         <param name="Серія">009 BRUSHED GOLD</param>
@@ -314128,9 +314301,6 @@
         <param name="Тип виробу">Душові системи вбудованого монтажу</param>
         <param name="Торгова марка">KOER</param>
         <param name="Країна виробник">Китай</param>
-        <param name="Гарантія на деталі змішувача (міс)">12</param>
-        <param name="Комплектація">Шланг 150 см, ручна лійка, стельова лійка, тримач для лійки</param>
-        <param name="Гарантія на корпус змішувача (міс)">60</param>
       </offer>
       <offer id="ZX5599" available="true">
         <url>https://ol.partners/products/truboprovodi-ta-zyednannya/gnuchka-pidvodka/shlang-zlivniy-dlya-pralnoi-mashini-zerix-sds150-150sm-zx5599</url>
@@ -316744,8 +316914,8 @@
         <param name="Серія">Rex</param>
         <param name="Модель">222 BRUSHED GOLD</param>
         <param name="Країна бренду">Чехія</param>
-        <param name="Комплектація">Гігієнічна лійка, корпус, душовий шланг, ексцентрики</param>
         <param name="Гарантія на корпус змішувача (міс)">60</param>
+        <param name="Комплектація">Шланг 120 см, лійка для гігієнічного душу 6х13 см, чашки, ексцентрики, гумові прокладки, посібник з експлуатації та гарантійний талон</param>
         <param name="Гарантія на деталі змішувача (міс)">12</param>
         <param name="Колір">Золото матове</param>
         <param name="Стиль">Модерн</param>
@@ -318159,6 +318329,10 @@
         <param name="Гарантія на деталі змішувача (міс)">12</param>
         <param name="Комплектація">Чашка</param>
         <param name="Гарантія на корпус змішувача (міс)">60</param>
+        <param name="Загальна довжина (мм)">110</param>
+        <param name="Діаметр підключення (дюйм)">1/2</param>
+        <param name="Довжина виливу (мм)">60</param>
+        <param name="Довжина виливу (см)">5-10</param>
         <param name="Тип виробу">Монокрани</param>
         <param name="Вид виробу">Монокрани настінні</param>
         <param name="Країна виробник">Китай</param>
@@ -318168,7 +318342,6 @@
         <param name="Модель">BIB-04</param>
         <param name="Матеріал виробу">Нержавіюча сталь SUS304</param>
         <param name="Тип керування">Поворотні</param>
-        <param name="Діаметр підключення (дюйм)">1/2</param>
       </offer>
       <offer id="NF3390" available="true">
         <url>https://ol.partners/products/truboprovodi-ta-zyednannya/ustatkuvannya-dlya-montazhu/khomuti-na-trubi/khomut-zatyazhniy-nerzhaviyuchiy-nolf-nfw2110130-nf3390</url>
@@ -323281,7 +323454,7 @@
         <param name="Колір">Білий глянцевий</param>
         <param name="Стиль">Класичний</param>
         <param name="Покриття">Без покриття</param>
-        <param name="Комплектація">Стоп-лійка, шланг</param>
+        <param name="Комплектація">Стоп-лійка 12х5 см, шланг 120 см, чашки, ексцентрики, гумові прокладки</param>
         <param name="Гарантія на корпус змішувача (міс)">24</param>
         <param name="Гарантія на деталі змішувача (міс)">12</param>
         <param name="Мінімальна температура води (°C)">5</param>
@@ -329233,8 +329406,16 @@
         <param name="Країна бренду">Чехія</param>
         <param name="Гарантія на деталі змішувача (міс)">12</param>
         <param name="Гарантія на корпус змішувача (міс)">60</param>
+        <param name="Комплектація">Кран для холодної води</param>
         <param name="Тип керування">Поворотні</param>
         <param name="Матеріал виробу">Нержавіюча сталь SUS304</param>
+        <param name="Тип кріплення">Гайка</param>
+        <param name="Довжина виливу (см)">11-15</param>
+        <param name="Висота змішувача (мм)">220</param>
+        <param name="Загальна довжина (мм)">150</param>
+        <param name="Висота змішувача (см)">21-25</param>
+        <param name="Висота до виливу (мм)">150</param>
+        <param name="Довжина виливу (мм)">110</param>
         <param name="Покриття">Без покриття</param>
         <param name="Колір">Нержавіюча сталь</param>
       </offer>
@@ -330411,7 +330592,11 @@
         <param name="Од. в упак.">10</param>
         <param name="Об'єм ящ.">0.067</param>
         <param name="Вага ящ.">21.2</param>
+        <param name="Довжина виливу (см)">11-15</param>
+        <param name="Загальна довжина (мм)">170</param>
+        <param name="Довжина виливу (мм)">130</param>
         <param name="Максимальний тиск (бар)">10,00</param>
+        <param name="Довжина шланга (см)">150</param>
         <param name="Максимальна температура води (°C)">90</param>
         <param name="Робочий тиск (бар)">1-5</param>
         <param name="Матеріал виробу">Латунь</param>
@@ -330420,9 +330605,9 @@
         <param name="Картридж чи кран букса">Картридж</param>
         <param name="Мінімальна температура води (°C)">5</param>
         <param name="Діаметр картриджа (мм)">35</param>
-        <param name="Загальна довжина (мм)">170</param>
         <param name="Гарантія на корпус змішувача (міс)">60</param>
         <param name="Гарантія на деталі змішувача (міс)">12</param>
+        <param name="Комплектація">Шланг 150 см, ручна лійка на 3 режими 10,5х24 см, чашки, ексцентрики, гумові прокладки, тримач для лійки, посібник з експлуатації та гарантійний талон</param>
         <param name="Країна бренду">Німеччина</param>
         <param name="Тип виробу">Змішувачі для ванни</param>
         <param name="Країна виробник">Китай</param>
@@ -342610,10 +342795,13 @@
         <param name="Стиль">Модерн</param>
         <param name="Покриття">З покриттям</param>
         <param name="Колір">Хром</param>
-        <param name="Загальна довжина (мм)">240</param>
+        <param name="Загальна довжина (мм)">258</param>
+        <param name="Довжина виливу (мм)">185</param>
+        <param name="Довжина виливу (см)">16-20</param>
         <param name="Гарантія на корпус змішувача (міс)">60</param>
+        <param name="Особливості">Розміри ручної лійки: 12х24 см. Розміри стельової лійки: 30х30 см. Довжина кронштейну для тропічного душу 40 см</param>
         <param name="Гарантія на деталі змішувача (міс)">12</param>
-        <param name="Комплектація">Шланг 150 см, ручна лійка, стельова лійка, тримач для лійки</param>
+        <param name="Комплектація">Змішувач, верхній душ, кронштейн верхнього душу, блок змішувача, що вбудовується, декоративна накладка 19х13 см, рукоятка управління, шланг 150 см, ручна лійка, тримач для лійки, посібник з експлуатації та гарантійний талон</param>
       </offer>
       <offer id="ZX3145" available="false">
         <url>https://ol.partners/products/zmishuvachi-ta-krani/zmishuvachi-dlya-vanni/liti-zmishuvachi-dlya-vannoi/zmishuvach-dlya-vanni-z-nerzh-stali-sus304-zerix-sas009-euro-zx3145</url>
@@ -343007,7 +343195,7 @@
         <param name="Країна бренду">Китай</param>
         <param name="Гарантія на деталі змішувача (міс)">12</param>
         <param name="Гарантія на корпус змішувача (міс)">24</param>
-        <param name="Комплектація">Стоп-лійка, шланг</param>
+        <param name="Комплектація">Стоп-лійка 11х6 см, шланг 120 см, чашки, ексцентрики, гумові прокладки</param>
       </offer>
       <offer id="MI6538" available="true">
         <url>https://ol.partners/products/zmishuvachi-ta-krani/zmishuvachi-dlya-kukhni/zmishuvach-z-visuvnim-vilivom-dlya-kukhni/zmishuvach-dlya-kukhni-mixxus-foz014-graphite-z-visuvnoyu-liykoyu-ta-funktsiyeyu-vodospad-mi6538</url>
@@ -343867,7 +344055,11 @@
         <param name="Од. в упак.">6</param>
         <param name="Об'єм ящ.">0.197</param>
         <param name="Вага ящ.">31.4</param>
+        <param name="Максимальна висота (см)">148</param>
+        <param name="Довжина виливу (мм)">145</param>
+        <param name="Довжина виливу (см)">11-15</param>
         <param name="Картридж чи кран букса">Картридж</param>
+        <param name="Міжосьова відстань кріплень (мм)">720</param>
         <param name="Мінімальна температура води (°C)">5</param>
         <param name="Максимальна температура води (°C)">90</param>
         <param name="Тип керування">Одноважільні</param>
@@ -343875,6 +344067,7 @@
         <param name="Матеріал виробу">Латунь</param>
         <param name="Діаметр картриджа (мм)">35</param>
         <param name="Робочий тиск (бар)">1-5</param>
+        <param name="Довжина шланга (см)">150</param>
         <param name="Мінімальний тиск (бар)">0,50</param>
         <param name="Серія">EDEM</param>
         <param name="Тип виробу">Душові колони</param>
@@ -343891,6 +344084,7 @@
         <param name="Тип виливу">Поворотний</param>
         <param name="Гарантія на корпус змішувача (міс)">60</param>
         <param name="Гарантія на деталі змішувача (міс)">12</param>
+        <param name="Особливості">Розміри ручної лійки: 24х10,5 см. Розміри стельової лійки: 26х19 см. Максимальна висота 148 см. Мінімальна 92 см.</param>
       </offer>
       <offer id="NF3073" available="true">
         <url>https://ol.partners/products/truboprovodi-ta-zyednannya/fitingi/rizbovi-zyednannya/mufta-nikelovana-nolf-nfcc08n34-nf3073</url>
@@ -344194,6 +344388,8 @@
         <param name="Тип монтажу">Настінні</param>
         <param name="Колір">Хром</param>
         <param name="Покриття">З покриттям</param>
+        <param name="Висота (мм)">190</param>
+        <param name="Ширина (мм)">85</param>
         <param name="Матеріал виробу">Латунь</param>
         <param name="Тип керування">Нажимні (порційні)</param>
         <param name="Максимальна температура води (°C)">90</param>
@@ -344205,6 +344401,7 @@
         <param name="Максимальний тиск (бар)">10,00</param>
         <param name="Гарантія на корпус змішувача (міс)">60</param>
         <param name="Гарантія на деталі змішувача (міс)">12</param>
+        <param name="Комплектація">Кран для пісуару</param>
       </offer>
       <offer id="36321000" available="false">
         <url>https://ol.partners/products/zmishuvachi-ta-krani/zmishuvachi-dlya-dusha/vbudovaniy-zmishuvach-dlya-dusha/avtomatichniy-nazhimniy-zmishuvach-dlya-dushu-iz-zmishuvannyam-grohe-eurosmart-cosmopolitan-t-36321000</url>
@@ -346539,6 +346736,9 @@
         <param name="Од. в упак.">12</param>
         <param name="Об'єм ящ.">0.069</param>
         <param name="Вага ящ.">24</param>
+        <param name="Загальна довжина (мм)">335</param>
+        <param name="Довжина виливу (см)">26-30</param>
+        <param name="Довжина виливу (мм)">275</param>
         <param name="Стиль">Класичний</param>
         <param name="Тип виливу">Поворотний</param>
         <param name="Покриття">З покриттям</param>
@@ -346563,7 +346763,7 @@
         <param name="Мінімальна температура води (°C)">5</param>
         <param name="MAX різниця тиску гарячої та холодної води (бар)">1,50</param>
         <param name="Матеріал виробу">Нержавіюча сталь</param>
-        <param name="Комплектація">Шланг 150 см, ручна лійка, тримач для лійки, аератор, ексцентрики, чашки, гумові прокладки</param>
+        <param name="Комплектація">Шланг 150 см, ручна лійка 9х20,5 см, тримач для лійки, аератор, ексцентрики, чашки, гумові прокладки</param>
         <param name="Гарантія на деталі змішувача (міс)">12</param>
         <param name="Гарантія на корпус змішувача (міс)">60</param>
       </offer>
@@ -352489,17 +352689,21 @@
         <param name="Країна виробник">Китай</param>
         <param name="Вид виробу">Душові колони на 4 режими</param>
         <param name="Індикатор температури">Так</param>
+        <param name="Довжина шланга (см)">150</param>
         <param name="Тип керування">Кнопкові</param>
         <param name="Матеріал виробу">Латунь</param>
+        <param name="Міжосьова відстань кріплень (мм)">1025</param>
         <param name="Картридж чи кран букса">Картридж</param>
         <param name="Наявність термостату">Так</param>
         <param name="Гарантія на деталі змішувача (міс)">12</param>
-        <param name="Комплектація">Шланг 150 см, ручна лійка, стельова лійка, лійка для гігієнічного душу, чашки, ексцентрики, гумові прокладки, тримач для лійки</param>
+        <param name="Комплектація">Ручна лійка, шланг 150 см, лійка для стель, кронштейн, лійка для гігієнічного душу 14 см, шланг для гігієнічного душу 150 см, чашки, ексцентрики, гумові прокладки, тримач для лійки, рівень, кріплення</param>
         <param name="Додаткові характеристики">З функцією "водоспад"</param>
         <param name="Гарантія на корпус змішувача (міс)">60</param>
+        <param name="Особливості">Розміри ручної лійки: 25,5х11 см. Розміри стельової лійки: 30х20 см. Максимальна висота 110 см (не регулюється). Панель 50х14, 2х5 см</param>
         <param name="Вилив">Без виливу</param>
         <param name="Колір">Графіт</param>
         <param name="Покриття">З покриттям</param>
+        <param name="Максимальна висота (см)">110</param>
       </offer>
       <offer id="MI0573" available="true">
         <url>https://ol.partners/products/zmishuvachi-ta-krani/zmishuvachi-dlya-kukhni/zmishuvachi-odnovazhilni-dlya-kukhni/zmishuvach-dlya-kukhni-mixxus-premium-tiger-014-nut-white-kolir-biliy-mi0573</url>
@@ -358021,11 +358225,14 @@
         <param name="Мінімальний тиск (бар)">0,50</param>
         <param name="Діаметр картриджа (мм)">35</param>
         <param name="Максимальний тиск (бар)">10,00</param>
+        <param name="Особливості">Розміри ручної лійки: 13х25 см. Розміри стельової лійки: 25,5х25,5 см. Довжина кронштейна для тропічного душу 42,5 см</param>
+        <param name="Гарантія на корпус змішувача (міс)">60</param>
+        <param name="Комплектація">Змішувач, верхній душ, кронштейн верхнього душу, блок змішувача, що вбудовується, декоративна накладка 19х14 см, рукоятка управління, шланг 150 см, ручна лійка, тримач для лійки, посібник з експлуатації та гарантійний талон</param>
+        <param name="Гарантія на деталі змішувача (міс)">12</param>
         <param name="Покриття">З покриттям</param>
         <param name="Колір">Хром</param>
-        <param name="Гарантія на корпус змішувача (міс)">60</param>
-        <param name="Комплектація">Змішувач, тропічний душ, шланг, ручна лійка, тримач для лійки.</param>
-        <param name="Гарантія на деталі змішувача (міс)">12</param>
+        <param name="Висота змішувача (см)">16-20</param>
+        <param name="Висота змішувача (мм)">190</param>
       </offer>
       <offer id="WP2937" available="true">
         <url>https://ol.partners/products/truboprovodi-ta-zyednannya/ustatkuvannya-dlya-montazhu/instrumenti-dlya-montazhu/opresuvalnik-gidravlichniy-ruchniy-dlya-ppr-trub-sankom-tp01-10l-40-bar-wp2937</url>
@@ -364798,12 +365005,13 @@
         <param name="Тип керування">Одноважільні</param>
         <param name="Картридж чи кран букса">Картридж</param>
         <param name="Довжина шланга (см)">125</param>
+        <param name="Комплектація">Шланг 125 см, лійка для гігієнічного душу 5,5х11 см, внутрішній блок, кріплення, посібник з експлуатації та гарантійний талон</param>
+        <param name="Особливості">Декоративна накладка 7х13 см</param>
+        <param name="Гарантія на корпус змішувача (міс)">60</param>
+        <param name="Гарантія на деталі змішувача (міс)">12</param>
         <param name="Покриття">З покриттям</param>
         <param name="Колір">Чорний матовий</param>
         <param name="Стиль">Модерн</param>
-        <param name="Комплектація">Гігієнічна лійка, корпус, душовий шланг, ексцентрики</param>
-        <param name="Гарантія на корпус змішувача (міс)">60</param>
-        <param name="Гарантія на деталі змішувача (міс)">12</param>
       </offer>
       <offer id="MI6810" available="true">
         <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/krani/kran-dlya-pidklyuchennya-santekhpriboriv/kran-dlya-pidklyuchennya-santekhpriladiv-mixxus-val0712x34-z-nerzh-stali-sus304-kolir-nerzh-mi6810</url>
@@ -368714,7 +368922,7 @@
         <param name="Вид виробу">Змішувачі для ванни з коротким зливом</param>
         <param name="Торгова марка">HAIBA</param>
         <param name="Гарантія на корпус змішувача (міс)">60</param>
-        <param name="Комплектація">Шланг 150 см, ручна лійка, тримач для лійки, ексцентрики, чашки, гумові прокладки, посібник з експлуатації та гарантійний талон</param>
+        <param name="Комплектація">Шланг 150 см, ручна лійка на 5 режимів 8,5х19,5 см, чашки, ексцентрики, гумові прокладки, тримач для лійки, посібник з експлуатації та гарантійний талон</param>
         <param name="Гарантія на деталі змішувача (міс)">12</param>
         <param name="Максимальна температура води (°C)">90</param>
         <param name="Картридж чи кран букса">Картридж</param>
@@ -368731,6 +368939,9 @@
         <param name="Колір">Хром</param>
         <param name="Стиль">Класичний</param>
         <param name="Покриття">З покриттям</param>
+        <param name="Загальна довжина (мм)">174</param>
+        <param name="Довжина виливу (мм)">115</param>
+        <param name="Довжина виливу (см)">11-15</param>
       </offer>
       <offer id="CH0208" available="true">
         <url>https://ol.partners/products/zmishuvachi-ta-krani/zmishuvachi-dlya-umivalnika/odnovazhilniy-zmishuvach-dlya-rakovini/zmishuvach-dlya-umivalnika-champion-mars-004-viliv-15-sm-ch0208</url>
@@ -371895,7 +372106,7 @@
         <param name="Вага ящ.">17.3</param>
         <param name="Гарантія на корпус змішувача (міс)">60</param>
         <param name="Гарантія на деталі змішувача (міс)">12</param>
-        <param name="Комплектація">Шланг 150 см, ручна лійка, тримач для лійки, ексцентрики, чашки, гумові прокладки, посібник з експлуатації та гарантійний талон</param>
+        <param name="Комплектація">Шланг 150 см, ручна лійка на 5 режимів 8,5х19,5 см, чашки, ексцентрики, гумові прокладки, тримач для лійки, посібник з експлуатації та гарантійний талон</param>
         <param name="Тип керування">Одноважільні</param>
         <param name="Робочий тиск (бар)">1-5</param>
         <param name="Максимальний тиск (бар)">10,00</param>
@@ -371919,6 +372130,9 @@
         <param name="Країна бренду">Китай</param>
         <param name="Група товару">Змішувачі</param>
         <param name="Вид виробу">Змішувачі для ванни з коротким зливом</param>
+        <param name="Загальна довжина (мм)">170</param>
+        <param name="Довжина виливу (мм)">115</param>
+        <param name="Довжина виливу (см)">11-15</param>
       </offer>
       <offer id="HB0671" available="false">
         <url>https://ol.partners/products/zmishuvachi-ta-krani/zmishuvachi-dlya-umivalnika/odnovazhilniy-zmishuvach-dlya-rakovini/zmishuvach-dlya-umivalnika-haiba-magic-55515cm-nut-black-kolir-khrom-hb0671</url>
@@ -379128,6 +379342,9 @@
         <param name="Од. в упак.">10</param>
         <param name="Об'єм ящ.">0.049</param>
         <param name="Вага ящ.">11</param>
+        <param name="Довжина виливу (мм)">85</param>
+        <param name="Загальна довжина (мм)">145</param>
+        <param name="Довжина виливу (см)">5-10</param>
         <param name="Мінімальний тиск (бар)">0,50</param>
         <param name="Максимальний тиск (бар)">10,00</param>
         <param name="Робочий тиск (бар)">1-5</param>
@@ -379139,7 +379356,7 @@
         <param name="Картридж чи кран букса">Картридж</param>
         <param name="Діаметр картриджа (мм)">35</param>
         <param name="Довжина шланга (см)">150</param>
-        <param name="Комплектація">Шланг 150 см, ручна лійка, тримач для лійки, аератор, ексцентрики, чашки, гумові прокладки</param>
+        <param name="Комплектація">Шланг 150 см, ручна лійка 8х21 см, тримач для лійки, аератор, ексцентрики, чашки, гумові прокладки</param>
         <param name="Гарантія на деталі змішувача (міс)">12</param>
         <param name="Гарантія на корпус змішувача (міс)">24</param>
         <param name="Країна виробник">Китай</param>
@@ -380834,7 +381051,10 @@
         <param name="Покриття">З покриттям</param>
         <param name="Колір">Графіт</param>
         <param name="Стиль">Класичний</param>
-        <param name="Комплектація">Шланг 150 см, ручна лійка, тримач для лійки, аератор, ексцентрики, чашки, гумові прокладки</param>
+        <param name="Загальна довжина (мм)">335</param>
+        <param name="Довжина виливу (мм)">275</param>
+        <param name="Довжина виливу (см)">26-30</param>
+        <param name="Комплектація">Шланг 150 см, ручна лійка 9х20,5 см, тримач для лійки, аератор, ексцентрики, чашки, гумові прокладки</param>
         <param name="Гарантія на деталі змішувача (міс)">12</param>
         <param name="Гарантія на корпус змішувача (міс)">60</param>
       </offer>
@@ -385233,9 +385453,15 @@
         <param name="Тип монтажу">Врізні</param>
         <param name="Країна бренду">Китай</param>
         <param name="Серія">CEZAR</param>
+        <param name="Висота змішувача (мм)">180</param>
+        <param name="Довжина виливу (см)">11-15</param>
+        <param name="Висота змішувача (см)">16-20</param>
+        <param name="Загальна довжина (мм)">155</param>
+        <param name="Висота до виливу (мм)">120</param>
+        <param name="Довжина виливу (мм)">135</param>
         <param name="Гарантія на корпус змішувача (міс)">24</param>
         <param name="Гарантія на деталі змішувача (міс)">12</param>
-        <param name="Комплектація">Аератор, елемент кріплення</param>
+        <param name="Комплектація">Аератор, гнучка підводка, елемент кріплення</param>
       </offer>
       <offer id="ZX2820" available="true">
         <url>https://ol.partners/products/aksesuari-dlya-vannoi/yorzhiki-dlya-unitazu/yorzhik-dlya-unitazu-pidvisniy-zerix-a8110-sklo-kolir-khrom-glyanets-zx2820</url>
@@ -385604,8 +385830,13 @@
         <param name="MAX різниця тиску гарячої та холодної води (бар)">1,50</param>
         <param name="Тип керування">Одноважільні</param>
         <param name="Гарантія на корпус змішувача (міс)">60</param>
-        <param name="Комплектація">Шланг 150 см, ручна лійка, стельова лійка, чашки, ексцентрики, гумові прокладки, тримач для лійки</param>
+        <param name="Комплектація">Змішувач, верхній душ, кронштейн верхнього душу, блок змішувача, що вбудовується, декоративна накладка 15х20 см, рукоятка управління, шланг 150 см, ручна лійка, тримач для лійки, посібник з експлуатації та гарантійний талон</param>
         <param name="Гарантія на деталі змішувача (міс)">12</param>
+        <param name="Особливості">Розміри ручної лійки: 8х24,5 см. Розміри стельової лійки: 29,5х19 см. Довжина кронштейну для тропічного душу 40 см</param>
+        <param name="Висота змішувача (см)">16-20</param>
+        <param name="Висота змішувача (мм)">200</param>
+        <param name="Довжина виливу (см)">11-15</param>
+        <param name="Довжина виливу (мм)">125</param>
       </offer>
       <offer id="MP6465" available="true">
         <url>https://ol.partners/products/keramika/unitazi/unitaz-pidvisniy-mixxus-premium-ellipse0303t3-520kh365kh360mm-sistema-zmivu-tornado-30-mp6465</url>
@@ -391395,7 +391626,8 @@
         <param name="Стиль">Класичний</param>
         <param name="Гарантія на деталі змішувача (міс)">12</param>
         <param name="Гарантія на корпус змішувача (міс)">60</param>
-        <param name="Комплектація">Стоп-лійка, тримач для лійки, шланг</param>
+        <param name="Особливості">Декоративна накладка 11х11 см</param>
+        <param name="Комплектація">Шланг 120 см, лійка для гігієнічного душу 6х13 см, внутрішній блок, кріплення, посібник з експлуатації та гарантійний талон</param>
       </offer>
       <offer id="29123000" available="false">
         <url>https://ol.partners/products/zmishuvachi-ta-krani/termostatichni-zmishuvachi/termostat-prikhovanogo-montazhu-iz-odnoyu-knopkoyu-keruvannya-grohe-grohtherm-smartcontrol-29123000</url>
@@ -399375,7 +399607,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/b8d985ae-720f-45b6-b5c7-a4dff9b28e27/image_01.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Змішувач для гігієнічного душу вбудований KOER KI-22015-02 з нерж. сталі SUS304 (Колір нержавійка) (KR5544)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR5544</vendorCode>
@@ -410124,7 +410356,8 @@
         <param name="Група товару">Змішувачі</param>
         <param name="Гарантія на корпус змішувача (міс)">60</param>
         <param name="Гарантія на деталі змішувача (міс)">12</param>
-        <param name="Комплектація">Гігієнічна лійка, змішувач, шланг 120 см, кріплення</param>
+        <param name="Комплектація">Шланг 120 см, лійка для гігієнічного душу 4,5х10,5 см, внутрішній блок, кріплення, посібник з експлуатації та гарантійний талон</param>
+        <param name="Особливості">Декоративна накладка 11х11 см</param>
         <param name="Покриття">З покриттям</param>
         <param name="Колір">Золото матове</param>
         <param name="Стиль">Модерн</param>
@@ -410621,7 +410854,7 @@
         <param name="Од. в упак.">8</param>
         <param name="Об'єм ящ.">0.006</param>
         <param name="Вага ящ.">15.8</param>
-        <param name="Довжина шланга (см)">125</param>
+        <param name="Довжина шланга (см)">120</param>
         <param name="Максимальний тиск (бар)">10,00</param>
         <param name="Робочий тиск (бар)">1-5</param>
         <param name="Картридж чи кран букса">Картридж</param>
@@ -410634,7 +410867,7 @@
         <param name="MAX різниця тиску гарячої та холодної води (бар)">1,50</param>
         <param name="Гарантія на деталі змішувача (міс)">12</param>
         <param name="Гарантія на корпус змішувача (міс)">60</param>
-        <param name="Комплектація">Гігієнічна лійка, корпус, душовий шланг, ексцентрики</param>
+        <param name="Комплектація">Шланг 120 см, лійка для гігієнічного душу 6х12 см, чашки, ексцентрики, гумові прокладки, посібник з експлуатації та гарантійний талон</param>
         <param name="Група товару">Змішувачі</param>
         <param name="Тип виробу">Змішувачі для гігієнічного душу</param>
         <param name="Тип монтажу">Настінні</param>
@@ -411886,7 +412119,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/c04a73af-146e-4523-a9cc-6daaa353ff01/image_01.jpg</picture>
         <vendor>MIXXUS PREMIUM</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Унітаз підвісний MIXXUS PREMIUM ELLIPSE-0302-T3 495х360х370mm система змиву TORNADO 3.0 (MP6462)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>MP6462</vendorCode>
@@ -413050,6 +413283,7 @@
         <param name="Картридж чи кран букса">Картридж</param>
         <param name="Діаметр картриджа (мм)">40</param>
         <param name="Мінімальна температура води (°C)">5</param>
+        <param name="Довжина шланга (см)">150</param>
         <param name="Робочий тиск (бар)">1-5</param>
         <param name="Матеріал виробу">Цинковий сплав</param>
         <param name="Мінімальний тиск (бар)">0,50</param>
@@ -413065,13 +413299,16 @@
         <param name="Серія">NHK</param>
         <param name="Вид виробу">Змішувачі для ванни з довгим виливом</param>
         <param name="Країна бренду">Китай</param>
+        <param name="Загальна довжина (мм)">390</param>
+        <param name="Довжина виливу (см)">31-35</param>
+        <param name="Довжина виливу (мм)">325</param>
+        <param name="Комплектація">Шланг 150 см, ручна лійка 8х20 см, чашки, ексцентрики, гумові прокладки, тримач для лійки, посібник з експлуатації та гарантійний талон</param>
+        <param name="Гарантія на корпус змішувача (міс)">24</param>
+        <param name="Гарантія на деталі змішувача (міс)">6</param>
         <param name="Колір">Хром</param>
         <param name="Стиль">Класичний</param>
         <param name="Тип виливу">Поворотний</param>
         <param name="Покриття">З покриттям</param>
-        <param name="Гарантія на корпус змішувача (міс)">24</param>
-        <param name="Гарантія на деталі змішувача (міс)">6</param>
-        <param name="Комплектація">Шланг 150 см, ручна лійка, тримач для лійки, чашки, ексцентрики, гумові прокладки</param>
       </offer>
       <offer id="KR2939" available="true">
         <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/kolektori/kolektor-z-vbudovanim-zmish-vuzlom-koer-krs10126-1-kh6-sus304-i-yevrokonus-3-416-kr2939</url>
@@ -413153,8 +413390,9 @@
         <param name="Країна виробник">Китай</param>
         <param name="Торгова марка">KOER</param>
         <param name="Вид виробу">Змішувачі для гігієнічного душу прихованого монтажу</param>
+        <param name="Особливості">Полиця 30х10,5 см, тримач для туалетного паперу 14,5х7,5 см</param>
+        <param name="Комплектація">Шланг 120 см, лійка для гігієнічного душу 4,5х10,5 см, внутрішній блок, кріплення, посібник з експлуатації та гарантійний талон</param>
         <param name="Гарантія на корпус змішувача (міс)">60</param>
-        <param name="Комплектація">Шланг 120 см, стоп лійка, змішувач з тримачем для рушника</param>
         <param name="Гарантія на деталі змішувача (міс)">12</param>
       </offer>
       <offer id="HB0222" available="false">
@@ -416791,13 +417029,14 @@
         <param name="Стиль">Класичний</param>
         <param name="Колір">Хром</param>
         <param name="Гарантія на корпус змішувача (міс)">24</param>
-        <param name="Комплектація">Шланг 150 см, ручна лійка, тримач для лійки, чашки, ексцентрики, гумові прокладки</param>
+        <param name="Комплектація">Шланг 150 см, ручна лійка 8х20 см, чашки, ексцентрики, гумові прокладки, тримач для лійки, посібник з експлуатації та гарантійний талон</param>
         <param name="Гарантія на деталі змішувача (міс)">6</param>
         <param name="Мінімальна температура води (°C)">5</param>
         <param name="Максимальна температура води (°C)">90</param>
         <param name="Матеріал виробу">Цинковий сплав</param>
         <param name="Мінімальний тиск (бар)">0,50</param>
         <param name="Тип керування">Одноважільні</param>
+        <param name="Довжина шланга (см)">150</param>
         <param name="Картридж чи кран букса">Картридж</param>
         <param name="Максимальний тиск (бар)">10,00</param>
         <param name="Діаметр картриджа (мм)">40</param>
@@ -416811,6 +417050,9 @@
         <param name="Модель">006</param>
         <param name="Країна виробник">Китай</param>
         <param name="Країна бренду">Китай</param>
+        <param name="Довжина виливу (см)">31-35</param>
+        <param name="Загальна довжина (мм)">390</param>
+        <param name="Довжина виливу (мм)">325</param>
       </offer>
       <offer id="PM0754" available="true">
         <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/krani/krani-kulovi/kran-kuloviy-pvc-plamix-pvf3-ff-ruchka-vazhil-greyred-pm0754</url>
@@ -420495,6 +420737,9 @@
         <param name="Од. в упак.">10</param>
         <param name="Об'єм ящ.">0.056</param>
         <param name="Вага ящ.">21</param>
+        <param name="Довжина виливу (мм)">320</param>
+        <param name="Довжина виливу (см)">31-35</param>
+        <param name="Загальна довжина (мм)">380</param>
         <param name="Торгова марка">MIXXUS PREMIUM</param>
         <param name="Тип виробу">Змішувачі для ванни</param>
         <param name="Вид виробу">Змішувачі для ванни з довгим виливом</param>
@@ -420515,7 +420760,7 @@
         <param name="Максимальна температура води (°C)">90</param>
         <param name="Робочий тиск (бар)">1-5</param>
         <param name="Гарантія на деталі змішувача (міс)">12</param>
-        <param name="Комплектація">Шланг 150 см, ручна лійка, чашки, ексцентрики, гумові прокладки, настінний тримач для лійки</param>
+        <param name="Комплектація">Шланг 150 см, ручна лійка на 3 режими 12х24 см, чашки, ексцентрики, гумові прокладки, тримач для лійки, посібник з експлуатації та гарантійний талон</param>
         <param name="Гарантія на корпус змішувача (міс)">60</param>
         <param name="Стиль">Модерн</param>
         <param name="Колір">Хром</param>
@@ -424915,6 +425160,12 @@
         <param name="Вага ящ.">4.4</param>
         <param name="Покриття">Без покриття</param>
         <param name="Колір">Білий глянцевий</param>
+        <param name="Висота до виливу (мм)">55</param>
+        <param name="Довжина виливу (мм)">105</param>
+        <param name="Довжина виливу (см)">5-10</param>
+        <param name="Висота змішувача (см)">10-15</param>
+        <param name="Загальна довжина (мм)">130</param>
+        <param name="Висота змішувача (мм)">100</param>
         <param name="Торгова марка">PLAMIX</param>
         <param name="Тип монтажу">Врізні</param>
         <param name="Вид виробу">Монокрани для умивальника</param>
@@ -426675,8 +426926,12 @@
         <param name="Країна бренду">Китай</param>
         <param name="Група товару">Змішувачі</param>
         <param name="Вид виробу">Монокрани для умивальника</param>
-        <param name="Загальна довжина (мм)">90</param>
-        <param name="Довжина виливу (мм)">40</param>
+        <param name="Загальна довжина (мм)">190</param>
+        <param name="Довжина виливу (мм)">165</param>
+        <param name="Висота змішувача (мм)">290</param>
+        <param name="Висота змішувача (см)">26-30</param>
+        <param name="Довжина виливу (см)">16-20</param>
+        <param name="Висота до виливу (мм)">230</param>
         <param name="Робочий тиск (бар)">1-5</param>
         <param name="MAX різниця тиску гарячої та холодної води (бар)">1,50</param>
         <param name="Тип керування">Поворотні</param>
@@ -439953,9 +440208,6 @@
         <param name="Од. в упак.">10</param>
         <param name="Об'єм ящ.">0.06</param>
         <param name="Вага ящ.">19.5</param>
-        <param name="Комплектація">Шланг 150 см, ручна лійка, чашки, ексцентрики, гумові прокладки, тримач для лійки</param>
-        <param name="Гарантія на деталі змішувача (міс)">12</param>
-        <param name="Гарантія на корпус змішувача (міс)">60</param>
         <param name="Модель">009</param>
         <param name="Тип виробу">Змішувачі для ванни</param>
         <param name="Країна виробник">Китай</param>
@@ -439969,6 +440221,9 @@
         <param name="Покриття">З покриттям</param>
         <param name="Вилив">Короткий вилив</param>
         <param name="Колір">Хром</param>
+        <param name="Загальна довжина (мм)">185</param>
+        <param name="Довжина виливу (мм)">120</param>
+        <param name="Довжина виливу (см)">11-15</param>
         <param name="Робочий тиск (бар)">1-5</param>
         <param name="Максимальна температура води (°C)">90</param>
         <param name="Матеріал виробу">Цинковий сплав</param>
@@ -439980,6 +440235,9 @@
         <param name="Діаметр картриджа (мм)">35</param>
         <param name="Тип керування">Одноважільні</param>
         <param name="MAX різниця тиску гарячої та холодної води (бар)">1,50</param>
+        <param name="Гарантія на деталі змішувача (міс)">12</param>
+        <param name="Гарантія на корпус змішувача (міс)">60</param>
+        <param name="Комплектація">Шланг 150 см, ручна лійка на 3 режими 10,3х23 см, чашки, ексцентрики, гумові прокладки, тримач для лійки, посібник з експлуатації та гарантійний талон</param>
       </offer>
       <offer id="MX9635" available="true">
         <url>https://ol.partners/products/miyki-dlya-kukhni/integrovani-miyki/miyka-z-nerzh-stali-mixxus-premium-mh7545set05-micro-decor-nanosilver-3008-komplekt-kolir-nerzh-mx9635</url>
@@ -442066,11 +442324,14 @@
         <param name="Колір">Хром</param>
         <param name="Тип виливу">Литий</param>
         <param name="Покриття">З покриттям</param>
-        <param name="Гарантія на деталі змішувача (міс)">12</param>
-        <param name="Комплектація">Шланг 150 см, ручна лійка, стельова лійка, тримач для лійки</param>
-        <param name="Гарантія на корпус змішувача (міс)">60</param>
-        <param name="Особливості">Діаметр стельової лійки 302 мм. Діаметр ручної лійки 135 мм.</param>
+        <param name="Висота змішувача (мм)">160</param>
+        <param name="Висота змішувача (см)">16-20</param>
+        <param name="Довжина виливу (см)">16-20</param>
         <param name="Довжина виливу (мм)">187</param>
+        <param name="Гарантія на деталі змішувача (міс)">12</param>
+        <param name="Комплектація">Змішувач, верхній душ, кронштейн верхнього душу, блок змішувача, що вбудовується, декоративна накладка 16х16 см, рукоятка управління, шланг 150 см, ручна лійка, тримач для лійки, посібник з експлуатації та гарантійний талон</param>
+        <param name="Гарантія на корпус змішувача (міс)">60</param>
+        <param name="Особливості">Розміри ручної лійки: 13,5х25 см. Розміри стельової лійки: 30х30 см. Довжина кронштейна для тропічного душу 22,2 см</param>
       </offer>
       <offer id="EP6247" available="true">
         <url>https://ol.partners/products/truboprovodi-ta-zyednannya/fitingi/rizbovi-zyednannya/zghinamerikanka-vr-63x2f-ppr-europroduct-eps0134-ep6247</url>
