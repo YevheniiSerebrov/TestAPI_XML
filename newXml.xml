@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-10-19 03:19">
+<yml_catalog date="2026-10-20 03:28">
   <shop>
     <name>O&amp;L</name>
     <company>O&amp;L</company>
@@ -132,6 +132,7 @@
       <category id="b40498d4-0253-4e53-93e2-1198a20a7276" parentId="6c326f78-013e-4fba-8274-bba2d03c3769">Термостат механічний</category>
       <category id="aa38192e-1be6-46ca-8895-f39dce88e36a" parentId="d191ae68-f2ee-4472-8036-e37d06c8ffc9">Картриджі ВВ</category>
       <category id="af8966a0-84c4-4c16-bea9-4af4b56dfd6e" parentId="4b1ed2a0-7372-49d4-8570-7be730b86a84">Гранітні мийки для кухні</category>
+      <category id="3132911f-cdca-4d9e-8962-65eca0671d10" parentId="271f5959-3c31-47d1-81a4-4ed3ce39cde4">Дизайнерські радіатори</category>
       <category id="c9f586e3-0744-4770-a80f-9f9b2791c2b8" parentId="088b2ba6-de21-4b90-8dab-bdd96637df40">Двері у нішу розпашні</category>
       <category id="7fb7a429-164f-4884-8697-8d90e6a5b1a1" parentId="bc966786-d710-4c2e-a398-d474605753ca">Змішувачі для кухні з висувною лійкою</category>
       <category id="5d4beef4-8299-45a2-8933-710efd2e23f1" parentId="c8d9e2a7-4d44-4bb0-90ac-125bdce10f16">Інструмент для систем кріплення</category>
@@ -232,7 +233,6 @@
       <category id="24823793-c89a-4b2a-b338-54b688aacc1c" parentId="d7e25722-0e11-42cd-b2e7-4636c0c7a197">Водяна тепла підлога</category>
       <category id="08ade03e-e0ad-4928-bb8c-297c6dfeee02" parentId="24823793-c89a-4b2a-b338-54b688aacc1c">Кран з термометром</category>
       <category id="9086d1d1-31ff-49ec-b110-5b710a8a6f80" parentId="c8d9e2a7-4d44-4bb0-90ac-125bdce10f16">Інструмент для систем з натяжною гільзою</category>
-      <category id="3132911f-cdca-4d9e-8962-65eca0671d10" parentId="271f5959-3c31-47d1-81a4-4ed3ce39cde4">Дизайнерські радіатори</category>
       <category id="139f37c2-f7b6-4405-a57d-e52817d7ef55" parentId="e8bba9c2-db1f-41a1-a040-2c8ca1759747">Гідрострілка</category>
       <category id="5c90654d-afc7-4935-ad15-bb50969dc576" parentId="b9696443-880a-406d-ab63-e95a71fe1fda">Термоголовки</category>
       <category id="edbf17eb-ba6d-457c-beff-07abfe943f49" parentId="d7c9da18-1b90-4e82-ab67-24f7d2d666ce">Відро для сміття без плавного закриття</category>
@@ -471,7 +471,7 @@
       <category id="9ab2f045-47fd-496f-bb09-f9675c1bead8" parentId="10c5d756-64c4-4d57-84c4-e1a35a13a515">Клей для аксесуарів</category>
       <category id="374bb02a-85d5-40f9-848f-96deb4b8e2fc" parentId="6487f110-d4f5-4ea3-aa9f-21cecd48fc75">Ніжки для душового піддону</category>
     </categories>
-    <offers count="10831">
+    <offers count="10833">
       <offer id="KR5763" available="true">
         <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/krani/kran-z-amerikankoyu-polusgin/kran-z-amerikankoyu-kutoviy-koer-extreme-ke22815-12-ruchka-metelik-chervona-kr5763</url>
         <price>361.00</price>
@@ -6583,6 +6583,40 @@
         <param name="Структура поверхні мийки">Без структури</param>
         <param name="Виконання">Універсальна</param>
       </offer>
+      <offer id="KR6570" available="true">
+        <url>https://ol.partners/products/radiatori-opalennya/stalevi-radiatori/radiator-trubchastiy-dizaynerskiy-koer-orbisuc318012an-universalne-pidklyuchennya-kolir-antratsit-kr6570</url>
+        <price>21271.00</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>3132911f-cdca-4d9e-8962-65eca0671d10</categoryId>
+        <picture>https://ol.partners/Products/Photo/B9A1CBCA-A0D0-4880-AB20-450F9672BC15</picture>
+        <vendor>KOER</vendor>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Достатньо</availabilityStatus>
+        <name>Радіатор трубчастий дизайнерський KOER ORBIS-UC3-180-12-AN універсальне підключення (Колір антрацит) (KR6570)</name>
+        <description>&lt;![CDATA[]]&gt;</description>
+        <vendorCode>KR6570</vendorCode>
+        <param name="Од. в упак.">1</param>
+        <param name="Об'єм ящ.">0</param>
+        <param name="Вага ящ.">0</param>
+        <param name="Ширина (мм)">560</param>
+        <param name="Об'єм (л)">25,50</param>
+        <param name="Висота (мм)">1800</param>
+        <param name="Товщина стінки (мм)">1,50</param>
+        <param name="Вага (кг)">63,30</param>
+        <param name="Глибина (мм)">100</param>
+        <param name="Комплектація">Кріплення, термоклапан</param>
+        <param name="Гарантійний період (міс)">120</param>
+        <param name="Максимальна температура робочої рідини (°C)">95</param>
+        <param name="Країна бренду">Чехія</param>
+        <param name="Призначення">Для опалення</param>
+        <param name="Торгова марка">KOER</param>
+        <param name="Тип виробу">Дизайнерські радіатори</param>
+        <param name="Модель">ORBIS-UC3-180-12-AN</param>
+        <param name="Колір">Антрацит</param>
+        <param name="Підключення">Універсальне: нижнє 50 мм + бічне</param>
+        <param name="Робочий тиск (бар)">10</param>
+        <param name="Різьблення">1/2"</param>
+      </offer>
       <offer id="ZX5004" available="true">
         <url>https://ol.partners/products/aksesuari-dlya-vannoi/shtori-dlya-vannoi/shtorka-dlya-vannoi-zerix-scp005180x180-z-peva-polietilenvinilatsetatu-vizerunok-krugi-chornobili-zx5004</url>
         <price>198.00</price>
@@ -8459,7 +8493,7 @@
         <param name="Покриття">Нікель</param>
         <param name="Гарантійний період (міс)">84</param>
       </offer>
-      <offer id="24171001" available="true">
+      <offer id="24171001" available="false">
         <url>https://ol.partners/products/zmishuvachi-ta-krani/zmishuvachi-dlya-umivalnika/odnovazhilniy-zmishuvach-dlya-rakovini/odnovazhilniy-zmishuvach-dlya-rakovini-38-srozmiru-grohe-essence-24171001</url>
         <price>9666.00</price>
         <currencyId>UAH</currencyId>
@@ -8468,8 +8502,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/2a887a50-8828-41f0-9545-ab589742a692/image_01.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/2a887a50-8828-41f0-9545-ab589742a692/image_02.jpg</picture>
         <vendor>GROHE</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Одноважільний змішувач для раковини 3/8" S-розміру Grohe Essence (24171001)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>24171001</vendorCode>
@@ -9853,7 +9887,7 @@
         <picture>https://ol.partners/Products/Photo/BA2CCA8A-B044-40A4-A966-D1ED72B0A03D</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Труба KOER KQ.1222 L=2м PRESS-INOX AISI 304 22x1,2 (KR6274)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR6274</vendorCode>
@@ -19202,7 +19236,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/5c86136a-948e-426d-95c4-8bd002d88e9d/image_02.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Кронштейн до підлоги Koer KR.1141 - 500mm для сталевого панельного радіатора (KR5538)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR5538</vendorCode>
@@ -23270,7 +23304,7 @@
         <param name="Стиль">Класичний</param>
       </offer>
       <offer id="KR6546" available="true">
-        <url>https://ol.partners/products/radiator-trubchastiy-dizaynerskiy-koer-orbisuc218006an-universalne-pidklyuchennya-kolir-antratsit-kr6546</url>
+        <url>https://ol.partners/products/radiatori-opalennya/stalevi-radiatori/radiator-trubchastiy-dizaynerskiy-koer-orbisuc218006an-universalne-pidklyuchennya-kolir-antratsit-kr6546</url>
         <price>8759.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>3132911f-cdca-4d9e-8962-65eca0671d10</categoryId>
@@ -23285,7 +23319,24 @@
         <param name="Од. в упак.">1</param>
         <param name="Об'єм ящ.">0</param>
         <param name="Вага ящ.">0</param>
+        <param name="Об'єм (л)">8,60</param>
+        <param name="Ширина (мм)">290</param>
+        <param name="Глибина (мм)">68</param>
+        <param name="Вага (кг)">22,60</param>
+        <param name="Товщина стінки (мм)">1,50</param>
+        <param name="Висота (мм)">1800</param>
+        <param name="Гарантійний період (міс)">120</param>
+        <param name="Максимальна температура робочої рідини (°C)">95</param>
+        <param name="Комплектація">Кріплення, термоклапан</param>
+        <param name="Різьблення">1/2"</param>
+        <param name="Підключення">Універсальне: нижнє 50 мм + бічне</param>
+        <param name="Робочий тиск (бар)">10</param>
+        <param name="Країна бренду">Чехія</param>
+        <param name="Тип виробу">Дизайнерські радіатори</param>
         <param name="Торгова марка">KOER</param>
+        <param name="Модель">ORBIS-UC2-180-06-AN</param>
+        <param name="Призначення">Для опалення</param>
+        <param name="Колір">Антрацит</param>
       </offer>
       <offer id="MI6198" available="true">
         <url>https://ol.partners/products/zmishuvachi-ta-krani/zmishuvachi-dlya-vanni/liti-zmishuvachi-dlya-vannoi/zmishuvach-dlya-vanni-mixxus-magnum-009-euro-black-kolir-chorniy-mi6198</url>
@@ -30174,7 +30225,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/2bd6bcd5-c5be-4301-a89d-facb00e16648/image_06.jpg</picture>
         <vendor>HAIBA</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Змішувач для умивальника HAIBA GAUDI 001 NUT BRUSHED GOLD (Колір матове золото) (HB9583)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>HB9583</vendorCode>
@@ -32932,7 +32983,7 @@
         <param name="Особливості">Зносостійкий інструмент, зручний у роботі. Сумісний з трубами різних діаметрів.</param>
       </offer>
       <offer id="KR6559" available="true">
-        <url>https://ol.partners/products/radiator-trubchastiy-dizaynerskiy-koer-orbissc305022wh-bokove-pidklyuchennya-kolir-biliy-kr6559</url>
+        <url>https://ol.partners/products/radiatori-opalennya/stalevi-radiatori/radiator-trubchastiy-dizaynerskiy-koer-orbissc305022wh-bokove-pidklyuchennya-kolir-biliy-kr6559</url>
         <price>15751.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>3132911f-cdca-4d9e-8962-65eca0671d10</categoryId>
@@ -32947,7 +32998,24 @@
         <param name="Од. в упак.">1</param>
         <param name="Об'єм ящ.">0</param>
         <param name="Вага ящ.">0</param>
+        <param name="Глибина (мм)">100</param>
+        <param name="Товщина стінки (мм)">1,50</param>
+        <param name="Вага (кг)">32,70</param>
+        <param name="Ширина (мм)">1010</param>
+        <param name="Висота (мм)">500</param>
+        <param name="Об'єм (л)">13,20</param>
+        <param name="Країна бренду">Чехія</param>
+        <param name="Модель">ORBIS-SC3-050-22-WH</param>
+        <param name="Тип виробу">Дизайнерські радіатори</param>
+        <param name="Призначення">Для опалення</param>
         <param name="Торгова марка">KOER</param>
+        <param name="Підключення">Бокове</param>
+        <param name="Робочий тиск (бар)">10</param>
+        <param name="Різьблення">1/2"</param>
+        <param name="Гарантійний період (міс)">120</param>
+        <param name="Максимальна температура робочої рідини (°C)">95</param>
+        <param name="Комплектація">Кріплення (термоклапан купується окремо)</param>
+        <param name="Колір">Білий</param>
       </offer>
       <offer id="EP4986" available="true">
         <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/kolektori/kolektorniy-blok-z-vitratomirami-europroduct-eps111010-1-x10-ep4986</url>
@@ -42833,33 +42901,6 @@
         <param name="Стиль">Модерн</param>
         <param name="Тип виливу">Поворотний</param>
       </offer>
-      <offer id="46580000" available="false">
-        <url>https://ol.partners/products/zapchastini-dlya-zmishuvacha/kartridzhi-dlya-zmishuvacha/kartridzh-28-mm-grohe-46580000</url>
-        <price>3168.00</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>3e262128-1de7-4a09-b68f-82ea7e796adf</categoryId>
-        <picture>https://ol.partners/Products/Photo/1444D41F-E4AE-471F-9AB1-11340AA2DB12</picture>
-        <vendor>GROHE</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
-        <name>Картридж 28 мм Grohe (46580000)</name>
-        <description>&lt;![CDATA[]]&gt;</description>
-        <vendorCode>46580000</vendorCode>
-        <param name="Од. в упак.">1</param>
-        <param name="Об'єм ящ.">0</param>
-        <param name="Вага ящ.">0</param>
-        <param name="Країна бренду">Німеччина</param>
-        <param name="Торгова марка">GROHE</param>
-        <param name="Група товару">Комплектуючі для змішувачів</param>
-        <param name="Країна виробник">Німеччина</param>
-        <param name="Вид виробу">Картриджі для змішувача</param>
-        <param name="Тип виробу">Комплектуючі для змішувачів</param>
-        <param name="Картридж чи кран букса">Картридж</param>
-        <param name="Матеріал виробу">Кераміка</param>
-        <param name="Діаметр картриджа (мм)">28</param>
-        <param name="Покриття">З покриттям</param>
-        <param name="Додаткові характеристики">З керамічними шайбами. З обмежувачем температури</param>
-      </offer>
       <offer id="27598003" available="true">
         <url>https://ol.partners/products/zapchastini-dlya-zmishuvacha/liyki-dlya-dushu/dushoviy-garnitur-grohe-tempesta-110-2-rezhimi-strumenyu-27598003</url>
         <price>2700.00</price>
@@ -42889,6 +42930,33 @@
         <param name="Покриття">З покриттям</param>
         <param name="Матеріал виробу">Нержавіюча сталь</param>
         <param name="Довжина шланга (см)">175</param>
+      </offer>
+      <offer id="46580000" available="false">
+        <url>https://ol.partners/products/zapchastini-dlya-zmishuvacha/kartridzhi-dlya-zmishuvacha/kartridzh-28-mm-grohe-46580000</url>
+        <price>3168.00</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>3e262128-1de7-4a09-b68f-82ea7e796adf</categoryId>
+        <picture>https://ol.partners/Products/Photo/1444D41F-E4AE-471F-9AB1-11340AA2DB12</picture>
+        <vendor>GROHE</vendor>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <name>Картридж 28 мм Grohe (46580000)</name>
+        <description>&lt;![CDATA[]]&gt;</description>
+        <vendorCode>46580000</vendorCode>
+        <param name="Од. в упак.">1</param>
+        <param name="Об'єм ящ.">0</param>
+        <param name="Вага ящ.">0</param>
+        <param name="Країна бренду">Німеччина</param>
+        <param name="Торгова марка">GROHE</param>
+        <param name="Група товару">Комплектуючі для змішувачів</param>
+        <param name="Країна виробник">Німеччина</param>
+        <param name="Вид виробу">Картриджі для змішувача</param>
+        <param name="Тип виробу">Комплектуючі для змішувачів</param>
+        <param name="Картридж чи кран букса">Картридж</param>
+        <param name="Матеріал виробу">Кераміка</param>
+        <param name="Діаметр картриджа (мм)">28</param>
+        <param name="Покриття">З покриттям</param>
+        <param name="Додаткові характеристики">З керамічними шайбами. З обмежувачем температури</param>
       </offer>
       <offer id="ZX0162" available="true">
         <url>https://ol.partners/products/zmishuvachi-ta-krani/zmishuvachi-dlya-umivalnika/odnovazhilniy-zmishuvach-dlya-rakovini/zmishuvach-dlya-umivalnika-zerix-bita-183-zx0162</url>
@@ -49129,15 +49197,15 @@
         <param name="Тип з'єднання">Пайка</param>
         <param name="Колір">Сірий</param>
       </offer>
-      <offer id="KR5862" available="true">
+      <offer id="KR5862" available="false">
         <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/filtr-gruboi-ochistki/filtr-gazoviy-koer-kgf01a-12-alyuminiyeviy-kr5862</url>
         <price>184.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>2f8c5843-a182-4c53-9e2e-4a8758a05daf</categoryId>
         <picture>https://ol.partners/Products/Photo/CEAE86D2-954F-4D0F-9F4B-6079C7983FA1</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Фільтр газовий Koer KG.F01.A - 1/2" алюмінієвий (KR5862)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR5862</vendorCode>
@@ -63077,7 +63145,7 @@
         <param name="Покриття">З покриттям</param>
       </offer>
       <offer id="MP6718" available="false">
-        <url>https://ol.partners/products/keramika/rakovini/rakovina-podvesnayanakladnaya-mixxus-premium-quadro0203-500kh420kh130mm-otverstie-pod-smesitel-pereliv-mp6718</url>
+        <url>https://ol.partners/products/keramika/rakovini/rakovina-pidvisnanakladna-mixxus-premium-quadro0203-500kh420kh130mm-otvir-pid-zmishuvach-pereliv-mp6718</url>
         <price>3209.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>b1d75217-94ab-441f-8853-b061b6edea7f</categoryId>
@@ -71104,7 +71172,7 @@
         <param name="Гарантійний період (міс)">84</param>
       </offer>
       <offer id="KR6545" available="true">
-        <url>https://ol.partners/products/radiator-trubchastiy-dizaynerskiy-koer-orbisuc218014wh-universalne-pidklyuchennya-kolir-biliy-kr6545</url>
+        <url>https://ol.partners/products/radiatori-opalennya/stalevi-radiatori/radiator-trubchastiy-dizaynerskiy-koer-orbisuc218014wh-universalne-pidklyuchennya-kolir-biliy-kr6545</url>
         <price>18327.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>3132911f-cdca-4d9e-8962-65eca0671d10</categoryId>
@@ -71119,7 +71187,24 @@
         <param name="Од. в упак.">1</param>
         <param name="Об'єм ящ.">0</param>
         <param name="Вага ящ.">0</param>
+        <param name="Вага (кг)">49,60</param>
+        <param name="Товщина стінки (мм)">1,50</param>
+        <param name="Висота (мм)">1800</param>
+        <param name="Глибина (мм)">68</param>
+        <param name="Ширина (мм)">650</param>
+        <param name="Об'єм (л)">20,00</param>
+        <param name="Максимальна температура робочої рідини (°C)">95</param>
+        <param name="Комплектація">Кріплення, термоклапан</param>
+        <param name="Гарантійний період (міс)">120</param>
+        <param name="Країна бренду">Чехія</param>
+        <param name="Призначення">Для опалення</param>
+        <param name="Тип виробу">Дизайнерські радіатори</param>
         <param name="Торгова марка">KOER</param>
+        <param name="Модель">ORBIS-UC2-180-14-WH</param>
+        <param name="Різьблення">1/2"</param>
+        <param name="Підключення">Універсальне: нижнє 50 мм + бічне</param>
+        <param name="Робочий тиск (бар)">10</param>
+        <param name="Колір">Білий</param>
       </offer>
       <offer id="ZX6003" available="true">
         <url>https://ol.partners/products/zmishuvachi-ta-krani/zmishuvachi-dlya-kukhni/zmishuvach-dlya-kukhni-na-dvi-vodi/zmishuvach-dlya-kukhni-zerix-mag021-reflblack-z-silikonovim-vilivom-z-nerzhstali-sus304-z-vikhodom-dlya-pitnoi-vodi-viliv-chorniy-zx6003</url>
@@ -73676,7 +73761,7 @@
         <param name="Комплектація">Гнучка підводка, аератор, елемент кріплення</param>
       </offer>
       <offer id="KR6547" available="true">
-        <url>https://ol.partners/products/radiator-trubchastiy-dizaynerskiy-koer-orbisuc218008an-universalne-pidklyuchennya-kolir-antratsit-kr6547</url>
+        <url>https://ol.partners/products/radiatori-opalennya/stalevi-radiatori/radiator-trubchastiy-dizaynerskiy-koer-orbisuc218008an-universalne-pidklyuchennya-kolir-antratsit-kr6547</url>
         <price>11188.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>3132911f-cdca-4d9e-8962-65eca0671d10</categoryId>
@@ -73691,7 +73776,24 @@
         <param name="Од. в упак.">1</param>
         <param name="Об'єм ящ.">0</param>
         <param name="Вага ящ.">0</param>
+        <param name="Ширина (мм)">380</param>
+        <param name="Глибина (мм)">68</param>
+        <param name="Вага (кг)">29,30</param>
+        <param name="Висота (мм)">1800</param>
+        <param name="Товщина стінки (мм)">1,50</param>
+        <param name="Об'єм (л)">11,40</param>
+        <param name="Колір">Антрацит</param>
         <param name="Торгова марка">KOER</param>
+        <param name="Країна бренду">Чехія</param>
+        <param name="Модель">ORBIS-UC2-180-08-AN</param>
+        <param name="Тип виробу">Дизайнерські радіатори</param>
+        <param name="Призначення">Для опалення</param>
+        <param name="Підключення">Універсальне: нижнє 50 мм + бічне</param>
+        <param name="Робочий тиск (бар)">10</param>
+        <param name="Різьблення">1/2"</param>
+        <param name="Гарантійний період (міс)">120</param>
+        <param name="Максимальна температура робочої рідини (°C)">95</param>
+        <param name="Комплектація">Кріплення, термоклапан</param>
       </offer>
       <offer id="KR6396" available="true">
         <url>https://ol.partners/products/truboprovodi-ta-zyednannya/fitingi/presfitingi-iz-nerzhaviyuchoi-stali-pressinox/kolino-90-odnoroztrubne-vz-koer-kql35-pressinox-aisi-304-35x35-kr6396</url>
@@ -75925,7 +76027,7 @@
         <param name="Комплектація">Шланг 150 см, ручна лійка 1 режим розміром 6,5х18 см, тримач для лійки, ексцентрики, чашки, гумові прокладки, посібник з експлуатації та гарантійний талон</param>
       </offer>
       <offer id="KR6548" available="true">
-        <url>https://ol.partners/products/radiator-trubchastiy-dizaynerskiy-koer-orbisuc218010an-universalne-pidklyuchennya-kolir-antratsit-kr6548</url>
+        <url>https://ol.partners/products/radiatori-opalennya/stalevi-radiatori/radiator-trubchastiy-dizaynerskiy-koer-orbisuc218010an-universalne-pidklyuchennya-kolir-antratsit-kr6548</url>
         <price>13543.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>3132911f-cdca-4d9e-8962-65eca0671d10</categoryId>
@@ -75940,7 +76042,24 @@
         <param name="Од. в упак.">1</param>
         <param name="Об'єм ящ.">0</param>
         <param name="Вага ящ.">0</param>
+        <param name="Максимальна температура робочої рідини (°C)">95</param>
+        <param name="Гарантійний період (міс)">120</param>
+        <param name="Комплектація">Кріплення, термоклапан</param>
+        <param name="Об'єм (л)">14,30</param>
+        <param name="Вага (кг)">36,40</param>
+        <param name="Ширина (мм)">470</param>
+        <param name="Товщина стінки (мм)">1,50</param>
+        <param name="Глибина (мм)">68</param>
+        <param name="Висота (мм)">1800</param>
+        <param name="Робочий тиск (бар)">10</param>
+        <param name="Підключення">Універсальне: нижнє 50 мм + бічне</param>
+        <param name="Різьблення">1/2"</param>
         <param name="Торгова марка">KOER</param>
+        <param name="Тип виробу">Дизайнерські радіатори</param>
+        <param name="Модель">ORBIS-UC2-180-10-AN</param>
+        <param name="Країна бренду">Чехія</param>
+        <param name="Призначення">Для опалення</param>
+        <param name="Колір">Антрацит</param>
       </offer>
       <offer id="MX0578" available="false">
         <url>https://ol.partners/products/miyki-dlya-kukhni/vrizni-miyki/miyka-mixxus-mx5050200x10pvdblack-kolir-chorniy-mx0578</url>
@@ -76935,6 +77054,40 @@
         <param name="Гарантія на корпус змішувача (міс)">60</param>
         <param name="Комплектація">Гнучка підводка, аератор, кріпильний елемент</param>
         <param name="Гарантія на деталі змішувача (міс)">12</param>
+      </offer>
+      <offer id="KR6575" available="true">
+        <url>https://ol.partners/products/radiatori-opalennya/stalevi-radiatori/radiator-trubchastiy-dizaynerskiy-koer-orbisuc318012bl-universalne-pidklyuchennya-kolir-chorniy-kr6575</url>
+        <price>21271.00</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>3132911f-cdca-4d9e-8962-65eca0671d10</categoryId>
+        <picture>https://ol.partners/Products/Photo/CBFED4AD-2DC8-4047-A319-2FA513451362</picture>
+        <vendor>KOER</vendor>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Достатньо</availabilityStatus>
+        <name>Радіатор трубчастий дизайнерський KOER ORBIS-UC3-180-12-BL універсальне підключення (Колір чорний) (KR6575)</name>
+        <description>&lt;![CDATA[]]&gt;</description>
+        <vendorCode>KR6575</vendorCode>
+        <param name="Од. в упак.">1</param>
+        <param name="Об'єм ящ.">0</param>
+        <param name="Вага ящ.">0</param>
+        <param name="Колір">Чорний</param>
+        <param name="Об'єм (л)">25,50</param>
+        <param name="Ширина (мм)">560</param>
+        <param name="Товщина стінки (мм)">1,50</param>
+        <param name="Глибина (мм)">100</param>
+        <param name="Вага (кг)">63,30</param>
+        <param name="Висота (мм)">1800</param>
+        <param name="Модель">ORBIS-UC3-180-12-BL</param>
+        <param name="Країна бренду">Чехія</param>
+        <param name="Тип виробу">Дизайнерські радіатори</param>
+        <param name="Торгова марка">KOER</param>
+        <param name="Призначення">Для опалення</param>
+        <param name="Максимальна температура робочої рідини (°C)">95</param>
+        <param name="Комплектація">Кріплення, термоклапан</param>
+        <param name="Гарантійний період (міс)">120</param>
+        <param name="Різьблення">1/2"</param>
+        <param name="Підключення">Універсальне: нижнє 50 мм + бічне</param>
+        <param name="Робочий тиск (бар)">10</param>
       </offer>
       <offer id="ZX4558" available="false">
         <url>https://ol.partners/products/miyki-dlya-kukhni/vrizni-miyki/miyka-kukhonna-zerix-zs7750r07-marmurova-zx4558</url>
@@ -92066,7 +92219,7 @@
         <param name="Комплектація">Гнучка підводка, аератор, кріпильна гайка</param>
       </offer>
       <offer id="KR6574" available="true">
-        <url>https://ol.partners/products/radiator-trubchastiy-dizaynerskiy-koer-orbisuc318010bl-universalne-pidklyuchennya-kolir-chorniy-kr6574</url>
+        <url>https://ol.partners/products/radiatori-opalennya/stalevi-radiatori/radiator-trubchastiy-dizaynerskiy-koer-orbisuc318010bl-universalne-pidklyuchennya-kolir-chorniy-kr6574</url>
         <price>18032.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>3132911f-cdca-4d9e-8962-65eca0671d10</categoryId>
@@ -92081,7 +92234,24 @@
         <param name="Од. в упак.">1</param>
         <param name="Об'єм ящ.">0</param>
         <param name="Вага ящ.">0</param>
+        <param name="Колір">Чорний</param>
+        <param name="Товщина стінки (мм)">1,50</param>
+        <param name="Вага (кг)">53,30</param>
+        <param name="Ширина (мм)">470</param>
+        <param name="Об'єм (л)">21,30</param>
+        <param name="Глибина (мм)">100</param>
+        <param name="Висота (мм)">1800</param>
+        <param name="Комплектація">Кріплення, термоклапан</param>
+        <param name="Максимальна температура робочої рідини (°C)">95</param>
+        <param name="Гарантійний період (міс)">120</param>
+        <param name="Різьблення">1/2"</param>
+        <param name="Робочий тиск (бар)">10</param>
+        <param name="Підключення">Універсальне: нижнє 50 мм + бічне</param>
+        <param name="Країна бренду">Чехія</param>
         <param name="Торгова марка">KOER</param>
+        <param name="Призначення">Для опалення</param>
+        <param name="Модель">ORBIS-UC3-180-10-BL</param>
+        <param name="Тип виробу">Дизайнерські радіатори</param>
       </offer>
       <offer id="LL1419" available="true">
         <url>https://ol.partners/products/aksesuari-dlya-vannoi/gachki-dlya-rushnikiv/vishalka-dlya-rushnikiv-u-vannu-z-5a-rukhlivimi-gachkami-zerix-lr2055-ll1419</url>
@@ -95136,7 +95306,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/7b64517f-0255-477f-977c-04079d6e4529/image_04.jpg</picture>
         <vendor>HAIBA</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Змішувач для кухні HAIBA MAGIC 011 RED (Колір хром) (HB0699)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>HB0699</vendorCode>
@@ -95694,7 +95864,7 @@
         <param name="Гарантійний період (міс)">12</param>
       </offer>
       <offer id="KR6544" available="true">
-        <url>https://ol.partners/products/radiator-trubchastiy-dizaynerskiy-koer-orbisuc218012wh-universalne-pidklyuchennya-kolir-biliy-kr6544</url>
+        <url>https://ol.partners/products/radiatori-opalennya/stalevi-radiatori/radiator-trubchastiy-dizaynerskiy-koer-orbisuc218012wh-universalne-pidklyuchennya-kolir-biliy-kr6544</url>
         <price>15972.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>3132911f-cdca-4d9e-8962-65eca0671d10</categoryId>
@@ -95709,7 +95879,24 @@
         <param name="Од. в упак.">1</param>
         <param name="Об'єм ящ.">0</param>
         <param name="Вага ящ.">0</param>
+        <param name="Модель">ORBIS-UC2-180-12-WH</param>
+        <param name="Країна бренду">Чехія</param>
+        <param name="Призначення">Для опалення</param>
+        <param name="Тип виробу">Дизайнерські радіатори</param>
         <param name="Торгова марка">KOER</param>
+        <param name="Максимальна температура робочої рідини (°C)">95</param>
+        <param name="Гарантійний період (міс)">120</param>
+        <param name="Комплектація">Кріплення, термоклапан</param>
+        <param name="Глибина (мм)">68</param>
+        <param name="Товщина стінки (мм)">1,50</param>
+        <param name="Висота (мм)">1800</param>
+        <param name="Вага (кг)">42,60</param>
+        <param name="Об'єм (л)">17,20</param>
+        <param name="Ширина (мм)">560</param>
+        <param name="Підключення">Універсальне: нижнє 50 мм + бічне</param>
+        <param name="Робочий тиск (бар)">10</param>
+        <param name="Різьблення">1/2"</param>
+        <param name="Колір">Білий</param>
       </offer>
       <offer id="GR0010" available="true">
         <url>https://ol.partners/products/zmishuvachi-ta-krani/zmishuvachi-dlya-vanni/liti-zmishuvachi-dlya-vannoi/zmishuvach-dlya-vanni-gromix-009-gr0010</url>
@@ -105657,41 +105844,6 @@
         <param name="Картридж чи кран букса">Картридж</param>
         <param name="Тип кріплення">Гайка</param>
       </offer>
-      <offer id="KR3023" available="true">
-        <url>https://ol.partners/products/truboprovodi-ta-zyednannya/fitingi/rizbovi-zyednannya/zaglushka-koer-kfp06mwn-12-n-bez-nikelyu-kr3023</url>
-        <price>47.00</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>db9f0036-af30-49ab-b12c-3a63aea8a391</categoryId>
-        <picture>https://ol.partners/Products/Photo/731BE8E3-FE20-4BD4-8927-C82DCAC69FF8</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/77fc0eff-8426-4538-b659-75c3b0717c12/image_04_KF0004.jpg</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/77fc0eff-8426-4538-b659-75c3b0717c12/image_01.jpg</picture>
-        <vendor>KOER</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
-        <name>Заглушка Koer KF.P06M.WN - 1/2'' Н (без нікелю) (KR3023)</name>
-        <description>&lt;![CDATA[]]&gt;</description>
-        <vendorCode>KR3023</vendorCode>
-        <param name="Од. в упак.">400</param>
-        <param name="Об'єм ящ.">0.014</param>
-        <param name="Вага ящ.">12</param>
-        <param name="A (мм)">17,00</param>
-        <param name="G (дюйм)">1/2</param>
-        <param name="Вага (г)">28,00</param>
-        <param name="Діаметр підключення (дюйм)">1/2</param>
-        <param name="Колір">Латунний</param>
-        <param name="Покриття">Немає</param>
-        <param name="Вид виробу">Заглушка</param>
-        <param name="Тип">Заглушка</param>
-        <param name="Країна бренду">Чехія</param>
-        <param name="Призначення">Для труб</param>
-        <param name="Модель">KF.P06M.WN</param>
-        <param name="Тип виробу">Латунний фітинг</param>
-        <param name="Торгова марка">KOER</param>
-        <param name="Матеріал">Латунь CW617N</param>
-        <param name="Тип з'єднання">Різьбовий</param>
-        <param name="Номінальний тиск (бар)">40,00</param>
-        <param name="Гарантійний період (міс)">84</param>
-      </offer>
       <offer id="KR3439" available="true">
         <url>https://ol.partners/products/zmishuvachi-ta-krani/zmishuvachi-dlya-umivalnika/odnovazhilniy-zmishuvach-dlya-rakovini/zmishuvach-dlya-umivalnika-koer-kb1000705-kolir-chorniy-kr3439</url>
         <price>4098.00</price>
@@ -105908,136 +106060,6 @@
         <param name="Шар">Латунний</param>
         <param name="Колір">Сталевий</param>
         <param name="Тип ручки">Вентиль</param>
-      </offer>
-      <offer id="MX0006" available="true">
-        <url>https://ol.partners/products/zmishuvachi-ta-krani/zmishuvachi-dlya-umivalnika/odnovazhilniy-zmishuvach-dlya-rakovini/zmishuvach-dlya-umivalnika-mixxus-oregon-001-nut-black-kolir-chorniy-mx0006</url>
-        <price>1215.00</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>7bd5f9e6-540a-4542-b449-789ef0743d5f</categoryId>
-        <picture>https://ol.partners/Products/Photo/21672BF5-8462-4910-A16C-A4E97F64AD9F</picture>
-        <vendor>MIXXUS</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
-        <name>Змішувач для умивальника MIXXUS OREGON 001 NUT BLACK (Колір чорний) (MX0006)</name>
-        <description>&lt;![CDATA[]]&gt;</description>
-        <vendorCode>MX0006</vendorCode>
-        <param name="Од. в упак.">10</param>
-        <param name="Об'єм ящ.">0.029</param>
-        <param name="Вага ящ.">11.8</param>
-        <param name="Група товару">Змішувачі</param>
-        <param name="Торгова марка">MIXXUS</param>
-        <param name="Країна виробник">Китай</param>
-        <param name="Вид виробу">Змішувачі для умивальника низькі</param>
-        <param name="Тип виробу">Змішувачі для умивальника</param>
-        <param name="Модель">1</param>
-        <param name="Країна бренду">Німеччина</param>
-        <param name="Тип монтажу">Врізні</param>
-        <param name="Серія">OREGON</param>
-        <param name="Колір">Чорний матовий</param>
-        <param name="Тип виливу">Литий</param>
-        <param name="Покриття">З покриттям</param>
-        <param name="Стиль">Класичний</param>
-        <param name="Висота до виливу (мм)">90</param>
-        <param name="Довжина виливу (см)">11-15</param>
-        <param name="Висота змішувача (см)">16-20</param>
-        <param name="Загальна довжина (мм)">150</param>
-        <param name="Довжина виливу (мм)">110</param>
-        <param name="Висота змішувача (мм)">160</param>
-        <param name="Максимальний тиск (бар)">10,00</param>
-        <param name="Картридж чи кран букса">Картридж</param>
-        <param name="Максимальна температура води (°C)">90</param>
-        <param name="Мінімальна температура води (°C)">5</param>
-        <param name="Тип керування">Одноважільні</param>
-        <param name="Тип кріплення">Гайка</param>
-        <param name="Матеріал виробу">Цинковий сплав</param>
-        <param name="Мінімальний тиск (бар)">0,50</param>
-        <param name="MAX різниця тиску гарячої та холодної води (бар)">1,50</param>
-        <param name="Діаметр шланга підключення">1/2</param>
-        <param name="Робочий тиск (бар)">1-5</param>
-        <param name="Діаметр картриджа (мм)">35</param>
-        <param name="Довжина шланга підключення">50 см</param>
-        <param name="Комплектація">Гнучка підводка, аератор, посилена гайка</param>
-        <param name="Гарантія на корпус змішувача (міс)">60</param>
-        <param name="Гарантія на деталі змішувача (міс)">12</param>
-      </offer>
-      <offer id="KR3160" available="true">
-        <url>https://ol.partners/products/filtri-ochischennya-vodi/komplektuyuchi-dlya-filtriv-vodi/kartridzh-iz-polipropilenovoi-nitki-pp5-25kh10-koer-kv02251005-stariy-artikul-kv0105-kr3160</url>
-        <price>104.00</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>342f682f-84dc-492d-8453-43cf6004ec11</categoryId>
-        <picture>https://ol.partners/Products/Photo/A794B850-A503-49A5-A206-2668A994F4D2</picture>
-        <vendor>KOER</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
-        <name>Картридж із поліпропіленової нитки PP5 2,5"х10" KOER KV-02-2510-05 (старий артикул KV.0105) (KR3160)</name>
-        <description>&lt;![CDATA[]]&gt;</description>
-        <vendorCode>KR3160</vendorCode>
-        <param name="Од. в упак.">48</param>
-        <param name="Об'єм ящ.">0.054</param>
-        <param name="Вага ящ.">9</param>
-        <param name="Максимальна температура води (°C)">45</param>
-        <param name="Рекомендована швидкість фільтрування (л/хв)">8,00</param>
-        <param name="Мінімальний тиск (бар)">3,00</param>
-        <param name="Максимальна продуктивність (л/хв)">35</param>
-        <param name="Мінімальна температура води (°C)">4</param>
-        <param name="Матеріал">Поліпропіленова нитка</param>
-        <param name="Торгова марка">KOER</param>
-        <param name="Призначення">Для води</param>
-        <param name="Модель">KV.0105</param>
-        <param name="Тип виробу">Змінні картриджі</param>
-        <param name="Країна бренду">Чехія</param>
-        <param name="Особливості">Утримує частинки від 5 мкм</param>
-        <param name="Розміри (дюйм)">2,5"х10"</param>
-      </offer>
-      <offer id="ZX0486" available="true">
-        <url>https://ol.partners/products/zmishuvachi-ta-krani/zmishuvachi-dlya-kukhni/zmishuvachi-odnovazhilni-dlya-kukhni/zmishuvach-dlya-kukhni-zerix-z59219-zx0486</url>
-        <price>620.00</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>55782ae8-eebc-4ed9-8c24-5e7f7f6add9c</categoryId>
-        <picture>https://ol.partners/Products/Photo/24AC693B-02A2-46E6-A25A-5B4BE243134C</picture>
-        <vendor>ZERIX</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
-        <name>Змішувач для кухні Zerix Z59219 (ZX0486)</name>
-        <description>&lt;![CDATA[]]&gt;</description>
-        <vendorCode>ZX0486</vendorCode>
-        <param name="Од. в упак.">10</param>
-        <param name="Об'єм ящ.">0.05</param>
-        <param name="Вага ящ.">12.8</param>
-        <param name="Максимальна температура води (°C)">90</param>
-        <param name="Тип кріплення">Гайка</param>
-        <param name="MAX різниця тиску гарячої та холодної води (бар)">1,50</param>
-        <param name="Матеріал виробу">Цинковий сплав</param>
-        <param name="Картридж чи кран букса">Картридж</param>
-        <param name="Мінімальна температура води (°C)">5</param>
-        <param name="Тип керування">Одноважільні</param>
-        <param name="Діаметр картриджа (мм)">40</param>
-        <param name="Максимальний тиск (бар)">10,00</param>
-        <param name="Робочий тиск (бар)">1-5</param>
-        <param name="Довжина шланга підключення">50 см</param>
-        <param name="Діаметр шланга підключення">1/2</param>
-        <param name="Мінімальний тиск (бар)">0,50</param>
-        <param name="Гарантія на деталі змішувача (міс)">12</param>
-        <param name="Комплектація">Гнучка підводка, аератор, кріпильний елемент</param>
-        <param name="Гарантія на корпус змішувача (міс)">60</param>
-        <param name="Тип виробу">Змішувачі для кухні</param>
-        <param name="Група товару">Змішувачі</param>
-        <param name="Торгова марка">ZERIX</param>
-        <param name="Тип монтажу">Врізні</param>
-        <param name="Країна виробник">Китай</param>
-        <param name="Модель">Z59219</param>
-        <param name="Країна бренду">Чехія</param>
-        <param name="Вид виробу">Змішувачі для кухні високі</param>
-        <param name="Колір">Хром</param>
-        <param name="Покриття">З покриттям</param>
-        <param name="Стиль">Класичний</param>
-        <param name="Тип виливу">Поворотний</param>
-        <param name="Загальна довжина (мм)">250</param>
-        <param name="Висота до виливу (мм)">190</param>
-        <param name="Висота змішувача (см)">21-25</param>
-        <param name="Довжина виливу (мм)">220</param>
-        <param name="Висота змішувача (мм)">240</param>
-        <param name="Довжина виливу (см)">21-25</param>
       </offer>
       <offer id="PM0600" available="true">
         <url>https://ol.partners/products/zmishuvachi-ta-krani/zmishuvachi-dlya-vanni/zmishuvach-dlya-vanni-z-povorotnim-vilivom/zmishuvach-dlya-vanni-plamix-oscar006-euro-black-bez-shlanga-ta-liyki-kolir-chorniy-pm0600</url>
@@ -108552,7 +108574,7 @@
         <picture>https://ol.partners/Products/Photo/E55F25B9-DB88-4D9D-AEA1-9F6DC82D13DB</picture>
         <vendor>ZERIX</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Йоржик для унітазу підлоговий ZERIX RICH-ME03S (колір хром глянець) (ZX4641)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>ZX4641</vendorCode>
@@ -112703,8 +112725,8 @@
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>ZX6084</vendorCode>
         <param name="Од. в упак.">36</param>
-        <param name="Об'єм ящ.">0</param>
-        <param name="Вага ящ.">0</param>
+        <param name="Об'єм ящ.">0.033</param>
+        <param name="Вага ящ.">12.1</param>
         <param name="Розміри виробу (ВхШхГ)">180x180</param>
         <param name="Висота (мм)">1800</param>
         <param name="Ширина (мм)">1800</param>
@@ -117934,7 +117956,7 @@
         <param name="Група товару">Змішувачі</param>
       </offer>
       <offer id="KR6569" available="true">
-        <url>https://ol.partners/products/radiator-trubchastiy-dizaynerskiy-koer-orbisuc318010an-universalne-pidklyuchennya-kolir-antratsit-kr6569</url>
+        <url>https://ol.partners/products/radiatori-opalennya/stalevi-radiatori/radiator-trubchastiy-dizaynerskiy-koer-orbisuc318010an-universalne-pidklyuchennya-kolir-antratsit-kr6569</url>
         <price>18032.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>3132911f-cdca-4d9e-8962-65eca0671d10</categoryId>
@@ -117949,7 +117971,24 @@
         <param name="Од. в упак.">1</param>
         <param name="Об'єм ящ.">0</param>
         <param name="Вага ящ.">0</param>
+        <param name="Об'єм (л)">21,30</param>
+        <param name="Ширина (мм)">470</param>
+        <param name="Вага (кг)">53,30</param>
+        <param name="Висота (мм)">1800</param>
+        <param name="Глибина (мм)">100</param>
+        <param name="Товщина стінки (мм)">1,50</param>
+        <param name="Тип виробу">Дизайнерські радіатори</param>
+        <param name="Модель">ORBIS-UC3-180-10-AN</param>
         <param name="Торгова марка">KOER</param>
+        <param name="Призначення">Для опалення</param>
+        <param name="Країна бренду">Чехія</param>
+        <param name="Робочий тиск (бар)">10</param>
+        <param name="Різьблення">1/2"</param>
+        <param name="Підключення">Універсальне: нижнє 50 мм + бічне</param>
+        <param name="Максимальна температура робочої рідини (°C)">95</param>
+        <param name="Гарантійний період (міс)">120</param>
+        <param name="Комплектація">Кріплення, термоклапан</param>
+        <param name="Колір">Антрацит</param>
       </offer>
       <offer id="HB0551" available="false">
         <url>https://ol.partners/products/miyki-dlya-kukhni/vrizni-miyki/miyka-kukhonna-haiba-63x49-polish-hb0551</url>
@@ -121186,7 +121225,7 @@
         <param name="Покриття">З покриттям</param>
         <param name="Колір">Хром</param>
       </offer>
-      <offer id="KR5023" available="false">
+      <offer id="KR5023" available="true">
         <url>https://ol.partners/products/filtri-ochischennya-vodi/protochni-filtri-vodi/filtr-dlya-kholodnoi-vodi-koer-kv2634-3-kolbi-3kh-skladovi-kartridzh-pprspresovanegranulovane-vugillya-8-atmosfer-34-kr5023</url>
         <price>2284.00</price>
         <currencyId>UAH</currencyId>
@@ -121194,8 +121233,8 @@
         <picture>https://ol.partners/Products/Photo/049DAB15-7149-41DC-BEEA-53C1DDEA807A</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/fdb5ba7a-f979-445c-8382-ab64b3c0f383/image_01.jpg</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Фільтр для холодної води KOER KV-26-3/4 (3 колби 3-х складові, картридж PPR+спресоване/гранульоване вугілля) 8 атмосфер 3/4" (KR5023)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR5023</vendorCode>
@@ -132953,8 +132992,8 @@
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>PM0719</vendorCode>
         <param name="Од. в упак.">20</param>
-        <param name="Об'єм ящ.">0</param>
-        <param name="Вага ящ.">0</param>
+        <param name="Об'єм ящ.">0.077</param>
+        <param name="Вага ящ.">19.8</param>
         <param name="Країна виробник">Китай</param>
         <param name="Торгова марка">PLAMIX</param>
         <param name="Група товару">Змішувачі</param>
@@ -150763,8 +150802,8 @@
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>ZX6094</vendorCode>
         <param name="Од. в упак.">36</param>
-        <param name="Об'єм ящ.">0</param>
-        <param name="Вага ящ.">0</param>
+        <param name="Об'єм ящ.">0.033</param>
+        <param name="Вага ящ.">11.8</param>
         <param name="Призначення">Текстиль для ванної</param>
         <param name="Вид виробу">Шторка-фіранка для ванни</param>
         <param name="Торгова марка">ZERIX</param>
@@ -168434,6 +168473,61 @@
         <param name="Тип з'єднання">Різьбовий</param>
         <param name="Номінальний тиск (бар)">40,00</param>
       </offer>
+      <offer id="ZX0169" available="true">
+        <url>https://ol.partners/products/truboprovodi-ta-zyednannya/gnuchka-pidvodka/gofrovani-shlangi-dlya-zmishuvacha-champion-shlang-m10-30-sm-silfonni-zx0169</url>
+        <price>171.00</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>22f3a4ae-1214-40aa-b24b-a5a1a462b82e</categoryId>
+        <picture>https://ol.partners/Products/Photo/A9BB3F68-B0D4-47BB-92EC-76446BD98301</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/71d86cff-2fda-4753-89ab-16205ffe87eb/image_03.jpg</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/71d86cff-2fda-4753-89ab-16205ffe87eb/image_02.jpg</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/71d86cff-2fda-4753-89ab-16205ffe87eb/image_01.jpg</picture>
+        <vendor>CHAMPION</vendor>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Достатньо</availabilityStatus>
+        <name>Гофровані шланги для змішувача Champion Шланг M-10 (30 см) сильфонні (ZX0169)</name>
+        <description>&lt;![CDATA[]]&gt;</description>
+        <vendorCode>ZX0169</vendorCode>
+        <param name="Од. в упак.">100</param>
+        <param name="Об'єм ящ.">0.031</param>
+        <param name="Вага ящ.">12</param>
+        <param name="Тип виробу">Шланги та гнучкі підведення</param>
+        <param name="Вид виробу">Шланги для підключення змішувачів</param>
+        <param name="Країна виробник">Китай</param>
+        <param name="Країна бренду">Китай</param>
+        <param name="Торгова марка">CHAMPION</param>
+        <param name="Довжина шланга підключення">30 см</param>
+        <param name="Тип з'єднання">Гайка 1/2 - Штуцер М10</param>
+        <param name="Кількість (шт)">2</param>
+        <param name="Колір">Хром</param>
+      </offer>
+      <offer id="ZX5148" available="true">
+        <url>https://ol.partners/products/truboprovodi-ta-zyednannya/gnuchka-pidvodka/gnuchke-pidvedennya-zerix-zhn02fm12050-neylonove-obpletennya-gayki-nerzh-zx5148</url>
+        <price>65.00</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>2569b9cb-29e3-4cce-bd38-f7fe00c09da6</categoryId>
+        <picture>https://ol.partners/Products/Photo/CF9835E0-98EF-4A3B-AFBA-12EC2D5328D1</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/9d4b9349-09c7-4fdc-a0cc-1ae91a2416ae/image_02.jpg</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/9d4b9349-09c7-4fdc-a0cc-1ae91a2416ae/image_01.jpg</picture>
+        <vendor>ZERIX</vendor>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Достатньо</availabilityStatus>
+        <name>Гнучке підведення Zerix ZHN-02-FM1/2"-050 (нейлонове обплетення, гайки нерж) (ZX5148)</name>
+        <description>&lt;![CDATA[]]&gt;</description>
+        <vendorCode>ZX5148</vendorCode>
+        <param name="Од. в упак.">200</param>
+        <param name="Об'єм ящ.">0.039</param>
+        <param name="Вага ящ.">17.3</param>
+        <param name="Довжина шланга підключення">50 см</param>
+        <param name="Тип з'єднання">Гайка-Штуцер 1/2x1/2</param>
+        <param name="Гарантійний період (міс)">96</param>
+        <param name="Кількість (шт)">1</param>
+        <param name="Тип виробу">Шланги та гнучкі підведення</param>
+        <param name="Країна бренду">Чехія</param>
+        <param name="Торгова марка">ZERIX</param>
+        <param name="Тип">В обплетенні</param>
+        <param name="Вид виробу">Шланги в оплетенні</param>
+      </offer>
       <offer id="EP6037" available="true">
         <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/krani/krani-kulovi/kran-sharoviy-europroduct-ep500-wing-20x20-ep6037</url>
         <price>387.00</price>
@@ -168477,61 +168571,6 @@
         <param name="Тип з'єднання">Обтискний</param>
         <param name="Тип приєднання">Обтискне</param>
         <param name="Гарантійний період (міс)">12</param>
-      </offer>
-      <offer id="ZX5148" available="true">
-        <url>https://ol.partners/products/truboprovodi-ta-zyednannya/gnuchka-pidvodka/gnuchke-pidvedennya-zerix-zhn02fm12050-neylonove-obpletennya-gayki-nerzh-zx5148</url>
-        <price>65.00</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>2569b9cb-29e3-4cce-bd38-f7fe00c09da6</categoryId>
-        <picture>https://ol.partners/Products/Photo/CF9835E0-98EF-4A3B-AFBA-12EC2D5328D1</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/9d4b9349-09c7-4fdc-a0cc-1ae91a2416ae/image_02.jpg</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/9d4b9349-09c7-4fdc-a0cc-1ae91a2416ae/image_01.jpg</picture>
-        <vendor>ZERIX</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
-        <name>Гнучке підведення Zerix ZHN-02-FM1/2"-050 (нейлонове обплетення, гайки нерж) (ZX5148)</name>
-        <description>&lt;![CDATA[]]&gt;</description>
-        <vendorCode>ZX5148</vendorCode>
-        <param name="Од. в упак.">200</param>
-        <param name="Об'єм ящ.">0.039</param>
-        <param name="Вага ящ.">17.3</param>
-        <param name="Довжина шланга підключення">50 см</param>
-        <param name="Тип з'єднання">Гайка-Штуцер 1/2x1/2</param>
-        <param name="Гарантійний період (міс)">96</param>
-        <param name="Кількість (шт)">1</param>
-        <param name="Тип виробу">Шланги та гнучкі підведення</param>
-        <param name="Країна бренду">Чехія</param>
-        <param name="Торгова марка">ZERIX</param>
-        <param name="Тип">В обплетенні</param>
-        <param name="Вид виробу">Шланги в оплетенні</param>
-      </offer>
-      <offer id="ZX0169" available="true">
-        <url>https://ol.partners/products/truboprovodi-ta-zyednannya/gnuchka-pidvodka/gofrovani-shlangi-dlya-zmishuvacha-champion-shlang-m10-30-sm-silfonni-zx0169</url>
-        <price>171.00</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>22f3a4ae-1214-40aa-b24b-a5a1a462b82e</categoryId>
-        <picture>https://ol.partners/Products/Photo/A9BB3F68-B0D4-47BB-92EC-76446BD98301</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/71d86cff-2fda-4753-89ab-16205ffe87eb/image_03.jpg</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/71d86cff-2fda-4753-89ab-16205ffe87eb/image_02.jpg</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/71d86cff-2fda-4753-89ab-16205ffe87eb/image_01.jpg</picture>
-        <vendor>CHAMPION</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
-        <name>Гофровані шланги для змішувача Champion Шланг M-10 (30 см) сильфонні (ZX0169)</name>
-        <description>&lt;![CDATA[]]&gt;</description>
-        <vendorCode>ZX0169</vendorCode>
-        <param name="Од. в упак.">100</param>
-        <param name="Об'єм ящ.">0.031</param>
-        <param name="Вага ящ.">12</param>
-        <param name="Тип виробу">Шланги та гнучкі підведення</param>
-        <param name="Вид виробу">Шланги для підключення змішувачів</param>
-        <param name="Країна виробник">Китай</param>
-        <param name="Країна бренду">Китай</param>
-        <param name="Торгова марка">CHAMPION</param>
-        <param name="Довжина шланга підключення">30 см</param>
-        <param name="Тип з'єднання">Гайка 1/2 - Штуцер М10</param>
-        <param name="Кількість (шт)">2</param>
-        <param name="Колір">Хром</param>
       </offer>
       <offer id="MI0615" available="true">
         <url>https://ol.partners/products/zmishuvachi-ta-krani/zmishuvachi-dlya-vanni/zmishuvach-dlya-vanni-z-povorotnim-vilivom/zmishuvach-dlya-vanni-mixxus-premium-fobos-140-euro-kolir-khrom-mi0615</url>
@@ -173650,7 +173689,7 @@
         <param name="Гарантійний період (міс)">60</param>
         <param name="Особливості">Комплектацію уточнюйте у менеджера (може змінюватись виробником в залежності від партії)</param>
       </offer>
-      <offer id="ZX4594" available="false">
+      <offer id="ZX4594" available="true">
         <url>https://ol.partners/products/miyki-dlya-kukhni/vrizni-miyki/miyka-zerix-zs6250s14-black-metallic-zx4594</url>
         <price>4154.00</price>
         <currencyId>UAH</currencyId>
@@ -173662,8 +173701,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/4e6fb9e1-1b7f-460a-80dc-cd23ae9de52c/image_01.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/4e6fb9e1-1b7f-460a-80dc-cd23ae9de52c/image_04.jpg</picture>
         <vendor>ZERIX</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Мийка Zerix ZS-6250S-14 Black metallic (ZX4594)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>ZX4594</vendorCode>
@@ -174728,7 +174767,7 @@
         <param name="Форма">Квадратна</param>
       </offer>
       <offer id="KR6576" available="true">
-        <url>https://ol.partners/products/radiator-trubchastiy-dizaynerskiy-koer-orbisuc318014bl-universalne-pidklyuchennya-kolir-chorniy-kr6576</url>
+        <url>https://ol.partners/products/radiatori-opalennya/stalevi-radiatori/radiator-trubchastiy-dizaynerskiy-koer-orbisuc318014bl-universalne-pidklyuchennya-kolir-chorniy-kr6576</url>
         <price>24509.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>3132911f-cdca-4d9e-8962-65eca0671d10</categoryId>
@@ -174743,7 +174782,24 @@
         <param name="Од. в упак.">1</param>
         <param name="Об'єм ящ.">0</param>
         <param name="Вага ящ.">0</param>
+        <param name="Максимальна температура робочої рідини (°C)">95</param>
+        <param name="Комплектація">Кріплення, термоклапан</param>
+        <param name="Гарантійний період (міс)">120</param>
+        <param name="Висота (мм)">1800</param>
+        <param name="Товщина стінки (мм)">1,50</param>
+        <param name="Ширина (мм)">650</param>
+        <param name="Глибина (мм)">100</param>
+        <param name="Об'єм (л)">29,80</param>
+        <param name="Вага (кг)">73,80</param>
+        <param name="Підключення">Універсальне: нижнє 50 мм + бічне</param>
+        <param name="Робочий тиск (бар)">10</param>
+        <param name="Різьблення">1/2"</param>
+        <param name="Колір">Чорний</param>
         <param name="Торгова марка">KOER</param>
+        <param name="Країна бренду">Чехія</param>
+        <param name="Призначення">Для опалення</param>
+        <param name="Тип виробу">Дизайнерські радіатори</param>
+        <param name="Модель">ORBIS-UC3-180-14-BL</param>
       </offer>
       <offer id="KR0109" available="false">
         <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/krani/kran-dlya-pidklyuchennya-santekhpriboriv/kran-dlya-pidklyuchennya-santekhpriladiv-koer-12x34-kr517-kr0109</url>
@@ -190355,7 +190411,7 @@
         <param name="Структура поверхні мийки">Без структури</param>
       </offer>
       <offer id="KR6553" available="true">
-        <url>https://ol.partners/products/radiator-trubchastiy-dizaynerskiy-koer-orbisuc218010bl-universalne-pidklyuchennya-kolir-chorniy-kr6553</url>
+        <url>https://ol.partners/products/radiatori-opalennya/stalevi-radiatori/radiator-trubchastiy-dizaynerskiy-koer-orbisuc218010bl-universalne-pidklyuchennya-kolir-chorniy-kr6553</url>
         <price>13543.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>3132911f-cdca-4d9e-8962-65eca0671d10</categoryId>
@@ -190370,7 +190426,24 @@
         <param name="Од. в упак.">1</param>
         <param name="Об'єм ящ.">0</param>
         <param name="Вага ящ.">0</param>
+        <param name="Висота (мм)">1800</param>
+        <param name="Глибина (мм)">68</param>
+        <param name="Товщина стінки (мм)">1,50</param>
+        <param name="Ширина (мм)">470</param>
+        <param name="Об'єм (л)">14,30</param>
+        <param name="Вага (кг)">36,40</param>
+        <param name="Підключення">Універсальне: нижнє 50 мм + бічне</param>
+        <param name="Різьблення">1/2"</param>
+        <param name="Робочий тиск (бар)">10</param>
+        <param name="Модель">ORBIS-UC2-180-10-BL</param>
+        <param name="Призначення">Для опалення</param>
         <param name="Торгова марка">KOER</param>
+        <param name="Тип виробу">Дизайнерські радіатори</param>
+        <param name="Країна бренду">Чехія</param>
+        <param name="Максимальна температура робочої рідини (°C)">95</param>
+        <param name="Гарантійний період (міс)">120</param>
+        <param name="Комплектація">Кріплення, термоклапан</param>
+        <param name="Колір">Чорний</param>
       </offer>
       <offer id="MI8225" available="true">
         <url>https://ol.partners/products/zmishuvachi-ta-krani/zmishuvachi-dlya-kukhni/zmishuvach-na-kukhnyu-z-gnuchkim-silikonovim-vilivom/zmishuvach-dlya-kukhni-z-gnuchkim-vilivom-z-nerzh-stali-sus304-mixxus-seo011-graphite-reflgray-kolir-grafitviliv-siriy-mi8225</url>
@@ -190639,7 +190712,7 @@
         <picture>https://ol.partners/Products/Photo/FF03D087-B2DB-4119-B8AE-334A8FD18C31</picture>
         <vendor>MIXXUS</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Мийка з нерж. сталі MIXXUS MH7849R NANO-SILVER (3.0/0.8) (Колір нерж) (MI7050)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>MI7050</vendorCode>
@@ -195763,7 +195836,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/27e7e82b-0a44-4ac1-9f0c-2e81a7d4b37b/image_04.jpg</picture>
         <vendor>ZERIX</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Змішувач для умивальника Zerix PED-B 127 (ZX2941)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>ZX2941</vendorCode>
@@ -196054,7 +196127,7 @@
         <param name="Колір">Сірий</param>
       </offer>
       <offer id="KR6549" available="true">
-        <url>https://ol.partners/products/radiator-trubchastiy-dizaynerskiy-koer-orbisuc218012an-universalne-pidklyuchennya-kolir-antratsit-kr6549</url>
+        <url>https://ol.partners/products/radiatori-opalennya/stalevi-radiatori/radiator-trubchastiy-dizaynerskiy-koer-orbisuc218012an-universalne-pidklyuchennya-kolir-antratsit-kr6549</url>
         <price>15972.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>3132911f-cdca-4d9e-8962-65eca0671d10</categoryId>
@@ -196069,7 +196142,24 @@
         <param name="Од. в упак.">1</param>
         <param name="Об'єм ящ.">0</param>
         <param name="Вага ящ.">0</param>
+        <param name="Вага (кг)">42,60</param>
+        <param name="Товщина стінки (мм)">1,50</param>
+        <param name="Об'єм (л)">17,20</param>
+        <param name="Висота (мм)">1800</param>
+        <param name="Глибина (мм)">68</param>
+        <param name="Ширина (мм)">560</param>
+        <param name="Призначення">Для опалення</param>
+        <param name="Модель">ORBIS-UC2-180-12-AN</param>
+        <param name="Країна бренду">Чехія</param>
+        <param name="Тип виробу">Дизайнерські радіатори</param>
         <param name="Торгова марка">KOER</param>
+        <param name="Максимальна температура робочої рідини (°C)">95</param>
+        <param name="Гарантійний період (міс)">120</param>
+        <param name="Комплектація">Кріплення, термоклапан</param>
+        <param name="Різьблення">1/2"</param>
+        <param name="Робочий тиск (бар)">10</param>
+        <param name="Підключення">Універсальне: нижнє 50 мм + бічне</param>
+        <param name="Колір">Антрацит</param>
       </offer>
       <offer id="HB0322" available="false">
         <url>https://ol.partners/products/zmishuvachi-ta-krani/zmishuvachi-dlya-kukhni/zmishuvachi-odnovazhilni-dlya-kukhni/zmishuvach-dlya-kukhni-haiba-onix-018-nut-kolir-khrom-hb0322</url>
@@ -209987,7 +210077,7 @@
         <param name="Тип виробу">Змішувачі для кухні</param>
       </offer>
       <offer id="KR6554" available="true">
-        <url>https://ol.partners/products/radiator-trubchastiy-dizaynerskiy-koer-orbisuc218012bl-universalne-pidklyuchennya-kolir-chorniy-kr6554</url>
+        <url>https://ol.partners/products/radiatori-opalennya/stalevi-radiatori/radiator-trubchastiy-dizaynerskiy-koer-orbisuc218012bl-universalne-pidklyuchennya-kolir-chorniy-kr6554</url>
         <price>15972.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>3132911f-cdca-4d9e-8962-65eca0671d10</categoryId>
@@ -210003,6 +210093,23 @@
         <param name="Об'єм ящ.">0</param>
         <param name="Вага ящ.">0</param>
         <param name="Торгова марка">KOER</param>
+        <param name="Тип виробу">Дизайнерські радіатори</param>
+        <param name="Країна бренду">Чехія</param>
+        <param name="Призначення">Для опалення</param>
+        <param name="Модель">ORBIS-UC2-180-12-BL</param>
+        <param name="Висота (мм)">1800</param>
+        <param name="Глибина (мм)">68</param>
+        <param name="Об'єм (л)">17,20</param>
+        <param name="Вага (кг)">42,60</param>
+        <param name="Ширина (мм)">560</param>
+        <param name="Товщина стінки (мм)">1,50</param>
+        <param name="Гарантійний період (міс)">120</param>
+        <param name="Комплектація">Кріплення, термоклапан</param>
+        <param name="Максимальна температура робочої рідини (°C)">95</param>
+        <param name="Підключення">Універсальне: нижнє 50 мм + бічне</param>
+        <param name="Різьблення">1/2"</param>
+        <param name="Робочий тиск (бар)">10</param>
+        <param name="Колір">Чорний</param>
       </offer>
       <offer id="ZX2713" available="false">
         <url>https://ol.partners/products/aksesuari-dlya-vannoi/dzerkala-u-vannu/dzerkalo-zbilshuvalne-nastilne-zerix-lr6208-20-sm-zx2713</url>
@@ -216921,7 +217028,7 @@
         <param name="Кількість режимів струменя">4</param>
       </offer>
       <offer id="KR6566" available="true">
-        <url>https://ol.partners/products/radiator-trubchastiy-dizaynerskiy-koer-orbisuc318014wh-universalne-pidklyuchennya-kolir-biliy-kr6566</url>
+        <url>https://ol.partners/products/radiatori-opalennya/stalevi-radiatori/radiator-trubchastiy-dizaynerskiy-koer-orbisuc318014wh-universalne-pidklyuchennya-kolir-biliy-kr6566</url>
         <price>24509.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>3132911f-cdca-4d9e-8962-65eca0671d10</categoryId>
@@ -216936,7 +217043,24 @@
         <param name="Од. в упак.">1</param>
         <param name="Об'єм ящ.">0</param>
         <param name="Вага ящ.">0</param>
+        <param name="Різьблення">1/2"</param>
+        <param name="Підключення">Універсальне: нижнє 50 мм + бічне</param>
+        <param name="Робочий тиск (бар)">10</param>
+        <param name="Колір">Білий</param>
         <param name="Торгова марка">KOER</param>
+        <param name="Призначення">Для опалення</param>
+        <param name="Тип виробу">Дизайнерські радіатори</param>
+        <param name="Модель">ORBIS-UC3-180-14-WH</param>
+        <param name="Країна бренду">Чехія</param>
+        <param name="Максимальна температура робочої рідини (°C)">95</param>
+        <param name="Комплектація">Кріплення, термоклапан</param>
+        <param name="Гарантійний період (міс)">120</param>
+        <param name="Глибина (мм)">100</param>
+        <param name="Ширина (мм)">650</param>
+        <param name="Вага (кг)">73,80</param>
+        <param name="Об'єм (л)">29,80</param>
+        <param name="Товщина стінки (мм)">1,50</param>
+        <param name="Висота (мм)">1800</param>
       </offer>
       <offer id="KR0093" available="true">
         <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/krani/krani-kulovi/kran-kuloviy-koer-kr217g-1-ff-ggm-yellow-ruchka-metelik-zhovta-kr0093</url>
@@ -221204,6 +221328,85 @@
         <param name="Довжина виливу (см)">11-15</param>
         <param name="Довжина виливу (мм)">130</param>
       </offer>
+      <offer id="KR3160" available="true">
+        <url>https://ol.partners/products/filtri-ochischennya-vodi/komplektuyuchi-dlya-filtriv-vodi/kartridzh-iz-polipropilenovoi-nitki-pp5-25kh10-koer-kv02251005-stariy-artikul-kv0105-kr3160</url>
+        <price>104.00</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>342f682f-84dc-492d-8453-43cf6004ec11</categoryId>
+        <picture>https://ol.partners/Products/Photo/A794B850-A503-49A5-A206-2668A994F4D2</picture>
+        <vendor>KOER</vendor>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Достатньо</availabilityStatus>
+        <name>Картридж із поліпропіленової нитки PP5 2,5"х10" KOER KV-02-2510-05 (старий артикул KV.0105) (KR3160)</name>
+        <description>&lt;![CDATA[]]&gt;</description>
+        <vendorCode>KR3160</vendorCode>
+        <param name="Од. в упак.">48</param>
+        <param name="Об'єм ящ.">0.054</param>
+        <param name="Вага ящ.">9</param>
+        <param name="Максимальна температура води (°C)">45</param>
+        <param name="Рекомендована швидкість фільтрування (л/хв)">8,00</param>
+        <param name="Мінімальний тиск (бар)">3,00</param>
+        <param name="Максимальна продуктивність (л/хв)">35</param>
+        <param name="Мінімальна температура води (°C)">4</param>
+        <param name="Матеріал">Поліпропіленова нитка</param>
+        <param name="Торгова марка">KOER</param>
+        <param name="Призначення">Для води</param>
+        <param name="Модель">KV.0105</param>
+        <param name="Тип виробу">Змінні картриджі</param>
+        <param name="Країна бренду">Чехія</param>
+        <param name="Особливості">Утримує частинки від 5 мкм</param>
+        <param name="Розміри (дюйм)">2,5"х10"</param>
+      </offer>
+      <offer id="ZX0486" available="true">
+        <url>https://ol.partners/products/zmishuvachi-ta-krani/zmishuvachi-dlya-kukhni/zmishuvachi-odnovazhilni-dlya-kukhni/zmishuvach-dlya-kukhni-zerix-z59219-zx0486</url>
+        <price>620.00</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>55782ae8-eebc-4ed9-8c24-5e7f7f6add9c</categoryId>
+        <picture>https://ol.partners/Products/Photo/24AC693B-02A2-46E6-A25A-5B4BE243134C</picture>
+        <vendor>ZERIX</vendor>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Достатньо</availabilityStatus>
+        <name>Змішувач для кухні Zerix Z59219 (ZX0486)</name>
+        <description>&lt;![CDATA[]]&gt;</description>
+        <vendorCode>ZX0486</vendorCode>
+        <param name="Од. в упак.">10</param>
+        <param name="Об'єм ящ.">0.05</param>
+        <param name="Вага ящ.">12.8</param>
+        <param name="Максимальна температура води (°C)">90</param>
+        <param name="Тип кріплення">Гайка</param>
+        <param name="MAX різниця тиску гарячої та холодної води (бар)">1,50</param>
+        <param name="Матеріал виробу">Цинковий сплав</param>
+        <param name="Картридж чи кран букса">Картридж</param>
+        <param name="Мінімальна температура води (°C)">5</param>
+        <param name="Тип керування">Одноважільні</param>
+        <param name="Діаметр картриджа (мм)">40</param>
+        <param name="Максимальний тиск (бар)">10,00</param>
+        <param name="Робочий тиск (бар)">1-5</param>
+        <param name="Довжина шланга підключення">50 см</param>
+        <param name="Діаметр шланга підключення">1/2</param>
+        <param name="Мінімальний тиск (бар)">0,50</param>
+        <param name="Гарантія на деталі змішувача (міс)">12</param>
+        <param name="Комплектація">Гнучка підводка, аератор, кріпильний елемент</param>
+        <param name="Гарантія на корпус змішувача (міс)">60</param>
+        <param name="Тип виробу">Змішувачі для кухні</param>
+        <param name="Група товару">Змішувачі</param>
+        <param name="Торгова марка">ZERIX</param>
+        <param name="Тип монтажу">Врізні</param>
+        <param name="Країна виробник">Китай</param>
+        <param name="Модель">Z59219</param>
+        <param name="Країна бренду">Чехія</param>
+        <param name="Вид виробу">Змішувачі для кухні високі</param>
+        <param name="Колір">Хром</param>
+        <param name="Покриття">З покриттям</param>
+        <param name="Стиль">Класичний</param>
+        <param name="Тип виливу">Поворотний</param>
+        <param name="Загальна довжина (мм)">250</param>
+        <param name="Висота до виливу (мм)">190</param>
+        <param name="Висота змішувача (см)">21-25</param>
+        <param name="Довжина виливу (мм)">220</param>
+        <param name="Висота змішувача (мм)">240</param>
+        <param name="Довжина виливу (см)">21-25</param>
+      </offer>
       <offer id="MI8267" available="true">
         <url>https://ol.partners/products/zmishuvachi-ta-krani/zmishuvachi-dlya-kukhni/zmishuvach-na-kukhnyu-z-gnuchkim-silikonovim-vilivom/zmishuvach-dlya-kukhni-mixxus-premium-matis-011t-nut-reflgray-kolir-khromsilik-viliv-siriy-mi8267</url>
         <price>1767.00</price>
@@ -221484,7 +221687,7 @@
         <param name="Робочий тиск (бар)">1,5</param>
       </offer>
       <offer id="KR6563" available="true">
-        <url>https://ol.partners/products/radiator-trubchastiy-dizaynerskiy-koer-orbisuc318008wh-universalne-pidklyuchennya-kolir-biliy-kr6563</url>
+        <url>https://ol.partners/products/radiatori-opalennya/stalevi-radiatori/radiator-trubchastiy-dizaynerskiy-koer-orbisuc318008wh-universalne-pidklyuchennya-kolir-biliy-kr6563</url>
         <price>14720.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>3132911f-cdca-4d9e-8962-65eca0671d10</categoryId>
@@ -221499,7 +221702,24 @@
         <param name="Од. в упак.">1</param>
         <param name="Об'єм ящ.">0</param>
         <param name="Вага ящ.">0</param>
+        <param name="Тип виробу">Дизайнерські радіатори</param>
         <param name="Торгова марка">KOER</param>
+        <param name="Країна бренду">Чехія</param>
+        <param name="Призначення">Для опалення</param>
+        <param name="Модель">ORBIS-UC3-180-08-WH</param>
+        <param name="Робочий тиск (бар)">10</param>
+        <param name="Різьблення">1/2"</param>
+        <param name="Підключення">Універсальне: нижнє 50 мм + бічне</param>
+        <param name="Гарантійний період (міс)">120</param>
+        <param name="Комплектація">Кріплення, термоклапан</param>
+        <param name="Максимальна температура робочої рідини (°C)">95</param>
+        <param name="Висота (мм)">1800</param>
+        <param name="Об'єм (л)">17,00</param>
+        <param name="Товщина стінки (мм)">1,50</param>
+        <param name="Глибина (мм)">100</param>
+        <param name="Вага (кг)">42,40</param>
+        <param name="Ширина (мм)">380</param>
+        <param name="Колір">Білий</param>
       </offer>
       <offer id="ZX5888" available="true">
         <url>https://ol.partners/products/aksesuari-dlya-vannoi/vidro-dlya-smittya/vidro-dlya-smittya-z-plavnim-zakrittyam-krugle-zerix-solotc0205-ss-color-5l-kolir-nerzhaviyka-zx5888</url>
@@ -221553,7 +221773,7 @@
         <param name="Гарантійний період (міс)">12</param>
         <param name="Комплектація">Корпус відра з кришкою, внутрішнє відро</param>
       </offer>
-      <offer id="KR0097" available="false">
+      <offer id="KR0097" available="true">
         <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/krani/kran-z-amerikankoyu-polusgin/kran-z-amerikankoyu-34-koer-kr227w-biliy-kr0097</url>
         <price>471.00</price>
         <currencyId>UAH</currencyId>
@@ -221562,8 +221782,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/b110ff87-0e21-4935-80c4-82c98cdd6fd8/image_01.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/b110ff87-0e21-4935-80c4-82c98cdd6fd8/image_04_KR0097.jpg</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Кран з американкою 3/4" (Koer KR.227.W) білий (KR0097)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR0097</vendorCode>
@@ -229490,7 +229710,7 @@
         <param name="Гарантія на деталі змішувача (міс)">1</param>
         <param name="Довжина виливу (мм)">440</param>
       </offer>
-      <offer id="KR3103" available="true">
+      <offer id="KR3103" available="false">
         <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/filtr-gruboi-ochistki/filtr-gazoviy-12-koer-kgf01a-kr3103</url>
         <price>184.00</price>
         <currencyId>UAH</currencyId>
@@ -229498,8 +229718,8 @@
         <picture>https://ol.partners/Products/Photo/7652903F-AE94-4BA4-803E-6F6206E97FDE</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/fb59c48d-5e4a-48bb-8b72-044e4294765a/image_01.jpg</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Фільтр газовий 1/2" Koer KG.F01.A (KR3103)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR3103</vendorCode>
@@ -230984,7 +231204,7 @@
         <param name="Комплектація">Аератор, ексцентрики, чашки, гумові прокладки</param>
       </offer>
       <offer id="KR6555" available="true">
-        <url>https://ol.partners/products/radiator-trubchastiy-dizaynerskiy-koer-orbisuc218014bl-universalne-pidklyuchennya-kolir-chorniy-kr6555</url>
+        <url>https://ol.partners/products/radiatori-opalennya/stalevi-radiatori/radiator-trubchastiy-dizaynerskiy-koer-orbisuc218014bl-universalne-pidklyuchennya-kolir-chorniy-kr6555</url>
         <price>18327.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>3132911f-cdca-4d9e-8962-65eca0671d10</categoryId>
@@ -230999,7 +231219,24 @@
         <param name="Од. в упак.">1</param>
         <param name="Об'єм ящ.">0</param>
         <param name="Вага ящ.">0</param>
+        <param name="Вага (кг)">49,60</param>
+        <param name="Об'єм (л)">20,00</param>
+        <param name="Висота (мм)">1800</param>
+        <param name="Товщина стінки (мм)">1,50</param>
+        <param name="Ширина (мм)">650</param>
+        <param name="Глибина (мм)">68</param>
+        <param name="Призначення">Для опалення</param>
+        <param name="Тип виробу">Дизайнерські радіатори</param>
+        <param name="Країна бренду">Чехія</param>
         <param name="Торгова марка">KOER</param>
+        <param name="Модель">ORBIS-UC2-180-14-BL</param>
+        <param name="Максимальна температура робочої рідини (°C)">95</param>
+        <param name="Комплектація">Кріплення, термоклапан</param>
+        <param name="Гарантійний період (міс)">120</param>
+        <param name="Робочий тиск (бар)">10</param>
+        <param name="Різьблення">1/2"</param>
+        <param name="Підключення">Універсальне: нижнє 50 мм + бічне</param>
+        <param name="Колір">Чорний</param>
       </offer>
       <offer id="HB3977" available="true">
         <url>https://ol.partners/products/zmishuvachi-ta-krani/zmishuvachi-dlya-umivalnika/zmishuvach-z-gigiyenichnim-dushem-dlya-umivalnika/zmishuvach-dlya-umivalnika-z-gigiyenichnim-dushem-haiba-alex-001sh-nut-kolir-khrom-hb3977</url>
@@ -234751,7 +234988,7 @@
         <param name="Покриття">Хром</param>
       </offer>
       <offer id="KR6564" available="true">
-        <url>https://ol.partners/products/radiator-trubchastiy-dizaynerskiy-koer-orbisuc318010wh-universalne-pidklyuchennya-kolir-biliy-kr6564</url>
+        <url>https://ol.partners/products/radiatori-opalennya/stalevi-radiatori/radiator-trubchastiy-dizaynerskiy-koer-orbisuc318010wh-universalne-pidklyuchennya-kolir-biliy-kr6564</url>
         <price>18032.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>3132911f-cdca-4d9e-8962-65eca0671d10</categoryId>
@@ -234766,7 +235003,24 @@
         <param name="Од. в упак.">1</param>
         <param name="Об'єм ящ.">0</param>
         <param name="Вага ящ.">0</param>
+        <param name="Ширина (мм)">470</param>
+        <param name="Глибина (мм)">100</param>
+        <param name="Висота (мм)">1800</param>
+        <param name="Об'єм (л)">21,30</param>
+        <param name="Товщина стінки (мм)">1,50</param>
+        <param name="Вага (кг)">53,30</param>
         <param name="Торгова марка">KOER</param>
+        <param name="Призначення">Для опалення</param>
+        <param name="Модель">ORBIS-UC3-180-10-WH</param>
+        <param name="Тип виробу">Дизайнерські радіатори</param>
+        <param name="Країна бренду">Чехія</param>
+        <param name="Колір">Білий</param>
+        <param name="Комплектація">Кріплення, термоклапан</param>
+        <param name="Максимальна температура робочої рідини (°C)">95</param>
+        <param name="Гарантійний період (міс)">120</param>
+        <param name="Різьблення">1/2"</param>
+        <param name="Підключення">Універсальне: нижнє 50 мм + бічне</param>
+        <param name="Робочий тиск (бар)">10</param>
       </offer>
       <offer id="MI8413" available="true">
         <url>https://ol.partners/products/sifoni-trapi-dlya-dushu/armatura-dlya-unitaziv/komplekt-armaturi-mixxus-button180412-spuskna-2kh-knopochna-napovnyuvalna-z-nizhnim-pidvedennyam-plastikove-rizblennya-12-mi8413</url>
@@ -235186,7 +235440,7 @@
         <param name="Колір">Сірий</param>
       </offer>
       <offer id="KR6565" available="true">
-        <url>https://ol.partners/products/radiator-trubchastiy-dizaynerskiy-koer-orbisuc318012wh-universalne-pidklyuchennya-kolir-biliy-kr6565</url>
+        <url>https://ol.partners/products/radiatori-opalennya/stalevi-radiatori/radiator-trubchastiy-dizaynerskiy-koer-orbisuc318012wh-universalne-pidklyuchennya-kolir-biliy-kr6565</url>
         <price>21271.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>3132911f-cdca-4d9e-8962-65eca0671d10</categoryId>
@@ -235201,7 +235455,24 @@
         <param name="Од. в упак.">1</param>
         <param name="Об'єм ящ.">0</param>
         <param name="Вага ящ.">0</param>
+        <param name="Максимальна температура робочої рідини (°C)">95</param>
+        <param name="Комплектація">Кріплення, термоклапан</param>
+        <param name="Гарантійний період (міс)">120</param>
         <param name="Торгова марка">KOER</param>
+        <param name="Тип виробу">Дизайнерські радіатори</param>
+        <param name="Модель">ORBIS-UC3-180-12-WH</param>
+        <param name="Країна бренду">Чехія</param>
+        <param name="Призначення">Для опалення</param>
+        <param name="Різьблення">1/2"</param>
+        <param name="Підключення">Універсальне: нижнє 50 мм + бічне</param>
+        <param name="Робочий тиск (бар)">10</param>
+        <param name="Глибина (мм)">100</param>
+        <param name="Вага (кг)">63,30</param>
+        <param name="Висота (мм)">1800</param>
+        <param name="Товщина стінки (мм)">1,50</param>
+        <param name="Ширина (мм)">560</param>
+        <param name="Об'єм (л)">25,50</param>
+        <param name="Колір">Білий</param>
       </offer>
       <offer id="KP2912" available="true">
         <url>https://ol.partners/products/truboprovodi-ta-zyednannya/fitingi/zyednannya-dlya-trub-z-polipropilenu/mufta-rozyemna-universalna-koer-k0268pro-20-ppr-kp2912</url>
@@ -238910,7 +239181,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/5e3c20b3-01ed-493c-b5db-798d122922d5/image_03.jpg</picture>
         <vendor>MIXXUS</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Душова кабіна з низьким піддоном MIXXUS LINES SCT01-90x90x198-TR GRAPHITE прозоре скло 6мм (MI6914)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>MI6914</vendorCode>
@@ -247995,7 +248266,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/4aba2eb5-b3ea-4196-9fd4-853cd69923e4/image_01.jpg</picture>
         <vendor>MIXXUS</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Комплект роликів для душових кабін подвійні колеса MIXXUS ROLLERS SCP03-4x4 GRAPHITE 4 верхні + 4 нижні колір сірий (MI8163)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>MI8163</vendorCode>
@@ -251651,7 +251922,7 @@
         <param name="Гарантія на корпус змішувача (міс)">60</param>
         <param name="Гарантія на деталі змішувача (міс)">12</param>
       </offer>
-      <offer id="ZX5975" available="true">
+      <offer id="ZX5975" available="false">
         <url>https://ol.partners/products/zmishuvachi-ta-krani/zmishuvachi-dlya-vanni/zmishuvach-dlya-vanni-z-povorotnim-vilivom/zmishuvach-dlya-vanni-zerix-lor3124-zx5975</url>
         <price>1369.00</price>
         <currencyId>UAH</currencyId>
@@ -251659,8 +251930,8 @@
         <picture>https://ol.partners/Products/Photo/01A5125B-B038-40CE-AB00-CC3CE06193DB</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/3b8817a5-7202-480d-9139-168b2e286a43/image_01.jpg</picture>
         <vendor>ZERIX</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Змішувач для ванни ZERIX LOR3-124 (ZX5975)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>ZX5975</vendorCode>
@@ -253677,7 +253948,7 @@
         <param name="Стиль">Класичний</param>
       </offer>
       <offer id="KR6552" available="true">
-        <url>https://ol.partners/products/radiator-trubchastiy-dizaynerskiy-koer-orbisuc218008bl-universalne-pidklyuchennya-kolir-chorniy-kr6552</url>
+        <url>https://ol.partners/products/radiatori-opalennya/stalevi-radiatori/radiator-trubchastiy-dizaynerskiy-koer-orbisuc218008bl-universalne-pidklyuchennya-kolir-chorniy-kr6552</url>
         <price>11188.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>3132911f-cdca-4d9e-8962-65eca0671d10</categoryId>
@@ -253692,7 +253963,24 @@
         <param name="Од. в упак.">1</param>
         <param name="Об'єм ящ.">0</param>
         <param name="Вага ящ.">0</param>
+        <param name="Робочий тиск (бар)">10</param>
+        <param name="Різьблення">1/2"</param>
+        <param name="Підключення">Універсальне: нижнє 50 мм + бічне</param>
+        <param name="Об'єм (л)">11,40</param>
+        <param name="Ширина (мм)">380</param>
+        <param name="Висота (мм)">1800</param>
+        <param name="Вага (кг)">29,30</param>
+        <param name="Товщина стінки (мм)">1,50</param>
+        <param name="Глибина (мм)">68</param>
+        <param name="Колір">Чорний</param>
+        <param name="Гарантійний період (міс)">120</param>
+        <param name="Максимальна температура робочої рідини (°C)">95</param>
+        <param name="Комплектація">Кріплення, термоклапан</param>
+        <param name="Тип виробу">Дизайнерські радіатори</param>
         <param name="Торгова марка">KOER</param>
+        <param name="Призначення">Для опалення</param>
+        <param name="Модель">ORBIS-UC2-180-08-BL</param>
+        <param name="Країна бренду">Чехія</param>
       </offer>
       <offer id="HB0982" available="true">
         <url>https://ol.partners/products/miyki-dlya-kukhni/vrizni-miyki/miyka-kukhonna-haiba-hb8311g322-beige-570x450x180-hb0982</url>
@@ -261858,7 +262146,7 @@
         <param name="Діаметр підключення (дюйм)">1</param>
       </offer>
       <offer id="KR6542" available="true">
-        <url>https://ol.partners/products/radiator-trubchastiy-dizaynerskiy-koer-orbisuc218008wh-universalne-pidklyuchennya-kolir-biliy-kr6542</url>
+        <url>https://ol.partners/products/radiatori-opalennya/stalevi-radiatori/radiator-trubchastiy-dizaynerskiy-koer-orbisuc218008wh-universalne-pidklyuchennya-kolir-biliy-kr6542</url>
         <price>11188.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>3132911f-cdca-4d9e-8962-65eca0671d10</categoryId>
@@ -261873,7 +262161,24 @@
         <param name="Од. в упак.">1</param>
         <param name="Об'єм ящ.">0</param>
         <param name="Вага ящ.">0</param>
+        <param name="Колір">Білий</param>
+        <param name="Країна бренду">Чехія</param>
         <param name="Торгова марка">KOER</param>
+        <param name="Призначення">Для опалення</param>
+        <param name="Модель">ORBIS-UC2-180-08-WH</param>
+        <param name="Тип виробу">Дизайнерські радіатори</param>
+        <param name="Гарантійний період (міс)">120</param>
+        <param name="Комплектація">Кріплення, термоклапан</param>
+        <param name="Максимальна температура робочої рідини (°C)">95</param>
+        <param name="Глибина (мм)">68</param>
+        <param name="Вага (кг)">29,30</param>
+        <param name="Товщина стінки (мм)">1,50</param>
+        <param name="Ширина (мм)">380</param>
+        <param name="Об'єм (л)">11,40</param>
+        <param name="Висота (мм)">1800</param>
+        <param name="Підключення">Універсальне: нижнє 50 мм + бічне</param>
+        <param name="Різьблення">1/2"</param>
+        <param name="Робочий тиск (бар)">10</param>
       </offer>
       <offer id="MI6638" available="true">
         <url>https://ol.partners/products/rushnikosushki/komplektuyuchi-do-rushnikosushok/chashka-dekorativna-krugla-mixxus-tcc01-black-dlya-maskuvannya-kabelyu-kolir-chorniy-mi6638</url>
@@ -271381,7 +271686,7 @@
         <param name="Гарантійний період (міс)">84</param>
       </offer>
       <offer id="KR6562" available="true">
-        <url>https://ol.partners/products/radiator-trubchastiy-dizaynerskiy-koer-orbisuc318006wh-universalne-pidklyuchennya-kolir-biliy-kr6562</url>
+        <url>https://ol.partners/products/radiatori-opalennya/stalevi-radiatori/radiator-trubchastiy-dizaynerskiy-koer-orbisuc318006wh-universalne-pidklyuchennya-kolir-biliy-kr6562</url>
         <price>11482.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>3132911f-cdca-4d9e-8962-65eca0671d10</categoryId>
@@ -271396,7 +271701,24 @@
         <param name="Од. в упак.">1</param>
         <param name="Об'єм ящ.">0</param>
         <param name="Вага ящ.">0</param>
+        <param name="Гарантійний період (міс)">120</param>
+        <param name="Комплектація">Кріплення, термоклапан</param>
+        <param name="Максимальна температура робочої рідини (°C)">95</param>
+        <param name="Підключення">Універсальне: нижнє 50 мм + бічне</param>
+        <param name="Робочий тиск (бар)">10</param>
+        <param name="Різьблення">1/2"</param>
+        <param name="Колір">Білий</param>
+        <param name="Країна бренду">Чехія</param>
+        <param name="Модель">ORBIS-UC3-180-06-WH</param>
+        <param name="Призначення">Для опалення</param>
+        <param name="Тип виробу">Дизайнерські радіатори</param>
         <param name="Торгова марка">KOER</param>
+        <param name="Висота (мм)">1800</param>
+        <param name="Глибина (мм)">100</param>
+        <param name="Товщина стінки (мм)">1,50</param>
+        <param name="Об'єм (л)">12,80</param>
+        <param name="Ширина (мм)">290</param>
+        <param name="Вага (кг)">33,40</param>
       </offer>
       <offer id="KR6002" available="true">
         <url>https://ol.partners/products/dushovi-koloni-ta-sistemi/dushovi-koloni/dushova-kolona-zi-zmishuvachem-koer-kb5603707-3-funktsii-kolir-grafit-kr6002</url>
@@ -273217,7 +273539,7 @@
         <param name="Тип виливу">Поворотний</param>
         <param name="Колір">Хром</param>
       </offer>
-      <offer id="NF3167" available="true">
+      <offer id="NF3167" available="false">
         <url>https://ol.partners/products/truboprovodi-ta-zyednannya/fitingi/rizbovi-zyednannya/zaglushka-nolf-nfcp06f12-f-nf3167</url>
         <price>22.00</price>
         <currencyId>UAH</currencyId>
@@ -273225,8 +273547,8 @@
         <picture>https://ol.partners/Products/Photo/74110B9B-5288-429D-83F4-1CCBA570D6C4</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/8b7cd275-490a-4f55-b0d3-45c23e0ffc11/image_02.jpg</picture>
         <vendor>NOLF</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Заглушка NOLF NFC.P06F-1/2" F (NF3167)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>NF3167</vendorCode>
@@ -290346,8 +290668,8 @@
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR6430</vendorCode>
         <param name="Од. в упак.">30</param>
-        <param name="Об'єм ящ.">0</param>
-        <param name="Вага ящ.">0</param>
+        <param name="Об'єм ящ.">0.022</param>
+        <param name="Вага ящ.">7.1</param>
         <param name="Діапазон температури робочого середовища Тр (°С)">до +120°C (при використанні ущільнювальних кілець з EPDM) / до +140°C (при використанні ущільнювальних кілець FKM)</param>
         <param name="Тип конструкції">Однорозтрубна 45°</param>
         <param name="Модуль пружності сталі (ГПа)">193</param>
@@ -292398,7 +292720,7 @@
         <param name="Гарантійний період (міс)">12</param>
       </offer>
       <offer id="KR6541" available="true">
-        <url>https://ol.partners/products/radiator-trubchastiy-dizaynerskiy-koer-orbisuc218006wh-universalne-pidklyuchennya-kolir-biliy-kr6541</url>
+        <url>https://ol.partners/products/radiatori-opalennya/stalevi-radiatori/radiator-trubchastiy-dizaynerskiy-koer-orbisuc218006wh-universalne-pidklyuchennya-kolir-biliy-kr6541</url>
         <price>8759.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>3132911f-cdca-4d9e-8962-65eca0671d10</categoryId>
@@ -292413,7 +292735,24 @@
         <param name="Од. в упак.">1</param>
         <param name="Об'єм ящ.">0</param>
         <param name="Вага ящ.">0</param>
+        <param name="Модель">ORBIS-UC2-180-06-WH</param>
+        <param name="Тип виробу">Дизайнерські радіатори</param>
+        <param name="Країна бренду">Чехія</param>
         <param name="Торгова марка">KOER</param>
+        <param name="Призначення">Для опалення</param>
+        <param name="Вага (кг)">22,60</param>
+        <param name="Глибина (мм)">68</param>
+        <param name="Товщина стінки (мм)">1,50</param>
+        <param name="Висота (мм)">1800</param>
+        <param name="Ширина (мм)">290</param>
+        <param name="Об'єм (л)">8,60</param>
+        <param name="Різьблення">1/2"</param>
+        <param name="Підключення">Універсальне: нижнє 50 мм + бічне</param>
+        <param name="Робочий тиск (бар)">10</param>
+        <param name="Гарантійний період (міс)">120</param>
+        <param name="Максимальна температура робочої рідини (°C)">95</param>
+        <param name="Комплектація">Кріплення, термоклапан</param>
+        <param name="Колір">Білий</param>
       </offer>
       <offer id="PM0622" available="true">
         <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/krani/krani-kulovi/kran-kuloviy-plamix-pvm1-14-fm-pvc-pm0622</url>
@@ -300774,7 +301113,7 @@
         <picture>https://ol.partners/Products/Photo/A6247A5A-411C-4884-8643-C99342A169C7</picture>
         <vendor>ZERIX</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Змішувач для кухні Zerix Z5860-7 (білі ручки) (ZX0349)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>ZX0349</vendorCode>
@@ -307260,7 +307599,7 @@
         <param name="Довжина виливу (мм)">130</param>
       </offer>
       <offer id="KR6567" available="true">
-        <url>https://ol.partners/products/radiator-trubchastiy-dizaynerskiy-koer-orbisuc318006an-universalne-pidklyuchennya-kolir-antratsit-kr6567</url>
+        <url>https://ol.partners/products/radiatori-opalennya/stalevi-radiatori/radiator-trubchastiy-dizaynerskiy-koer-orbisuc318006an-universalne-pidklyuchennya-kolir-antratsit-kr6567</url>
         <price>11482.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>3132911f-cdca-4d9e-8962-65eca0671d10</categoryId>
@@ -307275,7 +307614,24 @@
         <param name="Од. в упак.">1</param>
         <param name="Об'єм ящ.">0</param>
         <param name="Вага ящ.">0</param>
+        <param name="Колір">Антрацит</param>
+        <param name="Об'єм (л)">12,80</param>
+        <param name="Ширина (мм)">290</param>
+        <param name="Товщина стінки (мм)">1,50</param>
+        <param name="Глибина (мм)">100</param>
+        <param name="Вага (кг)">33,40</param>
+        <param name="Висота (мм)">1800</param>
+        <param name="Тип виробу">Дизайнерські радіатори</param>
+        <param name="Модель">ORBIS-UC3-180-06-AN</param>
         <param name="Торгова марка">KOER</param>
+        <param name="Призначення">Для опалення</param>
+        <param name="Країна бренду">Чехія</param>
+        <param name="Робочий тиск (бар)">10</param>
+        <param name="Підключення">Універсальне: нижнє 50 мм + бічне</param>
+        <param name="Різьблення">1/2"</param>
+        <param name="Гарантійний період (міс)">120</param>
+        <param name="Комплектація">Кріплення, термоклапан</param>
+        <param name="Максимальна температура робочої рідини (°C)">95</param>
       </offer>
       <offer id="KR6398" available="true">
         <url>https://ol.partners/products/truboprovodi-ta-zyednannya/fitingi/presfitingi-iz-nerzhaviyuchoi-stali-pressinox/kolino-90-odnoroztrubne-vz-koer-kql54-pressinox-aisi-304-54x54-kr6398</url>
@@ -317893,7 +318249,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/ef864be3-6321-4527-8a5b-e0e0de64495f/image_01.jpg</picture>
         <vendor>MIXXUS</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Диспенсер для мийного засобу врізний MIXXUS DIS-03.SUS BLACK з нерж. сталі SUS304 (колір чорний) (300 мл) (MI7155)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>MI7155</vendorCode>
@@ -336667,6 +337023,92 @@
         <param name="Стиль">Класичний</param>
         <param name="Колір">Хром</param>
       </offer>
+      <offer id="KR3023" available="true">
+        <url>https://ol.partners/products/truboprovodi-ta-zyednannya/fitingi/rizbovi-zyednannya/zaglushka-koer-kfp06mwn-12-n-bez-nikelyu-kr3023</url>
+        <price>47.00</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>db9f0036-af30-49ab-b12c-3a63aea8a391</categoryId>
+        <picture>https://ol.partners/Products/Photo/731BE8E3-FE20-4BD4-8927-C82DCAC69FF8</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/77fc0eff-8426-4538-b659-75c3b0717c12/image_04_KF0004.jpg</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/77fc0eff-8426-4538-b659-75c3b0717c12/image_01.jpg</picture>
+        <vendor>KOER</vendor>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Достатньо</availabilityStatus>
+        <name>Заглушка Koer KF.P06M.WN - 1/2'' Н (без нікелю) (KR3023)</name>
+        <description>&lt;![CDATA[]]&gt;</description>
+        <vendorCode>KR3023</vendorCode>
+        <param name="Од. в упак.">400</param>
+        <param name="Об'єм ящ.">0.014</param>
+        <param name="Вага ящ.">12</param>
+        <param name="A (мм)">17,00</param>
+        <param name="G (дюйм)">1/2</param>
+        <param name="Вага (г)">28,00</param>
+        <param name="Діаметр підключення (дюйм)">1/2</param>
+        <param name="Колір">Латунний</param>
+        <param name="Покриття">Немає</param>
+        <param name="Вид виробу">Заглушка</param>
+        <param name="Тип">Заглушка</param>
+        <param name="Країна бренду">Чехія</param>
+        <param name="Призначення">Для труб</param>
+        <param name="Модель">KF.P06M.WN</param>
+        <param name="Тип виробу">Латунний фітинг</param>
+        <param name="Торгова марка">KOER</param>
+        <param name="Матеріал">Латунь CW617N</param>
+        <param name="Тип з'єднання">Різьбовий</param>
+        <param name="Номінальний тиск (бар)">40,00</param>
+        <param name="Гарантійний період (міс)">84</param>
+      </offer>
+      <offer id="MX0006" available="true">
+        <url>https://ol.partners/products/zmishuvachi-ta-krani/zmishuvachi-dlya-umivalnika/odnovazhilniy-zmishuvach-dlya-rakovini/zmishuvach-dlya-umivalnika-mixxus-oregon-001-nut-black-kolir-chorniy-mx0006</url>
+        <price>1215.00</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>7bd5f9e6-540a-4542-b449-789ef0743d5f</categoryId>
+        <picture>https://ol.partners/Products/Photo/21672BF5-8462-4910-A16C-A4E97F64AD9F</picture>
+        <vendor>MIXXUS</vendor>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Достатньо</availabilityStatus>
+        <name>Змішувач для умивальника MIXXUS OREGON 001 NUT BLACK (Колір чорний) (MX0006)</name>
+        <description>&lt;![CDATA[]]&gt;</description>
+        <vendorCode>MX0006</vendorCode>
+        <param name="Од. в упак.">10</param>
+        <param name="Об'єм ящ.">0.029</param>
+        <param name="Вага ящ.">11.8</param>
+        <param name="Група товару">Змішувачі</param>
+        <param name="Торгова марка">MIXXUS</param>
+        <param name="Країна виробник">Китай</param>
+        <param name="Вид виробу">Змішувачі для умивальника низькі</param>
+        <param name="Тип виробу">Змішувачі для умивальника</param>
+        <param name="Модель">1</param>
+        <param name="Країна бренду">Німеччина</param>
+        <param name="Тип монтажу">Врізні</param>
+        <param name="Серія">OREGON</param>
+        <param name="Колір">Чорний матовий</param>
+        <param name="Тип виливу">Литий</param>
+        <param name="Покриття">З покриттям</param>
+        <param name="Стиль">Класичний</param>
+        <param name="Висота до виливу (мм)">90</param>
+        <param name="Довжина виливу (см)">11-15</param>
+        <param name="Висота змішувача (см)">16-20</param>
+        <param name="Загальна довжина (мм)">150</param>
+        <param name="Довжина виливу (мм)">110</param>
+        <param name="Висота змішувача (мм)">160</param>
+        <param name="Максимальний тиск (бар)">10,00</param>
+        <param name="Картридж чи кран букса">Картридж</param>
+        <param name="Максимальна температура води (°C)">90</param>
+        <param name="Мінімальна температура води (°C)">5</param>
+        <param name="Тип керування">Одноважільні</param>
+        <param name="Тип кріплення">Гайка</param>
+        <param name="Матеріал виробу">Цинковий сплав</param>
+        <param name="Мінімальний тиск (бар)">0,50</param>
+        <param name="MAX різниця тиску гарячої та холодної води (бар)">1,50</param>
+        <param name="Діаметр шланга підключення">1/2</param>
+        <param name="Робочий тиск (бар)">1-5</param>
+        <param name="Діаметр картриджа (мм)">35</param>
+        <param name="Довжина шланга підключення">50 см</param>
+        <param name="Комплектація">Гнучка підводка, аератор, посилена гайка</param>
+        <param name="Гарантія на корпус змішувача (міс)">60</param>
+        <param name="Гарантія на деталі змішувача (міс)">12</param>
+      </offer>
       <offer id="GU0001" available="true">
         <url>https://ol.partners/products/zapchastini-dlya-zmishuvacha/vilivi-dlya-zmishuvacha/gusak-dlya-zmishuvacha-haiba-m7235f-35-sm-gu0001</url>
         <price>258.00</price>
@@ -338564,8 +339006,8 @@
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR6428</vendorCode>
         <param name="Од. в упак.">120</param>
-        <param name="Об'єм ящ.">0</param>
-        <param name="Вага ящ.">0</param>
+        <param name="Об'єм ящ.">0.022</param>
+        <param name="Вага ящ.">13.45</param>
         <param name="Максимальний робочий тиск (бар)">16</param>
         <param name="Матеріал">Нержавіюча сталь AISI 304</param>
         <param name="Міцність сталі на розрив (бар)">5200</param>
@@ -340984,15 +341426,15 @@
         <param name="Гарантія на корпус змішувача (міс)">60</param>
         <param name="Комплектація">Гігієнічна лійка, корпус, душовий шланг, ексцентрики</param>
       </offer>
-      <offer id="MI6409" available="true">
+      <offer id="MI6409" available="false">
         <url>https://ol.partners/products/zmishuvachi-ta-krani/zmishuvachi-dlya-vanni/zmishuvach-dlya-vanni-z-povorotnim-vilivom/zmishuvach-dlya-vanni-champion-dmtb-140827-euro-mi6409</url>
         <price>1168.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>c2f36242-64cb-47db-b8a9-e32c00e667c8</categoryId>
         <picture>https://ol.partners/Products/Photo/7F852AE6-91A4-4E00-8813-BF9E3B6123F9</picture>
         <vendor>CHAMPION</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Змішувач для ванни Champion DMT-B 140-827 (EURO) (MI6409)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>MI6409</vendorCode>
@@ -356898,7 +357340,7 @@
         <param name="Особливості">З гнучким силіконовим зливом</param>
       </offer>
       <offer id="KR6568" available="true">
-        <url>https://ol.partners/products/radiator-trubchastiy-dizaynerskiy-koer-orbisuc318008an-universalne-pidklyuchennya-kolir-antratsit-kr6568</url>
+        <url>https://ol.partners/products/radiatori-opalennya/stalevi-radiatori/radiator-trubchastiy-dizaynerskiy-koer-orbisuc318008an-universalne-pidklyuchennya-kolir-antratsit-kr6568</url>
         <price>14720.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>3132911f-cdca-4d9e-8962-65eca0671d10</categoryId>
@@ -356913,7 +357355,24 @@
         <param name="Од. в упак.">1</param>
         <param name="Об'єм ящ.">0</param>
         <param name="Вага ящ.">0</param>
+        <param name="Максимальна температура робочої рідини (°C)">95</param>
+        <param name="Гарантійний період (міс)">120</param>
+        <param name="Комплектація">Кріплення, термоклапан</param>
+        <param name="Колір">Антрацит</param>
+        <param name="Об'єм (л)">17,00</param>
+        <param name="Ширина (мм)">380</param>
+        <param name="Висота (мм)">1800</param>
+        <param name="Вага (кг)">42,40</param>
+        <param name="Глибина (мм)">100</param>
+        <param name="Товщина стінки (мм)">1,50</param>
+        <param name="Країна бренду">Чехія</param>
+        <param name="Призначення">Для опалення</param>
+        <param name="Тип виробу">Дизайнерські радіатори</param>
         <param name="Торгова марка">KOER</param>
+        <param name="Модель">ORBIS-UC3-180-08-AN</param>
+        <param name="Робочий тиск (бар)">10</param>
+        <param name="Різьблення">1/2"</param>
+        <param name="Підключення">Універсальне: нижнє 50 мм + бічне</param>
       </offer>
       <offer id="LL1451" available="true">
         <url>https://ol.partners/products/aksesuari-dlya-vannoi/politsi-u-vannu/politsya-u-vannu-kutova-zerix-lr335-ll1451</url>
@@ -358527,7 +358986,7 @@
         <param name="Матеріал">Латунь CW617N</param>
       </offer>
       <offer id="KR6551" available="true">
-        <url>https://ol.partners/products/radiator-trubchastiy-dizaynerskiy-koer-orbisuc218006bl-universalne-pidklyuchennya-kolir-chorniy-kr6551</url>
+        <url>https://ol.partners/products/radiatori-opalennya/stalevi-radiatori/radiator-trubchastiy-dizaynerskiy-koer-orbisuc218006bl-universalne-pidklyuchennya-kolir-chorniy-kr6551</url>
         <price>8759.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>3132911f-cdca-4d9e-8962-65eca0671d10</categoryId>
@@ -358542,7 +359001,24 @@
         <param name="Од. в упак.">1</param>
         <param name="Об'єм ящ.">0</param>
         <param name="Вага ящ.">0</param>
+        <param name="Країна бренду">Чехія</param>
+        <param name="Призначення">Для опалення</param>
+        <param name="Тип виробу">Дизайнерські радіатори</param>
         <param name="Торгова марка">KOER</param>
+        <param name="Модель">ORBIS-UC2-180-06-BL</param>
+        <param name="Товщина стінки (мм)">1,50</param>
+        <param name="Ширина (мм)">290</param>
+        <param name="Глибина (мм)">68</param>
+        <param name="Об'єм (л)">8,60</param>
+        <param name="Вага (кг)">22,60</param>
+        <param name="Висота (мм)">1800</param>
+        <param name="Колір">Чорний</param>
+        <param name="Максимальна температура робочої рідини (°C)">95</param>
+        <param name="Комплектація">Кріплення, термоклапан</param>
+        <param name="Гарантійний період (міс)">120</param>
+        <param name="Підключення">Універсальне: нижнє 50 мм + бічне</param>
+        <param name="Робочий тиск (бар)">10</param>
+        <param name="Різьблення">1/2"</param>
       </offer>
       <offer id="KR3448" available="true">
         <url>https://ol.partners/products/zmishuvachi-ta-krani/zmishuvachi-dlya-umivalnika/odnovazhilniy-zmishuvach-dlya-rakovini/zmishuvach-dlya-umivalnika-visokiy-vodospad-koer-kb1500701-kolir-khrom-kr3448</url>
@@ -358732,7 +359208,7 @@
         <param name="Комплектація">Корпус відра з кришкою, внутрішнє відро</param>
         <param name="Гарантійний період (міс)">12</param>
       </offer>
-      <offer id="38732SH0" available="false">
+      <offer id="38732SH0" available="true">
         <url>https://ol.partners/products/instalyatsii-ta-klavishi/klavishi-zmivu-ta-komplektuyuchi/panel-zmivu-grohe-skate-cosmopolitan-38732sh0</url>
         <price>1599.00</price>
         <currencyId>UAH</currencyId>
@@ -358746,8 +359222,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/9dfbbfb3-7b40-4c20-baa6-9b8972b39e7e/image_06.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/9dfbbfb3-7b40-4c20-baa6-9b8972b39e7e/image_08.jpg</picture>
         <vendor>GROHE</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Панель змиву Grohe Skate Cosmopolitan (38732SH0)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>38732SH0</vendorCode>
@@ -384431,7 +384907,7 @@
         <param name="Висота (мм)">700</param>
       </offer>
       <offer id="KR6571" available="true">
-        <url>https://ol.partners/products/radiator-trubchastiy-dizaynerskiy-koer-orbisuc318014an-universalne-pidklyuchennya-kolir-antratsit-kr6571</url>
+        <url>https://ol.partners/products/radiatori-opalennya/stalevi-radiatori/radiator-trubchastiy-dizaynerskiy-koer-orbisuc318014an-universalne-pidklyuchennya-kolir-antratsit-kr6571</url>
         <price>24509.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>3132911f-cdca-4d9e-8962-65eca0671d10</categoryId>
@@ -384446,7 +384922,24 @@
         <param name="Од. в упак.">1</param>
         <param name="Об'єм ящ.">0</param>
         <param name="Вага ящ.">0</param>
+        <param name="Країна бренду">Чехія</param>
+        <param name="Тип виробу">Дизайнерські радіатори</param>
+        <param name="Призначення">Для опалення</param>
+        <param name="Модель">ORBIS-UC3-180-14-AN</param>
         <param name="Торгова марка">KOER</param>
+        <param name="Комплектація">Кріплення, термоклапан</param>
+        <param name="Максимальна температура робочої рідини (°C)">95</param>
+        <param name="Гарантійний період (міс)">120</param>
+        <param name="Об'єм (л)">29,80</param>
+        <param name="Ширина (мм)">650</param>
+        <param name="Товщина стінки (мм)">1,50</param>
+        <param name="Вага (кг)">73,80</param>
+        <param name="Висота (мм)">1800</param>
+        <param name="Глибина (мм)">100</param>
+        <param name="Різьблення">1/2"</param>
+        <param name="Підключення">Універсальне: нижнє 50 мм + бічне</param>
+        <param name="Робочий тиск (бар)">10</param>
+        <param name="Колір">Антрацит</param>
       </offer>
       <offer id="MI6218" available="true">
         <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/krani/kran-dlya-pidklyuchennya-santekhpriboriv/kran-dlya-pidklyuchennya-santekhpriladiv-mixxus-val1012x34-z-nerzh-stali-sus304-kolir-siniy-mi6218</url>
@@ -385564,7 +386057,7 @@
         <picture>https://ol.partners/Products/Photo/46629A7E-F73C-4478-B4F5-E59D9CB0DE37</picture>
         <vendor>EUROPRODUCT</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Трійник 20x20x20 PPR Europroduct EP.0026 (EP4077)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>EP4077</vendorCode>
@@ -394384,7 +394877,7 @@
         <param name="Гарантійний період (міс)">12</param>
       </offer>
       <offer id="MP6719" available="false">
-        <url>https://ol.partners/products/keramika/rakovini/rakovina-podvesnayanakladnaya-mixxus-premium-quadro0204-600kh420kh130mm-otverstie-pod-smesitel-pereliv-mp6719</url>
+        <url>https://ol.partners/products/keramika/rakovini/rakovina-pidvisnanakladna-mixxus-premium-quadro0204-600kh420kh130mm-otvir-pid-zmishuvach-pereliv-mp6719</url>
         <price>3779.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>b1d75217-94ab-441f-8853-b061b6edea7f</categoryId>
@@ -398583,7 +399076,7 @@
         <param name="Гарантія на деталі змішувача (міс)">12</param>
       </offer>
       <offer id="KR6543" available="true">
-        <url>https://ol.partners/products/radiator-trubchastiy-dizaynerskiy-koer-orbisuc218010wh-universalne-pidklyuchennya-kolir-biliy-kr6543</url>
+        <url>https://ol.partners/products/radiatori-opalennya/stalevi-radiatori/radiator-trubchastiy-dizaynerskiy-koer-orbisuc218010wh-universalne-pidklyuchennya-kolir-biliy-kr6543</url>
         <price>13543.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>3132911f-cdca-4d9e-8962-65eca0671d10</categoryId>
@@ -398598,7 +399091,24 @@
         <param name="Од. в упак.">1</param>
         <param name="Об'єм ящ.">0</param>
         <param name="Вага ящ.">0</param>
+        <param name="Країна бренду">Чехія</param>
+        <param name="Призначення">Для опалення</param>
         <param name="Торгова марка">KOER</param>
+        <param name="Модель">ORBIS-UC2-180-10-WH</param>
+        <param name="Тип виробу">Дизайнерські радіатори</param>
+        <param name="Товщина стінки (мм)">1,50</param>
+        <param name="Вага (кг)">36,40</param>
+        <param name="Висота (мм)">1800</param>
+        <param name="Об'єм (л)">14,30</param>
+        <param name="Ширина (мм)">470</param>
+        <param name="Глибина (мм)">68</param>
+        <param name="Гарантійний період (міс)">120</param>
+        <param name="Максимальна температура робочої рідини (°C)">95</param>
+        <param name="Комплектація">Кріплення, термоклапан</param>
+        <param name="Різьблення">1/2"</param>
+        <param name="Робочий тиск (бар)">10</param>
+        <param name="Підключення">Універсальне: нижнє 50 мм + бічне</param>
+        <param name="Колір">Білий</param>
       </offer>
       <offer id="KP0021" available="true">
         <url>https://ol.partners/products/truboprovodi-ta-zyednannya/fitingi/zyednannya-dlya-trub-z-polipropilenu/kut-45-50-ppr-koer-k0017pro-kp0021</url>
@@ -401351,7 +401861,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/5db4db1c-f46c-4673-970e-36c07362a06e/image_12.jpg</picture>
         <vendor>GROHE</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Панель змиву Grohe Skate Cosmopolitan для унітазу (38732KF0)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>38732KF0</vendorCode>
@@ -408723,7 +409233,7 @@
         <param name="Робочий тиск (бар)">до 16</param>
         <param name="Колір">Сталевий</param>
       </offer>
-      <offer id="EP4979" available="false">
+      <offer id="EP4979" available="true">
         <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/kolektori/kolektorniy-blok-z-vitratomirami-europroduct-eps111003-1-x3-ep4979</url>
         <price>1667.00</price>
         <currencyId>UAH</currencyId>
@@ -408732,8 +409242,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/71d9b7a1-8229-4986-bc15-fc27dd9b1eda/image_01.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/71d9b7a1-8229-4986-bc15-fc27dd9b1eda/image_03_EP.S1110.jpg</picture>
         <vendor>EUROPRODUCT</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Колекторний блок з витратомірами Europroduct EP.S1110-03 1 "x3 (EP4979)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>EP4979</vendorCode>
@@ -412163,7 +412673,7 @@
         <param name="Поверхня">Глянцева</param>
       </offer>
       <offer id="KR6572" available="true">
-        <url>https://ol.partners/products/radiator-trubchastiy-dizaynerskiy-koer-orbisuc318006bl-universalne-pidklyuchennya-kolir-chorniy-kr6572</url>
+        <url>https://ol.partners/products/radiatori-opalennya/stalevi-radiatori/radiator-trubchastiy-dizaynerskiy-koer-orbisuc318006bl-universalne-pidklyuchennya-kolir-chorniy-kr6572</url>
         <price>11482.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>3132911f-cdca-4d9e-8962-65eca0671d10</categoryId>
@@ -412178,7 +412688,24 @@
         <param name="Од. в упак.">1</param>
         <param name="Об'єм ящ.">0</param>
         <param name="Вага ящ.">0</param>
+        <param name="Тип виробу">Дизайнерські радіатори</param>
+        <param name="Країна бренду">Чехія</param>
+        <param name="Модель">ORBIS-UC3-180-06-BL</param>
         <param name="Торгова марка">KOER</param>
+        <param name="Призначення">Для опалення</param>
+        <param name="Вага (кг)">33,40</param>
+        <param name="Об'єм (л)">12,80</param>
+        <param name="Висота (мм)">1800</param>
+        <param name="Товщина стінки (мм)">1,50</param>
+        <param name="Ширина (мм)">290</param>
+        <param name="Глибина (мм)">100</param>
+        <param name="Комплектація">Кріплення, термоклапан</param>
+        <param name="Гарантійний період (міс)">120</param>
+        <param name="Максимальна температура робочої рідини (°C)">95</param>
+        <param name="Різьблення">1/2"</param>
+        <param name="Підключення">Універсальне: нижнє 50 мм + бічне</param>
+        <param name="Робочий тиск (бар)">10</param>
+        <param name="Колір">Чорний</param>
       </offer>
       <offer id="ZX3155" available="false">
         <url>https://ol.partners/products/zmishuvachi-ta-krani/zmishuvachi-dlya-umivalnika/odnovazhilniy-zmishuvach-dlya-rakovini/zmishuvach-dlya-umivalnika-zerix-rok001-zx3155</url>
@@ -422092,8 +422619,8 @@
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR6431</vendorCode>
         <param name="Од. в упак.">16</param>
-        <param name="Об'єм ящ.">0</param>
-        <param name="Вага ящ.">0</param>
+        <param name="Об'єм ящ.">0.022</param>
+        <param name="Вага ящ.">5.7</param>
         <param name="Середній термін служби (років)">50</param>
         <param name="Максимальний тиск на розрив (бар)">24</param>
         <param name="Модуль пружності сталі (ГПа)">193</param>
@@ -424122,7 +424649,7 @@
         <param name="Гарантійний період (міс)">12</param>
       </offer>
       <offer id="KR6550" available="true">
-        <url>https://ol.partners/products/radiator-trubchastiy-dizaynerskiy-koer-orbisuc218014an-universalne-pidklyuchennya-kolir-antratsit-kr6550</url>
+        <url>https://ol.partners/products/radiatori-opalennya/stalevi-radiatori/radiator-trubchastiy-dizaynerskiy-koer-orbisuc218014an-universalne-pidklyuchennya-kolir-antratsit-kr6550</url>
         <price>18327.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>3132911f-cdca-4d9e-8962-65eca0671d10</categoryId>
@@ -424137,7 +424664,24 @@
         <param name="Од. в упак.">1</param>
         <param name="Об'єм ящ.">0</param>
         <param name="Вага ящ.">0</param>
+        <param name="Гарантійний період (міс)">120</param>
+        <param name="Комплектація">Кріплення, термоклапан</param>
+        <param name="Максимальна температура робочої рідини (°C)">95</param>
+        <param name="Робочий тиск (бар)">10</param>
+        <param name="Підключення">Універсальне: нижнє 50 мм + бічне</param>
+        <param name="Різьблення">1/2"</param>
+        <param name="Модель">ORBIS-UC2-180-14-AN</param>
         <param name="Торгова марка">KOER</param>
+        <param name="Тип виробу">Дизайнерські радіатори</param>
+        <param name="Країна бренду">Чехія</param>
+        <param name="Призначення">Для опалення</param>
+        <param name="Глибина (мм)">68</param>
+        <param name="Ширина (мм)">650</param>
+        <param name="Товщина стінки (мм)">1,50</param>
+        <param name="Вага (кг)">49,60</param>
+        <param name="Висота (мм)">1800</param>
+        <param name="Об'єм (л)">20,00</param>
+        <param name="Колір">Антрацит</param>
       </offer>
       <offer id="MI7093" available="true">
         <url>https://ol.partners/products/aksesuari-dlya-vannoi/yorzhiki-dlya-unitazu/yorzhik-dlya-unitazu-pidlogoviy-mixxus-toppertb0201-ss-color-kolir-nerzhaviyka-mi7093</url>
@@ -429509,7 +430053,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/841e4032-5ea0-4e58-bff3-218038e82123/image_01.jpg</picture>
         <vendor>CHAMPION</vendor>
         <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Змішувач для умивальнику Champion Mars 555 (15 см) (CH0056)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>CH0056</vendorCode>
@@ -437710,7 +438254,7 @@
         <param name="Розташування (орієнтація)">Універсальне</param>
       </offer>
       <offer id="KR6573" available="true">
-        <url>https://ol.partners/products/radiator-trubchastiy-dizaynerskiy-koer-orbisuc318008bl-universalne-pidklyuchennya-kolir-chorniy-kr6573</url>
+        <url>https://ol.partners/products/radiatori-opalennya/stalevi-radiatori/radiator-trubchastiy-dizaynerskiy-koer-orbisuc318008bl-universalne-pidklyuchennya-kolir-chorniy-kr6573</url>
         <price>14720.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>3132911f-cdca-4d9e-8962-65eca0671d10</categoryId>
@@ -437725,7 +438269,24 @@
         <param name="Од. в упак.">1</param>
         <param name="Об'єм ящ.">0</param>
         <param name="Вага ящ.">0</param>
+        <param name="Ширина (мм)">380</param>
+        <param name="Висота (мм)">1800</param>
+        <param name="Об'єм (л)">17,00</param>
+        <param name="Глибина (мм)">100</param>
+        <param name="Вага (кг)">42,40</param>
+        <param name="Товщина стінки (мм)">1,50</param>
+        <param name="Підключення">Універсальне: нижнє 50 мм + бічне</param>
+        <param name="Робочий тиск (бар)">10</param>
+        <param name="Різьблення">1/2"</param>
+        <param name="Максимальна температура робочої рідини (°C)">95</param>
+        <param name="Гарантійний період (міс)">120</param>
+        <param name="Комплектація">Кріплення, термоклапан</param>
+        <param name="Модель">ORBIS-UC3-180-08-BL</param>
+        <param name="Країна бренду">Чехія</param>
+        <param name="Призначення">Для опалення</param>
+        <param name="Тип виробу">Дизайнерські радіатори</param>
         <param name="Торгова марка">KOER</param>
+        <param name="Колір">Чорний</param>
       </offer>
       <offer id="KR6369" available="true">
         <url>https://ol.partners/products/truboprovodi-ta-zyednannya/fitingi/presfitingi-iz-nerzhaviyuchoi-stali-pressinox/triynik-dvoroztrubniy-vr-koer-kqt1506f-pressinox-aisi-304-15x12x15-kr6369</url>
