@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-10-23 03:26">
+<yml_catalog date="2026-10-24 03:21">
   <shop>
     <name>O&amp;L</name>
     <company>O&amp;L</company>
@@ -10851,7 +10851,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/c6ca11a9-5494-4b0a-85b8-3c23ffec5db0/image_03.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Душова колона зі змішувачем KOER KB-52028-05, 2 функції (Колір чорний) (KR5310)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR5310</vendorCode>
@@ -14248,7 +14248,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/46dfcb8f-b35b-41cf-82db-e20589abc855/image_03_ZX0036.jpg</picture>
         <vendor>ZERIX</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Змішувач для душа ZERIX GIT-A 181 (ZX0036)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>ZX0036</vendorCode>
@@ -30450,7 +30450,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/006d0c8e-9ece-4c33-b115-16160f0dbebb/image_01.jpg</picture>
         <vendor>MIXXUS</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Змішувач для ванни MIXXUS PAMELA 009 (Колір хром) (MI6261)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>MI6261</vendorCode>
@@ -33300,7 +33300,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/a128a684-c73b-483e-bf9a-753c94b86c0c/image_04.jpg</picture>
         <vendor>ZERIX</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Змішувач для кухні Zerix YUB 279 чорний (ZX2794)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>ZX2794</vendorCode>
@@ -34452,7 +34452,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/27ffe4e4-2258-4acb-b1a4-077ff25a9765/image_03.jpg</picture>
         <vendor>HAIBA</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Змішувач для ванни HAIBA XIDE 006 EURO (Колір хром) (HB0401)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>HB0401</vendorCode>
@@ -44500,7 +44500,7 @@
         <param name="Додаткові характеристики">Крило 33 см</param>
         <param name="Комплектація">Мийка, сифон</param>
       </offer>
-      <offer id="AC3591" available="true">
+      <offer id="AC3591" available="false">
         <url>https://ol.partners/products/aksesuari-dlya-vannoi/shtangi-teleskopichni/shtanga-dlya-shtorki-kutova-mixxus-craa90x90-90x90cm-alyuminiy-ac3591</url>
         <price>368.00</price>
         <currencyId>UAH</currencyId>
@@ -44520,8 +44520,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/299ab265-71ba-44f7-b4ce-6da42f660ddf/image_04.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/299ab265-71ba-44f7-b4ce-6da42f660ddf/image_10.jpg</picture>
         <vendor>MIXXUS</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Штанга для шторки кутова MIXXUS CRA-A-90x90 90x90cm (алюміній) (AC3591)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>AC3591</vendorCode>
@@ -45995,15 +45995,15 @@
         <param name="Торгова марка">KOER</param>
         <param name="Діаметр підключення (дюйм)">1</param>
       </offer>
-      <offer id="MI6357" available="true">
+      <offer id="MI6357" available="false">
         <url>https://ol.partners/products/zmishuvachi-ta-krani/zmishuvachi-dlya-vanni/zmishuvach-dlya-vanni-z-povorotnim-vilivom/zmishuvach-dlya-vanni-champion-pud-006045-euro-mi6357</url>
         <price>1248.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>c2f36242-64cb-47db-b8a9-e32c00e667c8</categoryId>
         <picture>https://ol.partners/Products/Photo/0F2957EC-1951-4EA0-944B-6D0394547EB6</picture>
         <vendor>CHAMPION</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Змішувач для ванни Champion PUD 006-045 (EURO) (MI6357)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>MI6357</vendorCode>
@@ -62797,15 +62797,15 @@
         <param name="Особливості">Стійкий до корозії та хімічних впливів</param>
         <param name="Колір">Сірий</param>
       </offer>
-      <offer id="EP4074" available="true">
+      <offer id="EP4074" available="false">
         <url>https://ol.partners/products/truboprovodi-ta-zyednannya/fitingi/zyednannya-dlya-trub-z-polipropilenu/kut-45-40x40-ppr-europroduct-ep0023-ep4074</url>
         <price>15.32</price>
         <currencyId>UAH</currencyId>
         <categoryId>ff9028be-fa80-48ee-aa36-379952d8430e</categoryId>
         <picture>https://ol.partners/Products/Photo/E67D900F-F6C4-440F-B69A-86B9671BEDE8</picture>
         <vendor>EUROPRODUCT</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Кут 45 40x40 PPR Europroduct EP.0023 (EP4074)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>EP4074</vendorCode>
@@ -79817,7 +79817,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/1089de30-eac8-413f-9952-77cd38ca2999/image_01.jpg</picture>
         <vendor>GROHE</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Універсальна вбудована частина Grohe Rapido SmartBox (35604000)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>35604000</vendorCode>
@@ -128136,7 +128136,7 @@
         <param name="Структура поверхні мийки">Без структури</param>
         <param name="Виконання">Універсальна</param>
       </offer>
-      <offer id="KR2665" available="false">
+      <offer id="KR2665" available="true">
         <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/reduktor-tisku-vodi/reduktor-tisku-koer-kr1253-12-kr2665</url>
         <price>532.00</price>
         <currencyId>UAH</currencyId>
@@ -128145,8 +128145,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/19a3596c-74ee-4189-9b8b-772c3e55994c/image_04.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/19a3596c-74ee-4189-9b8b-772c3e55994c/image_01.jpg</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Редуктор тиску Koer KR.1253 1/2 "(KR2665)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR2665</vendorCode>
@@ -149118,7 +149118,7 @@
         <param name="Покриття">Нікель</param>
         <param name="Гарантійний період (міс)">84</param>
       </offer>
-      <offer id="26161003" available="false">
+      <offer id="26161003" available="true">
         <url>https://ol.partners/products/zapchastini-dlya-zmishuvacha/liyki-dlya-dushu/ruchniy-dush-grohe-tempesta-110-2-rezhimi-26161003</url>
         <price>1188.00</price>
         <currencyId>UAH</currencyId>
@@ -149130,8 +149130,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/a9a1311d-c7b3-4e56-adb1-ddb792602f73/image_05.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/a9a1311d-c7b3-4e56-adb1-ddb792602f73/image_02.jpg</picture>
         <vendor>GROHE</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Ручний душ Grohe Tempesta 110, 2 режими (26161003)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>26161003</vendorCode>
@@ -217268,7 +217268,7 @@
         <param name="Тип з'єднання">Різьбовий</param>
         <param name="Гарантійний період (міс)">84</param>
       </offer>
-      <offer id="HB0989" available="true">
+      <offer id="HB0989" available="false">
         <url>https://ol.partners/products/miyki-dlya-kukhni/vrizni-miyki/miyka-kukhonna-haiba-hb8104g319-sand-780x500x200-hb0989</url>
         <price>3699.00</price>
         <currencyId>UAH</currencyId>
@@ -217277,8 +217277,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/ba34e850-980a-41b8-a5e3-5c019b9b4bc3/image_01.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/ba34e850-980a-41b8-a5e3-5c019b9b4bc3/image_02.jpg</picture>
         <vendor>HAIBA</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Мийка кухонна HAIBA HB8104-G319 SAND 780x500x200 (HB0989)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>HB0989</vendorCode>
@@ -220046,7 +220046,7 @@
         <picture>https://ol.partners/Products/Photo/9BE87D3A-B096-4793-BF30-533B5D23CE63</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Гідроакумулятор вертикальний Koer KVTS-50 (50л, корпус-сталь 1,2мм) (KB0013)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KB0013</vendorCode>
@@ -234394,7 +234394,7 @@
         <param name="Наявність PVD покриття">Так</param>
         <param name="Комплектація">Мийка, сифон, кріплення</param>
       </offer>
-      <offer id="SK0011" available="true">
+      <offer id="SK0011" available="false">
         <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/zvorotniy-klapan/klapan-zvorotniy-sk-12-latun-sk0011</url>
         <price>118.00</price>
         <currencyId>UAH</currencyId>
@@ -234402,8 +234402,8 @@
         <picture>https://ol.partners/Products/Photo/5137423D-3CC2-40D9-BBB9-4D0002B7846A</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/92ca4fcb-ee3b-4368-845f-eecf7205f162/image_01.jpg</picture>
         <vendor>САНКОМ</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Клапан зворотний СК 1/2" (латунь) (SK0011)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>SK0011</vendorCode>
@@ -248174,7 +248174,7 @@
         <param name="Висота до виливу (мм)">70</param>
         <param name="Довжина виливу (см)">11-15</param>
       </offer>
-      <offer id="HB0655" available="true">
+      <offer id="HB0655" available="false">
         <url>https://ol.partners/products/miyki-dlya-kukhni/vrizni-miyki/miyka-kukhonna-haiba-77x50-decor-hb0655</url>
         <price>1827.00</price>
         <currencyId>UAH</currencyId>
@@ -248183,8 +248183,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/02137b91-44f4-4c1c-aea4-a573a0020694/image_01.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/02137b91-44f4-4c1c-aea4-a573a0020694/image_02.jpg</picture>
         <vendor>HAIBA</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Мийка кухонна HAIBA 77x50 (decor) (HB0655)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>HB0655</vendorCode>
@@ -263812,7 +263812,7 @@
         <picture>https://ol.partners/Products/Photo/57B5DD3F-BE92-4458-AD4D-81A849EF9647</picture>
         <vendor>ZERIX</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Полиця кутова у ванну решітка 3-ярусна ZERIX LR335-2 (LL1453)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>LL1453</vendorCode>
@@ -270676,7 +270676,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/03244510-724d-40cf-bcad-93eb76b939e0/image_05.jpg</picture>
         <vendor>MIXXUS PREMIUM</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Полиця для ванної кімнати Mixxus Premium Niche-0101 Black (MI6678)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>MI6678</vendorCode>
@@ -273559,7 +273559,7 @@
         <param name="Тип виливу">Поворотний</param>
         <param name="Колір">Хром</param>
       </offer>
-      <offer id="NF3167" available="false">
+      <offer id="NF3167" available="true">
         <url>https://ol.partners/products/truboprovodi-ta-zyednannya/fitingi/rizbovi-zyednannya/zaglushka-nolf-nfcp06f12-f-nf3167</url>
         <price>22.00</price>
         <currencyId>UAH</currencyId>
@@ -273567,8 +273567,8 @@
         <picture>https://ol.partners/Products/Photo/74110B9B-5288-429D-83F4-1CCBA570D6C4</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/8b7cd275-490a-4f55-b0d3-45c23e0ffc11/image_02.jpg</picture>
         <vendor>NOLF</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Заглушка NOLF NFC.P06F-1/2" F (NF3167)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>NF3167</vendorCode>
@@ -343679,7 +343679,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/0a40fd66-456c-4cfb-a88b-5ffffbed68fc/image_09.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Душова система вбудована KOER KB-66039-01, 3 функції (Колір хром) (KR5997)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR5997</vendorCode>
@@ -355391,7 +355391,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/06c2ef8f-d274-4c8d-98ff-e077ee10ddc3/image_11.jpg</picture>
         <vendor>ZERIX</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Штанга для шторки телескопічна пряма ZERIX CRS-140x260 140cm-260cm (нержавіюча сталь) (ZX4997)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>ZX4997</vendorCode>
@@ -359483,7 +359483,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/f3f369d4-ba85-4339-bb68-269add189246/image_06.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Радіатор трубчастий дизайнерський KOER ORBIS-UC2-180-06-BL універсальне підключення (Колір чорний) (KR6551)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR6551</vendorCode>
@@ -375209,7 +375209,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/0e60868e-78c3-4301-b87b-df4c97af032f/image_03.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Оснащення (Такер) під скоби KOER KR.1002 для укладання теплої підлоги</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR2975</vendorCode>
@@ -377979,7 +377979,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/3be6e7eb-d4fd-4cea-90ce-5ebd570e58f2/image_01.jpg</picture>
         <vendor>IBERGRIF</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Змішувач для кухні Ibergrif Trento M14006 з силіконовим виливом пружина (LL2014)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>LL2014</vendorCode>
@@ -386558,15 +386558,15 @@
         <param name="Тип виливу">Поворотний</param>
         <param name="Покриття">З покриттям</param>
       </offer>
-      <offer id="EP4077" available="false">
+      <offer id="EP4077" available="true">
         <url>https://ol.partners/products/truboprovodi-ta-zyednannya/fitingi/zyednannya-dlya-trub-z-polipropilenu/triynik-20x20x20-ppr-europroduct-ep0026-ep4077</url>
         <price>5.25</price>
         <currencyId>UAH</currencyId>
         <categoryId>17384ade-aa77-4bd3-8ad4-8cc7891b5eaa</categoryId>
         <picture>https://ol.partners/Products/Photo/46629A7E-F73C-4478-B4F5-E59D9CB0DE37</picture>
         <vendor>EUROPRODUCT</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Трійник 20x20x20 PPR Europroduct EP.0026 (EP4077)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>EP4077</vendorCode>
@@ -443186,7 +443186,7 @@
         <param name="Колір">Хром</param>
         <param name="Комплектація">Ексцентрики, гумові прокладки та декоративні чашки</param>
       </offer>
-      <offer id="HB9643" available="true">
+      <offer id="HB9643" available="false">
         <url>https://ol.partners/products/dushovi-koloni-ta-sistemi/dushovi-koloni/dushova-kolona-zi-zmishuvachem-haiba-gaudi-009j-graphite-kolir-grafit-hb9643</url>
         <price>8244.00</price>
         <currencyId>UAH</currencyId>
@@ -443194,8 +443194,8 @@
         <picture>https://ol.partners/Products/Photo/E31B46AB-37E6-48D9-84CD-5E1FE8EF5F22</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/5c286b16-80b4-4ce0-9775-8b37328c8afd/image_01.jpg</picture>
         <vendor>HAIBA</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Душова колона зі змішувачем HAIBA GAUDI 009-J GRAPHITE (Колір графіт) (HB9643)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>HB9643</vendorCode>
