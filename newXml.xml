@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-10-24 03:21">
+<yml_catalog date="2026-10-25 03:16">
   <shop>
     <name>O&amp;L</name>
     <company>O&amp;L</company>
@@ -140390,15 +140390,15 @@
         <param name="Гарантійний період (міс)">12</param>
         <param name="Колір">Чорний</param>
       </offer>
-      <offer id="ZX4989" available="true">
+      <offer id="ZX4989" available="false">
         <url>https://ol.partners/products/aksesuari-dlya-vannoi/shtori-dlya-vannoi/shtorka-dlya-vannoi-zerix-sct005180x180-z-poliesteru-vizerunok-rozhevosiriy-zx4989</url>
         <price>368.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>d217f005-58f7-4a01-91c9-5e327c44cc2f</categoryId>
         <picture>https://ol.partners/Products/Photo/48AC44E7-D4D9-46A0-800D-E8BCD3B1EDCE</picture>
         <vendor>ZERIX</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Шторка для ванної ZERIX SCT-005-180x180 з поліестеру (Візерунок рожево-сірий) (ZX4989)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>ZX4989</vendorCode>
@@ -343679,7 +343679,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/0a40fd66-456c-4cfb-a88b-5ffffbed68fc/image_09.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Душова система вбудована KOER KB-66039-01, 3 функції (Колір хром) (KR5997)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR5997</vendorCode>
@@ -434296,7 +434296,7 @@
         <picture>https://ol.partners/Products/Photo/0FC46EBB-1022-497D-97FB-8F31DD5D3109</picture>
         <vendor>MIXXUS</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Змішувач для кухні MIXXUS FAN-011 з нерж. сталі SUS304 (Колір нерж) (MI6107)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>MI6107</vendorCode>
