@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-10-25 03:16">
+<yml_catalog date="2026-10-26 03:17">
   <shop>
     <name>O&amp;L</name>
     <company>O&amp;L</company>
@@ -83077,7 +83077,7 @@
         <param name="Діаметр підключення (дюйм)">1/2</param>
       </offer>
       <offer id="SH3831" available="true">
-        <url>https://ol.partners/products/nasosi-ta-aksesuari/zapchastini-ta-aksesuari-dlya-nasosiv/shlang-drenazhniy-vodomet-pe250-250-mm-8-bar-sh3831</url>
+        <url>https://ol.partners/products/nasosi-ta-aksesuari/zapchastini-ta-aksesuari-dlya-nasosiv/shlang-drenazhniy-vodomet-pe250-250-mm-8-bar-50-mbukhta-sh3831</url>
         <price>30.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>583efdde-415b-4799-9ca5-13f379bba622</categoryId>
@@ -83087,13 +83087,20 @@
         <vendor>VODOMET</vendor>
         <stock_quantity>100</stock_quantity>
         <availabilityStatus>Достатньо</availabilityStatus>
-        <name>Шланг дренажний VODOMET PE-2-50 2"(50 мм) 8 бар (SH3831)</name>
+        <name>Шланг дренажний VODOMET PE-2-50 2"(50 мм) 8 бар (50 м/бухта) (SH3831)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>SH3831</vendorCode>
         <param name="Од. в упак.">50</param>
         <param name="Об'єм ящ.">0.006</param>
         <param name="Вага ящ.">2.9</param>
+        <param name="Максимальний робочий тиск (бар)">8</param>
+        <param name="Вид виробу">Шланги</param>
+        <param name="Тип виробу">Комплектуючі для насосів</param>
+        <param name="Модель">PE-2-50</param>
+        <param name="Тип">Дренажний шланг</param>
         <param name="Торгова марка">VODOMET</param>
+        <param name="Країна бренду">Словенія</param>
+        <param name="Діаметр підключення (дюйм)">2</param>
       </offer>
       <offer id="ZX5583" available="true">
         <url>https://ol.partners/products/keramika/sidinnya-dlya-unitazu/sidinnya-unitazu-z-krishkoyu-zerix-ts04-zx5583</url>
@@ -89568,8 +89575,8 @@
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>ZX5839</vendorCode>
         <param name="Од. в упак.">10</param>
-        <param name="Об'єм ящ.">0</param>
-        <param name="Вага ящ.">0</param>
+        <param name="Об'єм ящ.">0.03</param>
+        <param name="Вага ящ.">10</param>
         <param name="Колір">Хром</param>
         <param name="Стиль">Класичний</param>
         <param name="Покриття">З покриттям</param>
@@ -116029,7 +116036,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/6fe8a645-d1aa-4fe0-bfe2-202453cfc773/image_01.jpg</picture>
         <vendor>MIXXUS</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Мийка з нерж. сталі MIXXUS MH6050 MICRO DECOR BLACK (3.0/0.8) (колір чорний) (MI8223)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>MI8223</vendorCode>
@@ -190157,7 +190164,7 @@
         <param name="Діаметр підключення (дюйм)">1/2</param>
       </offer>
       <offer id="SH3830" available="true">
-        <url>https://ol.partners/products/nasosi-ta-aksesuari/zapchastini-ta-aksesuari-dlya-nasosiv/shlang-drenazhniy-vodomet-pe2100-250-mm-8-bar-sh3830</url>
+        <url>https://ol.partners/products/nasosi-ta-aksesuari/zapchastini-ta-aksesuari-dlya-nasosiv/shlang-drenazhniy-vodomet-pe2100-250-mm-8-bar-100-mbukhta-sh3830</url>
         <price>30.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>583efdde-415b-4799-9ca5-13f379bba622</categoryId>
@@ -190167,13 +190174,20 @@
         <vendor>VODOMET</vendor>
         <stock_quantity>100</stock_quantity>
         <availabilityStatus>Достатньо</availabilityStatus>
-        <name>Шланг дренажний VODOMET PE-2-100 2"(50 мм) 8 бар (SH3830)</name>
+        <name>Шланг дренажний VODOMET PE-2-100 2"(50 мм) 8 бар (100 м/бухта) (SH3830)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>SH3830</vendorCode>
         <param name="Од. в упак.">100</param>
         <param name="Об'єм ящ.">0.011</param>
         <param name="Вага ящ.">5.8</param>
+        <param name="Діаметр підключення (дюйм)">2</param>
+        <param name="Країна бренду">Словенія</param>
+        <param name="Тип виробу">Комплектуючі для насосів</param>
+        <param name="Модель">PE-2-100</param>
+        <param name="Тип">Дренажний шланг</param>
+        <param name="Вид виробу">Шланги</param>
         <param name="Торгова марка">VODOMET</param>
+        <param name="Максимальний робочий тиск (бар)">8</param>
       </offer>
       <offer id="MI2876" available="true">
         <url>https://ol.partners/products/zmishuvachi-ta-krani/zmishuvachi-dlya-vanni/zmishuvach-dlya-vanni-z-povorotnim-vilivom/zmishuvach-dlya-vanni-mixxus-premium-albert-006-euro-kolir-khrom-mi2876</url>
@@ -221687,7 +221701,7 @@
         <param name="Гарантійний період (міс)">12</param>
         <param name="Комплектація">Корпус відра з кришкою, внутрішнє відро</param>
       </offer>
-      <offer id="KR0097" available="true">
+      <offer id="KR0097" available="false">
         <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/krani/kran-z-amerikankoyu-polusgin/kran-z-amerikankoyu-34-koer-kr227w-biliy-kr0097</url>
         <price>471.00</price>
         <currencyId>UAH</currencyId>
@@ -221696,8 +221710,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/b110ff87-0e21-4935-80c4-82c98cdd6fd8/image_01.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/b110ff87-0e21-4935-80c4-82c98cdd6fd8/image_04_KR0097.jpg</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Кран з американкою 3/4" (Koer KR.227.W) білий (KR0097)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR0097</vendorCode>
@@ -235353,7 +235367,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/cf1edd0f-95ba-400a-8686-944d40d48b1b/image_03_KP0179.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Муфта з накидною гайкою 25x3 /4F PPR Koer K0142.PRO (KP0179)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KP0179</vendorCode>
@@ -246358,7 +246372,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/1e07cd99-b313-44de-b7d6-6f1eefaeec05/image_04.jpg</picture>
         <vendor>MIXXUS PREMIUM</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Змішувач для кухні MIXXUS PREMIUM VESTA 275 NUT (Колір хром) (MI0612)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>MI0612</vendorCode>
@@ -248843,7 +248857,7 @@
         <param name="Тип керування">Одноважільні</param>
         <param name="Діаметр шланга підключення">1/2</param>
         <param name="Максимальна температура води (°C)">90</param>
-        <param name="Тип кріплення">Шпилька</param>
+        <param name="Тип кріплення">Гайка</param>
         <param name="Покриття">З покриттям</param>
         <param name="Стиль">Модерн</param>
         <param name="Тип виливу">Гнучкий</param>
@@ -353202,7 +353216,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/3c2c5165-e188-40d8-9037-139157cf6431/image_09.jpg</picture>
         <vendor>ZERIX</vendor>
         <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Відро для сміття кругле ZERIX SOLO-TC0105 BLACK 5 л (колір чорний) (ZX5898)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>ZX5898</vendorCode>
@@ -353944,8 +353958,8 @@
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR6539</vendorCode>
         <param name="Од. в упак.">480</param>
-        <param name="Об'єм ящ.">0</param>
-        <param name="Вага ящ.">0</param>
+        <param name="Об'єм ящ.">0.014</param>
+        <param name="Вага ящ.">6.5</param>
         <param name="Тип виробу">Крани кульові</param>
         <param name="Торгова марка">KOER</param>
         <param name="Країна бренду">Чехія</param>
@@ -356083,7 +356097,7 @@
         <param name="Гарантія на комплектуючі (міс)">12</param>
         <param name="Комплектація">Упаковка 1/1 (182x78x5см.) Скляні двері: 1шт. Скляна передня стінка: 1шт. Скляна бокова стінка: 1шт. Вертикальний профіль: 2шт. Планка кріплення вертикального профілю: 2шт. Горизонтальний профіль: 2шт. Ущільнювач силіконовий: 2шт. Водозахисний ущільнювач: 4шт. Магнітний ущільнювач: 2шт. Аксесуари кабіни: комплект</param>
       </offer>
-      <offer id="RO0109" available="true">
+      <offer id="RO0109" available="false">
         <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/krani/krani-kulovi/kran-kuloviy-roho-r200200b-2-ro0109</url>
         <price>2277.00</price>
         <currencyId>UAH</currencyId>
@@ -356091,8 +356105,8 @@
         <picture>https://ol.partners/Products/Photo/319F00AB-A6CE-42CE-96ED-6B060F046521</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/32858ec8-96ef-4843-a0d5-d1036e13b6e7/image_04_sharkran.jpg</picture>
         <vendor>ROHO</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Кран кульовий Roho R200-200B - 2" (RO0109)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>RO0109</vendorCode>
@@ -389962,7 +389976,7 @@
         <param name="Гарантія на деталі змішувача (міс)">12</param>
         <param name="Комплектація">Аератор Neoperl, гнучка підводка з нержавіючої сталі (450 мм, 1/2")</param>
       </offer>
-      <offer id="MX0561" available="true">
+      <offer id="MX0561" available="false">
         <url>https://ol.partners/products/miyki-dlya-kukhni/vrizni-miyki/miyka-mixxus-mx7844200x12pvdblack-kolir-chorniy-mx0561</url>
         <price>5189.00</price>
         <currencyId>UAH</currencyId>
@@ -389970,8 +389984,8 @@
         <picture>https://ol.partners/Products/Photo/B0A9F574-A60C-4F1D-B761-27002DEC7003</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/9627a380-7ece-43b2-9fad-3cb9c71f2f12/image_03.jpg</picture>
         <vendor>MIXXUS</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Мийка MIXXUS MX7844-200x1.2-PVD-BLACK (Колір чорний) (MX0561)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>MX0561</vendorCode>
@@ -399945,7 +399959,7 @@
         <param name="Максимальний тиск (бар)">10,00</param>
       </offer>
       <offer id="SH3828" available="true">
-        <url>https://ol.partners/products/nasosi-ta-aksesuari/zapchastini-ta-aksesuari-dlya-nasosiv/shlang-drenazhniy-vodomet-pe1100-125-mm-8-bar-sh3828</url>
+        <url>https://ol.partners/products/nasosi-ta-aksesuari/zapchastini-ta-aksesuari-dlya-nasosiv/shlang-drenazhniy-vodomet-pe1100-125-mm-8-bar-100-mbukhta-sh3828</url>
         <price>30.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>583efdde-415b-4799-9ca5-13f379bba622</categoryId>
@@ -399955,13 +399969,20 @@
         <vendor>VODOMET</vendor>
         <stock_quantity>100</stock_quantity>
         <availabilityStatus>Достатньо</availabilityStatus>
-        <name>Шланг дренажний VODOMET PE-1-100 1"(25 мм) 8 бар (SH3828)</name>
+        <name>Шланг дренажний VODOMET PE-1-100 1"(25 мм) 8 бар (100 м/бухта) (SH3828)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>SH3828</vendorCode>
         <param name="Од. в упак.">100</param>
         <param name="Об'єм ящ.">0.006</param>
         <param name="Вага ящ.">3.2</param>
+        <param name="Діаметр підключення (дюйм)">1</param>
+        <param name="Країна бренду">Словенія</param>
+        <param name="Тип виробу">Комплектуючі для насосів</param>
         <param name="Торгова марка">VODOMET</param>
+        <param name="Тип">Дренажний шланг</param>
+        <param name="Вид виробу">Шланги</param>
+        <param name="Модель">PE-1-100</param>
+        <param name="Максимальний робочий тиск (бар)">8</param>
       </offer>
       <offer id="KR6276" available="false">
         <url>https://ol.partners/products/truboprovodi-ta-zyednannya/trubi/trubi-iz-nerzhaviyuchoi-stali-pressinox/truba-koer-kq1235-l2m-pressinox-aisi-304-35x15-kr6276</url>
@@ -405891,7 +405912,7 @@
         <param name="Покриття">З покриттям</param>
       </offer>
       <offer id="SH3829" available="true">
-        <url>https://ol.partners/products/nasosi-ta-aksesuari/zapchastini-ta-aksesuari-dlya-nasosiv/shlang-drenazhniy-vodomet-pe150-125-mm-8-bar-sh3829</url>
+        <url>https://ol.partners/products/nasosi-ta-aksesuari/zapchastini-ta-aksesuari-dlya-nasosiv/shlang-drenazhniy-vodomet-pe150-125-mm-8-bar-50-mbukhta-sh3829</url>
         <price>30.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>583efdde-415b-4799-9ca5-13f379bba622</categoryId>
@@ -405901,13 +405922,20 @@
         <vendor>VODOMET</vendor>
         <stock_quantity>100</stock_quantity>
         <availabilityStatus>Достатньо</availabilityStatus>
-        <name>Шланг дренажний VODOMET PE-1-50 1"(25 мм) 8 бар (SH3829)</name>
+        <name>Шланг дренажний VODOMET PE-1-50 1"(25 мм) 8 бар (50 м/бухта) (SH3829)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>SH3829</vendorCode>
         <param name="Од. в упак.">50</param>
         <param name="Об'єм ящ.">0.003</param>
         <param name="Вага ящ.">1.6</param>
         <param name="Торгова марка">VODOMET</param>
+        <param name="Країна бренду">Словенія</param>
+        <param name="Тип">Дренажний шланг</param>
+        <param name="Вид виробу">Шланги</param>
+        <param name="Тип виробу">Комплектуючі для насосів</param>
+        <param name="Модель">PE-1-50</param>
+        <param name="Діаметр підключення (дюйм)">1</param>
+        <param name="Максимальний робочий тиск (бар)">8</param>
       </offer>
       <offer id="HB0083" available="true">
         <url>https://ol.partners/products/zmishuvachi-ta-krani/zmishuvachi-dlya-kukhni/dvokhventilni-zmishuvachi-dlya-kukhni/zmishuvach-dlya-kukhni-haiba-dominox-273-satin-kolir-satin-hb0083</url>
@@ -413672,7 +413700,7 @@
         <picture>https://ol.partners/Products/Photo/0EC44CAC-6565-4CC9-9E7B-EF29B7A5D5DC</picture>
         <vendor>VODOMET</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Антивібраційний шланг Vodomet DS-5207-100 нерж. сталь (VO0014)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>VO0014</vendorCode>
@@ -431148,7 +431176,7 @@
         <picture>https://ol.partners/Products/Photo/6A73CE0C-A976-47E5-8EAB-A300CF179736</picture>
         <vendor>MIXXUS PREMIUM</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Змішувач для ванни MIXXUS PREMIUM AURA 006 EURO (Колір хром) (MI2880)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>MI2880</vendorCode>
