@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-10-27 23:11">
+<yml_catalog date="2026-10-28 04:03">
   <shop>
     <name>O&amp;L</name>
     <company>O&amp;L</company>
@@ -623,7 +623,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/6c800b30-f735-4e5f-b65d-8f37363194f7/image_18.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Двері у нішу розсувні KOER SR SD01-120x200-TR-01 прозоре скло EASY CLEAN 8мм хром (KR5376)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR5376</vendorCode>
@@ -11189,8 +11189,8 @@
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR6400</vendorCode>
         <param name="Од. в упак.">280</param>
-        <param name="Об'єм ящ.">0</param>
-        <param name="Вага ящ.">0</param>
+        <param name="Об'єм ящ.">0.022</param>
+        <param name="Вага ящ.">20.45</param>
         <param name="Максимальний тиск на розрив (бар)">24</param>
         <param name="Середній термін служби (років)">50</param>
         <param name="Модуль пружності сталі (ГПа)">193</param>
@@ -19701,7 +19701,7 @@
         <param name="Колір">Сталевий</param>
         <param name="Матеріал виробу">Алюміній</param>
       </offer>
-      <offer id="KR5911" available="false">
+      <offer id="KR5911" available="true">
         <url>https://ol.partners/products/truboprovodi-ta-zyednannya/fitingi/chavunniy-fiting/mufta-zatiskna-z-vnutrishnoyu-rizboyu-koer-kcic12f-1-14fx400429-kr5911</url>
         <price>872.00</price>
         <currencyId>UAH</currencyId>
@@ -19712,8 +19712,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/bdef0c12-21cc-4ee2-9c00-821a5343569b/image_03.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/bdef0c12-21cc-4ee2-9c00-821a5343569b/image_05.jpg</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Муфта затискна з внутрішньою різьбою KOER KCI.C12F - 1 1/4"Fx40,0-42,9 (KR5911)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR5911</vendorCode>
@@ -57275,7 +57275,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/2bc232a6-175e-4d58-8660-353f97e2581d/image_13.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Душова кабіна без піддону KOER SR SC03-90x90x200-TR-01 прозоре скло EASY CLEAN 6мм хром (KR5356)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR5356</vendorCode>
@@ -81191,7 +81191,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/49b9005e-9107-4d49-8832-526b6424b0b1/image_02.jpg</picture>
         <vendor>MIXXUS PREMIUM</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Сполучний патрубок для чаші Генуя MIXXUS PREMIUM WAVE-2304 (MP6727)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>MP6727</vendorCode>
@@ -82617,7 +82617,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/06f0ff94-03a4-4a79-a4eb-df48a1845def/image_04.jpg</picture>
         <vendor>BITHERM</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Ключ для радіаторів BITHERM TOOL-9015 (BT1555)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>BT1555</vendorCode>
@@ -128831,7 +128831,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/8d8f2458-0fdf-43c9-aacb-03d991ac63ec/image_01.jpg</picture>
         <vendor>MIXXUS</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Мийка з нерж. сталі MIXXUS MH5050 MICRO DECOR BLACK (3.0/0.8) (колір чорний) (MI8215)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>MI8215</vendorCode>
@@ -210056,7 +210056,7 @@
         <picture>https://ol.partners/Products/Photo/49098D4A-B05F-440C-930E-F35F1F63B296</picture>
         <vendor>BITHERM</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Ключ для радіаторів Bitherm TOOL-9015 (BT1568)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>BT1568</vendorCode>
@@ -262924,7 +262924,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/203faae2-07b6-4ffe-8016-12905a89b762/image_02.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Комплект для монтажу алюмінієвих та біметалевих радіаторів KOER SET-28 9x170mm гумове покриття (KR5652)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR5652</vendorCode>
@@ -295705,7 +295705,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/c611f16b-0416-46b4-a2ba-eaee5985913a/image_28.jpg</picture>
         <vendor>MIXXUS</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Душова кабіна з високим піддоном MIXXUS PLAIN SCT01-90x90x195-GR SATIN сіре тоноване скло 4мм (MI6895)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>MI6895</vendorCode>
@@ -307466,7 +307466,7 @@
         <param name="Довжина виливу (мм)">120</param>
         <param name="Довжина виливу (см)">11-15</param>
       </offer>
-      <offer id="KR5903" available="false">
+      <offer id="KR5903" available="true">
         <url>https://ol.partners/products/truboprovodi-ta-zyednannya/fitingi/chavunniy-fiting/mufta-zatiskna-iz-zovnishnoyu-rizboyu-koer-kcic06m-12mx197218-kr5903</url>
         <price>341.00</price>
         <currencyId>UAH</currencyId>
@@ -307477,8 +307477,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/06040482-7909-4ecb-b0a2-d6b09b5e674b/image_03.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/06040482-7909-4ecb-b0a2-d6b09b5e674b/image_02.jpg</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Муфта затискна із зовнішньою різьбою KOER KCI.C06M - 1/2"Мx19,7-21,8 (KR5903)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR5903</vendorCode>
@@ -375544,7 +375544,7 @@
         <picture>https://ol.partners/Products/Photo/3FBED324-1906-4585-B123-5545F889A444</picture>
         <vendor>CRON</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Змішувач для кухні настінний CRON GERMES 005 (Колір хром) (CR0846)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>CR0846</vendorCode>
@@ -382646,7 +382646,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/64d7bdf7-b52c-4d74-ab54-a9cefc348137/image_01.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Кран кульовий Koer KG.207 - 3/4" FF ГГМ (газ) (KR4959)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR4959</vendorCode>
@@ -403614,7 +403614,7 @@
         <param name="Призначення">Для води</param>
         <param name="Країна бренду">Італія</param>
       </offer>
-      <offer id="KR5909" available="false">
+      <offer id="KR5909" available="true">
         <url>https://ol.partners/products/truboprovodi-ta-zyednannya/fitingi/chavunniy-fiting/mufta-zatiskna-iz-zovnishnoyu-rizboyu-koer-kcic10m-1mx314342-kr5909</url>
         <price>555.00</price>
         <currencyId>UAH</currencyId>
@@ -403625,8 +403625,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/634a785f-e204-4463-89f5-48adb319a5fa/image_03.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/634a785f-e204-4463-89f5-48adb319a5fa/image_04.jpg</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Муфта затискна із зовнішньою різьбою KOER KCI.C10M - 1"Мx31,4-34,2 (KR5909)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR5909</vendorCode>
