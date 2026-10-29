@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-10-28 04:03">
+<yml_catalog date="2026-10-29 04:27">
   <shop>
     <name>O&amp;L</name>
     <company>O&amp;L</company>
@@ -19095,7 +19095,7 @@
       </offer>
       <offer id="KB0001" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/rozshiryuvalni-baki-dlya-sistem-opalennya/bak-rozshiryuvalniy-dlya-sistemi-opalennya-ploskiy-koer-bp6-6l-kb0001</url>
-        <price>1490.00</price>
+        <price>1550.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>005f2162-06c4-45bd-98d7-a215b26c33d8</categoryId>
         <picture>https://ol.partners/Products/Photo/F7EA987D-1860-4179-9092-E58D2C93A6C6</picture>
@@ -35647,7 +35647,7 @@
       </offer>
       <offer id="KB0016" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/gidroakumulyatori-dlya-sistem-vodopostachannya/gidroakumulyator-vertikalniy-koer-kvts100-100l-korpusstal-12mm-flanetsnerzhaviyucha-stal-kb0016</url>
-        <price>5160.00</price>
+        <price>5380.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>1bf21a88-0666-4d6b-8dd7-1909fb997857</categoryId>
         <picture>https://ol.partners/Products/Photo/4A934349-F744-4FD5-B0D7-93977DA6C9D9</picture>
@@ -35684,7 +35684,7 @@
       </offer>
       <offer id="KB0006" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/rozshiryuvalni-baki-dlya-sistem-opalennya/bak-rozshiryuvalniy-dlya-sistemi-opalennya-koer-bv8-vertikalniy-kb0006</url>
-        <price>820.00</price>
+        <price>850.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>005f2162-06c4-45bd-98d7-a215b26c33d8</categoryId>
         <picture>https://ol.partners/Products/Photo/216F55B3-81A4-4E1A-96E0-E14519CEAD71</picture>
@@ -35957,7 +35957,7 @@
       </offer>
       <offer id="VO0011" available="false">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/zapchastini-ta-aksesuari-dlya-nasosiv/antivibratsiyniy-shlang-vodomet-ds520755-nerzh-stal-vo0011</url>
-        <price>320.00</price>
+        <price>330.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>00bf7fe7-6847-47ea-a5cb-a30d543aefc0</categoryId>
         <picture>https://ol.partners/Products/Photo/AB9992B5-1237-41C5-8FDD-084FF960FCBB</picture>
@@ -38512,7 +38512,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/c2beb707-bf8b-44a4-aa46-73c0a304d83c/image_09.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Душова колона зі змішувачем KOER KB-56007-04, 3 функції (Колір хром+білий) (KR5159)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR5159</vendorCode>
@@ -38943,15 +38943,15 @@
         <param name="Область застосування">Водопостачання, опалення, технологічні та інженерні мережі</param>
         <param name="Особливості">Стійкість до виривання. Стійкість до прокручування. Швидкий монтаж Підходить для роботи у важкодоступних місцях. Витримує вібрації та підвищені навантаження. Не вимагає підтягування або перевірки після завершення монтажу.</param>
       </offer>
-      <offer id="KR4716" available="false">
+      <offer id="KR4716" available="true">
         <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/filtr-gruboi-ochistki/filtr-gruboi-ochistki-koer-krf02n-12-nikelovaniy-kr4716</url>
         <price>253.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>0f3d2714-87ef-45ce-920d-645529012277</categoryId>
         <picture>https://ol.partners/Products/Photo/95EBC103-51E7-4CDD-9A64-66D772B8E059</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Фільтр грубої очистки Koer KR.F02.N - 1/2" (нікельований) (KR4716)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR4716</vendorCode>
@@ -44977,7 +44977,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/400bb1b5-5730-4b7a-adab-222efe0be09d/image_05.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Душова колона зі змішувачем KOER KB-56031-12, 3 функціі (Колір матове золото) (KR5974)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR5974</vendorCode>
@@ -48017,7 +48017,7 @@
       </offer>
       <offer id="KB0012" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/gidroakumulyatori-dlya-sistem-vodopostachannya/gidroakumulyator-gorizontalniy-koer-khts24-24l-korpusstal-1mm-flanetsnerzhaviyka-kb0012</url>
-        <price>1690.00</price>
+        <price>1760.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>1bf21a88-0666-4d6b-8dd7-1909fb997857</categoryId>
         <picture>https://ol.partners/Products/Photo/56775E35-AE3B-46F7-BC9E-E3CAAF64F297</picture>
@@ -77277,7 +77277,7 @@
       </offer>
       <offer id="VO0012" available="false">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/zapchastini-ta-aksesuari-dlya-nasosiv/antivibratsiyniy-shlang-vodomet-ds520760-nerzh-stal-vo0012</url>
-        <price>340.00</price>
+        <price>360.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>00bf7fe7-6847-47ea-a5cb-a30d543aefc0</categoryId>
         <picture>https://ol.partners/Products/Photo/D2FAFEE0-38A9-4673-A0D3-FCCD5E7E0445</picture>
@@ -94700,8 +94700,8 @@
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR6643</vendorCode>
         <param name="Од. в упак.">30</param>
-        <param name="Об'єм ящ.">0</param>
-        <param name="Вага ящ.">0</param>
+        <param name="Об'єм ящ.">0.01</param>
+        <param name="Вага ящ.">9.9</param>
         <param name="Країна бренду">Чехія</param>
         <param name="Призначення">Для труб</param>
         <param name="Тип">Трійник</param>
@@ -99833,7 +99833,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/462cef04-9a70-4d2f-89e3-b03249dc53c8/image_04.jpg</picture>
         <vendor>GROHE</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Змішувач для раковини M-розміру Grohe Eurosmart New (23324003)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>23324003</vendorCode>
@@ -101565,8 +101565,8 @@
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR6631</vendorCode>
         <param name="Од. в упак.">65</param>
-        <param name="Об'єм ящ.">0</param>
-        <param name="Вага ящ.">0</param>
+        <param name="Об'єм ящ.">0.01</param>
+        <param name="Вага ящ.">13.7</param>
         <param name="Тип виробу">Система з натяжною гільзою</param>
         <param name="Призначення">Перехід із труби PEX на різьбовий елемент системи</param>
         <param name="Модель">KA.A10M-32</param>
@@ -104059,7 +104059,7 @@
       </offer>
       <offer id="VO0018" available="true">
         <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/kontrolnovimiryuvalni-priladi-kvp/manometr-radialniy-vodomet-ds6511-vo0018</url>
-        <price>126.00</price>
+        <price>130.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>6dd71d38-90a7-477c-a978-c3165465e5b2</categoryId>
         <picture>https://ol.partners/Products/Photo/FEDEF82C-7A90-4540-8339-295BC1D7FEB9</picture>
@@ -118789,7 +118789,7 @@
         <param name="Гарантія на корпус змішувача (міс)">60</param>
         <param name="Особливості">Розміри ручної лійки: 12х24 см. Розміри стельової лійки: 30х30 см. Максимальна висота 162 см. Мінімальна 110 см.</param>
       </offer>
-      <offer id="AC0656" available="true">
+      <offer id="AC0656" available="false">
         <url>https://ol.partners/products/aksesuari-dlya-vannoi/shtangi-teleskopichni/shtanga-dlya-shtorki-teleskopichna-pryama-mixxus-cra140x260-140cm260cm-alyuminiy-ac0656</url>
         <price>404.00</price>
         <currencyId>UAH</currencyId>
@@ -118808,8 +118808,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/dc341fb7-a976-4733-92e3-017bb729a482/image_02.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/dc341fb7-a976-4733-92e3-017bb729a482/image_10.jpg</picture>
         <vendor>MIXXUS</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Штанга для шторки телескопічна пряма MIXXUS CRA-140x260 140cm-260cm (алюміній) (AC0656)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>AC0656</vendorCode>
@@ -120089,7 +120089,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/6334ce55-8a67-40c5-900d-dc74fe2b33b7/image_03_KR2799.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Хомут трубний оцинкований Koer KCB.20 1-1 /2" (47-51) чорний (KR2799)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR2799</vendorCode>
@@ -122031,8 +122031,8 @@
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR6634</vendorCode>
         <param name="Од. в упак.">80</param>
-        <param name="Об'єм ящ.">0</param>
-        <param name="Вага ящ.">0</param>
+        <param name="Об'єм ящ.">0.01</param>
+        <param name="Вага ящ.">13.3</param>
         <param name="Торгова марка">KOER</param>
         <param name="Модель">KA.L08F-20</param>
         <param name="Країна бренду">Чехія</param>
@@ -123762,7 +123762,7 @@
         <picture>https://ol.partners/Products/Photo/B1C545B2-4EC2-4815-9470-24064CFFD4AB</picture>
         <vendor>EUROPRODUCT</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Сушка для рушників водяна EP (стан) 4х4 500/5/500 (PS0079)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>PS0079</vendorCode>
@@ -125700,7 +125700,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/c97d0f6b-334a-4930-933a-89a03404410f/image_06.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Змішувач для гігієнічного душу вбудований KOER KB-23007-07 (Колір графіт) (KR5163)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR5163</vendorCode>
@@ -125937,7 +125937,7 @@
       </offer>
       <offer id="KB0017" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/gidroakumulyatori-dlya-sistem-vodopostachannya/gidroakumulyator-vertikalniy-koer-etk60v-60l-fiksovana-membrana-butyl-bezflantseviy-kb0017</url>
-        <price>5780.00</price>
+        <price>6030.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>1bf21a88-0666-4d6b-8dd7-1909fb997857</categoryId>
         <picture>https://ol.partners/Products/Photo/67AC8B5C-C9BC-4C83-990D-0861B58A7FF8</picture>
@@ -146563,7 +146563,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/c0ad8216-35f9-4e4a-8d9b-94ea89f11ec7/image_01.jpg</picture>
         <vendor>ROHO</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Колектор з термостатичними та запірними клапанами Roho R805-09 - 1"х 9 вих. (RO0063)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>RO0063</vendorCode>
@@ -175118,7 +175118,7 @@
         <param name="Матеріал виробу">ABS-пластик</param>
         <param name="Кількість режимів струменя">5</param>
       </offer>
-      <offer id="PM6120" available="true">
+      <offer id="PM6120" available="false">
         <url>https://ol.partners/products/poliv/shlang-dlya-polivu/shlang-armovaniy-34-plamix-pro-plh022034-pm6120</url>
         <price>50.00</price>
         <currencyId>UAH</currencyId>
@@ -175127,8 +175127,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/1b760621-68d3-43fa-ada2-3c58a4dd9795/image_02.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/1b760621-68d3-43fa-ada2-3c58a4dd9795/image_03.jpg</picture>
         <vendor>PLAMIX PRO</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Шланг армований 3/4" PLAMIX PRO PLH-02-20-3/4 (PM6120)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>PM6120</vendorCode>
@@ -176437,7 +176437,7 @@
       </offer>
       <offer id="VO0013" available="false">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/zapchastini-ta-aksesuari-dlya-nasosiv/antivibratsiyniy-shlang-vodomet-ds520780-nerzh-stal-vo0013</url>
-        <price>360.00</price>
+        <price>370.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>00bf7fe7-6847-47ea-a5cb-a30d543aefc0</categoryId>
         <picture>https://ol.partners/Products/Photo/BE76933F-0CAF-4D80-A821-1EA53F014DCE</picture>
@@ -183317,7 +183317,7 @@
         <param name="Матеріал">Латунь</param>
         <param name="Тип конструкції">Подвійний гачок</param>
       </offer>
-      <offer id="ZX5064" available="true">
+      <offer id="ZX5064" available="false">
         <url>https://ol.partners/products/aksesuari-dlya-vannoi/paperotrimach/paperotrimach-zerix-afb01033-zx5064</url>
         <price>192.00</price>
         <currencyId>UAH</currencyId>
@@ -183326,8 +183326,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/d3ec2fff-7742-445a-9dbb-79f995569e0c/image_01.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/d3ec2fff-7742-445a-9dbb-79f995569e0c/image_02.jpg</picture>
         <vendor>ZERIX</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Паперотримач Zerix AFB-0103-3 (ZX5064)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>ZX5064</vendorCode>
@@ -186013,7 +186013,7 @@
       </offer>
       <offer id="KP3147" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/gidroakumulyatori-dlya-sistem-vodopostachannya/gidroakumulyator-gorizontalniy-koer-khts80-80l-korpusstal-12-mm-flanetsnerzhaviyucha-stal-kp3147</url>
-        <price>4800.00</price>
+        <price>5010.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>1bf21a88-0666-4d6b-8dd7-1909fb997857</categoryId>
         <picture>https://ol.partners/Products/Photo/C0682C00-064A-4F74-BB4D-6612A643B943</picture>
@@ -194213,7 +194213,7 @@
       </offer>
       <offer id="VO0015" available="true">
         <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/kontrolnovimiryuvalni-priladi-kvp/manometr-radialniy-vodomet-vds6512-vo0015</url>
-        <price>105.00</price>
+        <price>110.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>6dd71d38-90a7-477c-a978-c3165465e5b2</categoryId>
         <picture>https://ol.partners/Products/Photo/57A4C1AC-5756-4509-BB7B-B12E3083FA53</picture>
@@ -197050,7 +197050,7 @@
         <param name="Колір">Сталевий</param>
         <param name="Діаметр підключення (дюйм)">1х3/4</param>
       </offer>
-      <offer id="HB0983" available="true">
+      <offer id="HB0983" available="false">
         <url>https://ol.partners/products/miyki-dlya-kukhni/vrizni-miyki/miyka-kukhonna-haiba-hb8210g226-black-620x500x200-hb0983</url>
         <price>4006.00</price>
         <currencyId>UAH</currencyId>
@@ -197059,8 +197059,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/6f269565-6b8b-4276-8bce-18e7fb4f12af/image_01.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/6f269565-6b8b-4276-8bce-18e7fb4f12af/image_02.jpg</picture>
         <vendor>HAIBA</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Мийка кухонна HAIBA HB8210-G226 BLACK 620x500x200 (HB0983)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>HB0983</vendorCode>
@@ -217876,7 +217876,7 @@
         <picture>https://ol.partners/Products/Photo/33DCB81C-0217-472C-9408-F97AC4D2CAFD</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Фільтр грубої очистки Koer KR.F02.N - 1" (нікельований) (KR4718)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR4718</vendorCode>
@@ -220057,7 +220057,7 @@
       </offer>
       <offer id="KB0013" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/gidroakumulyatori-dlya-sistem-vodopostachannya/gidroakumulyator-vertikalniy-koer-kvts50-50l-korpusstal-12mm-kb0013</url>
-        <price>2650.00</price>
+        <price>2760.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>1bf21a88-0666-4d6b-8dd7-1909fb997857</categoryId>
         <picture>https://ol.partners/Products/Photo/9BE87D3A-B096-4793-BF30-533B5D23CE63</picture>
@@ -235370,7 +235370,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/cf1edd0f-95ba-400a-8686-944d40d48b1b/image_03_KP0179.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Муфта з накидною гайкою 25x3 /4F PPR Koer K0142.PRO (KP0179)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KP0179</vendorCode>
@@ -236855,7 +236855,7 @@
       </offer>
       <offer id="KP3148" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/gidroakumulyatori-dlya-sistem-vodopostachannya/gidroakumulyator-gorizontalniy-koer-khts100-100l-korpusstal-12-mm-flanetsnerzhaviyucha-stal-kp3148</url>
-        <price>5160.00</price>
+        <price>5380.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>1bf21a88-0666-4d6b-8dd7-1909fb997857</categoryId>
         <picture>https://ol.partners/Products/Photo/F17E9CF3-AD0D-4D3C-AF0B-4FD0C762DF10</picture>
@@ -238469,7 +238469,7 @@
       </offer>
       <offer id="KB0015" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/rozshiryuvalni-baki-dlya-sistem-opalennya/bak-rozshiryuvalniy-koer-bv24-dlya-sistemi-opalennya-vertikalniy-24l-34-epdm-kb0015</url>
-        <price>1310.00</price>
+        <price>1360.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>005f2162-06c4-45bd-98d7-a215b26c33d8</categoryId>
         <picture>https://ol.partners/Products/Photo/A2DF5246-04AB-45E2-800D-A6ED27628D03</picture>
@@ -246572,7 +246572,7 @@
       </offer>
       <offer id="VO0017" available="true">
         <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/kontrolnovimiryuvalni-priladi-kvp/manometr-radialniy-vodomet-ds6512-vo0017</url>
-        <price>115.00</price>
+        <price>110.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>6dd71d38-90a7-477c-a978-c3165465e5b2</categoryId>
         <picture>https://ol.partners/Products/Photo/69D08244-4781-47A3-9EED-1980527277E6</picture>
@@ -252764,7 +252764,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/4c8cd6fa-c565-407a-9e17-26169c35afc2/image_01.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Змішувач для умивальника вбудований KOER KB-16029-01 (Колір хром) (KR5480)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR5480</vendorCode>
@@ -258783,8 +258783,8 @@
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR6641</vendorCode>
         <param name="Од. в упак.">40</param>
-        <param name="Об'єм ящ.">0</param>
-        <param name="Вага ящ.">0</param>
+        <param name="Об'єм ящ.">0.01</param>
+        <param name="Вага ящ.">9.2</param>
         <param name="Особливості">Нерозбірне з’єднання без різьбового ущільнювача на PEX-кінці</param>
         <param name="Сумісність з комплектуючою">Для труб PEX із зазначеним зовнішнім діаметром і товщиною стінки; монтаж системним інструментом</param>
         <param name="Гарантійний період (міс)">84</param>
@@ -263701,7 +263701,7 @@
         <param name="Покриття">Нікель</param>
         <param name="Колір">Сталевий</param>
       </offer>
-      <offer id="NF3142" available="true">
+      <offer id="NF3142" available="false">
         <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/krani/krani-kulovi/kran-kuloviy-nolf-classic-nfc621401-12-fm-gshv-ruchka-vazhil-chervona-nf3142</url>
         <price>836.00</price>
         <currencyId>UAH</currencyId>
@@ -263711,8 +263711,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/036fd8b6-0ae0-4a3e-9a4b-3ee113cc5f2b/image_01.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/036fd8b6-0ae0-4a3e-9a4b-3ee113cc5f2b/image_06.jpg</picture>
         <vendor>NOLF CLASSIC</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Кран кульовий Nolf classic NFC.621-40-1 1/2" FM ГШВ, ручка "важіль" червона (NF3142)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>NF3142</vendorCode>
@@ -265027,7 +265027,7 @@
       </offer>
       <offer id="KB0007" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/rozshiryuvalni-baki-dlya-sistem-opalennya/bak-rozshiryuvalniy-dlya-sistemi-opalennya-koer-bv12-kb0007</url>
-        <price>1140.00</price>
+        <price>1190.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>005f2162-06c4-45bd-98d7-a215b26c33d8</categoryId>
         <picture>https://ol.partners/Products/Photo/4423EA95-DE92-4358-9791-E438EAE34779</picture>
@@ -270331,7 +270331,7 @@
       </offer>
       <offer id="KB0019" available="false">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/gidroakumulyatori-dlya-sistem-vodopostachannya/gidroakumulyator-vertikalniy-koer-etk100v-100l-fiksovana-membrana-butyl-bezflantseviy-kb0019</url>
-        <price>8560.00</price>
+        <price>8930.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>1bf21a88-0666-4d6b-8dd7-1909fb997857</categoryId>
         <picture>https://ol.partners/Products/Photo/E65DCBF6-5ED9-42D4-8AFD-3C63FCDB41B3</picture>
@@ -273576,7 +273576,7 @@
         <param name="Тип виливу">Поворотний</param>
         <param name="Колір">Хром</param>
       </offer>
-      <offer id="NF3167" available="false">
+      <offer id="NF3167" available="true">
         <url>https://ol.partners/products/truboprovodi-ta-zyednannya/fitingi/rizbovi-zyednannya/zaglushka-nolf-nfcp06f12-f-nf3167</url>
         <price>23.00</price>
         <currencyId>UAH</currencyId>
@@ -273584,8 +273584,8 @@
         <picture>https://ol.partners/Products/Photo/74110B9B-5288-429D-83F4-1CCBA570D6C4</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/8b7cd275-490a-4f55-b0d3-45c23e0ffc11/image_02.jpg</picture>
         <vendor>NOLF</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Заглушка NOLF NFC.P06F-1/2" F (NF3167)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>NF3167</vendorCode>
@@ -275189,8 +275189,8 @@
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR6635</vendorCode>
         <param name="Од. в упак.">40</param>
-        <param name="Об'єм ящ.">0</param>
-        <param name="Вага ящ.">0</param>
+        <param name="Об'єм ящ.">0.01</param>
+        <param name="Вага ящ.">12.9</param>
         <param name="Середній термін служби (років)">50</param>
         <param name="Робоче середовище">Вода, теплоносій та інші рідини, сумісні з PEX і матеріалом фітинга</param>
         <param name="Діапазон температури робочого середовища Тр (°С)">від -20 до +120</param>
@@ -283443,15 +283443,15 @@
         <param name="Форма">Квадратна</param>
         <param name="Поверхня">Глянцева</param>
       </offer>
-      <offer id="ZX0262" available="true">
+      <offer id="ZX0262" available="false">
         <url>https://ol.partners/products/zmishuvachi-ta-krani/zmishuvachi-dlya-umivalnika/dvokhventilni-zmishuvachi-dlya-umivalnika/zmishuvach-dlya-umivalnika-zerix-z10547-zx0262</url>
         <price>761.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>7bd5f9e6-540a-4542-b449-789ef0743d5f</categoryId>
         <picture>https://ol.partners/Products/Photo/BC721779-988B-499B-85E3-4AD17C9D13C4</picture>
         <vendor>ZERIX</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Змішувач для умивальника Zerix Z1054-7 (ZX0262)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>ZX0262</vendorCode>
@@ -285534,7 +285534,7 @@
         <param name="Колір">Хром</param>
         <param name="Комплектація">Мийка, сифон</param>
       </offer>
-      <offer id="23764001" available="false">
+      <offer id="23764001" available="true">
         <url>https://ol.partners/products/zmishuvachi-ta-krani/zmishuvachi-dlya-umivalnika/odnovazhilniy-zmishuvach-dlya-rakovini/zmishuvach-na-stilnitsyu-dlya-rakovini-xlrozmiru-grohe-bauloop-new-23764001</url>
         <price>6750.00</price>
         <currencyId>UAH</currencyId>
@@ -285548,8 +285548,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/df884293-886d-422e-891e-dbdf532e866b/image_07.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/df884293-886d-422e-891e-dbdf532e866b/image_05.jpg</picture>
         <vendor>GROHE</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Змішувач на стільницю для раковини XL-розміру Grohe BauLoop New (23764001)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>23764001</vendorCode>
@@ -292382,7 +292382,7 @@
       </offer>
       <offer id="KP3149" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/rozshiryuvalni-baki-dlya-sistem-opalennya/bak-rozshiryuvalniy-dlya-sistemi-opalennya-vertikalniy-koer-kvt2-2l-12-epdm-kp3149</url>
-        <price>290.00</price>
+        <price>310.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>005f2162-06c4-45bd-98d7-a215b26c33d8</categoryId>
         <picture>https://ol.partners/Products/Photo/61A99FB4-F8A7-4CFB-8646-918F2A420EE7</picture>
@@ -300544,7 +300544,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/26478810-7474-4dff-abba-6029f63d2499/image_03_KR0211.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Манометр осьової KOER KM.611A D 63мм (0-6 bar) 1/4''(KR2901)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR2901</vendorCode>
@@ -306275,7 +306275,7 @@
       </offer>
       <offer id="KB0005" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/rozshiryuvalni-baki-dlya-sistem-opalennya/bak-rozshiryuvalniy-dlya-sistemi-opalennya-koer-bv5-vertikalniy-kb0005</url>
-        <price>690.00</price>
+        <price>720.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>005f2162-06c4-45bd-98d7-a215b26c33d8</categoryId>
         <picture>https://ol.partners/Products/Photo/00CCC6C3-7D78-4B0C-B9F6-717F1065144D</picture>
@@ -306693,8 +306693,8 @@
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR6640</vendorCode>
         <param name="Од. в упак.">40</param>
-        <param name="Об'єм ящ.">0</param>
-        <param name="Вага ящ.">0</param>
+        <param name="Об'єм ящ.">0.01</param>
+        <param name="Вага ящ.">11.4</param>
         <param name="Призначення">Для труб</param>
         <param name="Країна бренду">Чехія</param>
         <param name="Торгова марка">KOER</param>
@@ -308230,8 +308230,8 @@
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR6630</vendorCode>
         <param name="Од. в упак.">380</param>
-        <param name="Об'єм ящ.">0</param>
-        <param name="Вага ящ.">0</param>
+        <param name="Об'єм ящ.">0.011</param>
+        <param name="Вага ящ.">8.8</param>
         <param name="Країна бренду">Чехія</param>
         <param name="Призначення">Фіксація різьбових елементів і запобігання самовідгвинчуванню</param>
         <param name="Вид виробу">Контргайка</param>
@@ -313530,7 +313530,7 @@
       </offer>
       <offer id="KB0014" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/rozshiryuvalni-baki-dlya-sistem-opalennya/bak-rozshiryuvalniy-koer-bv19-dlya-sistemi-opalennya-vertikalniy-19l-34-epdm-kb0014</url>
-        <price>1210.00</price>
+        <price>1260.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>005f2162-06c4-45bd-98d7-a215b26c33d8</categoryId>
         <picture>https://ol.partners/Products/Photo/BEE006E5-860C-49C5-809B-3800F41F26EC</picture>
@@ -315326,7 +315326,7 @@
         <picture>https://ol.partners/Products/Photo/4C1A7D10-B4FF-4A01-91A4-150AD152C8B4</picture>
         <vendor>EUROPRODUCT</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Кут 90 20x20 PPR Europroduct EP.0014 (EP4065)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>EP4065</vendorCode>
@@ -324218,7 +324218,7 @@
         <param name="Довжина виливу (см)">31-35</param>
         <param name="Загальна довжина (мм)">390</param>
       </offer>
-      <offer id="ZX4996" available="true">
+      <offer id="ZX4996" available="false">
         <url>https://ol.partners/products/aksesuari-dlya-vannoi/shtangi-teleskopichni/shtanga-dlya-shtorki-teleskopichna-pryama-zerix-crs110x200-110cm200cm-nerzhaviyucha-stal-zx4996</url>
         <price>226.00</price>
         <currencyId>UAH</currencyId>
@@ -324237,7 +324237,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/a29efab6-6a9a-4afe-9a30-8cb6dc5b4773/image_09.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/a29efab6-6a9a-4afe-9a30-8cb6dc5b4773/image_10.jpg</picture>
         <vendor>ZERIX</vendor>
-        <stock_quantity>100</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Штанга для шторки телескопічна пряма ZERIX CRS-110x200 110cm-200cm (нержавіюча сталь) (ZX4996)</name>
         <description>&lt;![CDATA[]]&gt;</description>
@@ -327724,7 +327724,7 @@
       </offer>
       <offer id="KP3146" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/gidroakumulyatori-dlya-sistem-vodopostachannya/gidroakumulyator-gorizontalniy-koer-khts50-50l-korpusstal-12-mm-flanetsnerzhaviyucha-stal-kp3146</url>
-        <price>2760.00</price>
+        <price>2880.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>1bf21a88-0666-4d6b-8dd7-1909fb997857</categoryId>
         <picture>https://ol.partners/Products/Photo/4D23CD81-8836-4A13-9F80-5FAED201B4F4</picture>
@@ -335048,7 +335048,7 @@
       </offer>
       <offer id="KB0003" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/rozshiryuvalni-baki-dlya-sistem-opalennya/bak-rozshiryuvalniy-dlya-sistemi-opalennya-ploskiy-koer-bp10-kb0003</url>
-        <price>1620.00</price>
+        <price>1690.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>005f2162-06c4-45bd-98d7-a215b26c33d8</categoryId>
         <picture>https://ol.partners/Products/Photo/18E79CC0-560B-4EF6-8346-A8B0D02297EA</picture>
@@ -361964,7 +361964,7 @@
       </offer>
       <offer id="KB0002" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/rozshiryuvalni-baki-dlya-sistem-opalennya/bak-rozshiryuvalniy-dlya-sistemi-opalennya-ploskiy-koer-bp8-8l-kb0002</url>
-        <price>1550.00</price>
+        <price>1620.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>005f2162-06c4-45bd-98d7-a215b26c33d8</categoryId>
         <picture>https://ol.partners/Products/Photo/42F03702-F521-49DC-9A9B-D12712BE55E7</picture>
@@ -370911,7 +370911,7 @@
         <param name="Колір">Хром</param>
         <param name="Покриття">З покриттям</param>
       </offer>
-      <offer id="MX0583" available="true">
+      <offer id="MX0583" available="false">
         <url>https://ol.partners/products/miyki-dlya-kukhni/komplekt-dlya-kukhni-miyka-ta-zmishuvach/komplekt-miyka-zmishuvach-dispenser-susharka-dlya-posudu-mixxus-set7843d220x10satin-kolir-nerzh-mx0583</url>
         <price>5069.00</price>
         <currencyId>UAH</currencyId>
@@ -370922,8 +370922,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/1e548206-5260-40e1-ba82-c918241630ae/image_04.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/1e548206-5260-40e1-ba82-c918241630ae/image_01.jpg</picture>
         <vendor>MIXXUS</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Комплект: мийка, змішувач, диспенсер, сушарка для посуду MIXXUS SET-7843D-220x1.0-SATIN (Колір нерж) (MX0583)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>MX0583</vendorCode>
@@ -373640,7 +373640,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/a6e65c01-1518-4dc0-a5df-1399c6e47c4f/image_01.jpg</picture>
         <vendor>MIXXUS</vendor>
         <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Кран для підключення сантехприладів MIXXUS VAL-06-1/2x1/2 з нерж. сталі SUS304 (Колір нерж) (MI6056)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>MI6056</vendorCode>
@@ -382273,7 +382273,7 @@
       </offer>
       <offer id="KB0004" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/rozshiryuvalni-baki-dlya-sistem-opalennya/bak-rozshiryuvalniy-dlya-sistemi-opalennya-ploskiy-koer-bp12-kb0004</url>
-        <price>1700.00</price>
+        <price>1770.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>005f2162-06c4-45bd-98d7-a215b26c33d8</categoryId>
         <picture>https://ol.partners/Products/Photo/AADCF59D-AD58-4CAD-94E5-A122C509109A</picture>
@@ -383059,7 +383059,7 @@
       </offer>
       <offer id="KB0018" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/gidroakumulyatori-dlya-sistem-vodopostachannya/gidroakumulyator-vertikalniy-koer-etk80v-80l-fiksovana-membrana-butyl-bezflantseviy-kb0018</url>
-        <price>6990.00</price>
+        <price>7290.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>1bf21a88-0666-4d6b-8dd7-1909fb997857</categoryId>
         <picture>https://ol.partners/Products/Photo/04A6E23A-1D5C-4421-8CEF-384AFC4A4F92</picture>
@@ -385659,8 +385659,8 @@
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR6629</vendorCode>
         <param name="Од. в упак.">400</param>
-        <param name="Об'єм ящ.">0</param>
-        <param name="Вага ящ.">0</param>
+        <param name="Об'єм ящ.">0.01</param>
+        <param name="Вага ящ.">8.9</param>
         <param name="Покриття">Нікель</param>
         <param name="Колір">Сталевий</param>
         <param name="Торгова марка">KOER</param>
@@ -413702,7 +413702,7 @@
       </offer>
       <offer id="VO0014" available="true">
         <url>https://ol.partners/products/nasosi-ta-aksesuari/zapchastini-ta-aksesuari-dlya-nasosiv/antivibratsiyniy-shlang-vodomet-ds5207100-nerzh-stal-vo0014</url>
-        <price>410.00</price>
+        <price>430.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>00bf7fe7-6847-47ea-a5cb-a30d543aefc0</categoryId>
         <picture>https://ol.partners/Products/Photo/0EC44CAC-6565-4CC9-9E7B-EF29B7A5D5DC</picture>
@@ -421802,7 +421802,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/4e0ba231-7eb2-4522-af7f-4936d954bc78/image_03.jpg</picture>
         <vendor>GROHE</vendor>
         <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Душова система прихованого монтажу Grohe Cubeo з Tempesta 250 (1053360000)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>1053360000</vendorCode>
@@ -431775,8 +431775,8 @@
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR6636</vendorCode>
         <param name="Од. в упак.">24</param>
-        <param name="Об'єм ящ.">0</param>
-        <param name="Вага ящ.">0</param>
+        <param name="Об'єм ящ.">0.01</param>
+        <param name="Вага ящ.">9.8</param>
         <param name="Особливості">Нерозбірне з’єднання без різьбового ущільнювача на PEX-кінці</param>
         <param name="Сумісність з комплектуючою">Для труб PEX із зазначеним зовнішнім діаметром і товщиною стінки; монтаж системним інструментом</param>
         <param name="Гарантійний період (міс)">84</param>
@@ -435378,7 +435378,7 @@
       </offer>
       <offer id="VO0016" available="true">
         <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/kontrolnovimiryuvalni-priladi-kvp/manometr-radialniy-vodomet-vds6511-vo0016</url>
-        <price>126.00</price>
+        <price>120.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>6dd71d38-90a7-477c-a978-c3165465e5b2</categoryId>
         <picture>https://ol.partners/Products/Photo/40FC4BF7-CC6B-4C7B-82C4-DD69666E86E3</picture>
@@ -439012,7 +439012,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/a5ba8aa7-5808-496f-bc30-34e4fe512d38/image_02.jpg</picture>
         <vendor>CHAMPION</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Монокран на одну воду Champion Mono (35) 15 CM (CH0078)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>CH0078</vendorCode>
@@ -443099,7 +443099,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/e39d0a32-c150-4d7e-bca3-0b7152a47fd5/image_03_KP0178.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Муфта з накидною гайкою 20x1 /2F PPR Koer K0141.PRO (KP0178)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KP0178</vendorCode>
