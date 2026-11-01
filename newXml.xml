@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-10-31 04:07">
+<yml_catalog date="2026-11-01 04:29">
   <shop>
     <name>O&amp;L</name>
     <company>O&amp;L</company>
@@ -155902,7 +155902,7 @@
         <param name="Комплектація">Шланг 150 см, режимна лійка, чашки, ексцентрики, гумові прокладки, тримач для лійки"Рожок"</param>
         <param name="Гарантія на корпус змішувача (міс)">60</param>
       </offer>
-      <offer id="41036000" available="true">
+      <offer id="41036000" available="false">
         <url>https://ol.partners/products/aksesuari-dlya-vannoi/milnitsi/milnitsya-grohe-selection-41036000</url>
         <price>2808.00</price>
         <currencyId>UAH</currencyId>
@@ -155917,8 +155917,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/ddbbd2f4-182e-434c-aa74-fea6a4523f25/image_03.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/ddbbd2f4-182e-434c-aa74-fea6a4523f25/image_07.jpg</picture>
         <vendor>GROHE</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Мильниця Grohe Selection (41036000)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>41036000</vendorCode>
@@ -178279,15 +178279,15 @@
         <param name="Комплектація">Шланг 150 см, ручна лійка 1 режим, чашки, ексцентрики, гумові прокладки, тримач для лійки</param>
         <param name="Гарантія на корпус змішувача (міс)">24</param>
       </offer>
-      <offer id="MI2859" available="true">
+      <offer id="MI2859" available="false">
         <url>https://ol.partners/products/zmishuvachi-ta-krani/zmishuvachi-dlya-umivalnika/odnovazhilniy-zmishuvach-dlya-rakovini/zmishuvach-dlya-umivalnika-mixxus-premium-vintage-bronze-001b-kolir-bronza-mi2859</url>
         <price>2704.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>7bd5f9e6-540a-4542-b449-789ef0743d5f</categoryId>
         <picture>https://ol.partners/Products/Photo/DA492E41-EAAD-43D1-85CE-8A5970B2646C</picture>
         <vendor>MIXXUS PREMIUM</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Змішувач для умивальника MIXXUS PREMIUM VINTAGE BRONZE 001-B (Колір бронза) (MI2859)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>MI2859</vendorCode>
@@ -229555,6 +229555,8 @@
         <param name="Од. в упак.">4</param>
         <param name="Об'єм ящ.">0.119</param>
         <param name="Вага ящ.">20.5</param>
+        <param name="Довжина виливу (мм)">170</param>
+        <param name="Максимальна висота (см)">140</param>
         <param name="Робочий тиск (бар)">1-5</param>
         <param name="Тип керування">Одноважільні</param>
         <param name="MAX різниця тиску гарячої та холодної води (бар)">1,50</param>
@@ -229584,7 +229586,6 @@
         <param name="Стиль">Модерн</param>
         <param name="Колір">Графіт</param>
         <param name="Вилив">Короткий вилив</param>
-        <param name="Максимальна висота (см)">140</param>
       </offer>
       <offer id="RAD093" available="true">
         <url>https://ol.partners/products/radiatori-opalennya/stalevi-radiatori/staleviy-radiator-koer-22x500x1500b-2495-vt-3673-kg-nizhnye-pidklyuchennya-z-termoklapanom-rad093</url>
@@ -239365,7 +239366,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/cb50e1b0-8f9e-4929-9738-531f34442745/image_03.jpg</picture>
         <vendor>GROHE</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Гачок для халата Grohe Selection (41039000)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>41039000</vendorCode>
@@ -266979,7 +266980,7 @@
         <param name="Колір">Чорний</param>
         <param name="Покриття">Немає</param>
       </offer>
-      <offer id="KR6551" available="true">
+      <offer id="KR6551" available="false">
         <url>https://ol.partners/products/radiatori-opalennya/stalevi-radiatori/radiator-trubchastiy-dizaynerskiy-koer-orbisuc218006bl-universalne-pidklyuchennya-kolir-chorniy-kr6551</url>
         <price>9140.00</price>
         <currencyId>UAH</currencyId>
@@ -266992,8 +266993,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/f3f369d4-ba85-4339-bb68-269add189246/image_04.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/f3f369d4-ba85-4339-bb68-269add189246/image_06.jpg</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Радіатор трубчастий дизайнерський KOER ORBIS-UC2-180-06-BL універсальне підключення (Колір чорний) (KR6551)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR6551</vendorCode>
@@ -280284,7 +280285,7 @@
         <param name="Гарантійний період (міс)">96</param>
         <param name="Тип з'єднання">Гайка-Гайка 1/2x1/2</param>
       </offer>
-      <offer id="KR5211" available="true">
+      <offer id="KR5211" available="false">
         <url>https://ol.partners/products/zmishuvachi-ta-krani/zmishuvachi-dlya-kukhni/zmishuvach-na-kukhnyu-z-gnuchkim-silikonovim-vilivom/zmishuvach-dlya-kukhni-koer-ki7002607-z-nerzh-stali-sus304-kolir-grafitsilikonoviy-viliv-chorniy-kr5211</url>
         <price>4692.00</price>
         <currencyId>UAH</currencyId>
@@ -280299,8 +280300,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/b04b270f-6cd2-407d-b3c0-a8647d6182f4/image_05.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/b04b270f-6cd2-407d-b3c0-a8647d6182f4/image_02.jpg</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Змішувач для кухні KOER KI-70026-07 з нерж. сталі SUS304 (Колір графіт+силіконовий вилив чорний) (KR5211)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR5211</vendorCode>
@@ -374789,6 +374790,8 @@
         <param name="Комплектація">Шланг 150 см, ручна лійка 3 режими, стельова лійка, чашки, ексцентрики, гумові прокладки, тримач для лійки</param>
         <param name="Гарантія на деталі змішувача (міс)">12</param>
         <param name="Гарантія на корпус змішувача (міс)">60</param>
+        <param name="Довжина виливу (мм)">170</param>
+        <param name="Максимальна висота (см)">140</param>
         <param name="Модель">009-J</param>
         <param name="Тип монтажу">Настінні</param>
         <param name="Торгова марка">MIXXUS PREMIUM</param>
@@ -374802,7 +374805,6 @@
         <param name="Покриття">З покриттям</param>
         <param name="Колір">Чорний матовий</param>
         <param name="Стиль">Модерн</param>
-        <param name="Максимальна висота (см)">140</param>
       </offer>
       <offer id="MI8348" available="false">
         <url>https://ol.partners/products/keramika/unitazi/chasha-unitazukompaktu-bez-sidinnya-mixxus-premium-bevel0401t1-bowl-410x390x625-sistema-zmivu-tornado-10-mi8348</url>
@@ -427070,7 +427072,7 @@
         <param name="Максимальний тиск (бар)">4,00</param>
         <param name="Колір">Латунний</param>
       </offer>
-      <offer id="KR2752" available="true">
+      <offer id="KR2752" available="false">
         <url>https://ol.partners/products/radiatori-opalennya/sektsiyni-radiatori/bimetalevi-radiatori-koer-extreme-100-bimetal500-kr2752-tsina-za-1-sektsiyu</url>
         <price>663.00</price>
         <currencyId>UAH</currencyId>
@@ -427080,8 +427082,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/cb56fe39-b712-49dc-b065-228650536a91/image_01.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/cb56fe39-b712-49dc-b065-228650536a91/image_03_KR2752.jpg</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Біметалеві радіатори Koer Extreme 100 Bimetal-500 (KR2752) / Ціна за 1 секцію</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR2752</vendorCode>
@@ -445647,7 +445649,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/1df2ae55-c631-4222-a131-94a7fa8a74f3/image_01.jpg</picture>
         <vendor>MIXXUS</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Лійка для душу MIXXUS SH-02.SUS BLACK з нерж. сталі SUS304 (Колір чорний) (MI4752)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>MI4752</vendorCode>
