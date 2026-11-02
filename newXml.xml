@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-11-01 04:29">
+<yml_catalog date="2026-11-02 04:31">
   <shop>
     <name>O&amp;L</name>
     <company>O&amp;L</company>
@@ -793,7 +793,7 @@
         <param name="Висота до виливу (мм)">205</param>
         <param name="Висота змішувача (мм)">250</param>
       </offer>
-      <offer id="KR5218" available="true">
+      <offer id="KR5218" available="false">
         <url>https://ol.partners/products/aksesuari-ta-komplektuyuchi-dlya-kotliv/regulyator-tyagi-koer-kr1280-34-kr5218</url>
         <price>1397.00</price>
         <currencyId>UAH</currencyId>
@@ -805,8 +805,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/afff1ca6-b7e0-46df-ade6-363c413d04af/image_04.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/afff1ca6-b7e0-46df-ade6-363c413d04af/image_02.jpg</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Регулятор тяги Koer KR.1280 - 3/4" (KR5218)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR5218</vendorCode>
@@ -28556,7 +28556,7 @@
         <param name="Форма">Універсальна</param>
         <param name="Колір">Хром</param>
       </offer>
-      <offer id="KP0179" available="true">
+      <offer id="KP0179" available="false">
         <url>https://ol.partners/products/truboprovodi-ta-zyednannya/fitingi/zyednannya-dlya-trub-z-polipropilenu/mufta-z-nakidnoyu-gaykoyu-25x3-4f-ppr-koer-k0142pro-kp0179</url>
         <price>121.00</price>
         <currencyId>UAH</currencyId>
@@ -28564,8 +28564,8 @@
         <picture>https://ol.partners/Products/Photo/694634FC-C916-441A-827C-E1D5FCFEB68B</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/cf1edd0f-95ba-400a-8686-944d40d48b1b/image_03_KP0179.jpg</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Муфта з накидною гайкою 25x3 /4F PPR Koer K0142.PRO (KP0179)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KP0179</vendorCode>
@@ -52350,7 +52350,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/e39d0a32-c150-4d7e-bca3-0b7152a47fd5/image_03_KP0178.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Муфта з накидною гайкою 20x1 /2F PPR Koer K0141.PRO (KP0178)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KP0178</vendorCode>
@@ -66701,15 +66701,15 @@
         <param name="Гарантія на корпус змішувача (міс)">60</param>
         <param name="Гарантія на деталі змішувача (міс)">12</param>
       </offer>
-      <offer id="MI6939" available="true">
+      <offer id="MI6939" available="false">
         <url>https://ol.partners/products/zapchastini-dlya-zmishuvacha/ruchki-dlya-zmishuvachiv/ruchki-dlya-zmishuvacha-mixxus-handles-seta722-z-kranbuksami-para-keramika-mi6939</url>
         <price>404.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>b903a3ba-04b1-4d57-a7e8-cf662f108909</categoryId>
         <picture>https://ol.partners/Products/Photo/F67ECC3A-6149-463E-BC55-DC70372E1D6B</picture>
         <vendor>MIXXUS</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Ручки для змішувача Mixxus Handles SET-A722 (з кранбуксами, пара) кераміка (MI6939)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>MI6939</vendorCode>
@@ -70342,7 +70342,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/8ac2df24-186d-4108-814e-ffe9c90226eb/image_06.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Гідрострелка Koer KR.S1032 4/2 (з воздухоотвод. І дренаж. краном) 1"НР SUS304 (KR2959)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR2959</vendorCode>
@@ -72840,7 +72840,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/35dfd9f2-6e9c-4a6d-996d-45fe9a2e5648/image_02.jpg</picture>
         <vendor>MIXXUS</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Змішувач для ванни MIXXUS MAURO 140-B EURO (Колір хром) (MI6256)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>MI6256</vendorCode>
@@ -104503,7 +104503,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/5c41a93b-dbfb-4294-812d-00f94a29e60e/image_03_KR2646.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Колекторний блок з витратомірами Koer KR.1110-09 1”x9 ways (KR2646)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR2646</vendorCode>
@@ -115672,15 +115672,15 @@
         <param name="Довжина виливу (мм)">350</param>
         <param name="Довжина виливу (см)">26-30</param>
       </offer>
-      <offer id="MI2881" available="true">
+      <offer id="MI2881" available="false">
         <url>https://ol.partners/products/zmishuvachi-ta-krani/zmishuvachi-dlya-vanni/liti-zmishuvachi-dlya-vannoi/zmishuvach-dlya-vanni-mixxus-premium-aura-009-euro-kolir-khrom-mi2881</url>
         <price>2005.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>24d317c0-5084-463f-84c1-67f9a35850ce</categoryId>
         <picture>https://ol.partners/Products/Photo/20B0D8FD-4B41-42D3-9398-004A5E68FEB7</picture>
         <vendor>MIXXUS PREMIUM</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Змішувач для ванни MIXXUS PREMIUM AURA 009 EURO (Колір хром) (MI2881)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>MI2881</vendorCode>
@@ -179189,7 +179189,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/6dce22ff-26bf-42e3-b16a-20ee4c846551/image_01.jpg</picture>
         <vendor>MASTER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Змішувач для ванни Master 141 (MR0004)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>MR0004</vendorCode>
@@ -180092,7 +180092,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/86bb5f2f-01a6-4d11-8216-e41c80920929/image_01.jpg</picture>
         <vendor>MIXXUS</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Змішувач для ванни MIXXUS TRINITY 009 EURO (Колір хром) (MI6271)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>MI6271</vendorCode>
@@ -182066,15 +182066,15 @@
         <param name="Гарантія на корпус змішувача (міс)">60</param>
         <param name="Гарантія на деталі змішувача (міс)">12</param>
       </offer>
-      <offer id="MI0599" available="true">
+      <offer id="MI0599" available="false">
         <url>https://ol.partners/products/zmishuvachi-ta-krani/zmishuvachi-dlya-umivalnika/odnovazhilniy-zmishuvach-dlya-rakovini/zmishuvach-dlya-umivalnika-mixxus-missouri-55515cm-nut-black-kolir-chorniy-mi0599</url>
         <price>1398.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>7bd5f9e6-540a-4542-b449-789ef0743d5f</categoryId>
         <picture>https://ol.partners/Products/Photo/958BC5A1-B0DF-4D18-9A12-BC7BF909E628</picture>
         <vendor>MIXXUS</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Змішувач для умивальника MIXXUS MISSOURI 555-15CM NUT BLACK (Колір чорний) (MI0599)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>MI0599</vendorCode>
@@ -196247,7 +196247,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/aca7afbc-46a3-4590-85f5-f5b146fa8eda/image_06.jpg</picture>
         <vendor>MIXXUS</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Штанга для шторки телескопічна пряма MIXXUS CRS-140x260 140cm-260cm (нержавіюча сталь) (AC0654)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>AC0654</vendorCode>
@@ -229371,7 +229371,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/08a64fb2-9cff-4025-9a1d-5614ba6b6265/image_01.jpg</picture>
         <vendor>CHAMPION</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Змішувач для умивальника Champion Mars 001 (CH0046)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>CH0046</vendorCode>
@@ -232838,7 +232838,7 @@
         <param name="Тип ручки">Вентиль</param>
         <param name="Діаметр підключення (дюйм)">1/2</param>
       </offer>
-      <offer id="MI8245" available="true">
+      <offer id="MI8245" available="false">
         <url>https://ol.partners/products/zmishuvachi-ta-krani/zmishuvachi-dlya-umivalnika/odnovazhilniy-zmishuvach-dlya-rakovini/zmishuvach-dlya-umivalnika-mixxus-premium-degas-001-nut-mi8245</url>
         <price>2074.00</price>
         <currencyId>UAH</currencyId>
@@ -232851,8 +232851,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/ec07b0b2-6598-4545-b322-007722c72502/image_03.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/ec07b0b2-6598-4545-b322-007722c72502/image_06.jpg</picture>
         <vendor>MIXXUS PREMIUM</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Змішувач для умивальника MIXXUS PREMIUM DEGAS 001 NUT (MI8245)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>MI8245</vendorCode>
@@ -245977,7 +245977,7 @@
         <picture>https://ol.partners/Products/Photo/725A09CC-0071-4C09-91E3-3A50AE36D2B2</picture>
         <vendor>MIXXUS</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Змішувач для душу MIXXUS DVE-003 (Колір нерж) (MI6080)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>MI6080</vendorCode>
@@ -252531,15 +252531,15 @@
         <param name="Номінальний тиск (бар)">40,00</param>
         <param name="Матеріал виробу">Латунь CW617N</param>
       </offer>
-      <offer id="MI2880" available="true">
+      <offer id="MI2880" available="false">
         <url>https://ol.partners/products/zmishuvachi-ta-krani/zmishuvachi-dlya-vanni/zmishuvach-dlya-vanni-z-povorotnim-vilivom/zmishuvach-dlya-vanni-mixxus-premium-aura-006-euro-kolir-khrom-mi2880</url>
         <price>2220.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>c2f36242-64cb-47db-b8a9-e32c00e667c8</categoryId>
         <picture>https://ol.partners/Products/Photo/6A73CE0C-A976-47E5-8EAB-A300CF179736</picture>
         <vendor>MIXXUS PREMIUM</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Змішувач для ванни MIXXUS PREMIUM AURA 006 EURO (Колір хром) (MI2880)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>MI2880</vendorCode>
@@ -268124,7 +268124,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/b8015665-58c3-4fd3-8a84-bfa23892090b/image_03_KF0079.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Футорка 3/4"х1" Koer KF.F0810 (KF0079)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KF0079</vendorCode>
@@ -345078,15 +345078,15 @@
         <param name="Ширина (мм)">490</param>
         <param name="Довжина (мм)">780</param>
       </offer>
-      <offer id="KR5660" available="true">
+      <offer id="KR5660" available="false">
         <url>https://ol.partners/products/opalyuvalni-kotli/komplektuyuchi-dlya-kotliv/komplekt-koaksialnogo-dimokhodu-dlya-kotla-koer-kch02-premium-1000-mm-60100-kr5660</url>
         <price>1296.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>6223d625-6ef3-4bcc-8968-4806d32ad8d1</categoryId>
         <picture>https://ol.partners/Products/Photo/2F94809C-E735-47A5-816E-68A0CACDB2D8</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Комплект коаксіального димоходу для котла KOER KCH.02 Premium 1000 мм, 60/100 (KR5660)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR5660</vendorCode>
@@ -348153,7 +348153,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/1c19818f-a01f-49ee-b32e-e3931ac1923d/image_03_KP0109.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>З'єднувальна муфта ВР 40x1.1/4F PPR Koer K0091.PRO (KP0109)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KP0109</vendorCode>
@@ -351003,15 +351003,15 @@
         <param name="Довжина виливу (см)">11-15</param>
         <param name="Загальна довжина (мм)">180</param>
       </offer>
-      <offer id="EE0003" available="true">
+      <offer id="EE0003" available="false">
         <url>https://ol.partners/products/truboprovodi-ta-zyednannya/trubi/trubi-dlya-teploi-pidlogi/truba-dlya-teploi-pidlogi-z-kisnevim-baryerom-koer-pexa-evoh-1620-200m-ee0003</url>
         <price>54.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>877a361d-2e61-4df6-a0c5-401e44996f5f</categoryId>
         <picture>https://ol.partners/Products/Photo/B37E4B82-C32C-4985-A226-4F383D02A483</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Труба для теплої підлоги з кисневим бар'єром Koer PEX-A EVOH 16*2,0 (200м) (EE0003)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>EE0003</vendorCode>
@@ -376786,7 +376786,7 @@
         <param name="Поверхня">Глянцева</param>
         <param name="Форма">Універсальна</param>
       </offer>
-      <offer id="ZX5891" available="true">
+      <offer id="ZX5891" available="false">
         <url>https://ol.partners/products/aksesuari-dlya-vannoi/vidro-dlya-smittya/vidro-dlya-smittya-z-plavnim-zakrittyam-kvadratne-zerix-kubixtc0108-ss-color-8l-kolir-nerzhaviyka-zx5891</url>
         <price>1152.00</price>
         <currencyId>UAH</currencyId>
@@ -376799,8 +376799,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/255a0f46-d39d-4ac3-854c-07ddb5a7fb69/image_01.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/255a0f46-d39d-4ac3-854c-07ddb5a7fb69/image_04.jpg</picture>
         <vendor>ZERIX</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Відро для сміття з плавним закриттям квадратне ZERIX KUBIX-TC0108 SS COLOR 8л (колір нержавійка) (ZX5891)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>ZX5891</vendorCode>
@@ -405727,7 +405727,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/a6bf71cb-f2b6-4d73-b42f-ba8a4b6ccb0d/image_07.jpg</picture>
         <vendor>MIXXUS PREMIUM</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Відро для сміття з плавним закриттям прямокутне MIXXUS PREMIUM QUADRO-TC0105 BLACK 5 л (колір чорний) (MI7061)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>MI7061</vendorCode>
@@ -423764,7 +423764,7 @@
         <param name="Покриття">Нікель</param>
         <param name="Колір">Сталевий</param>
       </offer>
-      <offer id="KR2842" available="true">
+      <offer id="KR2842" available="false">
         <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/grupa-bezpeki/grupa-bezpeki-1-koer-kr104-kr2842</url>
         <price>1340.00</price>
         <currencyId>UAH</currencyId>
@@ -423772,8 +423772,8 @@
         <picture>https://ol.partners/Products/Photo/EF4C9468-C6A5-4FBD-A617-3D1DE637CAAB</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/0c2ccd04-9432-4b07-adf1-faf76fbabf2a/image_03_KR2842.jpg</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Група безпеки 1" Koer KR.104 (KR2842)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR2842</vendorCode>
@@ -424785,7 +424785,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/1606491e-460c-48df-887c-36d9551cca2f/MI6255-MIXXUS-MAURO-273-(NUT)-3.jpg</picture>
         <vendor>MIXXUS</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Змішувач для кухні MIXXUS MAURO 273 NUT (Колір хром) (MI6255)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>MI6255</vendorCode>
@@ -435277,7 +435277,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/b9e92926-ec97-43c5-88d3-55c6590a3c89/image_01.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Кран поливу Koer KR.247 - 1/2" з конектором для швидкого підключення (KR3196)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR3196</vendorCode>
