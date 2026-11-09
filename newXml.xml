@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-11-07 04:43">
+<yml_catalog date="2026-11-09 04:43">
   <shop>
     <name>O&amp;L</name>
     <company>O&amp;L</company>
@@ -43062,8 +43062,16 @@
         <price>4524.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>0dec7455-3432-4b94-a66b-26780147f5e8</categoryId>
-        <picture>https://ol.partners/Products/Photo/AB48902B-9C57-491C-9268-80293EC25704</picture>
+        <picture>https://ol.partners/Products/Photo/E6782E98-6661-4AEF-9EC5-95FDB6D135C9</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/5683de19-e322-41f4-b656-0d44c7bf7d91/image_08.jpg</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/5683de19-e322-41f4-b656-0d44c7bf7d91/image_06.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/5683de19-e322-41f4-b656-0d44c7bf7d91/image_01.jpg</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/5683de19-e322-41f4-b656-0d44c7bf7d91/image_03.jpg</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/5683de19-e322-41f4-b656-0d44c7bf7d91/image_09.jpg</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/5683de19-e322-41f4-b656-0d44c7bf7d91/image_02.jpg</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/5683de19-e322-41f4-b656-0d44c7bf7d91/image_05.jpg</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/5683de19-e322-41f4-b656-0d44c7bf7d91/image_04.jpg</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/5683de19-e322-41f4-b656-0d44c7bf7d91/image_07.jpg</picture>
         <vendor>MIXXUS</vendor>
         <stock_quantity>100</stock_quantity>
         <availabilityStatus>Достатньо</availabilityStatus>
@@ -215886,7 +215894,7 @@
         <param name="Покриття">Нікель</param>
         <param name="Колір">Сталевий</param>
       </offer>
-      <offer id="KR2837" available="true">
+      <offer id="KR2837" available="false">
         <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/kolektori/kolektor-z-kulovimi-kranami-ta-fitingom-koer-kr11254-34x4-ways-kr2837</url>
         <price>872.00</price>
         <currencyId>UAH</currencyId>
@@ -215895,8 +215903,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/ac15543e-3d0a-48d7-af06-7e438632c0c5/image_03_KR2837.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/ac15543e-3d0a-48d7-af06-7e438632c0c5/image_01.png</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Колектор з кульовими кранами та фітингом Koer KR.1125-4 - 3/4”x4 Ways (KR2837)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR2837</vendorCode>
@@ -311805,15 +311813,15 @@
         <param name="Покриття">Нікель</param>
         <param name="Діаметр підключення (дюйм)">1/2</param>
       </offer>
-      <offer id="CR0823" available="true">
+      <offer id="CR0823" available="false">
         <url>https://ol.partners/products/zmishuvachi-ta-krani/zmishuvachi-dlya-umivalnika/odnovazhilniy-zmishuvach-dlya-rakovini/zmishuvach-dlya-umivalnika-cron-diamond-001-nut-kolir-khrom-cr0823</url>
         <price>1056.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>7bd5f9e6-540a-4542-b449-789ef0743d5f</categoryId>
         <picture>https://ol.partners/Products/Photo/19D6E6F2-A790-40B7-87D3-9123F1E1A8CC</picture>
         <vendor>CRON</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Змішувач для умивальника CRON DIAMOND 001 NUT (Колір хром) (CR0823)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>CR0823</vendorCode>
