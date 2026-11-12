@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-11-11 04:46">
+<yml_catalog date="2026-11-12 05:49">
   <shop>
     <name>O&amp;L</name>
     <company>O&amp;L</company>
@@ -473,7 +473,7 @@
       <category id="10c5d756-64c4-4d57-84c4-e1a35a13a515" parentId="98cef2a4-d106-4da2-9b4c-f8e66696fd13">Запчастини та засоби для монтажу</category>
       <category id="9ab2f045-47fd-496f-bb09-f9675c1bead8" parentId="10c5d756-64c4-4d57-84c4-e1a35a13a515">Клей для аксесуарів</category>
     </categories>
-    <offers count="10885">
+    <offers count="10896">
       <offer id="34796001" available="true">
         <url>https://ol.partners/products/zmishuvachi-ta-krani/termostatichni-zmishuvachi/termostat-dlya-dushu-grohe-grohtherm-500-z-dushovim-garniturom-34796001</url>
         <price>9126.00</price>
@@ -33361,7 +33361,7 @@
         <param name="Мінімальний тиск (бар)">0,50</param>
       </offer>
       <offer id="38844000" available="false">
-        <url>https://ol.partners/products/zmishuvachi-ta-krani/krani-dlya-pisuara/nakladna-panel-zmivu-grohe-arena-cosmopolitan-38844000</url>
+        <url>https://ol.partners/products/instalyatsii-ta-klavishi/klavishi-zmivu-ta-komplektuyuchi/nakladna-panel-zmivu-grohe-arena-cosmopolitan-38844000</url>
         <price>1939.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>835d72de-2b75-448b-b88b-e499af54ad10</categoryId>
@@ -33376,8 +33376,24 @@
         <param name="Од. в упак.">1</param>
         <param name="Об'єм ящ.">0</param>
         <param name="Вага ящ.">0</param>
-        <param name="Група товару">Змішувачі</param>
+        <param name="Керування">Пневматичне</param>
+        <param name="Матеріал">ABS-пластик</param>
+        <param name="Висота (мм)">197</param>
+        <param name="Ширина (мм)">156</param>
+        <param name="Розміри виробу (ВхШхГ)">197х156х10</param>
+        <param name="Гарантійний період (міс)">60</param>
+        <param name="Комплектація">Панель змиву, кріплення.</param>
+        <param name="Вид виробу">Панель змиву для пневматичної інсталяції</param>
+        <param name="Тип монтажу">Настінний</param>
+        <param name="Країна бренду">Німеччина</param>
+        <param name="Призначення">Для інсталяції</param>
+        <param name="Країна виробник">Німеччина</param>
+        <param name="Тип виробу">Панелі змиву для інсталяцій</param>
         <param name="Торгова марка">GROHE</param>
+        <param name="Серія">Arena Cosmopolitan</param>
+        <param name="Колір">Хром</param>
+        <param name="Колір панелі">Хром</param>
+        <param name="Форма кнопки зливу">Овальна</param>
       </offer>
       <offer id="MI8191" available="true">
         <url>https://ol.partners/products/sifoni-trapi-dlya-dushu/sifoni/sifon-dlya-kukhni-mixxus-sk01b-1-12x40-z-litim-vipuskom-ta-vidvodom-dlya-pralnoi-mashini-mi8191</url>
@@ -43417,7 +43433,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/c13e0cf5-e418-43e3-9c13-a992f0e18b1c/image_07.jpg</picture>
         <vendor>MIXXUS PREMIUM</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Душова колона зі змішувачем MIXXUS PREMIUM ARES 009-J (MI8260)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>MI8260</vendorCode>
@@ -47741,6 +47757,34 @@
         <param name="Тип керування">Одноважільні</param>
         <param name="Картридж чи кран букса">Картридж</param>
         <param name="Висота змішувача (мм)">188</param>
+      </offer>
+      <offer id="1017790000" available="true">
+        <url>https://ol.partners/products/zapchastini-dlya-zmishuvacha/vilivi-dlya-zmishuvacha/viliv-dlya-vanni-grohe-cubeo-1017790000</url>
+        <price>4590.00</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>7b5a36ec-24d8-481d-bf39-0364f754bca1</categoryId>
+        <picture>https://ol.partners/Products/Photo/AD491AED-25B9-445E-8426-25D80513D506</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/f1144cab-ceaa-476e-a564-a4846dd28eec/image_01.jpg</picture>
+        <vendor>GROHE</vendor>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Достатньо</availabilityStatus>
+        <name>Вилив для ванни Grohe Cubeo (1017790000)</name>
+        <description>&lt;![CDATA[]]&gt;</description>
+        <vendorCode>1017790000</vendorCode>
+        <param name="Од. в упак.">1</param>
+        <param name="Об'єм ящ.">0</param>
+        <param name="Вага ящ.">0</param>
+        <param name="Країна бренду">Німеччина</param>
+        <param name="Вид виробу">Виливи для змішувача</param>
+        <param name="Країна виробник">Німеччина</param>
+        <param name="Група товару">Комплектуючі для змішувачів</param>
+        <param name="Торгова марка">GROHE</param>
+        <param name="Тип виробу">Комплектуючі для змішувачів</param>
+        <param name="Матеріал виробу">Нержавіюча сталь</param>
+        <param name="Додаткові характеристики">Зовнішнє різьблення 1/2"</param>
+        <param name="Покриття">З покриттям</param>
+        <param name="Колір">Хром</param>
+        <param name="Довжина виливу (мм)">183</param>
       </offer>
       <offer id="KR5716" available="true">
         <url>https://ol.partners/products/radiatori-opalennya/komplektuyuchi-do-radiatoriv/komplekt-radiatorniy/komplekt-dlya-pidklyuchennya-radiatora-kutoviy-z-termogolovkoyu-12-koer-set29-kr5716</url>
@@ -61302,6 +61346,41 @@
         <param name="Максимальний тиск (бар)">8,00</param>
         <param name="Частота струму (Гц)">50</param>
       </offer>
+      <offer id="104644MV00" available="false">
+        <url>https://ol.partners/products/instalyatsii-ta-klavishi/klavishi-zmivu-ta-komplektuyuchi/panel-zmivu-dlya-unitazu-z-tekhnologiyeyu-silk-motion-grohe-spa-arena-aqua-tiles-104644mv00</url>
+        <price>46980.00</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>835d72de-2b75-448b-b88b-e499af54ad10</categoryId>
+        <picture>https://ol.partners/Products/Photo/D6A1DAE7-56B2-4261-9FAA-A6537DEFFDBD</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/95331f16-5e12-4138-bc07-9c4dc71b9235/image_01.jpg</picture>
+        <vendor>GROHE</vendor>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <name>Панель змиву для унітазу з технологією Silk Motion Grohe SPA Arena Aqua Tiles (104644MV00)</name>
+        <description>&lt;![CDATA[]]&gt;</description>
+        <vendorCode>104644MV00</vendorCode>
+        <param name="Од. в упак.">1</param>
+        <param name="Об'єм ящ.">0</param>
+        <param name="Вага ящ.">0</param>
+        <param name="Вид виробу">Панель змиву для пневматичної інсталяції</param>
+        <param name="Тип монтажу">Настінний</param>
+        <param name="Країна виробник">Німеччина</param>
+        <param name="Призначення">Для інсталяції</param>
+        <param name="Торгова марка">GROHE</param>
+        <param name="Тип виробу">Панелі змиву для інсталяцій</param>
+        <param name="Серія">Arena Aqua Tiles</param>
+        <param name="Країна бренду">Німеччина</param>
+        <param name="Матеріал">Мармур</param>
+        <param name="Керування">Пневматичне</param>
+        <param name="Колір">Хром</param>
+        <param name="Колір панелі">Хром</param>
+        <param name="Форма кнопки зливу">Прямокутна</param>
+        <param name="Комплектація">Панель змиву, кріплення.</param>
+        <param name="Гарантійний період (міс)">60</param>
+        <param name="Розміри виробу (ВхШхГ)">201х160х6</param>
+        <param name="Висота (мм)">201</param>
+        <param name="Ширина (мм)">160</param>
+      </offer>
       <offer id="KP0208" available="true">
         <url>https://ol.partners/products/radiatori-opalennya/komplektuyuchi-do-radiatoriv/krani-na-radiator/kran-radiatorniy-25x34-kutoviy-z-prokladkoyu-antiprotechka-ppr-koer-k0162pro-kp0208</url>
         <price>376.00</price>
@@ -62770,7 +62849,7 @@
         <param name="Тип ручки">Метелик</param>
         <param name="Діаметр підключення (дюйм)">1/2</param>
       </offer>
-      <offer id="KR3377" available="true">
+      <offer id="KR3377" available="false">
         <url>https://ol.partners/products/zmishuvachi-ta-krani/zmishuvachi-dlya-kukhni/zmishuvach-dlya-kukhni-na-dvi-vodi/zmishuvach-dlya-kukhni-z-vikhodom-dlya-pitnoi-vodi-koer-kb7200307-kolir-grafitsilikonoviy-viliv-chorniy-kr3377</url>
         <price>6120.00</price>
         <currencyId>UAH</currencyId>
@@ -62784,8 +62863,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/ce67a2f2-bfe8-4641-9cc1-ba28a9b7b8b4/image_3.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/ce67a2f2-bfe8-4641-9cc1-ba28a9b7b8b4/image_5.jpg</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Змішувач для кухні з виходом для питної води KOER KB-72003-07 (Колір графіт+силіконовий вилив чорний) (KR3377)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR3377</vendorCode>
@@ -78340,7 +78419,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/76431c2c-bd78-4373-b21e-13ccb872f1f7/image_02.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Ексцентрик 1/2"x20mm MF KOER KF.R06MF-20 (KR6595)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR6595</vendorCode>
@@ -89661,7 +89740,7 @@
         <param name="Гарантія на деталі змішувача (міс)">12</param>
         <param name="Особливості">Без підведення</param>
       </offer>
-      <offer id="41039000" available="true">
+      <offer id="41039000" available="false">
         <url>https://ol.partners/products/aksesuari-dlya-vannoi/gachki-dlya-rushnikiv/gachok-dlya-khalata-grohe-selection-41039000</url>
         <price>1566.00</price>
         <currencyId>UAH</currencyId>
@@ -89671,8 +89750,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/cb50e1b0-8f9e-4929-9738-531f34442745/image_02.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/cb50e1b0-8f9e-4929-9738-531f34442745/image_03.jpg</picture>
         <vendor>GROHE</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Гачок для халата Grohe Selection (41039000)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>41039000</vendorCode>
@@ -91259,15 +91338,15 @@
         <param name="Тип виробу">Душові колони</param>
         <param name="Торгова марка">HAIBA</param>
       </offer>
-      <offer id="MI5983" available="true">
+      <offer id="MI5983" available="false">
         <url>https://ol.partners/products/dushovi-koloni-ta-sistemi/dushovi-koloni/dushova-kolona-mixxus-amax009j-zi-zmishuvachem-z-nerzh-stali-sus304-kolir-nerzh-mi5983</url>
         <price>6528.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>0dec7455-3432-4b94-a66b-26780147f5e8</categoryId>
         <picture>https://ol.partners/Products/Photo/87808336-4975-4F04-A1DA-DB86C7276F9F</picture>
         <vendor>MIXXUS</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Душова колона MIXXUS AMAX-009-J зі змішувачем з нерж. сталі SUS304 (Колір нерж) (MI5983)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>MI5983</vendorCode>
@@ -100855,7 +100934,7 @@
         <param name="Колір">Чорний матовий</param>
         <param name="Покриття">Без покриття</param>
       </offer>
-      <offer id="40448001" available="true">
+      <offer id="40448001" available="false">
         <url>https://ol.partners/products/aksesuari-dlya-vannoi/dozator-dlya-ridkogo-mila/dozator-ridkogo-mila-grohe-essentials-new-40448001</url>
         <price>3726.00</price>
         <currencyId>UAH</currencyId>
@@ -100868,8 +100947,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/9f4783ca-7f9f-4cdf-a6ad-e8bd416728fe/image_06.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/9f4783ca-7f9f-4cdf-a6ad-e8bd416728fe/image_04.jpg</picture>
         <vendor>GROHE</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Дозатор рідкого мила Grohe Essentials New (40448001)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>40448001</vendorCode>
@@ -120121,14 +120200,14 @@
         <param name="Покриття">З покриттям</param>
         <param name="Висота змішувача (мм)">173</param>
       </offer>
-      <offer id="ZX0466" available="true">
+      <offer id="ZX0466" available="false">
         <url>https://ol.partners/products/zmishuvachi-ta-krani/zmishuvachi-dlya-vanni/zmishuvach-dlya-vanni-z-povorotnim-vilivom/zmishuvach-dlya-vanni-zerix-z222196-zx0466</url>
         <price>1072.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>c2f36242-64cb-47db-b8a9-e32c00e667c8</categoryId>
         <picture>https://ol.partners/Products/Photo/3E68EBC4-754E-4463-85FE-0D9FD1F0D18C</picture>
         <vendor>ZERIX</vendor>
-        <stock_quantity>100</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Змішувач для ванни Zerix Z22219-6 (ZX0466)</name>
         <description>&lt;![CDATA[]]&gt;</description>
@@ -122364,6 +122443,44 @@
         <param name="Форма">Кругла</param>
         <param name="Колір">Чорний матовий</param>
         <param name="Поверхня">Матова</param>
+      </offer>
+      <offer id="1142712430" available="true">
+        <url>https://ol.partners/products/dushovi-koloni-ta-sistemi/dushovi-koloni/dushova-sistema-iz-termostatichnim-zmishuvachem-dlya-nastinnogo-montazhu-grohe-euphoria-1142712430</url>
+        <price>40986.00</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>352472b5-600c-4c94-bb5a-9fa0f0278d35</categoryId>
+        <picture>https://ol.partners/Products/Photo/03123DF2-01F0-4580-8E24-1F754CC37AA1</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/80443569-0310-448a-882c-b878c366f5b5/image_01.jpg</picture>
+        <vendor>GROHE</vendor>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Малий залишок</availabilityStatus>
+        <name>Душова система із термостатичним змішувачем для настінного монтажу Grohe Euphoria (1142712430)</name>
+        <description>&lt;![CDATA[]]&gt;</description>
+        <vendorCode>1142712430</vendorCode>
+        <param name="Од. в упак.">1</param>
+        <param name="Об'єм ящ.">0</param>
+        <param name="Вага ящ.">0</param>
+        <param name="Довжина шланга (см)">175</param>
+        <param name="Матеріал виробу">Латунь</param>
+        <param name="Наявність термостату">Так</param>
+        <param name="Тип керування">Поворотні</param>
+        <param name="Тип виробу">Душові колони</param>
+        <param name="Вид виробу">Душові колони на 2 режими</param>
+        <param name="Країна виробник">Німеччина</param>
+        <param name="Країна бренду">Німеччина</param>
+        <param name="Серія">EUPHORIA</param>
+        <param name="Призначення">Для душа</param>
+        <param name="Торгова марка">GROHE</param>
+        <param name="Тип монтажу">Настінні</param>
+        <param name="Група товару">Змішувачі</param>
+        <param name="Комплектація">Душовий кронштейн 450 мм. Термостатичний змішувач. Душовий шланг. Ручний душ. Верхній душ 280 мм. Стійка.</param>
+        <param name="Гарантія на деталі змішувача (міс)">12</param>
+        <param name="Додаткові характеристики">Обмежувач температури</param>
+        <param name="Гарантія на корпус змішувача (міс)">60</param>
+        <param name="Покриття">З покриттям</param>
+        <param name="Колір">Чорний матовий</param>
+        <param name="Вилив">Без виливу</param>
+        <param name="Максимальна висота (см)">110</param>
       </offer>
       <offer id="MI6364" available="true">
         <url>https://ol.partners/products/zmishuvachi-ta-krani/zmishuvachi-dlya-vanni/liti-zmishuvachi-dlya-vannoi/zmishuvach-dlya-vanni-champion-rama-009-euro-mi6364</url>
@@ -128986,7 +129103,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/3f1fa1dc-7c02-4faa-9596-b4cfe82da150/image_05.jpg</picture>
         <vendor>MIXXUS</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Відро для сміття з плавним закриттям прямокутне MIXXUS BEVEL-TC0112 SS COLOR 12л (колір нержавійка) (MI7087)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>MI7087</vendorCode>
@@ -130437,6 +130554,34 @@
         <param name="Матеріал виробу">Латунь</param>
         <param name="Матеріал кульового затвора">Латунь</param>
         <param name="Тип приєднання">Різьбове</param>
+      </offer>
+      <offer id="28362001" available="false">
+        <url>https://ol.partners/products/zapchastini-dlya-zmishuvacha/shlangi-dlya-dushu/dushoviy-shlang-grohe-silverflex-twiststop-1250mm-28362001</url>
+        <price>1134.00</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>08092e11-4afe-4945-8894-0917477192cf</categoryId>
+        <picture>https://ol.partners/Products/Photo/9FC9E0CB-675F-49DA-8BCA-D90448911FDD</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/9e2987fc-544a-4b15-8dac-e35c13f0f2dc/image_01.jpg</picture>
+        <vendor>GROHE</vendor>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <name>Душовий шланг Grohe Silverflex TwistStop 1250мм (28362001)</name>
+        <description>&lt;![CDATA[]]&gt;</description>
+        <vendorCode>28362001</vendorCode>
+        <param name="Од. в упак.">1</param>
+        <param name="Об'єм ящ.">0</param>
+        <param name="Вага ящ.">0</param>
+        <param name="Покриття">З покриттям</param>
+        <param name="Колір">Хром</param>
+        <param name="Комплектація">душовий шланг</param>
+        <param name="Довжина шланга (см)">125</param>
+        <param name="Матеріал виробу">ПВХ</param>
+        <param name="Тип виробу">Комплектуючі для змішувачів</param>
+        <param name="Група товару">Комплектуючі для змішувачів</param>
+        <param name="Вид виробу">Шланги для душу</param>
+        <param name="Країна бренду">Німеччина</param>
+        <param name="Країна виробник">Німеччина</param>
+        <param name="Торгова марка">GROHE</param>
       </offer>
       <offer id="KR2749" available="true">
         <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/krani/kran-pivniy/kran-pivniy-12-koer-kr256-kr2749</url>
@@ -139461,7 +139606,33 @@
         <param name="Од. в упак.">1</param>
         <param name="Об'єм ящ.">0</param>
         <param name="Вага ящ.">0</param>
+        <param name="Максимальний тиск (бар)">10,00</param>
+        <param name="MAX різниця тиску гарячої та холодної води (бар)">1,50</param>
+        <param name="Робочий тиск (бар)">1-5</param>
+        <param name="Картридж чи кран букса">Картридж</param>
+        <param name="Матеріал виробу">Латунь</param>
+        <param name="Мінімальна температура води (°C)">5</param>
+        <param name="Максимальна температура води (°C)">90</param>
+        <param name="Діаметр картриджа (мм)">35</param>
+        <param name="Мінімальний тиск (бар)">0,50</param>
+        <param name="Тип керування">Одноважільні</param>
+        <param name="Довжина шланга (см)">150</param>
+        <param name="Тип виробу">Душові колони</param>
+        <param name="Тип монтажу">Настінні</param>
         <param name="Торгова марка">HAIBA</param>
+        <param name="Вид виробу">Душові колони на 3 режими</param>
+        <param name="Країна виробник">Китай</param>
+        <param name="Серія">BERGAMO</param>
+        <param name="Група товару">Змішувачі</param>
+        <param name="Країна бренду">Китай</param>
+        <param name="Модель">009-J</param>
+        <param name="Покриття">З покриттям</param>
+        <param name="Вилив">Короткий вилив</param>
+        <param name="Тип виливу">Поворотний</param>
+        <param name="Колір">Хром</param>
+        <param name="Гарантія на корпус змішувача (міс)">60</param>
+        <param name="Гарантія на деталі змішувача (міс)">12</param>
+        <param name="Комплектація">Шланг 150 см, ручна лійка, стельова лійка, чашки, ексцентрики, гумові прокладки, тримач для лійки</param>
       </offer>
       <offer id="HB0090" available="true">
         <url>https://ol.partners/products/zmishuvachi-ta-krani/zmishuvachi-dlya-kukhni/dvokhventilni-zmishuvachi-dlya-kukhni/zmishuvach-dlya-kukhni-haiba-dominox-275-kolir-khrom-hb0090</url>
@@ -142048,6 +142219,36 @@
         <param name="Тип монтажу">На підлогу прихований</param>
         <param name="Комплектація">Інсталяція Rapid SL для унітазу (38 528 001); Панель змиву Skate Cosmopolitan, матовий хром (38 732 P00); GROHE Fresh комплект для переоснащення (38 796 000); Настінні куточки (38 558 00M); Комплект для звукоізоляції (37 131 000)</param>
         <param name="Гарантійний період (міс)">132</param>
+      </offer>
+      <offer id="266592430" available="true">
+        <url>https://ol.partners/products/zapchastini-dlya-zmishuvacha/shlangove-pidklyuchennya/pidklyuchennya-dlya-dushovogo-shlangu-12-z-trimachem-ruchnogo-dushu-grohe-rainshower-266592430</url>
+        <price>4050.00</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>ce005aef-b23b-4c39-8482-d0c8696426e6</categoryId>
+        <picture>https://ol.partners/Products/Photo/C6D43CA1-FE09-4777-AE99-AC45A86D6F89</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/4a21094d-8b95-487d-b78e-43f8115f0713/image_01.jpg</picture>
+        <vendor>GROHE</vendor>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Малий залишок</availabilityStatus>
+        <name>Підключення для душового шлангу 1/2" з тримачем ручного душу Grohe Rainshower (266592430)</name>
+        <description>&lt;![CDATA[]]&gt;</description>
+        <vendorCode>266592430</vendorCode>
+        <param name="Од. в упак.">1</param>
+        <param name="Об'єм ящ.">0</param>
+        <param name="Вага ящ.">0</param>
+        <param name="Покриття">З покриттям</param>
+        <param name="Колір">Графіт</param>
+        <param name="Діаметр підключення (дюйм)">1/2</param>
+        <param name="Розміри виробу (ВхШхГ)">74х48х86</param>
+        <param name="Країна бренду">Німеччина</param>
+        <param name="Країна виробник">Німеччина</param>
+        <param name="Торгова марка">GROHE</param>
+        <param name="Вид виробу">Різне</param>
+        <param name="Тип виробу">Комплектуючі для змішувачів</param>
+        <param name="Група товару">Комплектуючі для змішувачів</param>
+        <param name="Комплектація">Підключення шлангове, розетка.</param>
+        <param name="Особливості">Покриття GROHE Long-Life</param>
+        <param name="Матеріал виробу">Нержавіюча сталь</param>
       </offer>
       <offer id="MI2817" available="false">
         <url>https://ol.partners/products/zmishuvachi-ta-krani/zmishuvachi-dlya-vanni/liti-zmishuvachi-dlya-vannoi/zmishuvach-dlya-vanni-mixxus-ama009-euro-z-nerzh-stali-sus304-kolir-nerzh-mi2817</url>
@@ -169150,15 +169351,15 @@
         <param name="Розміри (мм)">16(2.2mm) x 3/4"F</param>
         <param name="Гарантійний період (міс)">84</param>
       </offer>
-      <offer id="EP4065" available="true">
+      <offer id="EP4065" available="false">
         <url>https://ol.partners/products/truboprovodi-ta-zyednannya/fitingi/zyednannya-dlya-trub-z-polipropilenu/kut-90-20x20-ppr-europroduct-ep0014-ep4065</url>
         <price>4.17</price>
         <currencyId>UAH</currencyId>
         <categoryId>ff9028be-fa80-48ee-aa36-379952d8430e</categoryId>
         <picture>https://ol.partners/Products/Photo/4C1A7D10-B4FF-4A01-91A4-150AD152C8B4</picture>
         <vendor>EUROPRODUCT</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Кут 90 20x20 PPR Europroduct EP.0014 (EP4065)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>EP4065</vendorCode>
@@ -183076,7 +183277,7 @@
         <param name="Покриття">Нікель</param>
         <param name="Діаметр підключення (дюйм)">1/2</param>
       </offer>
-      <offer id="ZX6103" available="true">
+      <offer id="ZX6103" available="false">
         <url>https://ol.partners/products/aksesuari-dlya-vannoi/shtangi-teleskopichni/shtanga-dlya-shtorki-ppodibna-universalna-zerix-crsu90x90x90-90x90x90cm-90x180cm-270cm-nerzhaviyucha-stal-zx6103</url>
         <price>432.00</price>
         <currencyId>UAH</currencyId>
@@ -183097,8 +183298,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/f0b03025-705b-430d-97be-ef60dabf58f0/image_11.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/f0b03025-705b-430d-97be-ef60dabf58f0/image_13.jpg</picture>
         <vendor>ZERIX</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Штанга для шторки П-подібна універсальна ZERIX CRS-U-90x90x90 90x90x90cm, 90x180cm, 270cm (нержавіюча сталь) (ZX6103)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>ZX6103</vendorCode>
@@ -188838,7 +189039,7 @@
         <param name="Комплектація">Шланг 150 см, лійка, тримач для лійки, ексцентрики, чашки, гумові прокладки</param>
         <param name="Гарантія на корпус змішувача (міс)">60</param>
       </offer>
-      <offer id="40364001" available="true">
+      <offer id="40364001" available="false">
         <url>https://ol.partners/products/aksesuari-dlya-vannoi/gachki-dlya-rushnikiv/gachok-dlya-khalata-grohe-essentials-new-40364001</url>
         <price>1080.00</price>
         <currencyId>UAH</currencyId>
@@ -188849,8 +189050,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/f0f14d4a-f7fa-4df3-bf83-617a6fe9bb73/image_02.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/f0f14d4a-f7fa-4df3-bf83-617a6fe9bb73/image_01.jpg</picture>
         <vendor>GROHE</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Гачок для халата Grohe Essentials New (40364001)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>40364001</vendorCode>
@@ -212437,6 +212638,42 @@
         <param name="Максимальна температура робочої рідини (°C)">110</param>
         <param name="Макс. температура навколишнього середовища (°C)">60</param>
       </offer>
+      <offer id="KR6623" available="true">
+        <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/krani/kran-pivniy/kran-pivniy-34-koer-kr256-kr6623</url>
+        <price>257.00</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>fb4a3e48-fe1d-4979-b1b3-3ff326246b75</categoryId>
+        <picture>https://ol.partners/Products/Photo/B971A85C-FB04-4848-BFD2-5FB158B88F65</picture>
+        <vendor>KOER</vendor>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Достатньо</availabilityStatus>
+        <name>Кран пивний 3/4" KOER KR.256 (KR6623)</name>
+        <description>&lt;![CDATA[]]&gt;</description>
+        <vendorCode>KR6623</vendorCode>
+        <param name="Од. в упак.">48</param>
+        <param name="Об'єм ящ.">0</param>
+        <param name="Вага ящ.">0</param>
+        <param name="Тип ручки">Важіль</param>
+        <param name="Покриття">Нікель</param>
+        <param name="Колір">Сталевий</param>
+        <param name="Діаметр підключення (дюйм)">3/4</param>
+        <param name="Призначення">Для води</param>
+        <param name="Країна бренду">Чехія</param>
+        <param name="Модель">KR.256</param>
+        <param name="Вид виробу">Кран поливальний ("пиво")</param>
+        <param name="Торгова марка">KOER</param>
+        <param name="Тип виробу">Крани кульові</param>
+        <param name="Тип">Кутовий</param>
+        <param name="Клас герметичності затвора">А</param>
+        <param name="Матеріал кульового затвора">Латунь</param>
+        <param name="Тип з'єднання">Зовнішній</param>
+        <param name="Матеріал виробу">Латунь CW617N нікельована</param>
+        <param name="Максимальний тиск (бар)">40,00</param>
+        <param name="Умовна пропускна здатність (м3/год)">1,80</param>
+        <param name="Робочий тиск (бар)">до 20</param>
+        <param name="Максимальний робочий тиск (бар)">40</param>
+        <param name="Шар">Латунний</param>
+      </offer>
       <offer id="KP0234" available="true">
         <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/krani/krani-kulovi/kran-kuloviy-ppr-ksh-koer-metelik-dlya-garyachoi-vodi-20-koer-k0181pro-kp0234</url>
         <price>137.00</price>
@@ -214744,7 +214981,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/46753ab4-af65-4238-afc1-f33735a753c5/image_01.jpg</picture>
         <vendor>EUROPRODUCT</vendor>
         <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Згін-американка 20x1 / 2F "ВР Europroduct EP.0066 (EP3991)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>EP3991</vendorCode>
@@ -214976,7 +215213,7 @@
         <param name="Гарантія на корпус змішувача (міс)">60</param>
         <param name="Гарантія на деталі змішувача (міс)">12</param>
       </offer>
-      <offer id="26920003" available="true">
+      <offer id="26920003" available="false">
         <url>https://ol.partners/products/zapchastini-dlya-zmishuvacha/liyki-dlya-dushu/dushoviy-nabir-grohe-tempesta-110-3-rezhimi-26920003</url>
         <price>2106.00</price>
         <currencyId>UAH</currencyId>
@@ -214984,8 +215221,8 @@
         <picture>https://ol.partners/Products/Photo/DC76C7F7-836C-467C-9B54-9D016391CB45</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/8f5e7295-c3dd-4e60-ae9c-e8ef224fd3df/image_01.jpg</picture>
         <vendor>GROHE</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Душовий набір Grohe Tempesta 110 3 режими (26920003)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>26920003</vendorCode>
@@ -226701,6 +226938,44 @@
         <param name="Довжина виливу (см)">11-15</param>
         <param name="Висота змішувача (мм)">160</param>
       </offer>
+      <offer id="1142730000" available="false">
+        <url>https://ol.partners/products/dushovi-koloni-ta-sistemi/dushovi-koloni/dushova-sistema-iz-termostatichnim-zmishuvachem-dlya-nastinnogo-montazhu-grohe-euphoria-1142730000</url>
+        <price>31806.00</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>352472b5-600c-4c94-bb5a-9fa0f0278d35</categoryId>
+        <picture>https://ol.partners/Products/Photo/457F7C49-E517-4EE7-AE60-014A63FC1EAE</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/417f5913-a8c2-476c-a514-d19fb8f9c5da/image_01.jpg</picture>
+        <vendor>GROHE</vendor>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <name>Душова система із термостатичним змішувачем для настінного монтажу Grohe Euphoria (1142730000)</name>
+        <description>&lt;![CDATA[]]&gt;</description>
+        <vendorCode>1142730000</vendorCode>
+        <param name="Од. в упак.">1</param>
+        <param name="Об'єм ящ.">0</param>
+        <param name="Вага ящ.">0</param>
+        <param name="Торгова марка">GROHE</param>
+        <param name="Країна виробник">Німеччина</param>
+        <param name="Тип монтажу">Настінні</param>
+        <param name="Тип виробу">Душові колони</param>
+        <param name="Вид виробу">Душові колони на 2 режими</param>
+        <param name="Країна бренду">Німеччина</param>
+        <param name="Призначення">Для душа</param>
+        <param name="Серія">EUPHORIA</param>
+        <param name="Група товару">Змішувачі</param>
+        <param name="Колір">Хром</param>
+        <param name="Вилив">Без виливу</param>
+        <param name="Покриття">З покриттям</param>
+        <param name="Матеріал виробу">Латунь</param>
+        <param name="Наявність термостату">Так</param>
+        <param name="Тип керування">Поворотні</param>
+        <param name="Довжина шланга (см)">175</param>
+        <param name="Максимальна висота (см)">110</param>
+        <param name="Додаткові характеристики">Обмежувач температури</param>
+        <param name="Гарантія на деталі змішувача (міс)">12</param>
+        <param name="Комплектація">Душовий кронштейн 450 мм. Термостатичний змішувач. Душовий шланг. Ручний душ. Верхній душ 350х230 мм. Стійка.</param>
+        <param name="Гарантія на корпус змішувача (міс)">60</param>
+      </offer>
       <offer id="ZS0577" available="true">
         <url>https://ol.partners/products/miyki-dlya-kukhni/vrizni-miyki/miyka-kukhonna-zerix-z7850a08180md-armonia-micro-decor-zs0577</url>
         <price>2865.00</price>
@@ -228257,7 +228532,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/5c286b16-80b4-4ce0-9775-8b37328c8afd/image_01.jpg</picture>
         <vendor>HAIBA</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Душова колона зі змішувачем HAIBA GAUDI 009-J GRAPHITE (Колір графіт) (HB9643)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>HB9643</vendorCode>
@@ -239465,7 +239740,7 @@
         <param name="Гарантія на деталі змішувача (міс)">12</param>
         <param name="Комплектація">Чашка</param>
       </offer>
-      <offer id="KR5812" available="true">
+      <offer id="KR5812" available="false">
         <url>https://ol.partners/products/zmishuvachi-ta-krani/zmishuvachi-dlya-kukhni/zmishuvach-dlya-kukhni-na-dvi-vodi/zmishuvach-dlya-kukhni-koer-kb7203607-z-vikhodom-dlya-pitnoi-vodi-kolir-grafitsilikonoviy-viliv-chorniy-kr5812</url>
         <price>6896.00</price>
         <currencyId>UAH</currencyId>
@@ -239479,8 +239754,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/2fd4eac5-8979-437d-b26a-5c73165339f0/image_04.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/2fd4eac5-8979-437d-b26a-5c73165339f0/image_07.jpg</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Змішувач для кухні KOER KB-72036-07 з виходом для питної води (Колір графіт+силіконовий вилив чорний) (KR5812)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR5812</vendorCode>
@@ -243372,6 +243647,44 @@
         <param name="Комплектація">Кріпильний елемент, гумові прокладки</param>
         <param name="Гарантія на корпус змішувача (міс)">24</param>
         <param name="Гарантія на деталі змішувача (міс)">6</param>
+      </offer>
+      <offer id="1142710000" available="true">
+        <url>https://ol.partners/products/dushovi-koloni-ta-sistemi/dushovi-koloni/dushova-sistema-iz-termostatichnim-zmishuvachem-dlya-nastinnogo-montazhu-grohe-euphoria-1142710000</url>
+        <price>31806.00</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>352472b5-600c-4c94-bb5a-9fa0f0278d35</categoryId>
+        <picture>https://ol.partners/Products/Photo/BFDBF5B6-D216-4D6C-A9BC-20D7F8CC594F</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/30e6ac63-7fcb-44d6-b4a7-ca557bec0f07/image_01.jpg</picture>
+        <vendor>GROHE</vendor>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Малий залишок</availabilityStatus>
+        <name>Душова система із термостатичним змішувачем для настінного монтажу Grohe Euphoria (1142710000)</name>
+        <description>&lt;![CDATA[]]&gt;</description>
+        <vendorCode>1142710000</vendorCode>
+        <param name="Од. в упак.">1</param>
+        <param name="Об'єм ящ.">0</param>
+        <param name="Вага ящ.">0</param>
+        <param name="Довжина шланга (см)">175</param>
+        <param name="Наявність термостату">Так</param>
+        <param name="Матеріал виробу">Латунь</param>
+        <param name="Тип керування">Поворотні</param>
+        <param name="Торгова марка">GROHE</param>
+        <param name="Вид виробу">Душові колони на 2 режими</param>
+        <param name="Тип виробу">Душові колони</param>
+        <param name="Країна виробник">Німеччина</param>
+        <param name="Призначення">Для душа</param>
+        <param name="Країна бренду">Німеччина</param>
+        <param name="Тип монтажу">Настінні</param>
+        <param name="Серія">EUPHORIA</param>
+        <param name="Група товару">Змішувачі</param>
+        <param name="Гарантія на корпус змішувача (міс)">60</param>
+        <param name="Комплектація">Душовий кронштейн 450 мм. Термостатичний змішувач. Душовий шланг. Ручний душ. Верхній душ 280 мм. Стійка.</param>
+        <param name="Гарантія на деталі змішувача (міс)">12</param>
+        <param name="Додаткові характеристики">Обмежувач температури</param>
+        <param name="Колір">Хром</param>
+        <param name="Вилив">Без виливу</param>
+        <param name="Покриття">З покриттям</param>
+        <param name="Максимальна висота (см)">110</param>
       </offer>
       <offer id="HB0037" available="true">
         <url>https://ol.partners/products/zmishuvachi-ta-krani/zmishuvachi-dlya-kukhni/zmishuvachi-odnovazhilni-dlya-kukhni/zmishuvach-dlya-kukhni-haiba-ceba-777-nut-kolir-khrom-hb0037</url>
@@ -308547,6 +308860,34 @@
         <param name="Призначення">Для води</param>
         <param name="Тип виробу">Колби</param>
       </offer>
+      <offer id="1354880000" available="true">
+        <url>https://ol.partners/products/zapchastini-dlya-zmishuvacha/liyki-dlya-dushu/dushova-liyka-grohe-euphoria-422-mm-1-rezhim-1354880000</url>
+        <price>13986.00</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>e50f8ef1-76e6-47a1-a6ed-f2cd9e356ffd</categoryId>
+        <picture>https://ol.partners/Products/Photo/E6ACBD0E-4EDD-42F8-A942-6DA9FD80C149</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/2db0968c-74bc-46cf-af9f-e4a137b28b3e/image_01.jpg</picture>
+        <vendor>GROHE</vendor>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Достатньо</availabilityStatus>
+        <name>Душова лійка Grohe Euphoria 422 мм 1 режим (1354880000)</name>
+        <description>&lt;![CDATA[]]&gt;</description>
+        <vendorCode>1354880000</vendorCode>
+        <param name="Од. в упак.">1</param>
+        <param name="Об'єм ящ.">0</param>
+        <param name="Вага ящ.">0</param>
+        <param name="Вид виробу">Лійки для душу</param>
+        <param name="Торгова марка">GROHE</param>
+        <param name="Тип виробу">Комплектуючі для змішувачів</param>
+        <param name="Тип лійки">Стельова вбудована</param>
+        <param name="Країна бренду">Німеччина</param>
+        <param name="Група товару">Комплектуючі для змішувачів</param>
+        <param name="Країна виробник">Німеччина</param>
+        <param name="Кількість режимів струменя">1</param>
+        <param name="Матеріал виробу">Нержавіюча сталь</param>
+        <param name="Колір">Хром</param>
+        <param name="Покриття">З покриттям</param>
+      </offer>
       <offer id="MI6495" available="false">
         <url>https://ol.partners/products/zmishuvachi-ta-krani/zmishuvachi-dlya-kukhni/zmishuvachi-dlya-kukhni-nastinni/zmishuvach-dlya-kukhni-mixxus-nst12279-nastinniy-kolir-khrom-mi6495</url>
         <price>1037.00</price>
@@ -315316,6 +315657,42 @@
         <param name="Комплектація">Гнучка підводка, аератор, посилена гайка</param>
         <param name="Гарантія на деталі змішувача (міс)">12</param>
         <param name="Гарантія на корпус змішувача (міс)">60</param>
+      </offer>
+      <offer id="37419000" available="true">
+        <url>https://ol.partners/products/instalyatsii-ta-klavishi/klavishi-zmivu-ta-komplektuyuchi/infrachervona-elektronika-dlya-zlivnogo-bachka-gd-2-grohe-tectron-skate-37419000</url>
+        <price>46980.00</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>835d72de-2b75-448b-b88b-e499af54ad10</categoryId>
+        <picture>https://ol.partners/Products/Photo/E987FE99-18D4-4046-A31E-EA21A6F8C44A</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/2f1d2535-6677-48ef-9781-86f58567a744/image_01.jpg</picture>
+        <vendor>GROHE</vendor>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Малий залишок</availabilityStatus>
+        <name>Інфрачервона електроніка для зливного бачка GD 2 Grohe Tectron Skate (37419000)</name>
+        <description>&lt;![CDATA[]]&gt;</description>
+        <vendorCode>37419000</vendorCode>
+        <param name="Од. в упак.">1</param>
+        <param name="Об'єм ящ.">0</param>
+        <param name="Вага ящ.">0</param>
+        <param name="Гарантійний період (міс)">60</param>
+        <param name="Комплектація">Панель змиву, кріплення.</param>
+        <param name="Особливості">додатковою механічною функцією змиву; з інфрачервоним датчиком для двостороннього зв'язку для моніторингу, налаштування та сервісного обслуговування; з адаптером 100-230 V змінного струму, 50-60 Hz, 6 V постійного струму</param>
+        <param name="Матеріал">ABS-пластик</param>
+        <param name="Керування">Електронне</param>
+        <param name="Тип монтажу">Настінний</param>
+        <param name="Країна виробник">Німеччина</param>
+        <param name="Вид виробу">Панель змиву для пневматичної інсталяції</param>
+        <param name="Країна бренду">Німеччина</param>
+        <param name="Серія">Tectron Skate</param>
+        <param name="Тип виробу">Панелі змиву для інсталяцій</param>
+        <param name="Торгова марка">GROHE</param>
+        <param name="Призначення">Для інсталяції</param>
+        <param name="Ширина (мм)">156</param>
+        <param name="Висота (мм)">197</param>
+        <param name="Розміри виробу (ВхШхГ)">197х156х11</param>
+        <param name="Колір панелі">Хром</param>
+        <param name="Форма кнопки зливу">Кругла</param>
+        <param name="Колір">Хром</param>
       </offer>
       <offer id="HB9683" available="true">
         <url>https://ol.partners/products/dushovi-koloni-ta-sistemi/dushovi-shtangi-ta-podovzhuvachi/podovzhuvach-dlya-dushovikh-kolon-haiba-efb0130cm-black-dlya-seriy-alex-kubus-milano-kolir-chorniy-hb9683</url>
@@ -335664,7 +336041,25 @@
         <param name="Од. в упак.">20</param>
         <param name="Об'єм ящ.">0</param>
         <param name="Вага ящ.">0</param>
+        <param name="Температура експлуатації (° C)">35-70</param>
+        <param name="Клас захисту корпусів електронного обладнання">IPX4</param>
+        <param name="Потужність (Вт)">600</param>
+        <param name="Режим роботи">Турбо</param>
         <param name="Торгова марка">MIXXUS</param>
+        <param name="Модель">TEH-0206</param>
+        <param name="Країна бренду">Німеччина</param>
+        <param name="Тип виробу">Комплектуючі до рушникосушок</param>
+        <param name="Тип">Електричний</param>
+        <param name="Призначення">Для сушарок рушників</param>
+        <param name="Тип монтажу">Універсальний</param>
+        <param name="Особливості">Захист від замерзання. Можна встановлювати як горизонтально, так і вертикально.</param>
+        <param name="Додаткові характеристики">Діаметр трубки 12 мм. Сенсорний блок керування 70х70 мм.</param>
+        <param name="Гарантійний період (міс)">12</param>
+        <param name="Діаметр підключення (дюйм)">1/2</param>
+        <param name="Довжина кабелю (м)">0,55</param>
+        <param name="Довжина (мм)">530</param>
+        <param name="Загальна довжина (мм)">620</param>
+        <param name="Колір">Хром</param>
       </offer>
       <offer id="EP4088" available="true">
         <url>https://ol.partners/products/truboprovodi-ta-zyednannya/fitingi/zyednannya-dlya-trub-z-polipropilenu/khrestovina-20-ppr-europroduct-ep0037-ep4088</url>
@@ -338580,7 +338975,7 @@
         <param name="Вид системи змиву">RIMLESS</param>
         <param name="Матеріал">Санфарфор</param>
       </offer>
-      <offer id="ZX4999" available="true">
+      <offer id="ZX4999" available="false">
         <url>https://ol.partners/products/aksesuari-dlya-vannoi/shtangi-teleskopichni/shtanga-dlya-shtorki-teleskopichna-pryama-zerix-cra140x260-140cm260cm-alyuminiy-zx4999</url>
         <price>298.00</price>
         <currencyId>UAH</currencyId>
@@ -338599,8 +338994,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/d66f2287-cf1d-4f81-8561-64f598b83b37/image_05.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/d66f2287-cf1d-4f81-8561-64f598b83b37/image_13.jpg</picture>
         <vendor>ZERIX</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Штанга для шторки телескопічна пряма ZERIX CRA-140x260 140cm-260cm (алюміній) (ZX4999)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>ZX4999</vendorCode>
@@ -368048,8 +368443,8 @@
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>ZX6168</vendorCode>
         <param name="Од. в упак.">1</param>
-        <param name="Об'єм ящ.">0</param>
-        <param name="Вага ящ.">0</param>
+        <param name="Об'єм ящ.">0.066</param>
+        <param name="Вага ящ.">5.3</param>
         <param name="Матеріал виробу">Нержавіюча сталь</param>
         <param name="Є крило для посуду">Ні</param>
         <param name="Кількість чаш (шт)">1</param>
@@ -385889,7 +386284,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/1a03d088-2f2e-490f-a09d-fe59aeaece18/image_02.jpg</picture>
         <vendor>GROHE</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Комплект 5в1 для підвісного унітазу Grohe Fresh Rapid SL (38827000)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>38827000</vendorCode>
@@ -388562,7 +388957,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/2e14fe7c-9af1-46e6-8900-73c223c3a5d8/image_07.jpg</picture>
         <vendor>MIXXUS</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Унітаз-компакт MIXXUS TOPPER-0401-T1 (компл.в 2 ящ) 625x355x790mm система змиву TORNADO 1.0 (MZ3025)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>MZ3025</vendorCode>
@@ -389503,7 +389898,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/9bf8f88d-24c6-4b78-baca-9239dd3bd71e/image_03_KF0077.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Кут 1'' НВ Koer KF.L10MF (KF0077)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KF0077</vendorCode>
@@ -396168,7 +396563,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/d7be3a2c-bbc5-402d-95c7-be5ed5ef5ff5/image_01.jpg</picture>
         <vendor>EUROPRODUCT</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Муфта з накидною гайкою Europroduct EP.0104 - 25x3/4" (EP4029)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>EP4029</vendorCode>
@@ -396969,7 +397364,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/8e87a2a3-bcce-4183-8fd7-d0d1327f689d/image_3.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Змішувач для кухні з виходом для питної води KOER KB-72003-02 (Колір нержавіюча сталь+силіконовий вилив сірий) (KR3374)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR3374</vendorCode>
@@ -409980,8 +410375,8 @@
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>MI8494</vendorCode>
         <param name="Од. в упак.">5</param>
-        <param name="Об'єм ящ.">0</param>
-        <param name="Вага ящ.">0</param>
+        <param name="Об'єм ящ.">0.062</param>
+        <param name="Вага ящ.">12.5</param>
         <param name="Матеріал">Дюропласт</param>
         <param name="Керування">Механічне</param>
         <param name="Сидіння">Slim Duroplast/Soft-close/Quick relase</param>
@@ -432146,7 +432541,25 @@
         <param name="Од. в упак.">20</param>
         <param name="Об'єм ящ.">0</param>
         <param name="Вага ящ.">0</param>
+        <param name="Колір">Чорний</param>
+        <param name="Модель">TEH-0206-H</param>
+        <param name="Призначення">Для сушарок рушників</param>
+        <param name="Країна бренду">Німеччина</param>
         <param name="Торгова марка">MIXXUS</param>
+        <param name="Тип">Електричний</param>
+        <param name="Тип монтажу">Універсальний</param>
+        <param name="Тип виробу">Комплектуючі до рушникосушок</param>
+        <param name="Діаметр підключення (дюйм)">1/2</param>
+        <param name="Довжина кабелю (м)">0,55</param>
+        <param name="Довжина (мм)">530</param>
+        <param name="Загальна довжина (мм)">620</param>
+        <param name="Потужність (Вт)">600</param>
+        <param name="Температура експлуатації (° C)">35-70</param>
+        <param name="Режим роботи">Турбо</param>
+        <param name="Клас захисту корпусів електронного обладнання">IPX4</param>
+        <param name="Особливості">Захист від замерзання. Можна встановлювати як горизонтально, так і вертикально.</param>
+        <param name="Гарантійний період (міс)">12</param>
+        <param name="Додаткові характеристики">Діаметр трубки 12 мм. Сенсорний блок керування 70х70 мм.</param>
       </offer>
       <offer id="SK0069" available="false">
         <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/krani/krani-kulovi/kran-kuloviy-sk-1-ggm-art-602-sk0069</url>
@@ -432268,7 +432681,7 @@
         <picture>https://ol.partners/Products/Photo/133E9570-A2E5-46E3-9FDF-5496FFA83F6D</picture>
         <vendor>MIXXUS</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Картридж для змішувача MIXXUS Cartridge 35mm-01 (AC0605)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>AC0605</vendorCode>
@@ -434345,7 +434758,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/533ca5ce-b1f7-4707-80c5-a9d722dbc10b/image_01.jpg</picture>
         <vendor>GROHE</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Душовий набір Grohe Tempesta Cube 110 3 режими (27588003)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>27588003</vendorCode>
@@ -435711,7 +436124,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/6169e13a-2b6f-4e5b-8d1b-bc0f6676dfcb/image_01.jpg</picture>
         <vendor>GROHE</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Засіб для чищення змішувачів Grohe (48166000)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>48166000</vendorCode>
@@ -444770,7 +445183,7 @@
         <param name="Виконання">Універсальна</param>
         <param name="Структура поверхні мийки">Без структури</param>
       </offer>
-      <offer id="MP6500" available="true">
+      <offer id="MP6500" available="false">
         <url>https://ol.partners/products/keramika/rakovini/rakovina-mebleva-mixxus-premium-style1503-800kh480kh190mm-otvir-pid-zmishuvach-pereliv-mp6500</url>
         <price>6696.00</price>
         <currencyId>UAH</currencyId>
@@ -444785,7 +445198,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/d1bba0c4-cef7-4af3-92fd-6ff7dfe02f78/image_02.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/d1bba0c4-cef7-4af3-92fd-6ff7dfe02f78/image_05.jpg</picture>
         <vendor>MIXXUS PREMIUM</vendor>
-        <stock_quantity>100</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Раковина меблева MIXXUS PREMIUM STYLE-1503 800х480х190mm (отвір під змішувач, перелив) (MP6500)</name>
         <description>&lt;![CDATA[]]&gt;</description>
@@ -446461,6 +446874,44 @@
         <param name="Глибина чаші (мм)">215</param>
         <param name="Гарантійний період (міс)">36</param>
         <param name="Комплектація">Мийка, сифон, кріплення</param>
+      </offer>
+      <offer id="1142732430" available="false">
+        <url>https://ol.partners/products/dushovi-koloni-ta-sistemi/dushovi-koloni/dushova-sistema-iz-termostatichnim-zmishuvachem-dlya-nastinnogo-montazhu-grohe-euphoria-1142732430</url>
+        <price>40986.00</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>352472b5-600c-4c94-bb5a-9fa0f0278d35</categoryId>
+        <picture>https://ol.partners/Products/Photo/11C8C522-CFF8-422B-BBB0-C872AFAFD7F2</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/a99fe20f-c436-4c7a-b50f-46b1d3d80f6d/image_01.jpg</picture>
+        <vendor>GROHE</vendor>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <name>Душова система із термостатичним змішувачем для настінного монтажу Grohe Euphoria (1142732430)</name>
+        <description>&lt;![CDATA[]]&gt;</description>
+        <vendorCode>1142732430</vendorCode>
+        <param name="Од. в упак.">1</param>
+        <param name="Об'єм ящ.">0</param>
+        <param name="Вага ящ.">0</param>
+        <param name="Наявність термостату">Так</param>
+        <param name="Матеріал виробу">Латунь</param>
+        <param name="Тип керування">Поворотні</param>
+        <param name="Довжина шланга (см)">175</param>
+        <param name="Додаткові характеристики">Обмежувач температури</param>
+        <param name="Комплектація">Душовий кронштейн 450 мм. Термостатичний змішувач. Душовий шланг. Ручний душ. Верхній душ 350х230 мм. Стійка.</param>
+        <param name="Гарантія на деталі змішувача (міс)">12</param>
+        <param name="Гарантія на корпус змішувача (міс)">60</param>
+        <param name="Серія">EUPHORIA</param>
+        <param name="Тип виробу">Душові колони</param>
+        <param name="Тип монтажу">Настінні</param>
+        <param name="Країна бренду">Німеччина</param>
+        <param name="Вид виробу">Душові колони на 2 режими</param>
+        <param name="Торгова марка">GROHE</param>
+        <param name="Країна виробник">Німеччина</param>
+        <param name="Призначення">Для душа</param>
+        <param name="Група товару">Змішувачі</param>
+        <param name="Колір">Чорний матовий</param>
+        <param name="Вилив">Без виливу</param>
+        <param name="Покриття">З покриттям</param>
+        <param name="Максимальна висота (см)">110</param>
       </offer>
       <offer id="NF3195" available="true">
         <url>https://ol.partners/products/truboprovodi-ta-zyednannya/fitingi/rizbovi-zyednannya/triynik-nolf-nfct06ffm12-ffm-nf3195</url>
