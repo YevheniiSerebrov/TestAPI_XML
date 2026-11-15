@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-11-14 04:58">
+<yml_catalog date="2026-11-15 04:52">
   <shop>
     <name>O&amp;L</name>
     <company>O&amp;L</company>
@@ -10720,7 +10720,7 @@
         <param name="Колір">Хром</param>
         <param name="Стиль">Класичний</param>
       </offer>
-      <offer id="1053360000" available="false">
+      <offer id="1053360000" available="true">
         <url>https://ol.partners/products/dushovi-koloni-ta-sistemi/vbudovani-dushovi-sistemi/dushova-sistema-prikhovanogo-montazhu-grohe-cubeo-z-tempesta-250-1053360000</url>
         <price>19710.00</price>
         <currencyId>UAH</currencyId>
@@ -10730,8 +10730,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/4e0ba231-7eb2-4522-af7f-4936d954bc78/image_02.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/4e0ba231-7eb2-4522-af7f-4936d954bc78/image_03.jpg</picture>
         <vendor>GROHE</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Душова система прихованого монтажу Grohe Cubeo з Tempesta 250 (1053360000)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>1053360000</vendorCode>
@@ -25792,7 +25792,7 @@
         <param name="Діаметр підключення (мм)">25</param>
         <param name="Колір">Сірий</param>
       </offer>
-      <offer id="36327002" available="false">
+      <offer id="36327002" available="true">
         <url>https://ol.partners/products/zmishuvachi-ta-krani/zmishuvachi-dlya-umivalnika/bezkontaktniy-sensorniy-zmishuvach-dlya-umivalnika/infrachervona-elektronika-dlya-rakovini-zi-zmishuvachem-grohe-eurosmart-cosmopolitan-e-36327002</url>
         <price>18306.00</price>
         <currencyId>UAH</currencyId>
@@ -25800,8 +25800,8 @@
         <picture>https://ol.partners/Products/Photo/3DB5F9E5-0B99-413F-A07C-DF68EFD54A9B</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/9ae0bba4-c637-4271-86da-2e9a26328c81/image_01.jpg</picture>
         <vendor>GROHE</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Інфрачервона електроніка для раковини зі змішувачем Grohe Eurosmart Cosmopolitan E (36327002)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>36327002</vendorCode>
@@ -43576,7 +43576,7 @@
         <param name="Країна бренду">Китай</param>
         <param name="Країна виробник">Китай</param>
       </offer>
-      <offer id="1017892430" available="false">
+      <offer id="1017892430" available="true">
         <url>https://ol.partners/products/zmishuvachi-ta-krani/zmishuvachi-dlya-umivalnika/zmishuvachi-dlya-umivalnika-prikhovanogo-montazhu/zmishuvach-dlya-rakovini-na-2-otvori-grohe-cubeo-lrozmiru-1017892430</url>
         <price>15066.00</price>
         <currencyId>UAH</currencyId>
@@ -43584,8 +43584,8 @@
         <picture>https://ol.partners/Products/Photo/90CD90A0-3E47-4922-B594-3DD8DD2A13C9</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/2a4bafea-0f4e-49be-b4c3-5ebe8c463cff/image_01.jpg</picture>
         <vendor>GROHE</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Змішувач для раковини на 2 отвори Grohe Cubeo L-розміру (1017892430)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>1017892430</vendorCode>
@@ -56324,7 +56324,7 @@
         <param name="Гарантія на корпус змішувача (міс)">24</param>
         <param name="Матеріал виробу">Нержавіюча сталь SUS304</param>
       </offer>
-      <offer id="1017490000" available="false">
+      <offer id="1017490000" available="true">
         <url>https://ol.partners/products/zmishuvachi-ta-krani/zmishuvachi-dlya-umivalnika/odnovazhilniy-zmishuvach-dlya-rakovini/odnovazhilniy-zmishuvach-dlya-rakovini-grohe-cubeo-mrozmiru-1017490000</url>
         <price>5886.00</price>
         <currencyId>UAH</currencyId>
@@ -56334,8 +56334,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/c6cc6d20-c63c-4d29-93cd-773eb879ebe8/image_02.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/c6cc6d20-c63c-4d29-93cd-773eb879ebe8/image_03.jpg</picture>
         <vendor>GROHE</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Одноважільний змішувач для раковини Grohe Cubeo M-розміру (1017490000)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>1017490000</vendorCode>
@@ -82653,7 +82653,7 @@
         <param name="Тип з'єднання">Черв'ячне затяжне</param>
         <param name="Колір">Сталевий</param>
       </offer>
-      <offer id="40407001" available="false">
+      <offer id="40407001" available="true">
         <url>https://ol.partners/products/aksesuari-dlya-vannoi/nabir-aksesuariv-dlya-vannoi/nabir-aksesuariv-3-v-1-grohe-essentials-new-40407001</url>
         <price>5670.00</price>
         <currencyId>UAH</currencyId>
@@ -82662,8 +82662,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/547a47c2-5c80-4ee1-a57f-be1f9e858376/image_02.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/547a47c2-5c80-4ee1-a57f-be1f9e858376/image_01.jpg</picture>
         <vendor>GROHE</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Набір аксесуарів 3 в 1 Grohe Essentials New (40407001)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>40407001</vendorCode>
@@ -83341,7 +83341,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/090fbfeb-04a2-4fa5-9418-d8a4b55384ab/image_02.jpg</picture>
         <vendor>GROHE</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Шлангове підключення з тримачем Grohe Euphoria Cube (26370000)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>26370000</vendorCode>
@@ -98055,7 +98055,7 @@
         <param name="Тип виливу">Поворотний</param>
         <param name="Покриття">З покриттям</param>
       </offer>
-      <offer id="26910003" available="false">
+      <offer id="26910003" available="true">
         <url>https://ol.partners/products/zapchastini-dlya-zmishuvacha/liyki-dlya-dushu/dushoviy-nabir-grohe-tempesta-cube-110-3-rezhimi-26910003</url>
         <price>2484.00</price>
         <currencyId>UAH</currencyId>
@@ -98069,8 +98069,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/3e29080f-4020-4eea-abc9-7ab06ffbe300/image_07.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/3e29080f-4020-4eea-abc9-7ab06ffbe300/image_06.jpg</picture>
         <vendor>GROHE</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Душовий набір Grohe Tempesta Cube 110, 3 режими (26910003)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>26910003</vendorCode>
@@ -119378,7 +119378,7 @@
         <param name="Комплектація">Рушникосушарка, декоративна накладка 2 - 4 шт (взалежності від моделі), декоративний циліндр 2 - 4 шт (взалежності від моделі). Заглушки та саморізи до комплектації не входять.</param>
         <param name="Особливості">Комплектацію уточнюйте у менеджера (може змінюватись виробником в залежності від партії)</param>
       </offer>
-      <offer id="40421001" available="false">
+      <offer id="40421001" available="true">
         <url>https://ol.partners/products/aksesuari-dlya-vannoi/poruchni-dlya-vannoi/poruchen-dlya-vannoi-grohe-essentials-new-40421001</url>
         <price>3186.00</price>
         <currencyId>UAH</currencyId>
@@ -119387,8 +119387,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/6ae54249-7c4c-47e1-b152-82613ef74706/image_02.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/6ae54249-7c4c-47e1-b152-82613ef74706/image_01.jpg</picture>
         <vendor>GROHE</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Поручень для ванної Grohe Essentials New (40421001)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>40421001</vendorCode>
@@ -122817,7 +122817,7 @@
         <param name="Колір">Нержавіюча сталь</param>
         <param name="Покриття">Без покриття</param>
       </offer>
-      <offer id="40367001" available="false">
+      <offer id="40367001" available="true">
         <url>https://ol.partners/products/aksesuari-dlya-vannoi/paperotrimach/trimach-dlya-tualetnogo-paperu-grohe-essentials-new-40367001</url>
         <price>2646.00</price>
         <currencyId>UAH</currencyId>
@@ -122827,8 +122827,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/1093d1f0-bb18-44af-a37c-c73d7807e0d7/image_02.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/1093d1f0-bb18-44af-a37c-c73d7807e0d7/image_01.jpg</picture>
         <vendor>GROHE</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Тримач для туалетного паперу Grohe Essentials New (40367001)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>40367001</vendorCode>
@@ -138286,7 +138286,7 @@
         <param name="Комплектація">Шланг 150 см, ручна лійка 5 режимів розміром 8х21 см, тримач для лійки, ексцентрики, чашки, гумові прокладки, посібник з експлуатації та гарантійний талон</param>
         <param name="Гарантія на деталі змішувача (міс)">12</param>
       </offer>
-      <offer id="1022022430" available="false">
+      <offer id="1022022430" available="true">
         <url>https://ol.partners/products/zmishuvachi-ta-krani/termostatichni-zmishuvachi/termostat-dlya-dushu-grohe-grohtherm-800-1022022430</url>
         <price>11610.00</price>
         <currencyId>UAH</currencyId>
@@ -138296,8 +138296,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/db89cfa7-7f1a-4fe3-a339-f5cefd97ab5c/image_03.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/db89cfa7-7f1a-4fe3-a339-f5cefd97ab5c/image_01.jpg</picture>
         <vendor>GROHE</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Термостат для душу Grohe Grohtherm 800 (1022022430)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>1022022430</vendorCode>
@@ -155910,7 +155910,7 @@
         <param name="Загальна довжина (мм)">160</param>
         <param name="Висота до виливу (мм)">130</param>
       </offer>
-      <offer id="40448001" available="false">
+      <offer id="40448001" available="true">
         <url>https://ol.partners/products/aksesuari-dlya-vannoi/dozator-dlya-ridkogo-mila/dozator-ridkogo-mila-grohe-essentials-new-40448001</url>
         <price>3726.00</price>
         <currencyId>UAH</currencyId>
@@ -155923,8 +155923,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/9f4783ca-7f9f-4cdf-a6ad-e8bd416728fe/image_06.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/9f4783ca-7f9f-4cdf-a6ad-e8bd416728fe/image_04.jpg</picture>
         <vendor>GROHE</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Дозатор рідкого мила Grohe Essentials New (40448001)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>40448001</vendorCode>
@@ -192936,15 +192936,15 @@
         <param name="Країна виробник">Китай</param>
         <param name="Вид виробу">Дозатори для мийок</param>
       </offer>
-      <offer id="HB9668" available="false">
+      <offer id="HB9668" available="true">
         <url>https://ol.partners/products/zapchastini-dlya-zmishuvacha/ruchki-dlya-zmishuvachiv/ruchka-cron-magic-40-mm-hb9668</url>
         <price>96.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>b903a3ba-04b1-4d57-a7e8-cf662f108909</categoryId>
         <picture>https://ol.partners/Products/Photo/ED16F73A-5B8F-4F34-A58D-622C1240F80C</picture>
         <vendor>CRON</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Ручка CRON MAGIC 40 mm (HB9668)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>HB9668</vendorCode>
@@ -195919,7 +195919,7 @@
         <param name="Колір">Хром</param>
         <param name="Покриття">З покриттям</param>
       </offer>
-      <offer id="23446000" available="false">
+      <offer id="23446000" available="true">
         <url>https://ol.partners/products/zmishuvachi-ta-krani/zmishuvachi-dlya-umivalnika/odnovazhilniy-zmishuvach-dlya-rakovini/zmishuvach-dlya-rakovini-mrozmiru-grohe-eurocube-23446000</url>
         <price>12690.00</price>
         <currencyId>UAH</currencyId>
@@ -195929,8 +195929,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/ad8bdc14-9d78-49f9-b806-78609b7cbedb/image_01.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/ad8bdc14-9d78-49f9-b806-78609b7cbedb/image_03.jpg</picture>
         <vendor>GROHE</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Змішувач для раковини M-розміру Grohe Eurocube (23446000)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>23446000</vendorCode>
@@ -201136,7 +201136,7 @@
         <param name="Тип монтажу">Врізні</param>
         <param name="Вид виробу">Монокрани для умивальника</param>
       </offer>
-      <offer id="30588000" available="false">
+      <offer id="30588000" available="true">
         <url>https://ol.partners/products/zmishuvachi-ta-krani/zmishuvachi-dlya-kukhni/zmishuvach-dlya-kukhni-na-dvi-vodi/zmishuvach-dlya-kukhni-dlya-podachi-tekhnichnoi-i-filtrovanoi-vodi-grohe-blue-pure-minta-30588000</url>
         <price>17766.00</price>
         <currencyId>UAH</currencyId>
@@ -201145,8 +201145,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/82b7bc25-0a95-4a5d-a17e-a75cfb57a076/image_02.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/82b7bc25-0a95-4a5d-a17e-a75cfb57a076/image_01.jpg</picture>
         <vendor>GROHE</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Змішувач для кухні для подачі технічної і фільтрованої води Grohe Blue Pure Minta (30588000)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>30588000</vendorCode>
@@ -201295,7 +201295,7 @@
         <param name="Умови експлуатації та догляд">Виріб призначений для використання лише у побутових умовах. Не перевантажуйте штангу.</param>
         <param name="Комплектація">Штанга, запакована у пакет з тримачем</param>
       </offer>
-      <offer id="23878001" available="false">
+      <offer id="23878001" available="true">
         <url>https://ol.partners/products/zmishuvachi-ta-krani/zmishuvachi-dlya-umivalnika/odnovazhilniy-zmishuvach-dlya-rakovini/odnovazhilniy-zmishuvach-dlya-rakovini-ssize-grohe-bauloop-new-z-nazhimnim-donnim-klapanom-23878001</url>
         <price>4050.00</price>
         <currencyId>UAH</currencyId>
@@ -201307,8 +201307,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/53f9b0f0-2c86-460f-9f71-548f4f527379/image_04.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/53f9b0f0-2c86-460f-9f71-548f4f527379/image_05.jpg</picture>
         <vendor>GROHE</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Одноважільний змішувач для раковини S-Size Grohe BauLoop New з нажимним донним клапаном (23878001)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>23878001</vendorCode>
@@ -212573,7 +212573,7 @@
         <param name="Гарантійний період (міс)">24</param>
         <param name="Комплектація">Упаковка 1/1. Профіль, кронштейн, фіксоване скло, комплект кріплень, набір ущільнювачів, заглушки.</param>
       </offer>
-      <offer id="KP2914" available="false">
+      <offer id="KP2914" available="true">
         <url>https://ol.partners/products/truboprovodi-ta-zyednannya/fitingi/zyednannya-dlya-trub-z-polipropilenu/mufta-rozyemna-universalna-koer-k0270pro-32-ppr-kp2914</url>
         <price>72.00</price>
         <currencyId>UAH</currencyId>
@@ -212581,8 +212581,8 @@
         <picture>https://ol.partners/Products/Photo/17470E4C-C829-4B19-A382-ED82DC99CFA2</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/b7bad754-bf55-4be7-8c24-c63186acf080/image_04_K0268PRO.jpg</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Муфта роз'ємна універсальна Koer K0270.PRO 32 PPR (KP2914)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KP2914</vendorCode>
@@ -215028,7 +215028,7 @@
         <param name="Виконання">Універсальна</param>
         <param name="Структура поверхні мийки">Без структури</param>
       </offer>
-      <offer id="40394001" available="false">
+      <offer id="40394001" available="true">
         <url>https://ol.partners/products/aksesuari-dlya-vannoi/dozator-dlya-ridkogo-mila/dozator-ridkogo-mila-grohe-essentials-new-40394001</url>
         <price>1620.00</price>
         <currencyId>UAH</currencyId>
@@ -215038,8 +215038,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/f156e748-af6f-42fa-92a1-c77cae84e9cc/image_01.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/f156e748-af6f-42fa-92a1-c77cae84e9cc/image_02.jpg</picture>
         <vendor>GROHE</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Дозатор рідкого мила Grohe Essentials New (40394001)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>40394001</vendorCode>
@@ -218659,7 +218659,7 @@
         <param name="Матеріал">Пластик</param>
         <param name="Тип фіксації до поверхні">Без фіксації</param>
       </offer>
-      <offer id="1017772430" available="false">
+      <offer id="1017772430" available="true">
         <url>https://ol.partners/products/zmishuvachi-ta-krani/zmishuvachi-dlya-dusha/vbudovaniy-zmishuvach-dlya-dusha/odnovazhilniy-zmishuvach-dlya-dushu-grohe-cubeo-1017772430</url>
         <price>8910.00</price>
         <currencyId>UAH</currencyId>
@@ -218670,8 +218670,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/e4b5d3af-4da4-4f68-ac05-94ca698048ff/image_01.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/e4b5d3af-4da4-4f68-ac05-94ca698048ff/image_02.jpg</picture>
         <vendor>GROHE</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Одноважільний змішувач для душу Grohe Cubeo (1017772430)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>1017772430</vendorCode>
@@ -222783,7 +222783,7 @@
         <param name="Довжина виливу (см)">26-30</param>
         <param name="Загальна довжина (мм)">355</param>
       </offer>
-      <offer id="40368001" available="false">
+      <offer id="40368001" available="true">
         <url>https://ol.partners/products/aksesuari-dlya-vannoi/milnitsi/milnitsya-grohe-essentials-new-40368001</url>
         <price>594.00</price>
         <currencyId>UAH</currencyId>
@@ -222794,8 +222794,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/c31a2aa4-e230-4285-9c56-7349a06314ad/image_01.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/c31a2aa4-e230-4285-9c56-7349a06314ad/image_03.jpg</picture>
         <vendor>GROHE</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Мильниця Grohe Essentials New (40368001)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>40368001</vendorCode>
@@ -240625,7 +240625,7 @@
         <param name="Колір">Сталевий</param>
         <param name="Покриття">Нікель</param>
       </offer>
-      <offer id="34866000" available="false">
+      <offer id="34866000" available="true">
         <url>https://ol.partners/products/dushovi-koloni-ta-sistemi/vbudovani-dushovi-sistemi/prikhovana-dushova-sistema-z-rainshower-mono-310-grohe-grohtherm-smartcontrol-34866000</url>
         <price>41850.00</price>
         <currencyId>UAH</currencyId>
@@ -240635,8 +240635,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/b129a2db-e127-4b10-8163-9e00949a5873/image_03.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/b129a2db-e127-4b10-8163-9e00949a5873/image_01.jpg</picture>
         <vendor>GROHE</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Прихована душова система з Rainshower Mono 310 Grohe Grohtherm SmartControl (34866000)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>34866000</vendorCode>
@@ -262026,7 +262026,7 @@
         <param name="Матеріал">Поліпропілен</param>
         <param name="Колір">Сірий</param>
       </offer>
-      <offer id="24043003" available="false">
+      <offer id="24043003" available="true">
         <url>https://ol.partners/products/zmishuvachi-ta-krani/zmishuvachi-dlya-dusha/vbudovaniy-zmishuvach-dlya-dusha/zmishuvach-prikhovanogo-montazhu-na-2-spozhivacha-grohe-eurosmart-new-24043003</url>
         <price>6966.00</price>
         <currencyId>UAH</currencyId>
@@ -262038,8 +262038,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/247cb2f2-c08f-4b20-9d82-e656d2459b51/image_02.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/247cb2f2-c08f-4b20-9d82-e656d2459b51/image_03.jpg</picture>
         <vendor>GROHE</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Змішувач прихованого монтажу на 2 споживача Grohe Eurosmart New (24043003)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>24043003</vendorCode>
@@ -264366,7 +264366,7 @@
         <param name="Призначення">Для труб</param>
         <param name="Колір">Сталевий</param>
       </offer>
-      <offer id="23325000" available="false">
+      <offer id="23325000" available="true">
         <url>https://ol.partners/products/zmishuvachi-ta-krani/zmishuvachi-dlya-umivalnika/odnovazhilniy-zmishuvach-dlya-rakovini/zmishuvach-dlya-rakovini-mrozmiru-grohe-eurosmart-cosmopolitan-23325000</url>
         <price>5994.00</price>
         <currencyId>UAH</currencyId>
@@ -264377,8 +264377,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/a8095b4d-72b2-496f-a637-ef87b2d55120/image_03.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/a8095b4d-72b2-496f-a637-ef87b2d55120/image_02.jpg</picture>
         <vendor>GROHE</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Змішувач для раковини M-розміру Grohe Eurosmart Cosmopolitan (23325000)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>23325000</vendorCode>
@@ -292473,7 +292473,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/65ffe520-d025-4706-bbfe-47ff14a536d6/image_02.jpg</picture>
         <vendor>GROHE</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Гачок для халата Grohe Bau Cosmopolitan Neutral (40461001)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>40461001</vendorCode>
@@ -293791,7 +293791,7 @@
         <param name="Тип виливу">Поворотний</param>
         <param name="Стиль">Класичний</param>
       </offer>
-      <offer id="40514001" available="false">
+      <offer id="40514001" available="true">
         <url>https://ol.partners/products/aksesuari-dlya-vannoi/poruchni-dlya-vannoi/poruchen-dlya-vannoi-grohe-essentials-cube-new-40514001</url>
         <price>4224.00</price>
         <currencyId>UAH</currencyId>
@@ -293799,8 +293799,8 @@
         <picture>https://ol.partners/Products/Photo/A94BC53B-583D-4053-A1B2-479A1738EC3A</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/d9e40644-e159-4bb5-b700-0a8439cc4f53/image_01.jpg</picture>
         <vendor>GROHE</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Поручень для ванної Grohe Essentials Cube New (40514001)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>40514001</vendorCode>
@@ -301094,7 +301094,7 @@
         <param name="Комплектація">Колба, йоржик, тримач, кріплення, інструкція</param>
         <param name="Гарантійний період (міс)">12</param>
       </offer>
-      <offer id="40371001" available="false">
+      <offer id="40371001" available="true">
         <url>https://ol.partners/products/aksesuari-dlya-vannoi/trimachi-dlya-rushnikiv/podviyniy-trimach-dlya-rushnikiv-grohe-essentials-new-40371001</url>
         <price>3024.00</price>
         <currencyId>UAH</currencyId>
@@ -301107,8 +301107,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/5ebb9c91-53d0-4c7f-9aae-397a597249cf/image_01.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/5ebb9c91-53d0-4c7f-9aae-397a597249cf/image_05.jpg</picture>
         <vendor>GROHE</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Подвійний тримач для рушників Grohe Essentials New (40371001)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>40371001</vendorCode>
@@ -334454,7 +334454,7 @@
         <param name="Колір">Білий матовий</param>
         <param name="Покриття">З покриттям</param>
       </offer>
-      <offer id="40364001" available="false">
+      <offer id="40364001" available="true">
         <url>https://ol.partners/products/aksesuari-dlya-vannoi/gachki-dlya-rushnikiv/gachok-dlya-khalata-grohe-essentials-new-40364001</url>
         <price>1080.00</price>
         <currencyId>UAH</currencyId>
@@ -334465,8 +334465,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/f0f14d4a-f7fa-4df3-bf83-617a6fe9bb73/image_02.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/f0f14d4a-f7fa-4df3-bf83-617a6fe9bb73/image_01.jpg</picture>
         <vendor>GROHE</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Гачок для халата Grohe Essentials New (40364001)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>40364001</vendorCode>
@@ -345596,7 +345596,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/641e08b1-5a10-4c20-ab34-35a04977f77e/image_02.jpg</picture>
         <vendor>GROHE</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Полиця у ванну кутова Grohe Selection Cube (40809000)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>40809000</vendorCode>
@@ -374885,7 +374885,7 @@
         <param name="Додаткові характеристики">З сірим силіконовим виливом</param>
         <param name="Комплектація">Гнучка підводка, аератор, елемент кріплення</param>
       </offer>
-      <offer id="41039000" available="false">
+      <offer id="41039000" available="true">
         <url>https://ol.partners/products/aksesuari-dlya-vannoi/gachki-dlya-rushnikiv/gachok-dlya-khalata-grohe-selection-41039000</url>
         <price>1566.00</price>
         <currencyId>UAH</currencyId>
@@ -374895,8 +374895,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/cb50e1b0-8f9e-4929-9738-531f34442745/image_02.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/cb50e1b0-8f9e-4929-9738-531f34442745/image_03.jpg</picture>
         <vendor>GROHE</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Гачок для халата Grohe Selection (41039000)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>41039000</vendorCode>
@@ -381495,7 +381495,7 @@
         <param name="Упаковка">Термоусаджувальна плівка і фірмова упаковка</param>
         <param name="Колір">Білий (RAL 9016)</param>
       </offer>
-      <offer id="40536000" available="false">
+      <offer id="40536000" available="true">
         <url>https://ol.partners/products/aksesuari-dlya-vannoi/dozator-dlya-ridkogo-mila/dozator-dlya-miyuchogo-zasobu-grohe-40536000</url>
         <price>3726.00</price>
         <currencyId>UAH</currencyId>
@@ -381504,8 +381504,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/5730f262-050f-40a5-9260-73f9ef2ab7b8/image_01.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/5730f262-050f-40a5-9260-73f9ef2ab7b8/image_02.jpg</picture>
         <vendor>GROHE</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Дозатор для миючого засобу Grohe (40536000)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>40536000</vendorCode>
@@ -405078,7 +405078,7 @@
         <param name="Особливості">Матеріали гвинтів та гайок - сталь</param>
         <param name="Гарантійний період (міс)">12</param>
       </offer>
-      <offer id="32865000" available="false">
+      <offer id="32865000" available="true">
         <url>https://ol.partners/products/zmishuvachi-ta-krani/zmishuvachi-dlya-vanni/liti-zmishuvachi-dlya-vannoi/zmishuvach-dlya-vanni-grohe-bauclassic-32865000</url>
         <price>6210.00</price>
         <currencyId>UAH</currencyId>
@@ -405089,8 +405089,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/a1811888-c522-4654-896f-6069dd23a58e/image_02.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/a1811888-c522-4654-896f-6069dd23a58e/image_03.jpg</picture>
         <vendor>GROHE</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Змішувач для ванни Grohe BauClassic (32865000)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>32865000</vendorCode>
@@ -428390,7 +428390,7 @@
         <param name="Країна бренду">Чехія</param>
         <param name="Тип виробу">Шланги та гнучкі підведення</param>
       </offer>
-      <offer id="31680000" available="false">
+      <offer id="31680000" available="true">
         <url>https://ol.partners/products/zmishuvachi-ta-krani/zmishuvachi-dlya-kukhni/zmishuvachi-odnovazhilni-dlya-kukhni/zmishuvach-dlya-kukhni-grohe-baueco-31680000</url>
         <price>4050.00</price>
         <currencyId>UAH</currencyId>
@@ -428402,8 +428402,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/a84b1354-06ba-488c-b6d8-1610c61a65a2/image_02.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/a84b1354-06ba-488c-b6d8-1610c61a65a2/image_01.jpg</picture>
         <vendor>GROHE</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Змішувач для кухні Grohe BauEco (31680000)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>31680000</vendorCode>
@@ -448055,7 +448055,7 @@
         <param name="Покриття">Немає</param>
         <param name="Колір">Латунний</param>
       </offer>
-      <offer id="233242433" available="false">
+      <offer id="233242433" available="true">
         <url>https://ol.partners/products/zmishuvachi-ta-krani/zmishuvachi-dlya-umivalnika/odnovazhilniy-zmishuvach-dlya-rakovini/zmishuvach-dlya-rakovini-grohe-eurosmart-chorniy-matoviy-233242433</url>
         <price>6642.00</price>
         <currencyId>UAH</currencyId>
@@ -448066,8 +448066,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/6ae77f95-a5b7-40d4-9dfb-bf7617f78b86/image_01.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/6ae77f95-a5b7-40d4-9dfb-bf7617f78b86/image_02.jpg</picture>
         <vendor>GROHE</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Змішувач для раковини Grohe Eurosmart (чорний матовий) (233242433)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>233242433</vendorCode>
