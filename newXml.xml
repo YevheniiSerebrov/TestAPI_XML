@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-11-15 04:52">
+<yml_catalog date="2026-11-16 04:49">
   <shop>
     <name>O&amp;L</name>
     <company>O&amp;L</company>
@@ -91312,6 +91312,7 @@
         <param name="Форма">Планка</param>
         <param name="Поверхня">Глянцева</param>
         <param name="Колір">Хром</param>
+        <param name="Ширина (мм)">325</param>
         <param name="Матеріал">Нержавіюча сталь</param>
         <param name="Тип конструкції">Планка з 6 рухомими гачками</param>
         <param name="Тип фіксації до поверхні">Гвинтове кріплення (на дюбелі)</param>
@@ -181802,7 +181803,7 @@
         <param name="Сумісність з комплектуючою">Прес-фітинги PRESS-INOX діаметром 15 мм</param>
         <param name="Область застосування">Системи водопостачання, опалення, технологічні та інженерні мережі</param>
       </offer>
-      <offer id="KR5263" available="true">
+      <offer id="KR5263" available="false">
         <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/zvorotniy-klapan/klapan-zvorotniy-pelyustkoviy-koer-kr17450-2-tpodibniy-kr5263</url>
         <price>1109.00</price>
         <currencyId>UAH</currencyId>
@@ -181814,8 +181815,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/fc9c2bd4-b847-4640-a55d-144521062101/image_03.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/fc9c2bd4-b847-4640-a55d-144521062101/image_02.jpg</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Клапан зворотній пелюстковий Koer KR.174-50 - 2" Т-подібний (KR5263)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR5263</vendorCode>
@@ -229998,7 +229999,7 @@
         <param name="G (дюйм)">3/4</param>
         <param name="Гарантійний період (міс)">84</param>
       </offer>
-      <offer id="PM0620" available="true">
+      <offer id="PM0620" available="false">
         <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/krani/krani-kulovi/kran-kuloviy-plamix-pvm34-fm-pvc-pm0620</url>
         <price>39.00</price>
         <currencyId>UAH</currencyId>
@@ -230006,8 +230007,8 @@
         <picture>https://ol.partners/Products/Photo/23A5C698-8371-4CB3-91AF-63AD0C55DFE1</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/9b622d99-dfa0-4623-a07e-751e2dc51d92/PM0620-PLAMIX-PVM-34-FM-1.jpg</picture>
         <vendor>PLAMIX</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Кран кульовий Plamix PVM-3/4" FM PVC (PM0620)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>PM0620</vendorCode>
@@ -368536,7 +368537,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/5c286b16-80b4-4ce0-9775-8b37328c8afd/image_01.jpg</picture>
         <vendor>HAIBA</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Душова колона зі змішувачем HAIBA GAUDI 009-J GRAPHITE (Колір графіт) (HB9643)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>HB9643</vendorCode>
