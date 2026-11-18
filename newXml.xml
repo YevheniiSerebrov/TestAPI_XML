@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-11-17 06:36">
+<yml_catalog date="2026-11-18 05:57">
   <shop>
     <name>O&amp;L</name>
     <company>O&amp;L</company>
@@ -8,24 +8,17 @@
       <currency id="UAH" rate="1" />
     </currencies>
     <categories>
-      <category id="23c6d203-11f7-4053-af59-6b254d5b6662">Змішувачі та комплектуючі</category>
-      <category id="11f01a80-c6dd-43f1-ae13-1feb3af842e4" parentId="23c6d203-11f7-4053-af59-6b254d5b6662">Змішувачі</category>
-      <category id="40196545-6d9b-4480-a471-144956c016f4" parentId="11f01a80-c6dd-43f1-ae13-1feb3af842e4">Змішувачі для ванни</category>
-      <category id="c2f36242-64cb-47db-b8a9-e32c00e667c8" parentId="40196545-6d9b-4480-a471-144956c016f4">Змішувачі для ванни з довгим виливом</category>
-      <category id="13985881-ff8c-4c22-a119-120a4df225c7" parentId="11f01a80-c6dd-43f1-ae13-1feb3af842e4">Змішувачі для умивальника</category>
-      <category id="7bd5f9e6-540a-4542-b449-789ef0743d5f" parentId="13985881-ff8c-4c22-a119-120a4df225c7">Змішувачі для умивальника низькі</category>
-      <category id="cccd3e1f-6b84-49c8-b342-dee61a5caf10">Труби та фітинги</category>
-      <category id="6a769ee1-00cd-4865-a3e8-0a9544a6e421" parentId="cccd3e1f-6b84-49c8-b342-dee61a5caf10">Латунний фітинг</category>
-      <category id="9c29f365-2d46-44e7-8ddc-355385e76ceb" parentId="6a769ee1-00cd-4865-a3e8-0a9544a6e421">Латунний штуцер</category>
-      <category id="e640a874-fd20-4d68-a5cf-3b9354bccc5a" parentId="23c6d203-11f7-4053-af59-6b254d5b6662">Комплектуючі для змішувачів</category>
-      <category id="ce005aef-b23b-4c39-8482-d0c8696426e6" parentId="e640a874-fd20-4d68-a5cf-3b9354bccc5a">Різне</category>
       <category id="85089059-b2ea-414c-a0f0-0cb7187f4e74">Запірно-регулююча арматура</category>
       <category id="83a44edb-d6c3-4c48-98aa-ab532105c49e" parentId="85089059-b2ea-414c-a0f0-0cb7187f4e74">Шланги та гнучкі підведення</category>
       <category id="2569b9cb-29e3-4cce-bd38-f7fe00c09da6" parentId="83a44edb-d6c3-4c48-98aa-ab532105c49e">Шланги в оплетенні</category>
+      <category id="23c6d203-11f7-4053-af59-6b254d5b6662">Змішувачі та комплектуючі</category>
+      <category id="11f01a80-c6dd-43f1-ae13-1feb3af842e4" parentId="23c6d203-11f7-4053-af59-6b254d5b6662">Змішувачі</category>
+      <category id="13985881-ff8c-4c22-a119-120a4df225c7" parentId="11f01a80-c6dd-43f1-ae13-1feb3af842e4">Змішувачі для умивальника</category>
       <category id="e6149f82-081b-434b-be9a-09042e3129a0" parentId="13985881-ff8c-4c22-a119-120a4df225c7">Змішувачі для умивальника високі</category>
       <category id="4b1ed2a0-7372-49d4-8570-7be730b86a84">Мийки для кухні</category>
       <category id="4dfd4cb0-a7c6-4417-897c-3be92e5548c7" parentId="4b1ed2a0-7372-49d4-8570-7be730b86a84">Нержавіючі мийки для кухні</category>
       <category id="24281b52-587c-483b-8230-7cc6d217fd58" parentId="4dfd4cb0-a7c6-4417-897c-3be92e5548c7">Врізні мийки</category>
+      <category id="e640a874-fd20-4d68-a5cf-3b9354bccc5a" parentId="23c6d203-11f7-4053-af59-6b254d5b6662">Комплектуючі для змішувачів</category>
       <category id="e50f8ef1-76e6-47a1-a6ed-f2cd9e356ffd" parentId="e640a874-fd20-4d68-a5cf-3b9354bccc5a">Лійки для душу</category>
       <category id="d7e25722-0e11-42cd-b2e7-4636c0c7a197">Тепла підлога</category>
       <category id="24823793-c89a-4b2a-b338-54b688aacc1c" parentId="d7e25722-0e11-42cd-b2e7-4636c0c7a197">Водяна тепла підлога</category>
@@ -34,9 +27,12 @@
       <category id="2c9c02a7-18dd-4f5d-a800-a313b6a5b57b" parentId="98cef2a4-d106-4da2-9b4c-f8e66696fd13">Мильниці</category>
       <category id="601c836d-ef2b-41ea-8567-f52114c18ff9" parentId="2c9c02a7-18dd-4f5d-a800-a313b6a5b57b">Мильниця настільна</category>
       <category id="bb8b0ff4-9d80-443b-8ae2-fa4fbbda34ad" parentId="13985881-ff8c-4c22-a119-120a4df225c7">Змішувачі для умивальника настінні прихованого монтажу</category>
+      <category id="40196545-6d9b-4480-a471-144956c016f4" parentId="11f01a80-c6dd-43f1-ae13-1feb3af842e4">Змішувачі для ванни</category>
       <category id="24d317c0-5084-463f-84c1-67f9a35850ce" parentId="40196545-6d9b-4480-a471-144956c016f4">Змішувачі для ванни з коротким виливом</category>
+      <category id="7bd5f9e6-540a-4542-b449-789ef0743d5f" parentId="13985881-ff8c-4c22-a119-120a4df225c7">Змішувачі для умивальника низькі</category>
       <category id="bc966786-d710-4c2e-a398-d474605753ca" parentId="11f01a80-c6dd-43f1-ae13-1feb3af842e4">Змішувачі для кухні</category>
       <category id="55782ae8-eebc-4ed9-8c24-5e7f7f6add9c" parentId="bc966786-d710-4c2e-a398-d474605753ca">Змішувачі для кухні високі</category>
+      <category id="cccd3e1f-6b84-49c8-b342-dee61a5caf10">Труби та фітинги</category>
       <category id="e7cece22-26d8-4969-ae17-df211c91a522" parentId="cccd3e1f-6b84-49c8-b342-dee61a5caf10">Утеплювач для труб</category>
       <category id="d26b48da-02f2-4868-8cef-c6bd7993983b" parentId="e7cece22-26d8-4969-ae17-df211c91a522">З полімерним покриттям</category>
       <category id="2bd266ee-c645-4822-98b2-8002dcfe7e65" parentId="bc966786-d710-4c2e-a398-d474605753ca">Змішувачі для кухні настінні</category>
@@ -48,6 +44,7 @@
       <category id="6d731346-5a1f-4c46-b1b9-51049f61a2b2" parentId="bc966786-d710-4c2e-a398-d474605753ca">Змішувачі для кухні високі з гнучким виливом</category>
       <category id="1800859e-bf4f-46b4-bb4a-482b239788bf" parentId="85089059-b2ea-414c-a0f0-0cb7187f4e74">Крани приладові</category>
       <category id="731f4dd1-7b19-4bd6-a0dc-e82f94aa6c6d" parentId="1800859e-bf4f-46b4-bb4a-482b239788bf">Крани приладові з нержавіючої сталі</category>
+      <category id="c2f36242-64cb-47db-b8a9-e32c00e667c8" parentId="40196545-6d9b-4480-a471-144956c016f4">Змішувачі для ванни з довгим виливом</category>
       <category id="efa94de6-a9bb-429c-9d62-1ef1022d278c" parentId="11f01a80-c6dd-43f1-ae13-1feb3af842e4">Душові системи вбудованого монтажу</category>
       <category id="7b556ef2-e1fc-47fb-aadc-e1fee3a01acb" parentId="efa94de6-a9bb-429c-9d62-1ef1022d278c">Душові системи вбудованого монтажу на 3 режими</category>
       <category id="402e7165-7c17-419f-880d-eb345fd9434a" parentId="cccd3e1f-6b84-49c8-b342-dee61a5caf10">Система PRESS-INOX</category>
@@ -69,6 +66,7 @@
       <category id="363aa142-2f93-4e27-b498-6d77a76b93eb" parentId="85089059-b2ea-414c-a0f0-0cb7187f4e74">Засувка клинова</category>
       <category id="f29182bf-eff0-403c-b666-edb86fc760bb" parentId="5ef4e82d-4991-4f55-834c-57a3c3853333">Кран кульовий для води</category>
       <category id="ee0302d8-11b3-4a3b-a1c2-20a336937fba" parentId="cf4d3f8b-272f-4182-bedf-6ec6f187070b">Труби PPR</category>
+      <category id="ce005aef-b23b-4c39-8482-d0c8696426e6" parentId="e640a874-fd20-4d68-a5cf-3b9354bccc5a">Різне</category>
       <category id="9df7bc34-f280-460d-9fe9-863f90a04f33" parentId="85089059-b2ea-414c-a0f0-0cb7187f4e74">Фільтр для води</category>
       <category id="0f3d2714-87ef-45ce-920d-645529012277" parentId="9df7bc34-f280-460d-9fe9-863f90a04f33">Фільтр грубого очищення</category>
       <category id="f28c263a-1ad1-423d-a375-58a1b7559520" parentId="e640a874-fd20-4d68-a5cf-3b9354bccc5a">Кронштейни для лійки</category>
@@ -84,6 +82,7 @@
       <category id="b01d55cc-93ad-4441-9311-5912625a743b" parentId="cccd3e1f-6b84-49c8-b342-dee61a5caf10">Обтискний фітинг</category>
       <category id="2d1993a2-6bde-4874-8347-74b502e96ada" parentId="b01d55cc-93ad-4441-9311-5912625a743b">Обтискна хрестовина</category>
       <category id="76b71433-b0c2-455a-8c2a-37785860f991" parentId="4dfd4cb0-a7c6-4417-897c-3be92e5548c7">Комплекти мийок та змішувачів</category>
+      <category id="6a769ee1-00cd-4865-a3e8-0a9544a6e421" parentId="cccd3e1f-6b84-49c8-b342-dee61a5caf10">Латунний фітинг</category>
       <category id="ba3e9094-f49c-4229-a9a6-0ca23d153097" parentId="6a769ee1-00cd-4865-a3e8-0a9544a6e421">Латунний перехід</category>
       <category id="16377e1e-e849-438c-85d1-67cd7ecc8cff" parentId="b1565b1d-de59-44ad-bf23-5ab90a496ef0">Змішувачі для гігієнічного душу прихованого монтажу</category>
       <category id="5d7b192a-12a9-4c5b-8084-2fc1c73bc6d6" parentId="4dfd4cb0-a7c6-4417-897c-3be92e5548c7">Накладні мийки</category>
@@ -137,6 +136,7 @@
       <category id="9cbe58c0-eece-4ac1-ae67-4ee8315d375b" parentId="6a769ee1-00cd-4865-a3e8-0a9544a6e421">Латунний кутик</category>
       <category id="89c64283-cbcc-4d71-b8e5-380cf07be8bc" parentId="152e300a-4c1c-45f1-8870-af93bff0c7f4">Душові кабіни</category>
       <category id="06e238b7-1487-499a-976f-a768fa741e6d" parentId="89c64283-cbcc-4d71-b8e5-380cf07be8bc">Душова кабіна з низьким піддоном</category>
+      <category id="9c29f365-2d46-44e7-8ddc-355385e76ceb" parentId="6a769ee1-00cd-4865-a3e8-0a9544a6e421">Латунний штуцер</category>
       <category id="36bf6d98-0551-4a4a-9880-019afeac5078" parentId="62e6de7d-4d05-4832-912e-c9a695b2c298">Точкові трапи</category>
       <category id="6414e624-3f7b-4aba-87ed-c8aa39ec3532" parentId="a59d495b-5fb4-4af1-b91a-86d0b2bdaaf9">Тримач для склянки, мильниці</category>
       <category id="08a2853b-bab7-409e-be3f-b8ff2da74b57" parentId="ca47a129-daa7-47e7-a1a8-f4993e559a04">Душові колони на 4 режими</category>
@@ -473,168 +473,7 @@
       <category id="574f98ff-e505-41f8-9d42-19eee562bdc2" parentId="811a6a27-acf9-419b-b8ec-54f5c66acdd7">Обробні дошки</category>
       <category id="3b9752b0-cb2e-4169-a8a7-9732c7021d24" parentId="ee818148-9db1-43e0-8bb4-45b8bb9e618f">Ножиці</category>
     </categories>
-    <offers count="10903">
-      <offer id="ZX3151" available="true">
-        <url>https://ol.partners/products/zmishuvachi-ta-krani/zmishuvachi-dlya-vanni/zmishuvach-dlya-vanni-z-povorotnim-vilivom/zmishuvach-dlya-vanni-z-nerzh-stali-sus304-zerix-fox006-euro-zx3151</url>
-        <price>1782.00</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>c2f36242-64cb-47db-b8a9-e32c00e667c8</categoryId>
-        <picture>https://ol.partners/Products/Photo/E421D2C7-016E-45A2-AADF-CB974C524E81</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/cfedb7da-043d-4a5e-9e75-0dde7b392e9f/image_02.jpg</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/cfedb7da-043d-4a5e-9e75-0dde7b392e9f/image_01.jpg</picture>
-        <vendor>ZERIX</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
-        <name>Змішувач для ванни з нерж. сталі SUS304 Zerix Fox-006 (Euro) (ZX3151)</name>
-        <description>&lt;![CDATA[]]&gt;</description>
-        <vendorCode>ZX3151</vendorCode>
-        <param name="Од. в упак.">8</param>
-        <param name="Об'єм ящ.">0.055</param>
-        <param name="Вага ящ.">17</param>
-        <param name="Матеріал виробу">Нержавіюча сталь SUS304</param>
-        <param name="Максимальний тиск (бар)">10,00</param>
-        <param name="Тип керування">Одноважільні</param>
-        <param name="Картридж чи кран букса">Картридж</param>
-        <param name="Діаметр картриджа (мм)">35</param>
-        <param name="Робочий тиск (бар)">1-5</param>
-        <param name="Мінімальний тиск (бар)">0,50</param>
-        <param name="Мінімальна температура води (°C)">5</param>
-        <param name="MAX різниця тиску гарячої та холодної води (бар)">1,50</param>
-        <param name="Максимальна температура води (°C)">90</param>
-        <param name="Вид виробу">Змішувачі для ванни з довгим виливом</param>
-        <param name="Тип виробу">Змішувачі для ванни</param>
-        <param name="Серія">FOX</param>
-        <param name="Група товару">Змішувачі</param>
-        <param name="Країна бренду">Чехія</param>
-        <param name="Тип монтажу">Настінні</param>
-        <param name="Країна виробник">Китай</param>
-        <param name="Торгова марка">ZERIX</param>
-        <param name="Стиль">Модерн</param>
-        <param name="Колір">Нержавіюча сталь</param>
-        <param name="Тип виливу">Поворотний</param>
-        <param name="Покриття">Без покриття</param>
-        <param name="Загальна довжина (мм)">410</param>
-        <param name="Довжина виливу (мм)">320</param>
-        <param name="Довжина виливу (см)">31-35</param>
-        <param name="Комплектація">Шланг 150 см, ручна лійка розміром 10х22 см, тримач для лійки, аератор, ексцентрики, чашки, гумові прокладки</param>
-        <param name="Гарантія на корпус змішувача (міс)">60</param>
-        <param name="Гарантія на деталі змішувача (міс)">12</param>
-      </offer>
-      <offer id="CR0130" available="false">
-        <url>https://ol.partners/products/zmishuvachi-ta-krani/zmishuvachi-dlya-umivalnika/odnovazhilniy-zmishuvach-dlya-rakovini/zmishuvach-dlya-umivalnika-cron-magic-55515cm-nut-kolir-khrom-cr0130</url>
-        <price>650.00</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>7bd5f9e6-540a-4542-b449-789ef0743d5f</categoryId>
-        <picture>https://ol.partners/Products/Photo/21E6B3E6-3AEF-4C76-A2EB-99F94B42343A</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/414d149d-2489-47ce-9cef-1857f9afbdc9/image_10.jpg</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/414d149d-2489-47ce-9cef-1857f9afbdc9/image_02.jpg</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/414d149d-2489-47ce-9cef-1857f9afbdc9/image_04.jpg</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/414d149d-2489-47ce-9cef-1857f9afbdc9/image_03.jpg</picture>
-        <vendor>CRON</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
-        <name>Змішувач для умивальника CRON MAGIC 555-15CM NUT (Колір хром) (CR0130)</name>
-        <description>&lt;![CDATA[]]&gt;</description>
-        <vendorCode>CR0130</vendorCode>
-        <param name="Од. в упак.">10</param>
-        <param name="Об'єм ящ.">0.034</param>
-        <param name="Вага ящ.">11</param>
-        <param name="Висота до виливу (мм)">70</param>
-        <param name="Висота змішувача (мм)">120</param>
-        <param name="Висота змішувача (см)">10-15</param>
-        <param name="Довжина виливу (см)">11-15</param>
-        <param name="Загальна довжина (мм)">190</param>
-        <param name="Довжина виливу (мм)">150</param>
-        <param name="Тип монтажу">Врізні</param>
-        <param name="Торгова марка">CRON</param>
-        <param name="Серія">MAGIC</param>
-        <param name="Країна бренду">Китай</param>
-        <param name="Модель">555</param>
-        <param name="Група товару">Змішувачі</param>
-        <param name="Вид виробу">Змішувачі для умивальника низькі</param>
-        <param name="Країна виробник">Китай</param>
-        <param name="Тип виробу">Змішувачі для умивальника</param>
-        <param name="Тип керування">Одноважільні</param>
-        <param name="Діаметр картриджа (мм)">40</param>
-        <param name="Максимальна температура води (°C)">90</param>
-        <param name="Матеріал виробу">Цинковий сплав</param>
-        <param name="Максимальний тиск (бар)">10,00</param>
-        <param name="Тип кріплення">Гайка</param>
-        <param name="Картридж чи кран букса">Картридж</param>
-        <param name="MAX різниця тиску гарячої та холодної води (бар)">1,50</param>
-        <param name="Робочий тиск (бар)">1-5</param>
-        <param name="Мінімальна температура води (°C)">5</param>
-        <param name="Діаметр шланга підключення">1/2</param>
-        <param name="Мінімальний тиск (бар)">0,50</param>
-        <param name="Довжина шланга підключення">50 см</param>
-        <param name="Покриття">З покриттям</param>
-        <param name="Колір">Хром</param>
-        <param name="Тип виливу">Поворотний</param>
-        <param name="Стиль">Класичний</param>
-        <param name="Комплектація">Гнучка підводка, аератор, кріпильна гайка</param>
-        <param name="Гарантія на деталі змішувача (міс)">12</param>
-        <param name="Гарантія на корпус змішувача (міс)">36</param>
-      </offer>
-      <offer id="KR3336" available="true">
-        <url>https://ol.partners/products/truboprovodi-ta-zyednannya/fitingi/rizbovi-zyednannya/shtutser-dlya-priyednannya-shlanga-koer-kfu06f12-12x12mm-f-kr3336</url>
-        <price>63.00</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>9c29f365-2d46-44e7-8ddc-355385e76ceb</categoryId>
-        <picture>https://ol.partners/Products/Photo/0F08F13D-AFEB-4382-9E0B-6FB0FE0FE7D0</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/4a911bec-1fb1-4f77-a66d-6b3bc393d260/Image_04_koer.jpg</picture>
-        <vendor>KOER</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
-        <name>Штуцер для приєднання шланга Koer KF.U06F-12 - 1/2"x12mm F (KR3336)</name>
-        <description>&lt;![CDATA[]]&gt;</description>
-        <vendorCode>KR3336</vendorCode>
-        <param name="Од. в упак.">300</param>
-        <param name="Об'єм ящ.">0.01</param>
-        <param name="Вага ящ.">10.85</param>
-        <param name="Гарантійний період (міс)">84</param>
-        <param name="Діаметр підключення (дюйм)">1/2</param>
-        <param name="A (мм)">34,50</param>
-        <param name="D (мм)">12,00</param>
-        <param name="G (дюйм)">1/2</param>
-        <param name="Тип з'єднання">Різьбовий</param>
-        <param name="Тип приєднання">Штуцерне</param>
-        <param name="Матеріал">Латунь CW617N нікельована</param>
-        <param name="Торгова марка">KOER</param>
-        <param name="Країна бренду">Чехія</param>
-        <param name="Тип">Штуцер</param>
-        <param name="Тип виробу">Латунний фітинг</param>
-        <param name="Вид виробу">Штуцер</param>
-        <param name="Призначення">Для труб</param>
-        <param name="Модель">KF.U06F</param>
-        <param name="Колір">Сталевий</param>
-        <param name="Покриття">Нікель</param>
-      </offer>
-      <offer id="ZX5972" available="true">
-        <url>https://ol.partners/products/zapchastini-dlya-zmishuvacha/kriplennya-dlya-zmishuvacha/chashka-dekorativna-krugla-kolir-khrom-zerix-rst01-chrome-z-nerzh-stali-sus304-zx5972</url>
-        <price>19.20</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>ce005aef-b23b-4c39-8482-d0c8696426e6</categoryId>
-        <picture>https://ol.partners/Products/Photo/6C18D35B-B23D-45FC-9E6E-DB6F1AD300FE</picture>
-        <vendor>ZERIX</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
-        <name>Чашка декоративна (кругла) (колір хром) ZERIX RST-01 CHROME з нерж. сталі SUS304 (ZX5972)</name>
-        <description>&lt;![CDATA[]]&gt;</description>
-        <vendorCode>ZX5972</vendorCode>
-        <param name="Од. в упак.">150</param>
-        <param name="Об'єм ящ.">0.01</param>
-        <param name="Вага ящ.">1.5</param>
-        <param name="Тип виробу">Комплектуючі для змішувачів</param>
-        <param name="Країна виробник">Китай</param>
-        <param name="Модель">01</param>
-        <param name="Країна бренду">Чехія</param>
-        <param name="Вид виробу">Різне</param>
-        <param name="Група товару">Комплектуючі для змішувачів</param>
-        <param name="Торгова марка">ZERIX</param>
-        <param name="Колір">Хром</param>
-        <param name="Покриття">Без покриття</param>
-        <param name="Матеріал виробу">Нержавіюча сталь SUS304</param>
-      </offer>
+    <offers count="10905">
       <offer id="ZX3023" available="true">
         <url>https://ol.partners/products/truboprovodi-ta-zyednannya/gnuchka-pidvodka/gnuchkiy-shlang-dlya-pidklyuchennya-vodi-gayka-12-shtutser-12-120-sm-silik-obolonka-zerix-zx3023</url>
         <price>124.00</price>
@@ -10913,6 +10752,40 @@
         <param name="Тип виробу">Шланги та гнучкі підведення</param>
         <param name="Торгова марка">KOER</param>
       </offer>
+      <offer id="NF3179" available="true">
+        <url>https://ol.partners/products/truboprovodi-ta-zyednannya/fitingi/rizbovi-zyednannya/nipel-reduktsiyniy-nolf-nfcn020612x14-nf3179</url>
+        <price>31.00</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>c4974acc-5d1d-4a2c-8826-a75558dab36f</categoryId>
+        <picture>https://ol.partners/Products/Photo/0D2469C1-7412-48AB-8513-1413F9F92461</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/dd0cc68b-aadc-4438-9264-1f6d51f46e50/image_03.jpg</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/dd0cc68b-aadc-4438-9264-1f6d51f46e50/image_02.jpg</picture>
+        <vendor>NOLF</vendor>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Достатньо</availabilityStatus>
+        <name>Ніпель редукційний NOLF NFC.N0206-1/2"x1/4" (NF3179)</name>
+        <description>&lt;![CDATA[]]&gt;</description>
+        <vendorCode>NF3179</vendorCode>
+        <param name="Од. в упак.">800</param>
+        <param name="Об'єм ящ.">0</param>
+        <param name="Вага ящ.">0</param>
+        <param name="G2 (дюйм)">1/4</param>
+        <param name="G1 (дюйм)">1/2</param>
+        <param name="Діаметр підключення (дюйм)">1/2x1/4</param>
+        <param name="Вид виробу">Ніпель</param>
+        <param name="Тип">Ніпель</param>
+        <param name="Призначення">Для труб</param>
+        <param name="Тип виробу">Латунний фітинг</param>
+        <param name="Країна бренду">Німеччина</param>
+        <param name="Торгова марка">NOLF</param>
+        <param name="Модель">NFC.N0206</param>
+        <param name="Матеріал виробу">Латунь CW617N нікельована</param>
+        <param name="Матеріал">Латунь CW617N</param>
+        <param name="Тип з'єднання">Різьбовий</param>
+        <param name="Покриття">Нікель</param>
+        <param name="Колір">Латунний</param>
+        <param name="Гарантійний період (міс)">84</param>
+      </offer>
       <offer id="MI5806" available="true">
         <url>https://ol.partners/products/zmishuvachi-ta-krani/zmishuvachi-dlya-vanni/liti-zmishuvachi-dlya-vannoi/zmishuvach-dlya-vanni-mixxus-premium-kvadro-009-euro-kolir-khrom-mi5806</url>
         <price>3371.00</price>
@@ -10960,65 +10833,6 @@
         <param name="Гарантія на корпус змішувача (міс)">60</param>
         <param name="Комплектація">Шланг 150 см, однорежимна лійка 6х22см, тримач для лійки, аератор, ексцентрики, чашки, гумові прокладки</param>
       </offer>
-      <offer id="NF3179" available="true">
-        <url>https://ol.partners/products/truboprovodi-ta-zyednannya/fitingi/rizbovi-zyednannya/nipel-reduktsiyniy-nolf-nfcn020612x14-nf3179</url>
-        <price>31.00</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>c4974acc-5d1d-4a2c-8826-a75558dab36f</categoryId>
-        <picture>https://ol.partners/Products/Photo/0D2469C1-7412-48AB-8513-1413F9F92461</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/dd0cc68b-aadc-4438-9264-1f6d51f46e50/image_03.jpg</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/dd0cc68b-aadc-4438-9264-1f6d51f46e50/image_02.jpg</picture>
-        <vendor>NOLF</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
-        <name>Ніпель редукційний NOLF NFC.N0206-1/2"x1/4" (NF3179)</name>
-        <description>&lt;![CDATA[]]&gt;</description>
-        <vendorCode>NF3179</vendorCode>
-        <param name="Од. в упак.">800</param>
-        <param name="Об'єм ящ.">0</param>
-        <param name="Вага ящ.">0</param>
-        <param name="G2 (дюйм)">1/4</param>
-        <param name="G1 (дюйм)">1/2</param>
-        <param name="Діаметр підключення (дюйм)">1/2x1/4</param>
-        <param name="Вид виробу">Ніпель</param>
-        <param name="Тип">Ніпель</param>
-        <param name="Призначення">Для труб</param>
-        <param name="Тип виробу">Латунний фітинг</param>
-        <param name="Країна бренду">Німеччина</param>
-        <param name="Торгова марка">NOLF</param>
-        <param name="Модель">NFC.N0206</param>
-        <param name="Матеріал виробу">Латунь CW617N нікельована</param>
-        <param name="Матеріал">Латунь CW617N</param>
-        <param name="Тип з'єднання">Різьбовий</param>
-        <param name="Покриття">Нікель</param>
-        <param name="Колір">Латунний</param>
-        <param name="Гарантійний період (міс)">84</param>
-      </offer>
-      <offer id="ZX3040" available="true">
-        <url>https://ol.partners/products/zapchastini-dlya-zmishuvacha/vilivi-dlya-zmishuvacha/viliv-dlya-zmishuvacha-gnuchkiy-biliy-zerix-sps02-zx3040</url>
-        <price>404.00</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>7b5a36ec-24d8-481d-bf39-0364f754bca1</categoryId>
-        <picture>https://ol.partners/Products/Photo/C41765CC-1A76-462F-AE6C-139631E2E85A</picture>
-        <vendor>ZERIX</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
-        <name>Вилив для змішувача гнучкий білий Zerix SPS-02 (ZX3040)</name>
-        <description>&lt;![CDATA[]]&gt;</description>
-        <vendorCode>ZX3040</vendorCode>
-        <param name="Од. в упак.">50</param>
-        <param name="Об'єм ящ.">0.05</param>
-        <param name="Вага ящ.">23</param>
-        <param name="Колір">Хром</param>
-        <param name="Покриття">З покриттям</param>
-        <param name="Група товару">Комплектуючі для змішувачів</param>
-        <param name="Країна виробник">Китай</param>
-        <param name="Торгова марка">ZERIX</param>
-        <param name="Вид виробу">Виливи для змішувача</param>
-        <param name="Тип виробу">Комплектуючі для змішувачів</param>
-        <param name="Країна бренду">Чехія</param>
-        <param name="Матеріал виробу">Силікон/нержавіюча сталь</param>
-      </offer>
       <offer id="ZX0058" available="true">
         <url>https://ol.partners/products/zmishuvachi-ta-krani/zmishuvachi-dlya-kukhni/zmishuvachi-odnovazhilni-dlya-kukhni/zmishuvach-dlya-kukhni-zerix-peda-180-zx0058</url>
         <price>884.00</price>
@@ -11063,6 +10877,31 @@
         <param name="Стиль">Класичний</param>
         <param name="Колір">Хром</param>
         <param name="Покриття">З покриттям</param>
+      </offer>
+      <offer id="ZX3040" available="true">
+        <url>https://ol.partners/products/zapchastini-dlya-zmishuvacha/vilivi-dlya-zmishuvacha/viliv-dlya-zmishuvacha-gnuchkiy-biliy-zerix-sps02-zx3040</url>
+        <price>404.00</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>7b5a36ec-24d8-481d-bf39-0364f754bca1</categoryId>
+        <picture>https://ol.partners/Products/Photo/C41765CC-1A76-462F-AE6C-139631E2E85A</picture>
+        <vendor>ZERIX</vendor>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Достатньо</availabilityStatus>
+        <name>Вилив для змішувача гнучкий білий Zerix SPS-02 (ZX3040)</name>
+        <description>&lt;![CDATA[]]&gt;</description>
+        <vendorCode>ZX3040</vendorCode>
+        <param name="Од. в упак.">50</param>
+        <param name="Об'єм ящ.">0.05</param>
+        <param name="Вага ящ.">23</param>
+        <param name="Колір">Хром</param>
+        <param name="Покриття">З покриттям</param>
+        <param name="Група товару">Комплектуючі для змішувачів</param>
+        <param name="Країна виробник">Китай</param>
+        <param name="Торгова марка">ZERIX</param>
+        <param name="Вид виробу">Виливи для змішувача</param>
+        <param name="Тип виробу">Комплектуючі для змішувачів</param>
+        <param name="Країна бренду">Чехія</param>
+        <param name="Матеріал виробу">Силікон/нержавіюча сталь</param>
       </offer>
       <offer id="KP0077" available="true">
         <url>https://ol.partners/products/truboprovodi-ta-zyednannya/trubi/obvodi/obvid-korotkiy-koer-ppr-20-k0065pro-kp0077</url>
@@ -16451,7 +16290,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/7e72219c-e78e-4636-a940-11bd4d3da608/image_03.jpg</picture>
         <vendor>MIXXUS PREMIUM</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Змішувач для кухні MIXXUS PREMIUM GRAVITY 017 NUT SS COLOR REFL.GREY (Колір нержавіюча сталь+силік. вилив сірий) (MI8407)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>MI8407</vendorCode>
@@ -17347,7 +17186,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/b5771807-4e45-4403-bd88-d49ef23f5a86/image_02.jpg</picture>
         <vendor>HAIBA</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Змішувач для ванни HAIBA ODYSSEY 140 EURO (Колір хром) (HB0303)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>HB0303</vendorCode>
@@ -21463,34 +21302,87 @@
         <param name="Покриття">Нікель</param>
         <param name="Колір">Сталевий</param>
       </offer>
-      <offer id="SK0020" available="false">
-        <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/krani/kran-pivniy/kran-pivniy-34-chervoniy-sk-art-100-sk0020</url>
-        <price>183.00</price>
+      <offer id="33305003" available="true">
+        <url>https://ol.partners/products/zmishuvachi-ta-krani/zmishuvachi-dlya-dusha/vbudovaniy-zmishuvach-dlya-dusha/zmishuvach-prikhovanogo-montazhu-na-2-spozhivacha-grohe-eurosmart-new-33305003</url>
+        <price>6966.00</price>
         <currencyId>UAH</currencyId>
-        <categoryId>fb4a3e48-fe1d-4979-b1b3-3ff326246b75</categoryId>
-        <picture>https://ol.partners/Products/Photo/AEDC33C8-0EDE-49AE-AC8B-F2C25762C939</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/b3efd13f-6f78-457d-90d4-0c13da3454c4/image_02.jpg</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/b3efd13f-6f78-457d-90d4-0c13da3454c4/image_01.jpg</picture>
-        <vendor>САНКОМ</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
-        <name>Кран пивний 3/4" червоний СК (ART 100) (SK0020)</name>
+        <categoryId>cf70819e-6ae9-4e7e-9abb-6783679e6fec</categoryId>
+        <picture>https://ol.partners/Products/Photo/188AE06B-A4E6-4D6C-B2B5-FB9CD69C8F4A</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/fb6ca992-f5cf-4177-9675-e4e84f6db386/image_03.jpg</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/fb6ca992-f5cf-4177-9675-e4e84f6db386/image_02.jpg</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/fb6ca992-f5cf-4177-9675-e4e84f6db386/image_01.jpg</picture>
+        <vendor>GROHE</vendor>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Малий залишок</availabilityStatus>
+        <name>Змішувач прихованого монтажу на 2 споживача Grohe Eurosmart New (33305003)</name>
         <description>&lt;![CDATA[]]&gt;</description>
-        <vendorCode>SK0020</vendorCode>
-        <param name="Од. в упак.">140</param>
-        <param name="Об'єм ящ.">0.045</param>
-        <param name="Вага ящ.">28.2</param>
-        <param name="Тип виробу">Крани кульові</param>
-        <param name="Країна бренду">Україна</param>
-        <param name="Країна виробник">Україна</param>
-        <param name="Вид виробу">Кран поливальний ("пиво")</param>
-        <param name="Модель">Art. 100</param>
-        <param name="Призначення">Для води</param>
-        <param name="Торгова марка">САНКОМ</param>
-        <param name="Колір">Сталевий</param>
-        <param name="Тип ручки">Важіль</param>
-        <param name="Діаметр підключення (дюйм)">3/4</param>
+        <vendorCode>33305003</vendorCode>
+        <param name="Од. в упак.">1</param>
+        <param name="Об'єм ящ.">0</param>
+        <param name="Вага ящ.">0</param>
+        <param name="Гарантія на деталі змішувача (міс)">12</param>
+        <param name="Комплектація">Система швидкого монтажу з механізмом, що вбудовується</param>
+        <param name="Гарантія на корпус змішувача (міс)">60</param>
+        <param name="Додаткові характеристики">Обмежувач температури. У комплекті душового гарнітуру немає</param>
+        <param name="Картридж чи кран букса">Картридж</param>
+        <param name="Діаметр картриджа (мм)">46</param>
+        <param name="Тип керування">Одноважільні</param>
         <param name="Матеріал виробу">Латунь</param>
+        <param name="Тип виробу">Душові системи вбудованого монтажу</param>
+        <param name="Вид виробу">Душові системи вбудованого монтажу на 2 режими</param>
+        <param name="Серія">EUROSMART</param>
+        <param name="Країна бренду">Німеччина</param>
+        <param name="Тип монтажу">Вбудовані</param>
+        <param name="Країна виробник">Німеччина</param>
+        <param name="Група товару">Змішувачі</param>
+        <param name="Торгова марка">GROHE</param>
+        <param name="Стиль">Модерн</param>
+        <param name="Покриття">З покриттям</param>
+        <param name="Колір">Хром</param>
+        <param name="Висота змішувача (мм)">193</param>
+      </offer>
+      <offer id="MI7038" available="true">
+        <url>https://ol.partners/products/keramika/sidinnya-dlya-unitazu/sidinnyakrishka-dlya-unitazu-mixxus-seat-cover-style2002-426kh339kh30mm-dyuroplastove-shvidkoznimne-z-mikroliftom-mi7038</url>
+        <price>1935.00</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>3385ef2c-c523-434e-9ccd-dfc5f966a734</categoryId>
+        <picture>https://ol.partners/Products/Photo/62A8A5EE-5D4C-4BC7-9D82-8CF052A1ADD9</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/cef3d4f1-7c06-4092-953a-98fcfa028361/image_03.jpg</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/cef3d4f1-7c06-4092-953a-98fcfa028361/image_02.jpg</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/cef3d4f1-7c06-4092-953a-98fcfa028361/image_01.jpg</picture>
+        <vendor>MIXXUS</vendor>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Достатньо</availabilityStatus>
+        <name>Сидіння-кришка для унітазу MIXXUS SEAT COVER STYLE-2002 426х339х30mm дюропластове швидкознімне з мікроліфтом (MI7038)</name>
+        <description>&lt;![CDATA[]]&gt;</description>
+        <vendorCode>MI7038</vendorCode>
+        <param name="Од. в упак.">5</param>
+        <param name="Об'єм ящ.">0.064</param>
+        <param name="Вага ящ.">13</param>
+        <param name="Сумісність з комплектуючою">Сумісний з: MIXXUS STYLE-0404-T3 Унітаз-компакт 650x350x830mm система змиву TORNADO 30 (MI7036)</param>
+        <param name="Об'єм, м3">0,01</param>
+        <param name="Вага брутто, кг">2,20</param>
+        <param name="Комплектація">Сидіння-кришка, кріплення</param>
+        <param name="Гарантійний період (міс)">24</param>
+        <param name="Вага нетто, кг">2,00</param>
+        <param name="Кількість вантажних місць">1</param>
+        <param name="Розміри виробу (ВхШхГ)">30x426x339</param>
+        <param name="Висота (мм)">30</param>
+        <param name="Ширина (мм)">426</param>
+        <param name="Глибина (мм)">339</param>
+        <param name="Поверхня">Глянцева</param>
+        <param name="Колір">Білий</param>
+        <param name="Розташування (орієнтація)">Універсальне</param>
+        <param name="Форма">Прямокутна</param>
+        <param name="Керування">Механічне</param>
+        <param name="Матеріал">Дюропласт</param>
+        <param name="Сидіння">Slim Duroplast/Soft-close/Quick relase</param>
+        <param name="Країна бренду">Німеччина</param>
+        <param name="Тип монтажу">На чашу унітазу</param>
+        <param name="Серія">STYLE</param>
+        <param name="Вид виробу">Сидіння-кришка для унітазу</param>
+        <param name="Тип виробу">Комплектуючі та запчастини для кераміки</param>
+        <param name="Торгова марка">MIXXUS</param>
       </offer>
       <offer id="EP6031" available="true">
         <url>https://ol.partners/products/radiatori-opalennya/komplektuyuchi-do-radiatoriv/ventilniy-kran/ventil-radiatorniy-europroduct-ep0511-12x12-ep6031</url>
@@ -21537,87 +21429,34 @@
         <param name="Колір">Сталевий</param>
         <param name="Покриття">Нікель</param>
       </offer>
-      <offer id="MI7038" available="true">
-        <url>https://ol.partners/products/keramika/sidinnya-dlya-unitazu/sidinnyakrishka-dlya-unitazu-mixxus-seat-cover-style2002-426kh339kh30mm-dyuroplastove-shvidkoznimne-z-mikroliftom-mi7038</url>
-        <price>1935.00</price>
+      <offer id="SK0020" available="false">
+        <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/krani/kran-pivniy/kran-pivniy-34-chervoniy-sk-art-100-sk0020</url>
+        <price>183.00</price>
         <currencyId>UAH</currencyId>
-        <categoryId>3385ef2c-c523-434e-9ccd-dfc5f966a734</categoryId>
-        <picture>https://ol.partners/Products/Photo/62A8A5EE-5D4C-4BC7-9D82-8CF052A1ADD9</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/cef3d4f1-7c06-4092-953a-98fcfa028361/image_03.jpg</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/cef3d4f1-7c06-4092-953a-98fcfa028361/image_02.jpg</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/cef3d4f1-7c06-4092-953a-98fcfa028361/image_01.jpg</picture>
-        <vendor>MIXXUS</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
-        <name>Сидіння-кришка для унітазу MIXXUS SEAT COVER STYLE-2002 426х339х30mm дюропластове швидкознімне з мікроліфтом (MI7038)</name>
+        <categoryId>fb4a3e48-fe1d-4979-b1b3-3ff326246b75</categoryId>
+        <picture>https://ol.partners/Products/Photo/AEDC33C8-0EDE-49AE-AC8B-F2C25762C939</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/b3efd13f-6f78-457d-90d4-0c13da3454c4/image_02.jpg</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/b3efd13f-6f78-457d-90d4-0c13da3454c4/image_01.jpg</picture>
+        <vendor>САНКОМ</vendor>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <name>Кран пивний 3/4" червоний СК (ART 100) (SK0020)</name>
         <description>&lt;![CDATA[]]&gt;</description>
-        <vendorCode>MI7038</vendorCode>
-        <param name="Од. в упак.">5</param>
-        <param name="Об'єм ящ.">0.064</param>
-        <param name="Вага ящ.">13</param>
-        <param name="Сумісність з комплектуючою">Сумісний з: MIXXUS STYLE-0404-T3 Унітаз-компакт 650x350x830mm система змиву TORNADO 30 (MI7036)</param>
-        <param name="Об'єм, м3">0,01</param>
-        <param name="Вага брутто, кг">2,20</param>
-        <param name="Комплектація">Сидіння-кришка, кріплення</param>
-        <param name="Гарантійний період (міс)">24</param>
-        <param name="Вага нетто, кг">2,00</param>
-        <param name="Кількість вантажних місць">1</param>
-        <param name="Розміри виробу (ВхШхГ)">30x426x339</param>
-        <param name="Висота (мм)">30</param>
-        <param name="Ширина (мм)">426</param>
-        <param name="Глибина (мм)">339</param>
-        <param name="Поверхня">Глянцева</param>
-        <param name="Колір">Білий</param>
-        <param name="Розташування (орієнтація)">Універсальне</param>
-        <param name="Форма">Прямокутна</param>
-        <param name="Керування">Механічне</param>
-        <param name="Матеріал">Дюропласт</param>
-        <param name="Сидіння">Slim Duroplast/Soft-close/Quick relase</param>
-        <param name="Країна бренду">Німеччина</param>
-        <param name="Тип монтажу">На чашу унітазу</param>
-        <param name="Серія">STYLE</param>
-        <param name="Вид виробу">Сидіння-кришка для унітазу</param>
-        <param name="Тип виробу">Комплектуючі та запчастини для кераміки</param>
-        <param name="Торгова марка">MIXXUS</param>
-      </offer>
-      <offer id="33305003" available="true">
-        <url>https://ol.partners/products/zmishuvachi-ta-krani/zmishuvachi-dlya-dusha/vbudovaniy-zmishuvach-dlya-dusha/zmishuvach-prikhovanogo-montazhu-na-2-spozhivacha-grohe-eurosmart-new-33305003</url>
-        <price>6966.00</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>cf70819e-6ae9-4e7e-9abb-6783679e6fec</categoryId>
-        <picture>https://ol.partners/Products/Photo/188AE06B-A4E6-4D6C-B2B5-FB9CD69C8F4A</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/fb6ca992-f5cf-4177-9675-e4e84f6db386/image_03.jpg</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/fb6ca992-f5cf-4177-9675-e4e84f6db386/image_02.jpg</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/fb6ca992-f5cf-4177-9675-e4e84f6db386/image_01.jpg</picture>
-        <vendor>GROHE</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
-        <name>Змішувач прихованого монтажу на 2 споживача Grohe Eurosmart New (33305003)</name>
-        <description>&lt;![CDATA[]]&gt;</description>
-        <vendorCode>33305003</vendorCode>
-        <param name="Од. в упак.">1</param>
-        <param name="Об'єм ящ.">0</param>
-        <param name="Вага ящ.">0</param>
-        <param name="Гарантія на деталі змішувача (міс)">12</param>
-        <param name="Комплектація">Система швидкого монтажу з механізмом, що вбудовується</param>
-        <param name="Гарантія на корпус змішувача (міс)">60</param>
-        <param name="Додаткові характеристики">Обмежувач температури. У комплекті душового гарнітуру немає</param>
-        <param name="Картридж чи кран букса">Картридж</param>
-        <param name="Діаметр картриджа (мм)">46</param>
-        <param name="Тип керування">Одноважільні</param>
+        <vendorCode>SK0020</vendorCode>
+        <param name="Од. в упак.">140</param>
+        <param name="Об'єм ящ.">0.045</param>
+        <param name="Вага ящ.">28.2</param>
+        <param name="Тип виробу">Крани кульові</param>
+        <param name="Країна бренду">Україна</param>
+        <param name="Країна виробник">Україна</param>
+        <param name="Вид виробу">Кран поливальний ("пиво")</param>
+        <param name="Модель">Art. 100</param>
+        <param name="Призначення">Для води</param>
+        <param name="Торгова марка">САНКОМ</param>
+        <param name="Колір">Сталевий</param>
+        <param name="Тип ручки">Важіль</param>
+        <param name="Діаметр підключення (дюйм)">3/4</param>
         <param name="Матеріал виробу">Латунь</param>
-        <param name="Тип виробу">Душові системи вбудованого монтажу</param>
-        <param name="Вид виробу">Душові системи вбудованого монтажу на 2 режими</param>
-        <param name="Серія">EUROSMART</param>
-        <param name="Країна бренду">Німеччина</param>
-        <param name="Тип монтажу">Вбудовані</param>
-        <param name="Країна виробник">Німеччина</param>
-        <param name="Група товару">Змішувачі</param>
-        <param name="Торгова марка">GROHE</param>
-        <param name="Стиль">Модерн</param>
-        <param name="Покриття">З покриттям</param>
-        <param name="Колір">Хром</param>
-        <param name="Висота змішувача (мм)">193</param>
       </offer>
       <offer id="ZX4557" available="true">
         <url>https://ol.partners/products/miyki-dlya-kukhni/vrizni-miyki/miyka-kukhonna-zerix-zs7750r06-bezheva-zx4557</url>
@@ -22462,7 +22301,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/84a44504-1573-4850-b76a-1c9c1632cf02/image_03.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Колекторний блок з витратомірами Koer KR.1110-12 1"x12 ways (KR2649)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR2649</vendorCode>
@@ -28347,7 +28186,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/27724462-510a-4b87-b1e2-c8bcede3efc5/image_06.jpg</picture>
         <vendor>MIXXUS PREMIUM</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Змішувач для кухні MIXXUS PREMIUM GRAVITY 021 BRUSHED GOLD REFL.BLACK з гнучким виливом з виходом для питної води (Колір матове золото+вилив чорний) (MI6981)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>MI6981</vendorCode>
@@ -28402,7 +28241,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/1b4c4b14-79a5-4c45-9f46-d803b57f9ae6/image_01.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Колекторний блок з витратомірами та євроконусами Koer KR.1210-10 - 1"x10 WAYS (KR5272)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR5272</vendorCode>
@@ -36945,7 +36784,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/0f92d007-20de-4408-aa78-0658e5ff43dc/image_02.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Колекторний блок з витратомірами та євроконусами Koer KR.1210-4 - 1"x4 WAYS (KR5266)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR5266</vendorCode>
@@ -41977,41 +41816,6 @@
         <param name="Комплектація">Гнучка підводка, аератор, кріпильна гайка</param>
         <param name="Гарантія на деталі змішувача (міс)">6</param>
       </offer>
-      <offer id="KF0095" available="true">
-        <url>https://ol.partners/products/truboprovodi-ta-zyednannya/fitingi/rizbovi-zyednannya/podovzhuvach-12-25mm-khrom-koer-kfe0625chr-kf0095</url>
-        <price>121.00</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>c935a21a-ce6f-4890-84b5-5720200ae1bb</categoryId>
-        <picture>https://ol.partners/Products/Photo/F92BD48D-A8CE-44E7-947D-C1B07E31222A</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/903a3f9f-a465-4d9c-aba8-94964fbf9b38/image_01.jpg</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/903a3f9f-a465-4d9c-aba8-94964fbf9b38/image_02.jpg</picture>
-        <vendor>KOER</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
-        <name>Подовжувач 1/2" 25мм (хром) Koer KF.E06-25.CHR (KF0095)</name>
-        <description>&lt;![CDATA[]]&gt;</description>
-        <vendorCode>KF0095</vendorCode>
-        <param name="Од. в упак.">200</param>
-        <param name="Об'єм ящ.">0.021</param>
-        <param name="Вага ящ.">15.4</param>
-        <param name="Вид виробу">Подовжувач</param>
-        <param name="Торгова марка">KOER</param>
-        <param name="Тип виробу">Латунний фітинг</param>
-        <param name="Країна бренду">Чехія</param>
-        <param name="Призначення">Для труб</param>
-        <param name="Тип">Подовжувач</param>
-        <param name="Модель">KF.E06-25.CHR</param>
-        <param name="Діаметр підключення (дюйм)">1/2</param>
-        <param name="Вага (г)">72,00</param>
-        <param name="Розміри (мм)">25</param>
-        <param name="Номінальний тиск (бар)">40,00</param>
-        <param name="Тип з'єднання">Різьбовий</param>
-        <param name="Матеріал">Латунь CW617N</param>
-        <param name="Матеріал виробу">Латунь CW617N хромована</param>
-        <param name="Колір">Сталевий</param>
-        <param name="Покриття">Хром</param>
-        <param name="Гарантійний період (міс)">84</param>
-      </offer>
       <offer id="KR6285" available="true">
         <url>https://ol.partners/products/truboprovodi-ta-zyednannya/fitingi/presfitingi-iz-nerzhaviyuchoi-stali-pressinox/perekhidnik-iz-zovnishnoyu-rizboyu-koer-kqa3510m-pressinox-aisi-304-35x1-kr6285</url>
         <price>713.00</price>
@@ -42112,6 +41916,91 @@
         <param name="Гарантія на деталі змішувача (міс)">12</param>
         <param name="Комплектація">Гнучка підводка, аератор, посилена гайка</param>
       </offer>
+      <offer id="KF0095" available="true">
+        <url>https://ol.partners/products/truboprovodi-ta-zyednannya/fitingi/rizbovi-zyednannya/podovzhuvach-12-25mm-khrom-koer-kfe0625chr-kf0095</url>
+        <price>121.00</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>c935a21a-ce6f-4890-84b5-5720200ae1bb</categoryId>
+        <picture>https://ol.partners/Products/Photo/F92BD48D-A8CE-44E7-947D-C1B07E31222A</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/903a3f9f-a465-4d9c-aba8-94964fbf9b38/image_01.jpg</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/903a3f9f-a465-4d9c-aba8-94964fbf9b38/image_02.jpg</picture>
+        <vendor>KOER</vendor>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Достатньо</availabilityStatus>
+        <name>Подовжувач 1/2" 25мм (хром) Koer KF.E06-25.CHR (KF0095)</name>
+        <description>&lt;![CDATA[]]&gt;</description>
+        <vendorCode>KF0095</vendorCode>
+        <param name="Од. в упак.">200</param>
+        <param name="Об'єм ящ.">0.021</param>
+        <param name="Вага ящ.">15.4</param>
+        <param name="Вид виробу">Подовжувач</param>
+        <param name="Торгова марка">KOER</param>
+        <param name="Тип виробу">Латунний фітинг</param>
+        <param name="Країна бренду">Чехія</param>
+        <param name="Призначення">Для труб</param>
+        <param name="Тип">Подовжувач</param>
+        <param name="Модель">KF.E06-25.CHR</param>
+        <param name="Діаметр підключення (дюйм)">1/2</param>
+        <param name="Вага (г)">72,00</param>
+        <param name="Розміри (мм)">25</param>
+        <param name="Номінальний тиск (бар)">40,00</param>
+        <param name="Тип з'єднання">Різьбовий</param>
+        <param name="Матеріал">Латунь CW617N</param>
+        <param name="Матеріал виробу">Латунь CW617N хромована</param>
+        <param name="Колір">Сталевий</param>
+        <param name="Покриття">Хром</param>
+        <param name="Гарантійний період (міс)">84</param>
+      </offer>
+      <offer id="ZX0049" available="true">
+        <url>https://ol.partners/products/zmishuvachi-ta-krani/zmishuvachi-dlya-vanni/zmishuvach-dlya-vanni-z-povorotnim-vilivom/zmishuvach-dlya-vanni-zerix-nhk-182-zx0049</url>
+        <price>1344.00</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>c2f36242-64cb-47db-b8a9-e32c00e667c8</categoryId>
+        <picture>https://ol.partners/Products/Photo/F8502A40-C9F2-4FFE-A31E-94804CC4F95A</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/80bb7881-efc5-46c7-aee4-b49ade7b7e4f/image_01.jpg</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/80bb7881-efc5-46c7-aee4-b49ade7b7e4f/image_04.jpg</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/80bb7881-efc5-46c7-aee4-b49ade7b7e4f/image_02.jpg</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/80bb7881-efc5-46c7-aee4-b49ade7b7e4f/image_03.jpg</picture>
+        <vendor>ZERIX</vendor>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Достатньо</availabilityStatus>
+        <name>Змішувач для ванни Zerix NHK 182 (ZX0049)</name>
+        <description>&lt;![CDATA[]]&gt;</description>
+        <vendorCode>ZX0049</vendorCode>
+        <param name="Од. в упак.">10</param>
+        <param name="Об'єм ящ.">0.047</param>
+        <param name="Вага ящ.">18.8</param>
+        <param name="Мінімальна температура води (°C)">5</param>
+        <param name="Тип керування">Одноважільні</param>
+        <param name="Максимальний тиск (бар)">10,00</param>
+        <param name="Мінімальний тиск (бар)">0,50</param>
+        <param name="Матеріал виробу">Цинковий сплав</param>
+        <param name="Максимальна температура води (°C)">90</param>
+        <param name="Робочий тиск (бар)">1-5</param>
+        <param name="Картридж чи кран букса">Картридж</param>
+        <param name="Діаметр картриджа (мм)">40</param>
+        <param name="MAX різниця тиску гарячої та холодної води (бар)">1,50</param>
+        <param name="Тип перемикання на душ">EURO, 2 позиції</param>
+        <param name="Довжина виливу (мм)">320</param>
+        <param name="Загальна довжина (мм)">410</param>
+        <param name="Довжина виливу (см)">31-35</param>
+        <param name="Комплектація">Шланг 150 см, ручна лійка, тримач для лійки, аератор, ексцентрики, чашки, гумові прокладки</param>
+        <param name="Гарантія на корпус змішувача (міс)">60</param>
+        <param name="Гарантія на деталі змішувача (міс)">12</param>
+        <param name="Покриття">З покриттям</param>
+        <param name="Колір">Хром</param>
+        <param name="Стиль">Класичний</param>
+        <param name="Тип виливу">Поворотний</param>
+        <param name="Модель">182</param>
+        <param name="Серія">NHK</param>
+        <param name="Тип монтажу">Настінні</param>
+        <param name="Тип виробу">Змішувачі для ванни</param>
+        <param name="Торгова марка">ZERIX</param>
+        <param name="Країна бренду">Чехія</param>
+        <param name="Країна виробник">Китай</param>
+        <param name="Група товару">Змішувачі</param>
+        <param name="Вид виробу">Змішувачі для ванни з довгим виливом</param>
+      </offer>
       <offer id="HB0099" available="true">
         <url>https://ol.partners/products/zmishuvachi-ta-krani/zmishuvachi-dlya-umivalnika/odnovazhilniy-zmishuvach-dlya-rakovini/zmishuvach-dlya-umivalnika-haiba-eris-00415cm-kolir-khrom-hb0099</url>
         <price>1222.00</price>
@@ -42165,55 +42054,84 @@
         <param name="Гарантія на деталі змішувача (міс)">12</param>
         <param name="Гарантія на корпус змішувача (міс)">60</param>
       </offer>
-      <offer id="ZX0049" available="true">
-        <url>https://ol.partners/products/zmishuvachi-ta-krani/zmishuvachi-dlya-vanni/zmishuvach-dlya-vanni-z-povorotnim-vilivom/zmishuvach-dlya-vanni-zerix-nhk-182-zx0049</url>
-        <price>1344.00</price>
+      <offer id="HB0023" available="false">
+        <url>https://ol.partners/products/zmishuvachi-ta-krani/zmishuvachi-dlya-vanni/liti-zmishuvachi-dlya-vannoi/zmishuvach-dlya-vanni-haiba-bergus-009-kolir-khrom-hb0023</url>
+        <price>3464.00</price>
         <currencyId>UAH</currencyId>
-        <categoryId>c2f36242-64cb-47db-b8a9-e32c00e667c8</categoryId>
-        <picture>https://ol.partners/Products/Photo/F8502A40-C9F2-4FFE-A31E-94804CC4F95A</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/80bb7881-efc5-46c7-aee4-b49ade7b7e4f/image_01.jpg</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/80bb7881-efc5-46c7-aee4-b49ade7b7e4f/image_04.jpg</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/80bb7881-efc5-46c7-aee4-b49ade7b7e4f/image_02.jpg</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/80bb7881-efc5-46c7-aee4-b49ade7b7e4f/image_03.jpg</picture>
-        <vendor>ZERIX</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
-        <name>Змішувач для ванни Zerix NHK 182 (ZX0049)</name>
+        <categoryId>24d317c0-5084-463f-84c1-67f9a35850ce</categoryId>
+        <picture>https://ol.partners/Products/Photo/2B4B2D92-C8EF-4D2D-BDB0-806762564BED</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/276141a4-73e4-4e8e-a743-a3eb9abf2598/image_03.jpg</picture>
+        <vendor>HAIBA</vendor>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <name>Змішувач для ванни HAIBA BERGUS 009 (Колір хром) (HB0023)</name>
         <description>&lt;![CDATA[]]&gt;</description>
-        <vendorCode>ZX0049</vendorCode>
+        <vendorCode>HB0023</vendorCode>
         <param name="Од. в упак.">10</param>
-        <param name="Об'єм ящ.">0.047</param>
-        <param name="Вага ящ.">18.8</param>
+        <param name="Об'єм ящ.">0.069</param>
+        <param name="Вага ящ.">30.4</param>
+        <param name="Серія">BERGUS</param>
+        <param name="Тип монтажу">Настінні</param>
+        <param name="Модель">009</param>
+        <param name="Країна бренду">Китай</param>
+        <param name="Група товару">Змішувачі</param>
+        <param name="Торгова марка">HAIBA</param>
+        <param name="Країна виробник">Китай</param>
+        <param name="Тип виробу">Змішувачі для ванни</param>
+        <param name="Вид виробу">Змішувачі для ванни з коротким зливом</param>
         <param name="Мінімальна температура води (°C)">5</param>
-        <param name="Тип керування">Одноважільні</param>
+        <param name="Картридж чи кран букса">Кран букса</param>
         <param name="Максимальний тиск (бар)">10,00</param>
+        <param name="Тип кран букси">Керамічна на пів оберту (180°)</param>
+        <param name="Тип керування">Двохвентильні</param>
         <param name="Мінімальний тиск (бар)">0,50</param>
-        <param name="Матеріал виробу">Цинковий сплав</param>
-        <param name="Максимальна температура води (°C)">90</param>
-        <param name="Робочий тиск (бар)">1-5</param>
-        <param name="Картридж чи кран букса">Картридж</param>
-        <param name="Діаметр картриджа (мм)">40</param>
         <param name="MAX різниця тиску гарячої та холодної води (бар)">1,50</param>
-        <param name="Тип перемикання на душ">EURO, 2 позиції</param>
-        <param name="Довжина виливу (мм)">320</param>
-        <param name="Загальна довжина (мм)">410</param>
-        <param name="Довжина виливу (см)">31-35</param>
-        <param name="Комплектація">Шланг 150 см, ручна лійка, тримач для лійки, аератор, ексцентрики, чашки, гумові прокладки</param>
+        <param name="Робочий тиск (бар)">1-5</param>
+        <param name="Розмір кран букси (дюйм)">1/2</param>
+        <param name="Максимальна температура води (°C)">90</param>
+        <param name="Матеріал виробу">Латунь</param>
+        <param name="Стиль">Модерн</param>
+        <param name="Тип виливу">Литий</param>
+        <param name="Колір">Хром</param>
+        <param name="Покриття">З покриттям</param>
+        <param name="Комплектація">Шланг 150 см, ручна лійка, тримач для лійки, ексцентрики, чашки, гумові прокладки, керівництво по експлуатації та гарантійний талон</param>
         <param name="Гарантія на корпус змішувача (міс)">60</param>
         <param name="Гарантія на деталі змішувача (міс)">12</param>
-        <param name="Покриття">З покриттям</param>
-        <param name="Колір">Хром</param>
-        <param name="Стиль">Класичний</param>
-        <param name="Тип виливу">Поворотний</param>
-        <param name="Модель">182</param>
-        <param name="Серія">NHK</param>
-        <param name="Тип монтажу">Настінні</param>
-        <param name="Тип виробу">Змішувачі для ванни</param>
-        <param name="Торгова марка">ZERIX</param>
+        <param name="Довжина виливу (мм)">120</param>
+        <param name="Довжина виливу (см)">11-15</param>
+      </offer>
+      <offer id="KR5136" available="true">
+        <url>https://ol.partners/products/sifoni-trapi-dlya-dushu/zlivni-trapi/dushoviy-trap-koer-fd0720x700slender-tonkiy-z-nerzh-stali-sus304-20x700mm-kr5136</url>
+        <price>2302.00</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>3d9493ed-433f-4368-a661-074ac4929bbe</categoryId>
+        <picture>https://ol.partners/Products/Photo/16129EB7-A67B-427D-B57C-EE85A303BC06</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/84a83599-3d36-4bef-9d6d-f52abb2055a7/image_01.jpg</picture>
+        <vendor>KOER</vendor>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Достатньо</availabilityStatus>
+        <name>Душовий трап KOER FD07-20x700-SLENDER "тонкий" з нерж. сталі SUS304 20x700мм (KR5136)</name>
+        <description>&lt;![CDATA[]]&gt;</description>
+        <vendorCode>KR5136</vendorCode>
+        <param name="Од. в упак.">5</param>
+        <param name="Об'єм ящ.">0.108</param>
+        <param name="Вага ящ.">11.7</param>
+        <param name="Монтажна глибина (мм)">100-155</param>
+        <param name="Тип затвору">Комбінований</param>
+        <param name="Діаметр випускного отвору (мм)">40,00</param>
+        <param name="Матеріал">Нержавіюча сталь SUS 304</param>
+        <param name="Пропускна здатність (л/хв)">30,00</param>
+        <param name="Довжина (мм)">700</param>
+        <param name="Ширина (мм)">20</param>
+        <param name="Модель">FD07</param>
         <param name="Країна бренду">Чехія</param>
-        <param name="Країна виробник">Китай</param>
-        <param name="Група товару">Змішувачі</param>
-        <param name="Вид виробу">Змішувачі для ванни з довгим виливом</param>
+        <param name="Тип виробу">Трапи для душу</param>
+        <param name="Торгова марка">KOER</param>
+        <param name="Вид виробу">Лінійні трапи</param>
+        <param name="Комплектація">Водовідвідний жолоб, решітка, гідроізоляційна стрічка, що відповідає жолобу, комбінований гідрозатвор SMART, опорні ноги, монтажний гачок</param>
+        <param name="Особливості">Регульована висота ринви, ухил внутрішньої частини корпусу ринви</param>
+        <param name="Гарантійний період (міс)">60</param>
+        <param name="Колір">Нержавіюча сталь</param>
       </offer>
       <offer id="MI8327" available="false">
         <url>https://ol.partners/products/keramika/bachki-dlya-unitazu/bachok-do-unitazukompaktu-mixxus-premium-bevel0402r-tank-430x390x140-u-komplekti-zi-zlivnoyu-armaturoyu-mi8327</url>
@@ -42264,85 +42182,6 @@
         <param name="Підведення води">Знизу</param>
         <param name="Керування">Механічне</param>
         <param name="Метод установки зливного бачка">Поверх унітазу</param>
-      </offer>
-      <offer id="KR5136" available="true">
-        <url>https://ol.partners/products/sifoni-trapi-dlya-dushu/zlivni-trapi/dushoviy-trap-koer-fd0720x700slender-tonkiy-z-nerzh-stali-sus304-20x700mm-kr5136</url>
-        <price>2302.00</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>3d9493ed-433f-4368-a661-074ac4929bbe</categoryId>
-        <picture>https://ol.partners/Products/Photo/16129EB7-A67B-427D-B57C-EE85A303BC06</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/84a83599-3d36-4bef-9d6d-f52abb2055a7/image_01.jpg</picture>
-        <vendor>KOER</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
-        <name>Душовий трап KOER FD07-20x700-SLENDER "тонкий" з нерж. сталі SUS304 20x700мм (KR5136)</name>
-        <description>&lt;![CDATA[]]&gt;</description>
-        <vendorCode>KR5136</vendorCode>
-        <param name="Од. в упак.">5</param>
-        <param name="Об'єм ящ.">0.108</param>
-        <param name="Вага ящ.">11.7</param>
-        <param name="Монтажна глибина (мм)">100-155</param>
-        <param name="Тип затвору">Комбінований</param>
-        <param name="Діаметр випускного отвору (мм)">40,00</param>
-        <param name="Матеріал">Нержавіюча сталь SUS 304</param>
-        <param name="Пропускна здатність (л/хв)">30,00</param>
-        <param name="Довжина (мм)">700</param>
-        <param name="Ширина (мм)">20</param>
-        <param name="Модель">FD07</param>
-        <param name="Країна бренду">Чехія</param>
-        <param name="Тип виробу">Трапи для душу</param>
-        <param name="Торгова марка">KOER</param>
-        <param name="Вид виробу">Лінійні трапи</param>
-        <param name="Комплектація">Водовідвідний жолоб, решітка, гідроізоляційна стрічка, що відповідає жолобу, комбінований гідрозатвор SMART, опорні ноги, монтажний гачок</param>
-        <param name="Особливості">Регульована висота ринви, ухил внутрішньої частини корпусу ринви</param>
-        <param name="Гарантійний період (міс)">60</param>
-        <param name="Колір">Нержавіюча сталь</param>
-      </offer>
-      <offer id="HB0023" available="false">
-        <url>https://ol.partners/products/zmishuvachi-ta-krani/zmishuvachi-dlya-vanni/liti-zmishuvachi-dlya-vannoi/zmishuvach-dlya-vanni-haiba-bergus-009-kolir-khrom-hb0023</url>
-        <price>3464.00</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>24d317c0-5084-463f-84c1-67f9a35850ce</categoryId>
-        <picture>https://ol.partners/Products/Photo/2B4B2D92-C8EF-4D2D-BDB0-806762564BED</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/276141a4-73e4-4e8e-a743-a3eb9abf2598/image_03.jpg</picture>
-        <vendor>HAIBA</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
-        <name>Змішувач для ванни HAIBA BERGUS 009 (Колір хром) (HB0023)</name>
-        <description>&lt;![CDATA[]]&gt;</description>
-        <vendorCode>HB0023</vendorCode>
-        <param name="Од. в упак.">10</param>
-        <param name="Об'єм ящ.">0.069</param>
-        <param name="Вага ящ.">30.4</param>
-        <param name="Серія">BERGUS</param>
-        <param name="Тип монтажу">Настінні</param>
-        <param name="Модель">009</param>
-        <param name="Країна бренду">Китай</param>
-        <param name="Група товару">Змішувачі</param>
-        <param name="Торгова марка">HAIBA</param>
-        <param name="Країна виробник">Китай</param>
-        <param name="Тип виробу">Змішувачі для ванни</param>
-        <param name="Вид виробу">Змішувачі для ванни з коротким зливом</param>
-        <param name="Мінімальна температура води (°C)">5</param>
-        <param name="Картридж чи кран букса">Кран букса</param>
-        <param name="Максимальний тиск (бар)">10,00</param>
-        <param name="Тип кран букси">Керамічна на пів оберту (180°)</param>
-        <param name="Тип керування">Двохвентильні</param>
-        <param name="Мінімальний тиск (бар)">0,50</param>
-        <param name="MAX різниця тиску гарячої та холодної води (бар)">1,50</param>
-        <param name="Робочий тиск (бар)">1-5</param>
-        <param name="Розмір кран букси (дюйм)">1/2</param>
-        <param name="Максимальна температура води (°C)">90</param>
-        <param name="Матеріал виробу">Латунь</param>
-        <param name="Стиль">Модерн</param>
-        <param name="Тип виливу">Литий</param>
-        <param name="Колір">Хром</param>
-        <param name="Покриття">З покриттям</param>
-        <param name="Комплектація">Шланг 150 см, ручна лійка, тримач для лійки, ексцентрики, чашки, гумові прокладки, керівництво по експлуатації та гарантійний талон</param>
-        <param name="Гарантія на корпус змішувача (міс)">60</param>
-        <param name="Гарантія на деталі змішувача (міс)">12</param>
-        <param name="Довжина виливу (мм)">120</param>
-        <param name="Довжина виливу (см)">11-15</param>
       </offer>
       <offer id="ZX0517" available="false">
         <url>https://ol.partners/products/zmishuvachi-ta-krani/zmishuvachi-dlya-kukhni/zmishuvach-z-visuvnim-vilivom-dlya-kukhni/zmishuvach-dlya-kukhni-zerix-z60369-zx0517</url>
@@ -58116,7 +57955,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/09c060b4-ad76-40e5-9404-401dfb9e257e/image_04.jpg</picture>
         <vendor>EUROPRODUCT</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Кран кульовий Europroduct EP.211 - 1/2" FM ГШВ YELLOW, ручка "важіль" жовта (EP2951)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>EP2951</vendorCode>
@@ -61125,7 +60964,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/85769d1b-b187-462e-90b4-5eb167f2b61d/image_01.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Колекторний блок з витратомірами та євроконусами Koer KR.1210-2 - 1"x2 WAYS (KR5264)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR5264</vendorCode>
@@ -70259,7 +70098,7 @@
         <param name="Гарантія на корпус змішувача (міс)">60</param>
         <param name="Гарантія на деталі змішувача (міс)">12</param>
       </offer>
-      <offer id="KR5274" available="false">
+      <offer id="KR5274" available="true">
         <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/kolektori/kolektorniy-blok-z-vitratomirami-ta-yevrokonusami-koer-kr121012-1x12-ways-kr5274</url>
         <price>10831.00</price>
         <currencyId>UAH</currencyId>
@@ -70268,8 +70107,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/1c2259e6-811f-4853-892b-cd78e054d4a1/image_01.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/1c2259e6-811f-4853-892b-cd78e054d4a1/image_02.jpg</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Колекторний блок з витратомірами та євроконусами Koer KR.1210-12 - 1"x12 WAYS (KR5274)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR5274</vendorCode>
@@ -70877,7 +70716,7 @@
         <picture>https://ol.partners/Products/Photo/0135CAF9-294C-4C1B-9157-A012DD9CACB0</picture>
         <vendor>ZERIX</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Полиця у ванну кутова Zerix LR335-1 (LL1452)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>LL1452</vendorCode>
@@ -84194,6 +84033,58 @@
         <param name="Модель">K0031.PRO</param>
         <param name="Колір">Сірий</param>
       </offer>
+      <offer id="HB0375" available="true">
+        <url>https://ol.partners/products/zmishuvachi-ta-krani/zmishuvachi-dlya-kukhni/dvokhventilni-zmishuvachi-dlya-kukhni/zmishuvach-dlya-kukhni-haiba-smes-273-nut-kolir-khrom-hb0375</url>
+        <price>1513.00</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>55782ae8-eebc-4ed9-8c24-5e7f7f6add9c</categoryId>
+        <picture>https://ol.partners/Products/Photo/0D3CAA56-9DD7-46A4-909B-DF9DF9C7AFB2</picture>
+        <vendor>HAIBA</vendor>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Достатньо</availabilityStatus>
+        <name>Змішувач для кухні HAIBA SMES 273 NUT (Колір хром) (HB0375)</name>
+        <description>&lt;![CDATA[]]&gt;</description>
+        <vendorCode>HB0375</vendorCode>
+        <param name="Од. в упак.">10</param>
+        <param name="Об'єм ящ.">0.036</param>
+        <param name="Вага ящ.">12.95</param>
+        <param name="Тип виливу">Поворотний</param>
+        <param name="Покриття">З покриттям</param>
+        <param name="Колір">Хром</param>
+        <param name="Стиль">Класичний</param>
+        <param name="Комплектація">Аератор Neoperl, гнучка підводка з нержавіючої сталі, кріпильна гайка</param>
+        <param name="Гарантія на деталі змішувача (міс)">12</param>
+        <param name="Гарантія на корпус змішувача (міс)">60</param>
+        <param name="Модель">273</param>
+        <param name="Тип виробу">Змішувачі для кухні</param>
+        <param name="Тип монтажу">Врізні</param>
+        <param name="Вид виробу">Змішувачі для кухні високі</param>
+        <param name="Торгова марка">HAIBA</param>
+        <param name="Група товару">Змішувачі</param>
+        <param name="Країна виробник">Китай</param>
+        <param name="Серія">SMES</param>
+        <param name="Країна бренду">Китай</param>
+        <param name="Максимальний тиск (бар)">10,00</param>
+        <param name="Тип кран букси">Керамічна на пів оберту (180°)</param>
+        <param name="Матеріал виробу">Латунь</param>
+        <param name="MAX різниця тиску гарячої та холодної води (бар)">1,50</param>
+        <param name="Мінімальна температура води (°C)">5</param>
+        <param name="Тип кріплення">Гайка</param>
+        <param name="Діаметр шланга підключення">1/2</param>
+        <param name="Тип керування">Двохвентильні</param>
+        <param name="Картридж чи кран букса">Кран букса</param>
+        <param name="Максимальна температура води (°C)">90</param>
+        <param name="Довжина шланга підключення">50 см</param>
+        <param name="Розмір кран букси (дюйм)">1/2</param>
+        <param name="Мінімальний тиск (бар)">0,50</param>
+        <param name="Робочий тиск (бар)">1-5</param>
+        <param name="Довжина виливу (мм)">210</param>
+        <param name="Загальна довжина (мм)">250</param>
+        <param name="Висота змішувача (см)">21-25</param>
+        <param name="Висота змішувача (мм)">240</param>
+        <param name="Довжина виливу (см)">21-25</param>
+        <param name="Висота до виливу (мм)">190</param>
+      </offer>
       <offer id="KR0042" available="true">
         <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/krani/krani-kulovi/kran-kuloviy-koer-34-ggr-kr214-kr0042</url>
         <price>335.00</price>
@@ -84285,146 +84176,6 @@
         <param name="Довжина виливу (см)">16-20</param>
         <param name="Довжина виливу (мм)">186</param>
       </offer>
-      <offer id="HB0375" available="true">
-        <url>https://ol.partners/products/zmishuvachi-ta-krani/zmishuvachi-dlya-kukhni/dvokhventilni-zmishuvachi-dlya-kukhni/zmishuvach-dlya-kukhni-haiba-smes-273-nut-kolir-khrom-hb0375</url>
-        <price>1513.00</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>55782ae8-eebc-4ed9-8c24-5e7f7f6add9c</categoryId>
-        <picture>https://ol.partners/Products/Photo/0D3CAA56-9DD7-46A4-909B-DF9DF9C7AFB2</picture>
-        <vendor>HAIBA</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
-        <name>Змішувач для кухні HAIBA SMES 273 NUT (Колір хром) (HB0375)</name>
-        <description>&lt;![CDATA[]]&gt;</description>
-        <vendorCode>HB0375</vendorCode>
-        <param name="Од. в упак.">10</param>
-        <param name="Об'єм ящ.">0.036</param>
-        <param name="Вага ящ.">12.95</param>
-        <param name="Тип виливу">Поворотний</param>
-        <param name="Покриття">З покриттям</param>
-        <param name="Колір">Хром</param>
-        <param name="Стиль">Класичний</param>
-        <param name="Комплектація">Аератор Neoperl, гнучка підводка з нержавіючої сталі, кріпильна гайка</param>
-        <param name="Гарантія на деталі змішувача (міс)">12</param>
-        <param name="Гарантія на корпус змішувача (міс)">60</param>
-        <param name="Модель">273</param>
-        <param name="Тип виробу">Змішувачі для кухні</param>
-        <param name="Тип монтажу">Врізні</param>
-        <param name="Вид виробу">Змішувачі для кухні високі</param>
-        <param name="Торгова марка">HAIBA</param>
-        <param name="Група товару">Змішувачі</param>
-        <param name="Країна виробник">Китай</param>
-        <param name="Серія">SMES</param>
-        <param name="Країна бренду">Китай</param>
-        <param name="Максимальний тиск (бар)">10,00</param>
-        <param name="Тип кран букси">Керамічна на пів оберту (180°)</param>
-        <param name="Матеріал виробу">Латунь</param>
-        <param name="MAX різниця тиску гарячої та холодної води (бар)">1,50</param>
-        <param name="Мінімальна температура води (°C)">5</param>
-        <param name="Тип кріплення">Гайка</param>
-        <param name="Діаметр шланга підключення">1/2</param>
-        <param name="Тип керування">Двохвентильні</param>
-        <param name="Картридж чи кран букса">Кран букса</param>
-        <param name="Максимальна температура води (°C)">90</param>
-        <param name="Довжина шланга підключення">50 см</param>
-        <param name="Розмір кран букси (дюйм)">1/2</param>
-        <param name="Мінімальний тиск (бар)">0,50</param>
-        <param name="Робочий тиск (бар)">1-5</param>
-        <param name="Довжина виливу (мм)">210</param>
-        <param name="Загальна довжина (мм)">250</param>
-        <param name="Висота змішувача (см)">21-25</param>
-        <param name="Висота змішувача (мм)">240</param>
-        <param name="Довжина виливу (см)">21-25</param>
-        <param name="Висота до виливу (мм)">190</param>
-      </offer>
-      <offer id="CH0332" available="true">
-        <url>https://ol.partners/products/zmishuvachi-ta-krani/zmishuvachi-dlya-kukhni/zmishuvach-na-kukhnyu-z-gnuchkim-silikonovim-vilivom/zmishuvach-dlya-kukhni-iz-silikonovim-vilivom-champion-sus011-reflblack-nerzh-stal-ch0332</url>
-        <price>966.00</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>6d731346-5a1f-4c46-b1b9-51049f61a2b2</categoryId>
-        <picture>https://ol.partners/Products/Photo/944BC8AA-C3F7-447D-968F-6978A857BA1B</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/706f33ee-d491-47de-9584-a053bff0445f/CH0332-CHAMPION-SUS-011-REFL.BLACK-SUS304-2.jpg</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/706f33ee-d491-47de-9584-a053bff0445f/CH0332-CHAMPION-SUS-011-REFL.BLACK-SUS304-3.jpg</picture>
-        <vendor>CHAMPION</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
-        <name>Змішувач для кухні із силіконовим виливом Champion SUS-011 Refl.Black (нерж. сталь) (CH0332)</name>
-        <description>&lt;![CDATA[]]&gt;</description>
-        <vendorCode>CH0332</vendorCode>
-        <param name="Од. в упак.">10</param>
-        <param name="Об'єм ящ.">0.051</param>
-        <param name="Вага ящ.">17.6</param>
-        <param name="Група товару">Змішувачі</param>
-        <param name="Тип виробу">Змішувачі для кухні</param>
-        <param name="Тип монтажу">Врізні</param>
-        <param name="Країна бренду">Китай</param>
-        <param name="Торгова марка">CHAMPION</param>
-        <param name="Країна виробник">Китай</param>
-        <param name="Серія">SUS</param>
-        <param name="Вид виробу">Змішувачі для кухні високі з гнучким виливом</param>
-        <param name="Модель">11</param>
-        <param name="MAX різниця тиску гарячої та холодної води (бар)">1,50</param>
-        <param name="Мінімальний тиск (бар)">0,50</param>
-        <param name="Максимальний тиск (бар)">10,00</param>
-        <param name="Діаметр картриджа (мм)">35</param>
-        <param name="Мінімальна температура води (°C)">5</param>
-        <param name="Діаметр шланга підключення">1/2</param>
-        <param name="Картридж чи кран букса">Картридж</param>
-        <param name="Матеріал виробу">Нержавіюча сталь</param>
-        <param name="Довжина шланга підключення">50 см</param>
-        <param name="Максимальна температура води (°C)">90</param>
-        <param name="Тип керування">Одноважільні</param>
-        <param name="Колір">Нержавіюча сталь</param>
-        <param name="Тип виливу">Гнучкий</param>
-        <param name="Стиль">Модерн</param>
-        <param name="Покриття">З покриттям</param>
-        <param name="Гарантія на деталі змішувача (міс)">6</param>
-        <param name="Гарантія на корпус змішувача (міс)">24</param>
-        <param name="Комплектація">Гнучка підводка, аератор, елемент кріплення</param>
-      </offer>
-      <offer id="KR0039" available="true">
-        <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/krani/krani-kulovi/kran-kuloviy-koer-2-gshr-kr215-kr0039</url>
-        <price>1885.00</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>f29182bf-eff0-403c-b666-edb86fc760bb</categoryId>
-        <picture>https://ol.partners/Products/Photo/94C31FA3-2E18-4424-88E0-170052B8390B</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/8b702b58-137a-4ce8-991b-5d7a0ac46c30/image_03.jpg</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/8b702b58-137a-4ce8-991b-5d7a0ac46c30/image_04.jpg</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/8b702b58-137a-4ce8-991b-5d7a0ac46c30/image_01.jpg</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/8b702b58-137a-4ce8-991b-5d7a0ac46c30/image_02.jpg</picture>
-        <vendor>KOER</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
-        <name>Кран кульовий Koer 2" ГШР (KR.215) (KR0039)</name>
-        <description>&lt;![CDATA[]]&gt;</description>
-        <vendorCode>KR0039</vendorCode>
-        <param name="Од. в упак.">8</param>
-        <param name="Об'єм ящ.">0.016</param>
-        <param name="Вага ящ.">12</param>
-        <param name="C (мм)">145,00</param>
-        <param name="A (мм)">119,00</param>
-        <param name="Діаметр підключення (дюйм)">2</param>
-        <param name="B (мм)">92,00</param>
-        <param name="Колір">Сталевий</param>
-        <param name="Покриття">Нікель</param>
-        <param name="Тип ручки">Важіль</param>
-        <param name="Матеріал кульового затвора">Латунь</param>
-        <param name="Матеріал штоку">Латунь CW617N нікельована</param>
-        <param name="Робочий тиск (бар)">до 20</param>
-        <param name="Шар">Латунний</param>
-        <param name="Клас герметичності затвора">А</param>
-        <param name="Матеріал виробу">Латунь CW617N нікельована</param>
-        <param name="Тип приєднання">Різьбове</param>
-        <param name="Тип з'єднання">Внутрішня-зовнішня</param>
-        <param name="Максимальний робочий тиск (бар)">40</param>
-        <param name="Модель">KR.215</param>
-        <param name="Тип">Прямий</param>
-        <param name="Торгова марка">KOER</param>
-        <param name="Вид виробу">Кран кульовий для води</param>
-        <param name="Країна бренду">Чехія</param>
-        <param name="Призначення">Для води</param>
-        <param name="Тип виробу">Крани кульові</param>
-      </offer>
       <offer id="MI6359" available="true">
         <url>https://ol.partners/products/zmishuvachi-ta-krani/zmishuvachi-dlya-umivalnika/odnovazhilniy-zmishuvach-dlya-rakovini/zmishuvach-dlya-umivalnika-champion-sop-001045-nut-mi6359</url>
         <price>882.00</price>
@@ -84473,6 +84224,94 @@
         <param name="Висота змішувача (мм)">195</param>
         <param name="Гарантія на корпус змішувача (міс)">24</param>
         <param name="Гарантія на деталі змішувача (міс)">6</param>
+        <param name="Комплектація">Гнучка підводка, аератор, елемент кріплення</param>
+      </offer>
+      <offer id="KR0039" available="true">
+        <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/krani/krani-kulovi/kran-kuloviy-koer-2-gshr-kr215-kr0039</url>
+        <price>1885.00</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>f29182bf-eff0-403c-b666-edb86fc760bb</categoryId>
+        <picture>https://ol.partners/Products/Photo/94C31FA3-2E18-4424-88E0-170052B8390B</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/8b702b58-137a-4ce8-991b-5d7a0ac46c30/image_03.jpg</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/8b702b58-137a-4ce8-991b-5d7a0ac46c30/image_04.jpg</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/8b702b58-137a-4ce8-991b-5d7a0ac46c30/image_01.jpg</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/8b702b58-137a-4ce8-991b-5d7a0ac46c30/image_02.jpg</picture>
+        <vendor>KOER</vendor>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Достатньо</availabilityStatus>
+        <name>Кран кульовий Koer 2" ГШР (KR.215) (KR0039)</name>
+        <description>&lt;![CDATA[]]&gt;</description>
+        <vendorCode>KR0039</vendorCode>
+        <param name="Од. в упак.">8</param>
+        <param name="Об'єм ящ.">0.016</param>
+        <param name="Вага ящ.">12</param>
+        <param name="C (мм)">145,00</param>
+        <param name="A (мм)">119,00</param>
+        <param name="Діаметр підключення (дюйм)">2</param>
+        <param name="B (мм)">92,00</param>
+        <param name="Колір">Сталевий</param>
+        <param name="Покриття">Нікель</param>
+        <param name="Тип ручки">Важіль</param>
+        <param name="Матеріал кульового затвора">Латунь</param>
+        <param name="Матеріал штоку">Латунь CW617N нікельована</param>
+        <param name="Робочий тиск (бар)">до 20</param>
+        <param name="Шар">Латунний</param>
+        <param name="Клас герметичності затвора">А</param>
+        <param name="Матеріал виробу">Латунь CW617N нікельована</param>
+        <param name="Тип приєднання">Різьбове</param>
+        <param name="Тип з'єднання">Внутрішня-зовнішня</param>
+        <param name="Максимальний робочий тиск (бар)">40</param>
+        <param name="Модель">KR.215</param>
+        <param name="Тип">Прямий</param>
+        <param name="Торгова марка">KOER</param>
+        <param name="Вид виробу">Кран кульовий для води</param>
+        <param name="Країна бренду">Чехія</param>
+        <param name="Призначення">Для води</param>
+        <param name="Тип виробу">Крани кульові</param>
+      </offer>
+      <offer id="CH0332" available="true">
+        <url>https://ol.partners/products/zmishuvachi-ta-krani/zmishuvachi-dlya-kukhni/zmishuvach-na-kukhnyu-z-gnuchkim-silikonovim-vilivom/zmishuvach-dlya-kukhni-iz-silikonovim-vilivom-champion-sus011-reflblack-nerzh-stal-ch0332</url>
+        <price>966.00</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>6d731346-5a1f-4c46-b1b9-51049f61a2b2</categoryId>
+        <picture>https://ol.partners/Products/Photo/944BC8AA-C3F7-447D-968F-6978A857BA1B</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/706f33ee-d491-47de-9584-a053bff0445f/CH0332-CHAMPION-SUS-011-REFL.BLACK-SUS304-2.jpg</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/706f33ee-d491-47de-9584-a053bff0445f/CH0332-CHAMPION-SUS-011-REFL.BLACK-SUS304-3.jpg</picture>
+        <vendor>CHAMPION</vendor>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Достатньо</availabilityStatus>
+        <name>Змішувач для кухні із силіконовим виливом Champion SUS-011 Refl.Black (нерж. сталь) (CH0332)</name>
+        <description>&lt;![CDATA[]]&gt;</description>
+        <vendorCode>CH0332</vendorCode>
+        <param name="Од. в упак.">10</param>
+        <param name="Об'єм ящ.">0.051</param>
+        <param name="Вага ящ.">17.6</param>
+        <param name="Група товару">Змішувачі</param>
+        <param name="Тип виробу">Змішувачі для кухні</param>
+        <param name="Тип монтажу">Врізні</param>
+        <param name="Країна бренду">Китай</param>
+        <param name="Торгова марка">CHAMPION</param>
+        <param name="Країна виробник">Китай</param>
+        <param name="Серія">SUS</param>
+        <param name="Вид виробу">Змішувачі для кухні високі з гнучким виливом</param>
+        <param name="Модель">11</param>
+        <param name="MAX різниця тиску гарячої та холодної води (бар)">1,50</param>
+        <param name="Мінімальний тиск (бар)">0,50</param>
+        <param name="Максимальний тиск (бар)">10,00</param>
+        <param name="Діаметр картриджа (мм)">35</param>
+        <param name="Мінімальна температура води (°C)">5</param>
+        <param name="Діаметр шланга підключення">1/2</param>
+        <param name="Картридж чи кран букса">Картридж</param>
+        <param name="Матеріал виробу">Нержавіюча сталь</param>
+        <param name="Довжина шланга підключення">50 см</param>
+        <param name="Максимальна температура води (°C)">90</param>
+        <param name="Тип керування">Одноважільні</param>
+        <param name="Колір">Нержавіюча сталь</param>
+        <param name="Тип виливу">Гнучкий</param>
+        <param name="Стиль">Модерн</param>
+        <param name="Покриття">З покриттям</param>
+        <param name="Гарантія на деталі змішувача (міс)">6</param>
+        <param name="Гарантія на корпус змішувача (міс)">24</param>
         <param name="Комплектація">Гнучка підводка, аератор, елемент кріплення</param>
       </offer>
       <offer id="KR6268" available="true">
@@ -86920,7 +86759,7 @@
         <param name="Призначення">Для опалення</param>
         <param name="Колір">Білий (RAL 9016)</param>
       </offer>
-      <offer id="EP6049" available="false">
+      <offer id="EP6049" available="true">
         <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/zvorotniy-klapan/klapan-zvorotniy-nikelovaniy-europroduct-ep0450-1-ep6049</url>
         <price>281.00</price>
         <currencyId>UAH</currencyId>
@@ -86929,8 +86768,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/e238047a-7afe-4001-a22c-269e01b603ee/EP6049-EUROPRODUCT-EP.0450---1-2.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/e238047a-7afe-4001-a22c-269e01b603ee/image_01.jpg</picture>
         <vendor>EUROPRODUCT</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Клапан зворотній (нікельований) Europroduct EP.0450 - 1" (EP6049)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>EP6049</vendorCode>
@@ -94213,40 +94052,6 @@
         <param name="Колір">Графіт</param>
         <param name="Покриття">З покриттям</param>
       </offer>
-      <offer id="KP2915" available="true">
-        <url>https://ol.partners/products/truboprovodi-ta-zyednannya/fitingi/zyednannya-dlya-trub-z-polipropilenu/mufta-rozyemna-universalna-koer-k0271pro-40-ppr-kp2915</url>
-        <price>112.00</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>cd146fb4-d203-42ee-9396-02c677a95642</categoryId>
-        <picture>https://ol.partners/Products/Photo/46139BE2-4A59-42BB-9352-A70010287C1B</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/1865411f-f124-4111-b73c-431fbf8b6e0d/image_04_K0268PRO.jpg</picture>
-        <vendor>KOER</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
-        <name>Муфта роз'ємна універсальна Koer K0271.PRO 40 PPR (KP2915)</name>
-        <description>&lt;![CDATA[]]&gt;</description>
-        <vendorCode>KP2915</vendorCode>
-        <param name="Од. в упак.">72</param>
-        <param name="Об'єм ящ.">0.047</param>
-        <param name="Вага ящ.">13</param>
-        <param name="Діаметр підключення (мм)">40</param>
-        <param name="D (мм)">28,90</param>
-        <param name="H (мм)">79,00</param>
-        <param name="B (мм)">34,00</param>
-        <param name="L (мм)">28,50</param>
-        <param name="Матеріал">Поліпропілен</param>
-        <param name="Тип з'єднання">Пайка</param>
-        <param name="Модель">K0271.PRO</param>
-        <param name="Вид виробу">Муфта</param>
-        <param name="Торгова марка">KOER</param>
-        <param name="Призначення">Для труб</param>
-        <param name="Тип">Муфта</param>
-        <param name="Тип виробу">Труби та фітинги PPR</param>
-        <param name="Країна бренду">Чехія</param>
-        <param name="Гарантійний період (міс)">84</param>
-        <param name="Особливості">Повторнорозбірна, зручний монтаж, стійка до корозії та високих температур.</param>
-        <param name="Колір">Сірий</param>
-      </offer>
       <offer id="MI2814" available="true">
         <url>https://ol.partners/products/dushovi-koloni-ta-sistemi/dushovi-koloni/dushova-kolona-mixxus-kub009j-black-zi-zmishuvachem-z-nerzh-stali-sus304-kolir-chorniy-mi2814</url>
         <price>4992.00</price>
@@ -95212,7 +95017,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/2a8ade2b-f932-4d91-b8da-c2c82a6aa189/image_02.jpg</picture>
         <vendor>MIXXUS PREMIUM</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Змішувач для кухні MIXXUS PREMIUM RIO 011 REFL.WHITE з гнучким виливом (Колір нерж+вилив білий) (MI5814)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>MI5814</vendorCode>
@@ -96131,7 +95936,7 @@
         <picture>https://ol.partners/Products/Photo/8708D511-6669-4F82-8F56-316F3EEF2E78</picture>
         <vendor>IBERGRIF</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Змішувач для душа Ibergrif River M12021 (IB0016)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>IB0016</vendorCode>
@@ -99890,7 +99695,7 @@
         <param name="Гарантія на корпус змішувача (міс)">60</param>
         <param name="Комплектація">Аератор Neoperl, гнучка підводка з нержавіючої сталі, кріпильна гайка</param>
       </offer>
-      <offer id="KR0205" available="true">
+      <offer id="KR0205" available="false">
         <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/kontrolnovimiryuvalni-priladi-kvp/manometr-radialniy-koer-km610r-010-bar-d-63mm-14-kr0205</url>
         <price>168.00</price>
         <currencyId>UAH</currencyId>
@@ -99899,7 +99704,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/1d5cc17a-57ef-4409-ada0-afe2d296cd1e/image_04.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/1d5cc17a-57ef-4409-ada0-afe2d296cd1e/image_03_KR0205.jpg</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>100</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Манометр радіальний (KOER KM.610R) (0-10 bar), D 63мм, 1/4'' (KR0205)</name>
         <description>&lt;![CDATA[]]&gt;</description>
@@ -100150,7 +99955,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/1dd29b90-2677-4ef0-84e8-67907d79c5bf/image_03_KR.1100.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Колекторний блок з термостатичними клапанами Koer KR.1100-07 1"x7 ways (KR2633)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR2633</vendorCode>
@@ -110693,7 +110498,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/0dd08d12-8435-472d-acf1-f2d35b85ab5f/image_01.jpg</picture>
         <vendor>MIXXUS PREMIUM</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Змішувач для ванни MIXXUS PREMIUM MONE 006 EURO (Колір хром) (MI6770)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>MI6770</vendorCode>
@@ -112653,7 +112458,7 @@
         <param name="Діаметр підключення (дюйм)">1/2</param>
         <param name="Гарантійний період (міс)">84</param>
       </offer>
-      <offer id="KR2959" available="false">
+      <offer id="KR2959" available="true">
         <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/gidrostrilka/gidrostrelka-koer-krs1032-42-z-vozdukhootvod-i-drenazh-kranom-1nr-sus304-kr2959</url>
         <price>3960.00</price>
         <currencyId>UAH</currencyId>
@@ -112662,8 +112467,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/8ac2df24-186d-4108-814e-ffe9c90226eb/image_062.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/8ac2df24-186d-4108-814e-ffe9c90226eb/image_06.jpg</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Гідрострелка Koer KR.S1032 4/2 (з воздухоотвод. І дренаж. краном) 1"НР SUS304 (KR2959)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR2959</vendorCode>
@@ -120178,7 +119983,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/ac214f11-82a8-4015-bbbd-b894c84505b9/image_01.jpg</picture>
         <vendor>NOLF</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Колекторний блок з витратомірами Nolf NF.2100-06S 1"x6 (корпус нержавіюча сталь) (NF3020)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>NF3020</vendorCode>
@@ -124606,38 +124411,6 @@
         <param name="Покриття">З покриттям</param>
         <param name="З'єднувальний діаметр (дюйм)">1/2</param>
       </offer>
-      <offer id="NF3084" available="true">
-        <url>https://ol.partners/products/truboprovodi-ta-zyednannya/fitingi/rizbovi-zyednannya/nipel-reduktsiyniy-nikelovaniy-nolf-nfcn0610n1x12-nf3084</url>
-        <price>83.00</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>c4974acc-5d1d-4a2c-8826-a75558dab36f</categoryId>
-        <picture>https://ol.partners/Products/Photo/20F077B1-AAD7-4962-9C46-0A6DF227A3E5</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/4a771a88-36ee-474d-ab24-765d79a5323f/image_03.jpg</picture>
-        <picture>https://cdn.olinfrastructure.com/productfile/4a771a88-36ee-474d-ab24-765d79a5323f/image_02.jpg</picture>
-        <vendor>NOLF</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
-        <name>Ніпель редукційний нікельований NOLF NFC.N0610-N-1"x1/2" (NF3084)</name>
-        <description>&lt;![CDATA[]]&gt;</description>
-        <vendorCode>NF3084</vendorCode>
-        <param name="Од. в упак.">240</param>
-        <param name="Об'єм ящ.">0</param>
-        <param name="Вага ящ.">0</param>
-        <param name="G2 (дюйм)">1/2</param>
-        <param name="G1 (дюйм)">1</param>
-        <param name="Тип">Ніпель</param>
-        <param name="Вид виробу">Ніпель</param>
-        <param name="Модель">NFC.N0610-N</param>
-        <param name="Країна бренду">Німеччина</param>
-        <param name="Тип виробу">Латунний фітинг</param>
-        <param name="Торгова марка">NOLF</param>
-        <param name="Призначення">Для труб</param>
-        <param name="Колір">Сталевий</param>
-        <param name="Покриття">Нікель</param>
-        <param name="Матеріал">Латунь CW617N нікельована</param>
-        <param name="Тип з'єднання">Різьбовий</param>
-        <param name="Гарантійний період (міс)">84</param>
-      </offer>
       <offer id="CR0216" available="true">
         <url>https://ol.partners/products/zmishuvachi-ta-krani/zmishuvachi-dlya-umivalnika/dvokhventilni-zmishuvachi-dlya-umivalnika/zmishuvach-dlya-umivalnika-cron-pinto-001-nut-kolir-khrom-cr0216</url>
         <price>945.00</price>
@@ -124688,6 +124461,38 @@
         <param name="Серія">PINTO</param>
         <param name="Країна виробник">Китай</param>
         <param name="Модель">1</param>
+      </offer>
+      <offer id="NF3084" available="true">
+        <url>https://ol.partners/products/truboprovodi-ta-zyednannya/fitingi/rizbovi-zyednannya/nipel-reduktsiyniy-nikelovaniy-nolf-nfcn0610n1x12-nf3084</url>
+        <price>83.00</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>c4974acc-5d1d-4a2c-8826-a75558dab36f</categoryId>
+        <picture>https://ol.partners/Products/Photo/20F077B1-AAD7-4962-9C46-0A6DF227A3E5</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/4a771a88-36ee-474d-ab24-765d79a5323f/image_03.jpg</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/4a771a88-36ee-474d-ab24-765d79a5323f/image_02.jpg</picture>
+        <vendor>NOLF</vendor>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Достатньо</availabilityStatus>
+        <name>Ніпель редукційний нікельований NOLF NFC.N0610-N-1"x1/2" (NF3084)</name>
+        <description>&lt;![CDATA[]]&gt;</description>
+        <vendorCode>NF3084</vendorCode>
+        <param name="Од. в упак.">240</param>
+        <param name="Об'єм ящ.">0</param>
+        <param name="Вага ящ.">0</param>
+        <param name="G2 (дюйм)">1/2</param>
+        <param name="G1 (дюйм)">1</param>
+        <param name="Тип">Ніпель</param>
+        <param name="Вид виробу">Ніпель</param>
+        <param name="Модель">NFC.N0610-N</param>
+        <param name="Країна бренду">Німеччина</param>
+        <param name="Тип виробу">Латунний фітинг</param>
+        <param name="Торгова марка">NOLF</param>
+        <param name="Призначення">Для труб</param>
+        <param name="Колір">Сталевий</param>
+        <param name="Покриття">Нікель</param>
+        <param name="Матеріал">Латунь CW617N нікельована</param>
+        <param name="Тип з'єднання">Різьбовий</param>
+        <param name="Гарантійний період (міс)">84</param>
       </offer>
       <offer id="MI7139" available="true">
         <url>https://ol.partners/products/zmishuvachi-ta-krani/zmishuvachi-dlya-vanni/zmishuvach-dlya-vanni-z-povorotnim-vilivom/zmishuvach-dlya-vanni-mixxus-lord-009-euro-kolir-khrom-mi7139</url>
@@ -126654,7 +126459,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/66df89d2-297b-4ccb-952e-e7bb9da0feb9/image_01.jpg</picture>
         <vendor>EUROPRODUCT</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Колекторний блок з расxодомерамі Europroduct EP.S1110-04 1 "x4 (EP4980)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>EP4980</vendorCode>
@@ -152359,7 +152164,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/71d9b7a1-8229-4986-bc15-fc27dd9b1eda/image_03_EP.S1110.jpg</picture>
         <vendor>EUROPRODUCT</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Колекторний блок з витратомірами Europroduct EP.S1110-03 1 "x3 (EP4979)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>EP4979</vendorCode>
@@ -161681,7 +161486,7 @@
         <param name="Тип виливу">Поворотний</param>
         <param name="Стиль">Модерн</param>
       </offer>
-      <offer id="KR3188" available="false">
+      <offer id="KR3188" available="true">
         <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/filtr-gruboi-ochistki/filtr-samoochisniy-z-reduktorom-tisku-ta-manometrom-koer-kr1242-34-kr3188</url>
         <price>1977.00</price>
         <currencyId>UAH</currencyId>
@@ -161689,8 +161494,8 @@
         <picture>https://ol.partners/Products/Photo/4536051C-84B5-4D00-9D8F-3F32F41C1B16</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/4f031be7-a372-49e8-bdf0-42e9ab1503f8/image_01.jpg</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Фільтр самоочисний з редуктором тиску та манометром Koer KR.1242 - 3/4" (KR3188)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR3188</vendorCode>
@@ -169361,7 +169166,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/4368bea1-8716-4d8e-bb81-0407a36b1b73/image_01.jpg</picture>
         <vendor>EUROPRODUCT</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Колекторний блок з термостат. клапанами Europroduct EP.S1100-04 1"x4 (EP4991)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>EP4991</vendorCode>
@@ -171336,7 +171141,7 @@
         <param name="Ширина (мм)">495</param>
         <param name="Габарити чаші (мм)">390</param>
       </offer>
-      <offer id="KR5268" available="false">
+      <offer id="KR5268" available="true">
         <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/kolektori/kolektorniy-blok-z-vitratomirami-ta-yevrokonusami-koer-kr12106-1x6-ways-kr5268</url>
         <price>5351.00</price>
         <currencyId>UAH</currencyId>
@@ -171345,8 +171150,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/c6d0a149-6cf9-467c-8b83-7ed407f171cc/image_01.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/c6d0a149-6cf9-467c-8b83-7ed407f171cc/image_02.jpg</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Колекторний блок з витратомірами та євроконусами Koer KR.1210-6 - 1"x6 WAYS (KR5268)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR5268</vendorCode>
@@ -183025,7 +182830,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/04f679d4-b7b7-4482-9776-7fe1e139d4f9/image_03.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Колекторний блок з термостатіч. клапанами Koer KR.1100-08 1"x8 ways (KR2634)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR2634</vendorCode>
@@ -189873,15 +189678,15 @@
         <param name="Максимальна температура води (°C)">90</param>
         <param name="Діаметр картриджа (мм)">40</param>
       </offer>
-      <offer id="KO1055" available="true">
+      <offer id="KO1055" available="false">
         <url>https://ol.partners/products/radiatori-opalennya/stalevi-radiatori/staleviy-radiator-korado-22k-500x2000-z-bokovim-pidklyuchennyam-ko1055</url>
         <price>12365.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>97bdcc64-5064-4686-b821-5ce64b5a73e3</categoryId>
         <picture>https://ol.partners/Products/Photo/1A96D826-4487-4484-A528-6B0762CF348B</picture>
         <vendor>KORADO</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Сталевий радіатор Korado 22K 500x2000 з боковим підключенням (KO1055)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KO1055</vendorCode>
@@ -191601,7 +191406,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/47ec0d58-51ea-4bff-8ac8-9bdea529bcf7/image_04.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Колектор з вбудованим зміш. вузлом Koer KR.S1012-7 1 "х7 SUS304 і євроконус 3 / 4-16 (KR2940)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR2940</vendorCode>
@@ -191757,14 +191562,14 @@
         <param name="Колір">Хром</param>
         <param name="Матеріал виробу">Нержавіюча сталь</param>
       </offer>
-      <offer id="ZX4637" available="true">
+      <offer id="ZX4637" available="false">
         <url>https://ol.partners/products/aksesuari-dlya-vannoi/yorzhiki-dlya-unitazu/yorzhik-dlya-unitazu-pidlogoviy-zerix-cleverme02s-kolir-khrom-glyanets-zx4637</url>
         <price>624.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>e3c13dd1-d4e2-4de0-b952-8ab15386f73a</categoryId>
         <picture>https://ol.partners/Products/Photo/8256214B-8F27-4A16-839E-CAC0A8F409BE</picture>
         <vendor>ZERIX</vendor>
-        <stock_quantity>100</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <availabilityStatus>Достатньо</availabilityStatus>
         <name>Йоржик для унітазу підлоговий ZERIX CLEVER-ME02S (колір хром глянець) (ZX4637)</name>
         <description>&lt;![CDATA[]]&gt;</description>
@@ -201270,7 +201075,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/06c2ef8f-d274-4c8d-98ff-e077ee10ddc3/image_11.jpg</picture>
         <vendor>ZERIX</vendor>
         <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Штанга для шторки телескопічна пряма ZERIX CRS-140x260 140cm-260cm (нержавіюча сталь) (ZX4997)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>ZX4997</vendorCode>
@@ -203294,6 +203099,48 @@
         <param name="Колір">Латунний</param>
         <param name="Покриття">Немає</param>
       </offer>
+      <offer id="30503KF0" available="false">
+        <url>https://ol.partners/products/zmishuvachi-ta-krani/zmishuvachi-dlya-kukhni/zmishuvach-na-kukhnyu-z-gnuchkim-silikonovim-vilivom/odnovazhilniy-zmishuvach-dlya-miyki-grohe-essence-30503kf0</url>
+        <price>42930.00</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>6d731346-5a1f-4c46-b1b9-51049f61a2b2</categoryId>
+        <picture>https://ol.partners/Products/Photo/DC29EC6A-6310-4690-A6AA-242A07A0A680</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/92acfafa-f756-4f91-8362-362f8a49002a/image_01.jpg</picture>
+        <vendor>GROHE</vendor>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <name>Одноважільний змішувач для мийки Grohe Essence (30503KF0)</name>
+        <description>&lt;![CDATA[]]&gt;</description>
+        <vendorCode>30503KF0</vendorCode>
+        <param name="Од. в упак.">1</param>
+        <param name="Об'єм ящ.">0</param>
+        <param name="Вага ящ.">0</param>
+        <param name="Картридж чи кран букса">Картридж</param>
+        <param name="Тип кріплення">Гайка</param>
+        <param name="Діаметр шланга підключення">3/8</param>
+        <param name="Матеріал виробу">Латунь</param>
+        <param name="Тип керування">Одноважільні</param>
+        <param name="Довжина шланга підключення">45 см</param>
+        <param name="Діаметр картриджа (мм)">28</param>
+        <param name="Торгова марка">GROHE</param>
+        <param name="Країна виробник">Німеччина</param>
+        <param name="Тип виробу">Змішувачі для кухні</param>
+        <param name="Країна бренду">Німеччина</param>
+        <param name="Група товару">Змішувачі</param>
+        <param name="Тип монтажу">Врізні</param>
+        <param name="Серія">ESSENCE</param>
+        <param name="Вид виробу">Змішувачі для кухні високі з гнучким виливом</param>
+        <param name="Комплектація">Змішувач, гнучка підводка, шланг для лійки, якір, кріплення.</param>
+        <param name="Гарантія на корпус змішувача (міс)">60</param>
+        <param name="Гарантія на деталі змішувача (міс)">12</param>
+        <param name="Довжина виливу (см)">21-25</param>
+        <param name="Довжина виливу (мм)">240</param>
+        <param name="Висота до виливу (мм)">197</param>
+        <param name="Висота змішувача (мм)">530</param>
+        <param name="Стиль">Модерн</param>
+        <param name="Колір">Чорний матовий</param>
+        <param name="Покриття">З покриттям</param>
+      </offer>
       <offer id="WP0138" available="true">
         <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/krani/krani-kulovi/kran-kuloviy-waterpro-1-14-ggr-wp0138</url>
         <price>313.00</price>
@@ -203422,7 +203269,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/1dc686db-87b5-4be1-99f9-49f47de7414d/image_05.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Колектор з вбудованим зміш. вузлом Koer KR.S1013-10 1 "х10 SUS304 і євроконус 3 / 4-16 (KR2953)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR2953</vendorCode>
@@ -203457,7 +203304,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/200e7edd-aff3-4f8f-ae66-b2f33d4eee6a/image_03_EP.S1110.jpg</picture>
         <vendor>EUROPRODUCT</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Колекторний блок з витратомірами Europroduct EP.S1110-10 1 "x10 (EP4986)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>EP4986</vendorCode>
@@ -206398,7 +206245,7 @@
         <param name="Покриття">З покриттям</param>
         <param name="Колір">Хром</param>
       </offer>
-      <offer id="KR3187" available="false">
+      <offer id="KR3187" available="true">
         <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/filtr-gruboi-ochistki/filtr-samoochisniy-z-reduktorom-tisku-ta-manometrom-koer-kr1242-12-zr-kr3187</url>
         <price>1790.00</price>
         <currencyId>UAH</currencyId>
@@ -206406,8 +206253,8 @@
         <picture>https://ol.partners/Products/Photo/49F3AF3B-85EB-4206-916D-331DE710FE87</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/96a5f727-682c-48de-9c05-dde585955c88/image_01.jpg</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Фільтр самоочисний з редуктором тиску та манометром Koer KR.1242 - 1/2" ЗР (KR3187)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR3187</vendorCode>
@@ -209262,7 +209109,7 @@
         <picture>https://ol.partners/Products/Photo/89963574-359B-46C3-AD2C-38BA0B763BBB</picture>
         <vendor>CRON</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Змішувач для умивальника CRON RIVA 555-15CM NUT (Колір хром) (CR0059)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>CR0059</vendorCode>
@@ -226563,15 +226410,15 @@
         <param name="Ширина (мм)">150</param>
         <param name="Колір">Нержавіюча сталь</param>
       </offer>
-      <offer id="ZX0350" available="true">
+      <offer id="ZX0350" available="false">
         <url>https://ol.partners/products/zmishuvachi-ta-krani/zmishuvachi-dlya-kukhni/zmishuvach-z-reflektornim-vilivom-dlya-kukhni/zmishuvach-dlya-kukhni-zerix-z586010-pomaranchevi-ruchki-zx0350</url>
         <price>684.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>6d731346-5a1f-4c46-b1b9-51049f61a2b2</categoryId>
         <picture>https://ol.partners/Products/Photo/40DF52B3-44EA-4490-989A-5BA24289993B</picture>
         <vendor>ZERIX</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Змішувач для кухні Zerix Z5860-10 (помаранчеві ручки) (ZX0350)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>ZX0350</vendorCode>
@@ -236858,7 +236705,7 @@
         <picture>https://ol.partners/Products/Photo/42CDE2B8-4930-4A28-8996-66F7782409FB</picture>
         <vendor>ZERIX</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Змішувач для умивальника Zerix DAX-001-A-High Black з нерж. сталі SUS304 (ZX4810)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>ZX4810</vendorCode>
@@ -262510,7 +262357,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/9362af4a-8479-494a-95b3-b1530083cd46/image_04.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Колектор з вбудованим смесит. вузлом Koer KR.S1013-5 1 "х5 SUS304 і євроконус 3 / 4-16 (KR2948)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR2948</vendorCode>
@@ -263270,7 +263117,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/f96c53c6-8f04-4c55-b223-f42f592c195c/image_05.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Колектор з вбудованим зміш. вузлом Koer KR.S1011-8 1 "х8 SUS304 і євроконус 3/4-16 (KR2931)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR2931</vendorCode>
@@ -264311,7 +264158,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/7f135292-c3c2-450b-beb5-34c69ae8bf4b/image_02.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Колекторний блок з витратомірами та євроконусами Koer KR.1210-8 - 1"x8 WAYS (KR5270)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR5270</vendorCode>
@@ -265252,7 +265099,7 @@
         <param name="Матеріал">Поліпропілен</param>
         <param name="Тип з'єднання">Пайка</param>
       </offer>
-      <offer id="27923003" available="true">
+      <offer id="27923003" available="false">
         <url>https://ol.partners/products/zapchastini-dlya-zmishuvacha/liyki-dlya-dushu/ruchniy-dush-grohe-tempesta-110-1-rezhim-27923003</url>
         <price>918.00</price>
         <currencyId>UAH</currencyId>
@@ -265264,8 +265111,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/1289a63c-c1d0-4297-aa61-bd06b1a98810/image_03.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/1289a63c-c1d0-4297-aa61-bd06b1a98810/image_02.jpg</picture>
         <vendor>GROHE</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Ручний душ Grohe Tempesta 110, 1 режим (27923003)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>27923003</vendorCode>
@@ -269558,7 +269405,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/91f41d8d-6f01-4aee-8e22-42f79d3fbe35/image_05.jpg</picture>
         <vendor>ZERIX</vendor>
         <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Штанга для шторки кутова ZERIX CRS-A-90x90 90x90cm (нержавіюча сталь) (ZX6101)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>ZX6101</vendorCode>
@@ -274984,15 +274831,15 @@
         <param name="Серія">LR6</param>
         <param name="Гарантійний період (міс)">12</param>
       </offer>
-      <offer id="HB0445" available="false">
+      <offer id="HB0445" available="true">
         <url>https://ol.partners/products/aksesuari-dlya-vannoi/trimachi-dlya-rushnikiv/trimach-dlya-rushnikiv-haiba-hb1304-hb0445</url>
         <price>274.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>d2b8ae21-20be-4bfe-8375-00458e26cac1</categoryId>
         <picture>https://ol.partners/Products/Photo/B7FC9426-A1D9-42D4-AFEC-DCD149EAFFB3</picture>
         <vendor>HAIBA</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Тримач для рушників Haiba HB1304 (HB0445)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>HB0445</vendorCode>
@@ -280349,7 +280196,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/90c94fa2-c1b7-456f-b77d-bf5e876d9908/image_03_EP.S1110.jpg</picture>
         <vendor>EUROPRODUCT</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Колекторний блок з витратомірами Europroduct EP.S1110-09 1 "x9 (EP4985)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>EP4985</vendorCode>
@@ -283629,7 +283476,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/88afa941-18d6-45f7-ba6f-6c5850870014/image_04_KR_1152.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Євроконус Koer KR.1152 - 3/4”x16 (KR3182)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR3182</vendorCode>
@@ -292615,7 +292462,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/0880b663-5d96-4a2e-b413-e3776f0bd917/image_03_ZX2892.jpg</picture>
         <vendor>ZERIX</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Змішувач для ванни Zerix D5Q 722 (ZX2892)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>ZX2892</vendorCode>
@@ -294045,7 +293892,7 @@
         <param name="Максимальний робочий тиск (бар)">40</param>
         <param name="Гарантійний період (міс)">12</param>
       </offer>
-      <offer id="32929003" available="true">
+      <offer id="32929003" available="false">
         <url>https://ol.partners/products/zmishuvachi-ta-krani/zmishuvachi-dlya-bide/odnovazhilni-zmishuvachi-dlya-bide/zmishuvach-dlya-bide-grohe-eurosmart-new-32929003</url>
         <price>4590.00</price>
         <currencyId>UAH</currencyId>
@@ -294057,8 +293904,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/13fc3af4-19ed-4ca9-8e5b-09ffbe216217/image_02.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/13fc3af4-19ed-4ca9-8e5b-09ffbe216217/image_01.jpg</picture>
         <vendor>GROHE</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Змішувач для біде Grohe Eurosmart New (32929003)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>32929003</vendorCode>
@@ -295676,7 +295523,7 @@
         <param name="Довжина виливу (мм)">231</param>
         <param name="Висота змішувача (см)">36-40</param>
       </offer>
-      <offer id="ZX5043" available="true">
+      <offer id="ZX5043" available="false">
         <url>https://ol.partners/products/aksesuari-dlya-vannoi/politsi-u-vannu/politsya-u-vannu-sklyana-zerix-afb01211-zx5043</url>
         <price>535.00</price>
         <currencyId>UAH</currencyId>
@@ -295687,7 +295534,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/d46383a7-6f9a-4c89-aee1-8838153be127/image_01.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/d46383a7-6f9a-4c89-aee1-8838153be127/image_04.png</picture>
         <vendor>ZERIX</vendor>
-        <stock_quantity>100</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Полиця у ванну скляна Zerix AFB-0121-1 (ZX5043)</name>
         <description>&lt;![CDATA[]]&gt;</description>
@@ -296465,7 +296312,7 @@
         <param name="Гарантійний період (міс)">12</param>
         <param name="Особливості">Оснащена гострими лезами зі сталі, що забезпечують чисте різання без задирок.</param>
         <param name="Колір">Сталевий</param>
-        <param name="Модель">KWP.032</param>
+        <param name="Модель">KWP.025</param>
         <param name="Торгова марка">KOER</param>
         <param name="Країна бренду">Чехія</param>
         <param name="Вид виробу">Інструмент зачистний</param>
@@ -306787,7 +306634,7 @@
         <param name="Діаметр підключення (дюйм)">1/2</param>
         <param name="Гарантійний період (міс)">12</param>
       </offer>
-      <offer id="ZX6103" available="false">
+      <offer id="ZX6103" available="true">
         <url>https://ol.partners/products/aksesuari-dlya-vannoi/shtangi-teleskopichni/shtanga-dlya-shtorki-ppodibna-universalna-zerix-crsu90x90x90-90x90x90cm-90x180cm-270cm-nerzhaviyucha-stal-zx6103</url>
         <price>432.00</price>
         <currencyId>UAH</currencyId>
@@ -306808,8 +306655,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/f0b03025-705b-430d-97be-ef60dabf58f0/image_11.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/f0b03025-705b-430d-97be-ef60dabf58f0/image_13.jpg</picture>
         <vendor>ZERIX</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Штанга для шторки П-подібна універсальна ZERIX CRS-U-90x90x90 90x90x90cm, 90x180cm, 270cm (нержавіюча сталь) (ZX6103)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>ZX6103</vendorCode>
@@ -317595,7 +317442,7 @@
         <param name="Робочий тиск (бар)">до 20</param>
         <param name="Шар">Латунний</param>
       </offer>
-      <offer id="HB0990" available="true">
+      <offer id="HB0990" available="false">
         <url>https://ol.partners/products/miyki-dlya-kukhni/vrizni-miyki/miyka-kukhonna-haiba-hb8104g322-beige-780x500x200-hb0990</url>
         <price>3860.00</price>
         <currencyId>UAH</currencyId>
@@ -317604,8 +317451,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/12494f2c-929b-4707-a028-ee73db5196a9/image_02.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/12494f2c-929b-4707-a028-ee73db5196a9/image_01.jpg</picture>
         <vendor>HAIBA</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Мийка кухонна HAIBA HB8104-G322 BEIGE 780x500x200 (HB0990)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>HB0990</vendorCode>
@@ -327375,7 +327222,7 @@
         <param name="Країна бренду">Німеччина</param>
         <param name="Серія">STRONG</param>
       </offer>
-      <offer id="ZX4998" available="false">
+      <offer id="ZX4998" available="true">
         <url>https://ol.partners/products/aksesuari-dlya-vannoi/shtangi-teleskopichni/shtanga-dlya-shtorki-teleskopichna-pryama-zerix-cra110x200-110cm200cm-alyuminiy-zx4998</url>
         <price>255.00</price>
         <currencyId>UAH</currencyId>
@@ -327394,8 +327241,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/473f525e-4263-46aa-8037-fdd400ad40f8/image_10.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/473f525e-4263-46aa-8037-fdd400ad40f8/image_05.jpg</picture>
         <vendor>ZERIX</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Штанга для шторки телескопічна пряма ZERIX CRA-110x200 110cm-200cm (алюміній) (ZX4998)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>ZX4998</vendorCode>
@@ -327646,7 +327493,7 @@
         <picture>https://ol.partners/Products/Photo/069745AD-2E11-40FF-A303-83D253897D9A</picture>
         <vendor>ZERIX</vendor>
         <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Відро для сміття кругле ZERIX STRONG-MB0120 BLACK 20 л (колір чорний) (ZX4631)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>ZX4631</vendorCode>
@@ -334455,7 +334302,7 @@
         <param name="Колір">Білий матовий</param>
         <param name="Покриття">З покриттям</param>
       </offer>
-      <offer id="40364001" available="true">
+      <offer id="40364001" available="false">
         <url>https://ol.partners/products/aksesuari-dlya-vannoi/gachki-dlya-rushnikiv/gachok-dlya-khalata-grohe-essentials-new-40364001</url>
         <price>1080.00</price>
         <currencyId>UAH</currencyId>
@@ -334466,8 +334313,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/f0f14d4a-f7fa-4df3-bf83-617a6fe9bb73/image_02.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/f0f14d4a-f7fa-4df3-bf83-617a6fe9bb73/image_01.jpg</picture>
         <vendor>GROHE</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Гачок для халата Grohe Essentials New (40364001)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>40364001</vendorCode>
@@ -336829,6 +336676,201 @@
         <param name="Об'єм (л)">6,00</param>
         <param name="Ширина (мм)">145</param>
         <param name="Розміри виробу (ВхШхГ)">285x145x320</param>
+      </offer>
+      <offer id="CR0130" available="false">
+        <url>https://ol.partners/products/zmishuvachi-ta-krani/zmishuvachi-dlya-umivalnika/odnovazhilniy-zmishuvach-dlya-rakovini/zmishuvach-dlya-umivalnika-cron-magic-55515cm-nut-kolir-khrom-cr0130</url>
+        <price>650.00</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>7bd5f9e6-540a-4542-b449-789ef0743d5f</categoryId>
+        <picture>https://ol.partners/Products/Photo/21E6B3E6-3AEF-4C76-A2EB-99F94B42343A</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/414d149d-2489-47ce-9cef-1857f9afbdc9/image_10.jpg</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/414d149d-2489-47ce-9cef-1857f9afbdc9/image_02.jpg</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/414d149d-2489-47ce-9cef-1857f9afbdc9/image_04.jpg</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/414d149d-2489-47ce-9cef-1857f9afbdc9/image_03.jpg</picture>
+        <vendor>CRON</vendor>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <name>Змішувач для умивальника CRON MAGIC 555-15CM NUT (Колір хром) (CR0130)</name>
+        <description>&lt;![CDATA[]]&gt;</description>
+        <vendorCode>CR0130</vendorCode>
+        <param name="Од. в упак.">10</param>
+        <param name="Об'єм ящ.">0.034</param>
+        <param name="Вага ящ.">11</param>
+        <param name="Висота до виливу (мм)">70</param>
+        <param name="Висота змішувача (мм)">120</param>
+        <param name="Висота змішувача (см)">10-15</param>
+        <param name="Довжина виливу (см)">11-15</param>
+        <param name="Загальна довжина (мм)">190</param>
+        <param name="Довжина виливу (мм)">150</param>
+        <param name="Тип монтажу">Врізні</param>
+        <param name="Торгова марка">CRON</param>
+        <param name="Серія">MAGIC</param>
+        <param name="Країна бренду">Китай</param>
+        <param name="Модель">555</param>
+        <param name="Група товару">Змішувачі</param>
+        <param name="Вид виробу">Змішувачі для умивальника низькі</param>
+        <param name="Країна виробник">Китай</param>
+        <param name="Тип виробу">Змішувачі для умивальника</param>
+        <param name="Тип керування">Одноважільні</param>
+        <param name="Діаметр картриджа (мм)">40</param>
+        <param name="Максимальна температура води (°C)">90</param>
+        <param name="Матеріал виробу">Цинковий сплав</param>
+        <param name="Максимальний тиск (бар)">10,00</param>
+        <param name="Тип кріплення">Гайка</param>
+        <param name="Картридж чи кран букса">Картридж</param>
+        <param name="MAX різниця тиску гарячої та холодної води (бар)">1,50</param>
+        <param name="Робочий тиск (бар)">1-5</param>
+        <param name="Мінімальна температура води (°C)">5</param>
+        <param name="Діаметр шланга підключення">1/2</param>
+        <param name="Мінімальний тиск (бар)">0,50</param>
+        <param name="Довжина шланга підключення">50 см</param>
+        <param name="Покриття">З покриттям</param>
+        <param name="Колір">Хром</param>
+        <param name="Тип виливу">Поворотний</param>
+        <param name="Стиль">Класичний</param>
+        <param name="Комплектація">Гнучка підводка, аератор, кріпильна гайка</param>
+        <param name="Гарантія на деталі змішувача (міс)">12</param>
+        <param name="Гарантія на корпус змішувача (міс)">36</param>
+      </offer>
+      <offer id="ZX3151" available="true">
+        <url>https://ol.partners/products/zmishuvachi-ta-krani/zmishuvachi-dlya-vanni/zmishuvach-dlya-vanni-z-povorotnim-vilivom/zmishuvach-dlya-vanni-z-nerzh-stali-sus304-zerix-fox006-euro-zx3151</url>
+        <price>1782.00</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>c2f36242-64cb-47db-b8a9-e32c00e667c8</categoryId>
+        <picture>https://ol.partners/Products/Photo/E421D2C7-016E-45A2-AADF-CB974C524E81</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/cfedb7da-043d-4a5e-9e75-0dde7b392e9f/image_02.jpg</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/cfedb7da-043d-4a5e-9e75-0dde7b392e9f/image_01.jpg</picture>
+        <vendor>ZERIX</vendor>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Достатньо</availabilityStatus>
+        <name>Змішувач для ванни з нерж. сталі SUS304 Zerix Fox-006 (Euro) (ZX3151)</name>
+        <description>&lt;![CDATA[]]&gt;</description>
+        <vendorCode>ZX3151</vendorCode>
+        <param name="Од. в упак.">8</param>
+        <param name="Об'єм ящ.">0.055</param>
+        <param name="Вага ящ.">17</param>
+        <param name="Матеріал виробу">Нержавіюча сталь SUS304</param>
+        <param name="Максимальний тиск (бар)">10,00</param>
+        <param name="Тип керування">Одноважільні</param>
+        <param name="Картридж чи кран букса">Картридж</param>
+        <param name="Діаметр картриджа (мм)">35</param>
+        <param name="Робочий тиск (бар)">1-5</param>
+        <param name="Мінімальний тиск (бар)">0,50</param>
+        <param name="Мінімальна температура води (°C)">5</param>
+        <param name="MAX різниця тиску гарячої та холодної води (бар)">1,50</param>
+        <param name="Максимальна температура води (°C)">90</param>
+        <param name="Вид виробу">Змішувачі для ванни з довгим виливом</param>
+        <param name="Тип виробу">Змішувачі для ванни</param>
+        <param name="Серія">FOX</param>
+        <param name="Група товару">Змішувачі</param>
+        <param name="Країна бренду">Чехія</param>
+        <param name="Тип монтажу">Настінні</param>
+        <param name="Країна виробник">Китай</param>
+        <param name="Торгова марка">ZERIX</param>
+        <param name="Стиль">Модерн</param>
+        <param name="Колір">Нержавіюча сталь</param>
+        <param name="Тип виливу">Поворотний</param>
+        <param name="Покриття">Без покриття</param>
+        <param name="Загальна довжина (мм)">410</param>
+        <param name="Довжина виливу (мм)">320</param>
+        <param name="Довжина виливу (см)">31-35</param>
+        <param name="Комплектація">Шланг 150 см, ручна лійка розміром 10х22 см, тримач для лійки, аератор, ексцентрики, чашки, гумові прокладки</param>
+        <param name="Гарантія на корпус змішувача (міс)">60</param>
+        <param name="Гарантія на деталі змішувача (міс)">12</param>
+      </offer>
+      <offer id="ZX5972" available="true">
+        <url>https://ol.partners/products/zapchastini-dlya-zmishuvacha/kriplennya-dlya-zmishuvacha/chashka-dekorativna-krugla-kolir-khrom-zerix-rst01-chrome-z-nerzh-stali-sus304-zx5972</url>
+        <price>19.20</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>ce005aef-b23b-4c39-8482-d0c8696426e6</categoryId>
+        <picture>https://ol.partners/Products/Photo/6C18D35B-B23D-45FC-9E6E-DB6F1AD300FE</picture>
+        <vendor>ZERIX</vendor>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Достатньо</availabilityStatus>
+        <name>Чашка декоративна (кругла) (колір хром) ZERIX RST-01 CHROME з нерж. сталі SUS304 (ZX5972)</name>
+        <description>&lt;![CDATA[]]&gt;</description>
+        <vendorCode>ZX5972</vendorCode>
+        <param name="Од. в упак.">150</param>
+        <param name="Об'єм ящ.">0.01</param>
+        <param name="Вага ящ.">1.5</param>
+        <param name="Тип виробу">Комплектуючі для змішувачів</param>
+        <param name="Країна виробник">Китай</param>
+        <param name="Модель">01</param>
+        <param name="Країна бренду">Чехія</param>
+        <param name="Вид виробу">Різне</param>
+        <param name="Група товару">Комплектуючі для змішувачів</param>
+        <param name="Торгова марка">ZERIX</param>
+        <param name="Колір">Хром</param>
+        <param name="Покриття">Без покриття</param>
+        <param name="Матеріал виробу">Нержавіюча сталь SUS304</param>
+      </offer>
+      <offer id="KR3336" available="true">
+        <url>https://ol.partners/products/truboprovodi-ta-zyednannya/fitingi/rizbovi-zyednannya/shtutser-dlya-priyednannya-shlanga-koer-kfu06f12-12x12mm-f-kr3336</url>
+        <price>63.00</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>9c29f365-2d46-44e7-8ddc-355385e76ceb</categoryId>
+        <picture>https://ol.partners/Products/Photo/0F08F13D-AFEB-4382-9E0B-6FB0FE0FE7D0</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/4a911bec-1fb1-4f77-a66d-6b3bc393d260/Image_04_koer.jpg</picture>
+        <vendor>KOER</vendor>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Достатньо</availabilityStatus>
+        <name>Штуцер для приєднання шланга Koer KF.U06F-12 - 1/2"x12mm F (KR3336)</name>
+        <description>&lt;![CDATA[]]&gt;</description>
+        <vendorCode>KR3336</vendorCode>
+        <param name="Од. в упак.">300</param>
+        <param name="Об'єм ящ.">0.01</param>
+        <param name="Вага ящ.">10.85</param>
+        <param name="Гарантійний період (міс)">84</param>
+        <param name="Діаметр підключення (дюйм)">1/2</param>
+        <param name="A (мм)">34,50</param>
+        <param name="D (мм)">12,00</param>
+        <param name="G (дюйм)">1/2</param>
+        <param name="Тип з'єднання">Різьбовий</param>
+        <param name="Тип приєднання">Штуцерне</param>
+        <param name="Матеріал">Латунь CW617N нікельована</param>
+        <param name="Торгова марка">KOER</param>
+        <param name="Країна бренду">Чехія</param>
+        <param name="Тип">Штуцер</param>
+        <param name="Тип виробу">Латунний фітинг</param>
+        <param name="Вид виробу">Штуцер</param>
+        <param name="Призначення">Для труб</param>
+        <param name="Модель">KF.U06F</param>
+        <param name="Колір">Сталевий</param>
+        <param name="Покриття">Нікель</param>
+      </offer>
+      <offer id="KP2915" available="true">
+        <url>https://ol.partners/products/truboprovodi-ta-zyednannya/fitingi/zyednannya-dlya-trub-z-polipropilenu/mufta-rozyemna-universalna-koer-k0271pro-40-ppr-kp2915</url>
+        <price>112.00</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>cd146fb4-d203-42ee-9396-02c677a95642</categoryId>
+        <picture>https://ol.partners/Products/Photo/46139BE2-4A59-42BB-9352-A70010287C1B</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/1865411f-f124-4111-b73c-431fbf8b6e0d/image_04_K0268PRO.jpg</picture>
+        <vendor>KOER</vendor>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Достатньо</availabilityStatus>
+        <name>Муфта роз'ємна універсальна Koer K0271.PRO 40 PPR (KP2915)</name>
+        <description>&lt;![CDATA[]]&gt;</description>
+        <vendorCode>KP2915</vendorCode>
+        <param name="Од. в упак.">72</param>
+        <param name="Об'єм ящ.">0.047</param>
+        <param name="Вага ящ.">13</param>
+        <param name="Діаметр підключення (мм)">40</param>
+        <param name="D (мм)">28,90</param>
+        <param name="H (мм)">79,00</param>
+        <param name="B (мм)">34,00</param>
+        <param name="L (мм)">28,50</param>
+        <param name="Матеріал">Поліпропілен</param>
+        <param name="Тип з'єднання">Пайка</param>
+        <param name="Модель">K0271.PRO</param>
+        <param name="Вид виробу">Муфта</param>
+        <param name="Торгова марка">KOER</param>
+        <param name="Призначення">Для труб</param>
+        <param name="Тип">Муфта</param>
+        <param name="Тип виробу">Труби та фітинги PPR</param>
+        <param name="Країна бренду">Чехія</param>
+        <param name="Гарантійний період (міс)">84</param>
+        <param name="Особливості">Повторнорозбірна, зручний монтаж, стійка до корозії та високих температур.</param>
+        <param name="Колір">Сірий</param>
       </offer>
       <offer id="WP3321" available="true">
         <url>https://ol.partners/products/truboprovodi-ta-zyednannya/fitingi/rizbovi-zyednannya/zghin-amerikanka-kutoviy-latun-waterpro-wp70220-34-wp3321</url>
@@ -339632,6 +339674,31 @@
         <param name="Довжина (мм)">600</param>
         <param name="Комплектація">Накидна гайка, прокладка</param>
         <param name="Гарантійний період (міс)">12</param>
+      </offer>
+      <offer id="KP3499" available="true">
+        <url>https://ol.partners/products/nasosi-ta-aksesuari/zapchastini-ta-aksesuari-dlya-nasosiv/komplekt-kriplennya-dlya-rozshiryuvalnogo-baka-do-stini-khomut-1224-l-koer-set18-kp3499</url>
+        <price>452.00</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>352f3f6a-1423-4467-a175-16d0de00e555</categoryId>
+        <picture>https://ol.partners/Products/Photo/73A562B1-587A-4395-A858-A1B761415226</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/2091c295-50d9-4d77-ab31-9745f3afdc80/image_03.jpg</picture>
+        <picture>https://cdn.olinfrastructure.com/productfile/2091c295-50d9-4d77-ab31-9745f3afdc80/image_02.jpg</picture>
+        <vendor>KOER</vendor>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Достатньо</availabilityStatus>
+        <name>Комплект кріплення для розширювального бака до стіни, хомут (12-24 л.) KOER SET-18 (KP3499)</name>
+        <description>&lt;![CDATA[]]&gt;</description>
+        <vendorCode>KP3499</vendorCode>
+        <param name="Од. в упак.">35</param>
+        <param name="Об'єм ящ.">0</param>
+        <param name="Вага ящ.">0</param>
+        <param name="Тип виробу">Комплектуючі для насосів</param>
+        <param name="Вид виробу">З'єднувальні елементи та кріплення</param>
+        <param name="Торгова марка">KOER</param>
+        <param name="Країна бренду">Чехія</param>
+        <param name="Призначення">Для настінного монтажу розширювальних баків систем опалення та гідроакумуляторів водопостачання</param>
+        <param name="Комплектація">Настінний монтажний кронштейн (пластина з 4 отворами кріплення та вушами для стрічки), стяжний металевий хомут, а також набір кріплення до стіни (4 пластикові дюбелі та 4 шурупи).</param>
+        <param name="Додаткові характеристики">Розрахований на ємності об'ємом від 12 до 24 літрів</param>
       </offer>
       <offer id="HB3959" available="true">
         <url>https://ol.partners/products/zmishuvachi-ta-krani/zmishuvachi-dlya-umivalnika/odnovazhilniy-zmishuvach-dlya-rakovini/zmishuvach-dlya-umivalnika-haiba-bavariya-001-kolir-khrom-hb3959</url>
@@ -353837,7 +353904,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/53d82338-a69f-4491-b3c1-622f20bf9add/image_02.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Колекторний блок з витратомірами та євроконусами Koer KR.1210-3 - 1"x3 WAYS (KR5265)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR5265</vendorCode>
@@ -359810,15 +359877,15 @@
         <param name="Висота до виливу (мм)">265</param>
         <param name="Довжина виливу (см)">11-15</param>
       </offer>
-      <offer id="MI6444" available="false">
+      <offer id="MI6444" available="true">
         <url>https://ol.partners/products/zmishuvachi-ta-krani/zmishuvachi-dlya-vanni/zmishuvach-dlya-vanni-z-povorotnim-vilivom/zmishuvach-dlya-vanni-mixxus-pud3146-kolir-khrom-mi6444</url>
         <price>1460.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>24d317c0-5084-463f-84c1-67f9a35850ce</categoryId>
         <picture>https://ol.partners/Products/Photo/1DA7F3AB-27A7-40FD-B55F-2B1DE309AB3C</picture>
         <vendor>MIXXUS</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Змішувач для ванни MIXXUS PUD3-146 (Колір хром) (MI6444)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>MI6444</vendorCode>
@@ -360644,7 +360711,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/81929550-c2bc-4f80-9114-7f09452ecbf4/image_5.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Змішувач для кухні з виходом для питної води KOER KB-72006-07 (Колір графіт+силіконовий вилив чорний) (KR3382)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR3382</vendorCode>
@@ -361918,7 +361985,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/3a0e15c7-de77-421c-9f67-944458c34247/image_02.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Колекторний блок з термостатіч. клапанами Koer KR.1100-03 1"x3 ways (KR2629)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR2629</vendorCode>
@@ -366164,7 +366231,7 @@
         <param name="Діаметр підключення (дюйм)">1</param>
         <param name="Вага (г)">193,00</param>
       </offer>
-      <offer id="KR2842" available="false">
+      <offer id="KR2842" available="true">
         <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/grupa-bezpeki/grupa-bezpeki-1-koer-kr104-kr2842</url>
         <price>1340.00</price>
         <currencyId>UAH</currencyId>
@@ -366172,8 +366239,8 @@
         <picture>https://ol.partners/Products/Photo/EF4C9468-C6A5-4FBD-A617-3D1DE637CAAB</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/0c2ccd04-9432-4b07-adf1-faf76fbabf2a/image_03_KR2842.jpg</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Група безпеки 1" Koer KR.104 (KR2842)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR2842</vendorCode>
@@ -372211,7 +372278,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/a29efab6-6a9a-4afe-9a30-8cb6dc5b4773/image_10.jpg</picture>
         <vendor>ZERIX</vendor>
         <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Штанга для шторки телескопічна пряма ZERIX CRS-110x200 110cm-200cm (нержавіюча сталь) (ZX4996)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>ZX4996</vendorCode>
@@ -382710,7 +382777,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/9ebb7ece-0641-4dd7-90ce-2c20b2b1b897/image_01.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Шафа колекторна Koer KR.8021 780x580x150, зовнішня (KR3201)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR3201</vendorCode>
@@ -385532,7 +385599,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/a0d71351-eaab-414f-8868-b905c0bbb716/image_08.jpg</picture>
         <vendor>GROHE</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Мийка для кухні із нержавіючої сталі Grohe K700U (31574SD1)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>31574SD1</vendorCode>
@@ -400028,7 +400095,7 @@
         <param name="Розташування (орієнтація)">Універсальне</param>
         <param name="Поверхня">Глянцева</param>
       </offer>
-      <offer id="ZX5064" available="false">
+      <offer id="ZX5064" available="true">
         <url>https://ol.partners/products/aksesuari-dlya-vannoi/paperotrimach/paperotrimach-zerix-afb01033-zx5064</url>
         <price>192.00</price>
         <currencyId>UAH</currencyId>
@@ -400037,8 +400104,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/d3ec2fff-7742-445a-9dbb-79f995569e0c/image_01.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/d3ec2fff-7742-445a-9dbb-79f995569e0c/image_02.jpg</picture>
         <vendor>ZERIX</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Паперотримач Zerix AFB-0103-3 (ZX5064)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>ZX5064</vendorCode>
@@ -404189,15 +404256,15 @@
         <param name="Вилив">Короткий вилив</param>
         <param name="Покриття">З покриттям</param>
       </offer>
-      <offer id="KR0237" available="false">
+      <offer id="KR0237" available="true">
         <url>https://ol.partners/products/truboprovodi-ta-zyednannya/trubi/polipropilenovi-trubi-ppr/polipropilenova-truba-kompozit-bazalt-koer-ppr-63x105-12-m-kr0237</url>
         <price>562.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>ee0302d8-11b3-4a3b-a1c2-20a336937fba</categoryId>
         <picture>https://ol.partners/Products/Photo/19A8A1C9-0408-4A15-83E5-FDF700A1F348</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Поліпропіленова труба композит (базальт) Koer PPR 63x10,5 (12 м) (KR0237)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR0237</vendorCode>
@@ -420518,7 +420585,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/e606d7a3-3b0a-4c7b-a0ee-660f109f0d32/image_02.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Колекторний блок з витратомірами та євроконусами Koer KR.1210-5 - 1"x5 WAYS (KR5267)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR5267</vendorCode>
@@ -426353,7 +426420,7 @@
         <param name="Діаметр (мм)">66</param>
         <param name="Діаметр підключення (дюйм)">1 1/4</param>
       </offer>
-      <offer id="ZX4999" available="false">
+      <offer id="ZX4999" available="true">
         <url>https://ol.partners/products/aksesuari-dlya-vannoi/shtangi-teleskopichni/shtanga-dlya-shtorki-teleskopichna-pryama-zerix-cra140x260-140cm260cm-alyuminiy-zx4999</url>
         <price>298.00</price>
         <currencyId>UAH</currencyId>
@@ -426372,8 +426439,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/d66f2287-cf1d-4f81-8561-64f598b83b37/image_05.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/d66f2287-cf1d-4f81-8561-64f598b83b37/image_13.jpg</picture>
         <vendor>ZERIX</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Штанга для шторки телескопічна пряма ZERIX CRA-140x260 140cm-260cm (алюміній) (ZX4999)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>ZX4999</vendorCode>
@@ -441689,7 +441756,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/057cde9e-c8e3-460e-a598-ff9abd7d3775/image_03.jpg</picture>
         <vendor>MIXXUS PREMIUM</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Змішувач для кухні MIXXUS PREMIUM GRAVITY 021 GRAPHITE REFL.BLACK з гнучким виливом з виходом для питної води (Колір графіт+вилив чорний) (MI6979)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>MI6979</vendorCode>
@@ -445362,7 +445429,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/ac15543e-3d0a-48d7-af06-7e438632c0c5/image_01.png</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Колектор з кульовими кранами та фітингом Koer KR.1125-4 - 3/4”x4 Ways (KR2837)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR2837</vendorCode>
@@ -445897,7 +445964,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/5c853815-c6a4-4a80-a508-109f18d888a0/image_02.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Колекторний блок з витратомірами та євроконусами Koer KR.1210-11 - 1"x11 WAYS (KR5273)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR5273</vendorCode>
