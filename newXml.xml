@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-11-21 05:41">
+<yml_catalog date="2026-11-22 05:09">
   <shop>
     <name>O&amp;L</name>
     <company>O&amp;L</company>
@@ -72700,7 +72700,7 @@
         <param name="Матеріал">Поліпропілен</param>
         <param name="Колір">Сірий</param>
       </offer>
-      <offer id="RO0041" available="true">
+      <offer id="RO0041" available="false">
         <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/kolektori/kolektor-z-vitratomirom-ta-termostatichnimi-klapanami-roho-r80409-1kh-9-vikh-ro0041</url>
         <price>13125.00</price>
         <currencyId>UAH</currencyId>
@@ -72708,8 +72708,8 @@
         <picture>https://ol.partners/Products/Photo/071A2C61-7CEB-46BE-B317-30FE077A0FB7</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/d304ecfa-193b-4704-9ec2-7cd3c62b3bef/image_01.jpg</picture>
         <vendor>ROHO</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Колектор з витратоміром та термостатичними клапанами Roho R804-09 - 1"х 9 вих. (RO0041)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>RO0041</vendorCode>
@@ -84444,7 +84444,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/f8b27d5a-35b9-4bd8-8314-09d08bfbeb84/image_03.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Душовий трап KOER FD01-70x500 з нерж. сталі SUS304 70x500мм (KR3265)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR3265</vendorCode>
@@ -339519,7 +339519,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/df830c87-ede5-4643-b695-f8d5fc6c3dae/image_01.jpg</picture>
         <vendor>ROHO</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Колектор з витратоміром та термостатичними клапанами Roho R804-02 - 1"х 2 вих. (RO0034)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>RO0034</vendorCode>
@@ -426595,7 +426595,7 @@
         <param name="Покриття">З покриттям</param>
         <param name="Вилив">Короткий вилив</param>
       </offer>
-      <offer id="RO1034" available="true">
+      <offer id="RO1034" available="false">
         <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/kolektori/kolektor-z-vitratomirom-ta-termostatichnimi-klapanami-roho-r80410m-1kh-10-vikh-ro1034</url>
         <price>13716.00</price>
         <currencyId>UAH</currencyId>
@@ -426604,8 +426604,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/c7f08b6c-4895-4467-81f6-c7497b39e990/image_02.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/c7f08b6c-4895-4467-81f6-c7497b39e990/image_03.jpg</picture>
         <vendor>ROHO</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Колектор з витратоміром та термостатичними клапанами Roho R804-10M - 1"х 10 вих. (RO1034)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>RO1034</vendorCode>
