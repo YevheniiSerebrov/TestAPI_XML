@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-11-22 05:09">
+<yml_catalog date="2026-11-23 05:50">
   <shop>
     <name>O&amp;L</name>
     <company>O&amp;L</company>
@@ -5048,7 +5048,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/628b4aad-892b-4e03-a0b9-9fd123220a6c/image_02.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Радіатор сталевий KOER 22 x 500 x 1200B (2629 Вт, 30,66 кг, нижнє підключення, з термоклапаном, з універсальним кріпленням) (KR6215)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR6215</vendorCode>
@@ -18121,7 +18121,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/f0388e5c-1979-458d-9fd0-5af557eab51c/image_01.jpg</picture>
         <vendor>MIXXUS PREMIUM</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Душова колона зі змішувачем MIXXUS PREMIUM NEPTUNE 009-J з кноп. перемик., 4 режими (Колір хром) (MI6832)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>MI6832</vendorCode>
@@ -25634,7 +25634,7 @@
         <param name="Гарантія на деталі змішувача (міс)">6</param>
         <param name="Гарантія на корпус змішувача (міс)">24</param>
       </offer>
-      <offer id="RAD079" available="false">
+      <offer id="RAD079" available="true">
         <url>https://ol.partners/products/radiatori-opalennya/stalevi-radiatori/staleviy-radiator-koer-22x300x1600s-2042-vt-2400-kg-bokove-pidklyuchennya-rad079</url>
         <price>6401.00</price>
         <currencyId>UAH</currencyId>
@@ -25646,8 +25646,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/bde8a29a-c09f-44c5-94f4-52f0330b7bfc/image_04_400-600_0.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/bde8a29a-c09f-44c5-94f4-52f0330b7bfc/image_03_RAD079.jpg</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Сталевий радіатор KOER 22x300x1600S (2042 Вт, 24,00 кг, бокове підключення) (RAD079)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>RAD079</vendorCode>
@@ -30934,7 +30934,7 @@
         <param name="Ширина (мм)">450</param>
         <param name="Довжина (мм)">600</param>
       </offer>
-      <offer id="LL1455" available="false">
+      <offer id="LL1455" available="true">
         <url>https://ol.partners/products/aksesuari-dlya-vannoi/politsi-u-vannu/politsya-dlya-vannoi-kimnati-z-milnitseyu-zerix-lr337-ll1455</url>
         <price>605.00</price>
         <currencyId>UAH</currencyId>
@@ -30942,8 +30942,8 @@
         <picture>https://ol.partners/Products/Photo/C0355B07-A547-4D2A-A4DF-280A6BC4457F</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/32983ceb-da09-43c6-bc2c-99696aa30c84/image_03.jpg</picture>
         <vendor>ZERIX</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Полиця для ванної кімнати з мильницею Zerix LR337 (LL1455)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>LL1455</vendorCode>
@@ -34381,7 +34381,7 @@
         <param name="G2 (дюйм)">1/2</param>
         <param name="Колір">Нержавіюча сталь</param>
       </offer>
-      <offer id="RAD075" available="false">
+      <offer id="RAD075" available="true">
         <url>https://ol.partners/products/radiatori-opalennya/stalevi-radiatori/staleviy-radiator-koer-22x300x1200s-1531-vt-1834-kg-bokove-pidklyuchennya-rad075</url>
         <price>4956.00</price>
         <currencyId>UAH</currencyId>
@@ -34393,8 +34393,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/4b7d733a-8c9a-4b48-9151-02dd8973c23b/image_01_400-600_.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/4b7d733a-8c9a-4b48-9151-02dd8973c23b/image_04_400-600_0.jpg</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Сталевий радіатор KOER 22x300x1200S (1531 Вт, 18,34 кг, бокове підключення) (RAD075)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>RAD075</vendorCode>
@@ -38320,7 +38320,7 @@
         <param name="Матеріал виробу">ABS-пластик</param>
         <param name="Кількість режимів струменя">3</param>
       </offer>
-      <offer id="KR6199" available="false">
+      <offer id="KR6199" available="true">
         <url>https://ol.partners/products/radiatori-opalennya/stalevi-radiatori/radiator-staleviy-koer-22-x-300-x-800b-1078-vt-1329-kg-nizhnye-pidklyuchennya-z-termoklapanom-z-universalnim-kriplennyam-kr6199</url>
         <price>5637.00</price>
         <currencyId>UAH</currencyId>
@@ -38328,8 +38328,8 @@
         <picture>https://ol.partners/Products/Photo/3F45921E-3E9D-4E00-B759-76822425680F</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/d563f417-6047-483d-9b6e-c3cf78d9b272/image_02.jpg</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Радіатор сталевий KOER 22 x 300 x 800B (1078 Вт, 13,29 кг, нижнє підключення, з термоклапаном, з універсальним кріпленням) (KR6199)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR6199</vendorCode>
@@ -43591,7 +43591,7 @@
         <param name="Комплектація">Аератор Neoperl, гнучка підводка з нержавіючої сталі (450 мм, 1/2"), кріпильна гайка, гумові прокладки</param>
         <param name="Гарантія на корпус змішувача (міс)">60</param>
       </offer>
-      <offer id="KR6204" available="false">
+      <offer id="KR6204" available="true">
         <url>https://ol.partners/products/radiatori-opalennya/stalevi-radiatori/radiator-staleviy-koer-22-x-300-x-1500b-2021-vt-2281-kg-nizhnye-pidklyuchennya-z-termoklapanom-z-universalnim-kriplennyam-kr6204</url>
         <price>8046.00</price>
         <currencyId>UAH</currencyId>
@@ -43599,8 +43599,8 @@
         <picture>https://ol.partners/Products/Photo/7EC7B248-C7E7-48FC-A02E-B25685C0F221</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/33c36876-344d-4900-8384-1796a34ebe0e/image_02.jpg</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Радіатор сталевий KOER 22 x 300 x 1500B (2021 Вт, 22,81 кг, нижнє підключення, з термоклапаном, з універсальним кріпленням) (KR6204)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR6204</vendorCode>
@@ -62200,7 +62200,7 @@
         <param name="Поверхня">Глянцева</param>
         <param name="Гарантійний період (міс)">12</param>
       </offer>
-      <offer id="RAD244" available="false">
+      <offer id="RAD244" available="true">
         <url>https://ol.partners/products/radiatori-opalennya/stalevi-radiatori/staleviy-radiator-koer-11x500x1800s-1357-vt-2733-kg-bokove-pidklyuchennya-rad244</url>
         <price>6539.00</price>
         <currencyId>UAH</currencyId>
@@ -62211,8 +62211,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/6f1b8dc5-a462-4838-89f2-7a40136fd929/image_04_400-600_0.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/6f1b8dc5-a462-4838-89f2-7a40136fd929/image_03_400-600_0.jpg</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Сталевий радіатор KOER 11x500x1800S (1357 Вт, 27,33 кг, бокове підключення) (RAD244)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>RAD244</vendorCode>
@@ -85970,7 +85970,7 @@
         <param name="Комплектація">Гнучка підводка, аератор, кріпильний елемент</param>
         <param name="Довжина виливу (мм)">510</param>
       </offer>
-      <offer id="RAD078" available="false">
+      <offer id="RAD078" available="true">
         <url>https://ol.partners/products/radiatori-opalennya/stalevi-radiatori/staleviy-radiator-koer-22x300x1500s-1914-vt-2259-kg-bokove-pidklyuchennya-rad078</url>
         <price>6064.00</price>
         <currencyId>UAH</currencyId>
@@ -85982,8 +85982,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/e1955cfe-d14d-4eb4-afa1-2d707d68c272/image_05_400-600_0.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/e1955cfe-d14d-4eb4-afa1-2d707d68c272/image_03_RAD078.jpg</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Сталевий радіатор KOER 22x300x1500S (1914 Вт, 22,59 кг, бокове підключення) (RAD078)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>RAD078</vendorCode>
@@ -91813,13 +91813,13 @@
         <picture>https://cdn.olinfrastructure.com/productfile/46e303c7-6cc1-448f-8829-4876bee67fd4/image_02.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Радіатор сталевий KOER 22 x 500 x 1500B (3287 Вт, 37,62 кг, нижнє підключення, з термоклапаном, з універсальним кріпленням) (KR6217)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR6217</vendorCode>
         <param name="Од. в упак.">1</param>
-        <param name="Об'єм ящ.">0</param>
-        <param name="Вага ящ.">0</param>
+        <param name="Об'єм ящ.">0.072</param>
+        <param name="Вага ящ.">37</param>
         <param name="Країна бренду">Чехія</param>
         <param name="Модель">22 x 500 x 1500B</param>
         <param name="Торгова марка">KOER</param>
@@ -110600,7 +110600,7 @@
         <param name="Гарантія на корпус змішувача (міс)">60</param>
         <param name="Комплектація">Змішувач, гнучка підводка, кріплення</param>
       </offer>
-      <offer id="RAD232" available="false">
+      <offer id="RAD232" available="true">
         <url>https://ol.partners/products/radiatori-opalennya/stalevi-radiatori/staleviy-radiator-koer-11x500x400s-302-vt-689-kg-bokove-pidklyuchennya-rad232</url>
         <price>2052.00</price>
         <currencyId>UAH</currencyId>
@@ -110611,8 +110611,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/11497e5d-3e83-4c64-a3f6-0bdfe268b34f/image_02_400-600_0.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/11497e5d-3e83-4c64-a3f6-0bdfe268b34f/image_01_400-600_0.jpg</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Сталевий радіатор KOER 11x500x400S (302 Вт, 6,89 кг, бокове підключення) (RAD232)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>RAD232</vendorCode>
@@ -112500,14 +112500,14 @@
         <param name="Гарантія на деталі змішувача (міс)">12</param>
         <param name="Гарантія на корпус змішувача (міс)">60</param>
       </offer>
-      <offer id="MA0108" available="true">
+      <offer id="MA0108" available="false">
         <url>https://ol.partners/products/truboprovodi-ta-zyednannya/fitingi/obtiskni-zyednannya-dlya-metaloplastikovikh-trub/khrest-master-26x26x26x26-ma0108</url>
         <price>232.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>2d1993a2-6bde-4874-8347-74b502e96ada</categoryId>
         <picture>https://ol.partners/Products/Photo/27255971-7F8B-4A90-A891-862BE709E55D</picture>
         <vendor>MASTER</vendor>
-        <stock_quantity>100</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Хрест Master 26x26x26x26 (MA0108)</name>
         <description>&lt;![CDATA[]]&gt;</description>
@@ -120316,7 +120316,7 @@
         <param name="Тип виливу">Литий</param>
         <param name="Стиль">Класичний</param>
       </offer>
-      <offer id="KR6200" available="false">
+      <offer id="KR6200" available="true">
         <url>https://ol.partners/products/radiatori-opalennya/stalevi-radiatori/radiator-staleviy-koer-22-x-300-x-900b-1212-vt-1465-kg-nizhnye-pidklyuchennya-z-termoklapanom-z-universalnim-kriplennyam-kr6200</url>
         <price>5938.00</price>
         <currencyId>UAH</currencyId>
@@ -120324,8 +120324,8 @@
         <picture>https://ol.partners/Products/Photo/68E7B268-2EC4-48CA-B296-07AF6298C413</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/c5cc8a3d-a1dc-4891-b124-b33f6b74b39f/image_02.jpg</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Радіатор сталевий KOER 22 x 300 x 900B (1212 Вт, 14,65 кг, нижнє підключення, з термоклапаном, з універсальним кріпленням) (KR6200)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR6200</vendorCode>
@@ -127456,7 +127456,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/4503588f-c999-4a1e-a572-d2639386039c/image_02.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Радіатор сталевий KOER 22 x 500 x 700B (1534 Вт, 19,06 кг, нижнє підключення, з термоклапаном, з універсальним кріпленням) (KR6211)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR6211</vendorCode>
@@ -127656,7 +127656,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/03f408bf-0ffd-4d46-97cc-060195cda311/image_03_KP0182.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Кут з накидною гайкою 20x1/2F PPR Koer K0144.PRO (KP0182)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KP0182</vendorCode>
@@ -128987,7 +128987,7 @@
         <picture>https://ol.partners/Products/Photo/57B5DD3F-BE92-4458-AD4D-81A849EF9647</picture>
         <vendor>ZERIX</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Полиця кутова у ванну решітка 3-ярусна ZERIX LR335-2 (LL1453)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>LL1453</vendorCode>
@@ -146411,7 +146411,7 @@
         <param name="Форма">Квадратна</param>
         <param name="Розташування (орієнтація)">Універсальне</param>
       </offer>
-      <offer id="KR6201" available="false">
+      <offer id="KR6201" available="true">
         <url>https://ol.partners/products/radiatori-opalennya/stalevi-radiatori/radiator-staleviy-koer-22-x-300-x-1000b-1347-vt-1601-kg-nizhnye-pidklyuchennya-z-termoklapanom-z-universalnim-kriplennyam-kr6201</url>
         <price>6210.00</price>
         <currencyId>UAH</currencyId>
@@ -146419,8 +146419,8 @@
         <picture>https://ol.partners/Products/Photo/7691CDF0-565F-4BAB-9D28-B90B3A2760B3</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/285a5d04-482d-42de-83fd-0144281f5892/image_02.jpg</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Радіатор сталевий KOER 22 x 300 x 1000B (1347 Вт, 16,01 кг, нижнє підключення, з термоклапаном, з універсальним кріпленням) (KR6201)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR6201</vendorCode>
@@ -152030,7 +152030,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/d22d952d-7148-4a26-8dbe-54a35c2e13a6/image_01.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Група безпеки 1" Koer KR.105P (KR2675)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR2675</vendorCode>
@@ -155768,7 +155768,7 @@
         <param name="Особливості">Розміри ручної лійки: 20х8 см. Розміри стельової лійки: 20х20 см. Максимальна висота 120 см. Мінімальна 80 см.</param>
         <param name="Гарантія на корпус змішувача (міс)">60</param>
       </offer>
-      <offer id="KR6206" available="false">
+      <offer id="KR6206" available="true">
         <url>https://ol.partners/products/radiatori-opalennya/stalevi-radiatori/radiator-staleviy-koer-22-x-300-x-1800b-2425-vt-2689-kg-nizhnye-pidklyuchennya-z-termoklapanom-z-universalnim-kriplennyam-kr6206</url>
         <price>9454.00</price>
         <currencyId>UAH</currencyId>
@@ -155776,8 +155776,8 @@
         <picture>https://ol.partners/Products/Photo/0E5C3636-687D-4AA2-A3B5-915D662B3AA2</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/9c58f5bf-7e24-4800-a16f-4271b53c7bf6/main.jpg</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Радіатор сталевий KOER 22 x 300 x 1800B (2425 Вт, 26,89 кг, нижнє підключення, з термоклапаном, з універсальним кріпленням) (KR6206)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR6206</vendorCode>
@@ -175771,15 +175771,15 @@
         <param name="Покриття">З покриттям</param>
         <param name="Колір">Нержавіюча сталь</param>
       </offer>
-      <offer id="MI6321" available="true">
+      <offer id="MI6321" available="false">
         <url>https://ol.partners/products/zmishuvachi-ta-krani/zmishuvachi-dlya-vanni/zmishuvach-dlya-vanni-z-povorotnim-vilivom/zmishuvach-dlya-vanni-mixxus-toledo-140-kolir-khrom-mi6321</url>
         <price>1260.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>c2f36242-64cb-47db-b8a9-e32c00e667c8</categoryId>
         <picture>https://ol.partners/Products/Photo/84293C5C-AC0E-4B83-BA06-4D90E790C8F7</picture>
         <vendor>MIXXUS</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Змішувач для ванни MIXXUS TOLEDO 140 (Колір хром) (MI6321)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>MI6321</vendorCode>
@@ -179644,7 +179644,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/e7458e7b-9e61-451e-a367-b74bcb9b297f/image_02_400-600_0.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Сталевий радіатор KOER 22x500x1100S (2123 Вт, 27,30 кг, бокове підключення) (RAD059)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>RAD059</vendorCode>
@@ -182309,7 +182309,7 @@
         <param name="Колір">Хром</param>
         <param name="Покриття">З покриттям</param>
       </offer>
-      <offer id="RAD242" available="false">
+      <offer id="RAD242" available="true">
         <url>https://ol.partners/products/radiatori-opalennya/stalevi-radiatori/staleviy-radiator-koer-11x500x1500s-1131-vt-2295-kg-bokove-pidklyuchennya-rad242</url>
         <price>5409.00</price>
         <currencyId>UAH</currencyId>
@@ -182320,8 +182320,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/25beddf2-7908-474d-850c-2a24ed1aba99/image_03_400-600_0.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/25beddf2-7908-474d-850c-2a24ed1aba99/image_04_400-600_0.jpg</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Сталевий радіатор KOER 11x500x1500S (1131 Вт, 22,95 кг, бокове підключення) (RAD242)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>RAD242</vendorCode>
@@ -182363,7 +182363,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/f3e4f7be-64a6-40dc-bda7-3f3b2b11fe8f/image_03.jpg</picture>
         <vendor>ZERIX</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Полиця у ванну кутова скляна 3-ярусна Zerix LR1507-3 (LL1409)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>LL1409</vendorCode>
@@ -187332,7 +187332,7 @@
         <param name="Колір">Латунний</param>
         <param name="Покриття">Немає</param>
       </offer>
-      <offer id="KR6196" available="false">
+      <offer id="KR6196" available="true">
         <url>https://ol.partners/products/radiatori-opalennya/stalevi-radiatori/radiator-staleviy-koer-22-x-500-x-2000b-4382-vt-4922-kg-nizhnye-pidklyuchennya-z-termoklapanom-z-universalnim-kriplennyam-kr6196</url>
         <price>13763.00</price>
         <currencyId>UAH</currencyId>
@@ -187340,8 +187340,8 @@
         <picture>https://ol.partners/Products/Photo/521CB7CC-3988-43AF-9D4A-57142F1E3C1F</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/11f93582-6d32-48b1-8e61-35c9bb5156ae/image_02.jpg</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Радіатор сталевий KOER 22 x 500 x 2000B (4382 Вт, 49,22 кг, нижнє підключення, з термоклапаном, з універсальним кріпленням) (KR6196)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR6196</vendorCode>
@@ -195588,7 +195588,7 @@
         <param name="Серія">KUB</param>
         <param name="Тип монтажу">Врізні</param>
       </offer>
-      <offer id="KR6197" available="false">
+      <offer id="KR6197" available="true">
         <url>https://ol.partners/products/radiatori-opalennya/stalevi-radiatori/radiator-staleviy-koer-22-x-300-x-600b-808-vt-1057-kg-nizhnye-pidklyuchennya-z-termoklapanom-z-universalnim-kriplennyam-kr6197</url>
         <price>5028.00</price>
         <currencyId>UAH</currencyId>
@@ -195596,8 +195596,8 @@
         <picture>https://ol.partners/Products/Photo/87291CB0-1274-470C-A430-6FFF9089F2DB</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/73f6a509-cf17-4d74-ab9d-abe9778029f9/image_02.jpg</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Радіатор сталевий KOER 22 x 300 x 600B (808 Вт, 10,57 кг, нижнє підключення, з термоклапаном, з універсальним кріпленням) (KR6197)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR6197</vendorCode>
@@ -196565,7 +196565,7 @@
         <param name="Кількість вантажних місць">1</param>
         <param name="Гарантійний період (міс)">12</param>
       </offer>
-      <offer id="RAD233" available="false">
+      <offer id="RAD233" available="true">
         <url>https://ol.partners/products/radiatori-opalennya/stalevi-radiatori/staleviy-radiator-koer-11x500x500s-377-vt-835-kg-bokove-pidklyuchennya-rad233</url>
         <price>2819.00</price>
         <currencyId>UAH</currencyId>
@@ -196576,8 +196576,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/20cbd392-7660-4de6-8bf5-a397c2eed095/image_02_400-600_0.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/20cbd392-7660-4de6-8bf5-a397c2eed095/image_03_400-600_0.jpg</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Сталевий радіатор KOER 11x500x500S (377 Вт, 8,35 кг, бокове підключення) (RAD233)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>RAD233</vendorCode>
@@ -202283,13 +202283,13 @@
         <picture>https://cdn.olinfrastructure.com/productfile/80c56edb-e241-46d5-959c-dd4c92a65ffb/image_02.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Радіатор сталевий KOER 22 x 500 x 1600B (3506 Вт, 39,94 кг, нижнє підключення, з термоклапаном, з універсальним кріпленням) (KR6194)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR6194</vendorCode>
         <param name="Од. в упак.">1</param>
-        <param name="Об'єм ящ.">0</param>
-        <param name="Вага ящ.">0</param>
+        <param name="Об'єм ящ.">0.094</param>
+        <param name="Вага ящ.">43.3</param>
         <param name="Висота (мм)">500</param>
         <param name="Об'єм (л)">8,64</param>
         <param name="Вага (кг)">39,94</param>
@@ -208108,7 +208108,7 @@
         <param name="Стиль">Класичний</param>
         <param name="Тип виливу">Литий</param>
       </offer>
-      <offer id="RAD235" available="false">
+      <offer id="RAD235" available="true">
         <url>https://ol.partners/products/radiatori-opalennya/stalevi-radiatori/staleviy-radiator-koer-11x500x700s-528-vt-1127-kg-bokove-pidklyuchennya-rad235</url>
         <price>3426.00</price>
         <currencyId>UAH</currencyId>
@@ -208119,8 +208119,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/115e79fc-a03b-4c1d-a8d2-7721a73ffe68/image_02_400-600_0.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/115e79fc-a03b-4c1d-a8d2-7721a73ffe68/image_04_400-600_0.jpg</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Сталевий радіатор KOER 11x500x700S (528 Вт, 11,27 кг, бокове підключення) (RAD235)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>RAD235</vendorCode>
@@ -210960,7 +210960,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/2eef76ea-1bd6-4d76-a2de-5cdda4bbd13e/image_04_400-600_0.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Сталевий радіатор KOER 22x300x600S (766 Вт, 9,85 кг, бокове підключення) (RAD069)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>RAD069</vendorCode>
@@ -227923,7 +227923,7 @@
         <param name="Тип виробу">Змішувачі для кухні</param>
         <param name="Торгова марка">MIXXUS</param>
       </offer>
-      <offer id="RAD077" available="false">
+      <offer id="RAD077" available="true">
         <url>https://ol.partners/products/radiatori-opalennya/stalevi-radiatori/staleviy-radiator-koer-22x300x1400s-1786-vt-2117-kg-bokove-pidklyuchennya-rad077</url>
         <price>5702.00</price>
         <currencyId>UAH</currencyId>
@@ -227935,8 +227935,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/0a653b1e-e538-4e22-aac7-79cb5a53a78c/image_02_400-600_0.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/0a653b1e-e538-4e22-aac7-79cb5a53a78c/image_01_400-600_.jpg</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Сталевий радіатор KOER 22x300x1400S (1786 Вт, 21,17 кг, бокове підключення (RAD077)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>RAD077</vendorCode>
@@ -247403,7 +247403,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/f4500f90-91d0-471d-a726-2bb69ddce094/image_04_400-600_0.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Сталевий радіатор KOER 11x500x1200S (905 Вт, 18,57 кг, бокове підключення) (RAD240)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>RAD240</vendorCode>
@@ -255324,7 +255324,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/c5e19a4d-f877-4034-8cd8-5de55a7fbb2f/image_02_400-600_0.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Сталевий радіатор KOER 22x500x1600S (3088 Вт, 39,09 кг, бокове підключення) (RAD064)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>RAD064</vendorCode>
@@ -279367,7 +279367,7 @@
         <picture>https://ol.partners/Products/Photo/82D7B57B-A176-4545-9A95-669859811533</picture>
         <vendor>ZERIX</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Полиця для ванної кімнати скляна Zerix LR3307-1 (LL1435)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>LL1435</vendorCode>
@@ -280940,7 +280940,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/3be6e7eb-d4fd-4cea-90ce-5ebd570e58f2/image_01.jpg</picture>
         <vendor>IBERGRIF</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Змішувач для кухні Ibergrif Trento M14006 з силіконовим виливом пружина (LL2014)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>LL2014</vendorCode>
@@ -284441,7 +284441,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/5a2f1adc-1b75-4508-a974-a37ed2580a8c/image_04_400-600_0.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Сталевий радіатор KOER 22x300x800S (1021 Вт, 12,68 кг, бокове підключення) (RAD071)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>RAD071</vendorCode>
@@ -285067,7 +285067,7 @@
         <param name="Гарантія на деталі змішувача (міс)">12</param>
         <param name="Максимальна висота (см)">117</param>
       </offer>
-      <offer id="KR6203" available="false">
+      <offer id="KR6203" available="true">
         <url>https://ol.partners/products/radiatori-opalennya/stalevi-radiatori/radiator-staleviy-koer-22-x-300-x-1400b-1886-vt-2145-kg-nizhnye-pidklyuchennya-z-termoklapanom-z-universalnim-kriplennyam-kr6203</url>
         <price>7683.00</price>
         <currencyId>UAH</currencyId>
@@ -285075,8 +285075,8 @@
         <picture>https://ol.partners/Products/Photo/07CAF6B8-1E40-4E48-8A8F-2388B838CE67</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/35dfc8d8-1ec6-40ba-ba08-d4e482879136/image_02.jpg</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Радіатор сталевий KOER 22 x 300 x 1400B (1886 Вт, 21,45 кг, нижнє підключення, з термоклапаном, з універсальним кріпленням) (KR6203)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR6203</vendorCode>
@@ -289108,7 +289108,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/8e3b5db6-7134-46b7-8748-29813284e465/image_04_400-600_0.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Сталевий радіатор KOER 22x500x1300S (2509 Вт, 32,02 кг, бокове підключення) (RAD061)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>RAD061</vendorCode>
@@ -293231,15 +293231,15 @@
         <param name="Гарантія на корпус змішувача (міс)">60</param>
         <param name="Комплектація">Шланг 150 см, лійка на 5 режимів розміром 8х20 см, тримач для лійки, ексцентрики, чашки, гумові прокладки, керівництво по експлуатації та гарантійний талон</param>
       </offer>
-      <offer id="IB0035" available="false">
+      <offer id="IB0035" available="true">
         <url>https://ol.partners/products/zmishuvachi-ta-krani/zmishuvachi-dlya-vanni/zmishuvach-dlya-vanni-z-povorotnim-vilivom/zmishuvach-dlya-vanni-ibergrif-square-m13122w-ib0035</url>
         <price>2336.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>c2f36242-64cb-47db-b8a9-e32c00e667c8</categoryId>
         <picture>https://ol.partners/Products/Photo/ABAD0393-8DA6-48DA-922E-10D172E943E9</picture>
         <vendor>IBERGRIF</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Змішувач для ванни Ibergrif Square M13122W (IB0035)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>IB0035</vendorCode>
@@ -295528,7 +295528,7 @@
         <picture>https://ol.partners/Products/Photo/5F6D33BA-6E6B-43D0-928C-3AD0B89F8F5F</picture>
         <vendor>MIXXUS PREMIUM</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Змішувач для кухні MIXXUS PREMIUM EDEM 017 (Колір хром) (MI5834)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>MI5834</vendorCode>
@@ -307423,7 +307423,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/6ac88e68-23e4-4974-ad5c-277e6c7447b5/image_04_400-600_0.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Сталевий радіатор KOER 22x300x700S (893 Вт, 11,27 кг, бокове підключення) (RAD070)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>RAD070</vendorCode>
@@ -311676,7 +311676,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/2a9d3603-fd33-4b1f-9b74-89a595163483/image_05_400-600_0.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Сталевий радіатор KOER 22x300x400S (510 Вт, 7,02 кг, бокове підключення) (RAD067)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>RAD067</vendorCode>
@@ -313606,7 +313606,7 @@
         <param name="Загальна довжина (мм)">270</param>
         <param name="Довжина виливу (мм)">200</param>
       </offer>
-      <offer id="KR6198" available="false">
+      <offer id="KR6198" available="true">
         <url>https://ol.partners/products/radiatori-opalennya/stalevi-radiatori/radiator-staleviy-koer-22-x-300-x-700b-943-vt-1193-kg-nizhnye-pidklyuchennya-z-termoklapanom-z-universalnim-kriplennyam-kr6198</url>
         <price>5337.00</price>
         <currencyId>UAH</currencyId>
@@ -313614,8 +313614,8 @@
         <picture>https://ol.partners/Products/Photo/5AD335D9-D32A-45D7-AD88-667A1CC6D17C</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/4eb27189-26da-4cd2-9ee8-75ec121faa3c/image_02.jpg</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Радіатор сталевий KOER 22 x 300 x 700B (943 Вт, 11,93 кг, нижнє підключення, з термоклапаном, з універсальним кріпленням) (KR6198)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR6198</vendorCode>
@@ -326207,7 +326207,7 @@
         <param name="Тип кріплення">До стіни</param>
         <param name="Матеріал">Алюміній</param>
       </offer>
-      <offer id="RAD241" available="false">
+      <offer id="RAD241" available="true">
         <url>https://ol.partners/products/radiatori-opalennya/stalevi-radiatori/staleviy-radiator-koer-11x500x1400s-1056-vt-2149-kg-bokove-pidklyuchennya-rad241</url>
         <price>5805.00</price>
         <currencyId>UAH</currencyId>
@@ -326218,8 +326218,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/57ca3d80-9602-4932-b5e9-a206167fbc6e/image_04_400-600_0.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/57ca3d80-9602-4932-b5e9-a206167fbc6e/image_01_400-600_0.jpg</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Сталевий радіатор KOER 11x500x1400S (1056 Вт, 21,49 кг, бокове підключення) (RAD241)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>RAD241</vendorCode>
@@ -332084,7 +332084,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/bac690a7-cd1a-4620-b8d6-4429e2dc0f5d/image_04_KB-64010.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Душова система вбудована KOER KB-64010-01, 3 функції (Колір хром) (KR3492)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR3492</vendorCode>
@@ -336067,13 +336067,13 @@
         <picture>https://cdn.olinfrastructure.com/productfile/3cdd4644-5955-47d2-bb26-341a24c26b42/image_02.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Радіатор сталевий KOER 22 x 500 x 900B (1972 Вт, 23,70 кг, нижнє підключення, з термоклапаном, з універсальним кріпленням) (KR6213)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR6213</vendorCode>
         <param name="Од. в упак.">1</param>
-        <param name="Об'єм ящ.">0.043</param>
-        <param name="Вага ящ.">23.9</param>
+        <param name="Об'єм ящ.">0.053</param>
+        <param name="Вага ящ.">23.8</param>
         <param name="Об'єм (л)">4,86</param>
         <param name="Вага (кг)">23,70</param>
         <param name="Довжина (мм)">900</param>
@@ -340942,7 +340942,7 @@
         <param name="Висота (мм)">100</param>
         <param name="Матеріал">Нержавіюча сталь</param>
       </offer>
-      <offer id="RAD073" available="false">
+      <offer id="RAD073" available="true">
         <url>https://ol.partners/products/radiatori-opalennya/stalevi-radiatori/staleviy-radiator-koer-22x300x1000s-1276-vt-1525-kg-bokove-pidklyuchennya-rad073</url>
         <price>4228.00</price>
         <currencyId>UAH</currencyId>
@@ -340954,8 +340954,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/799bb02e-8fe6-4507-8f80-87f3eff47825/image_04_400-600_0.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/799bb02e-8fe6-4507-8f80-87f3eff47825/image_03_RAD073.jpg</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Сталевий радіатор KOER 22x300x1000S (1276 Вт, 15,25 кг, бокове підключення) (RAD073)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>RAD073</vendorCode>
@@ -344580,7 +344580,7 @@
         <picture>https://ol.partners/Products/Photo/0C817F90-0E16-4DEE-A6BC-6318A7B32755</picture>
         <vendor>CHAMPION</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Змішувач для кухні з силіконовим виливом Champion YUB 011-181 (Nut) Refl.Black (MI6421)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>MI6421</vendorCode>
@@ -348509,7 +348509,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/d7bce277-2d30-4d50-9d32-0bf49d5aa176/image_02.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Радіатор сталевий KOER 22 x 500 x 600B (1315 Вт, 16,74 кг, нижнє підключення, з термоклапаном, з універсальним кріпленням) (KR6210)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR6210</vendorCode>
@@ -349953,13 +349953,13 @@
         <picture>https://cdn.olinfrastructure.com/productfile/182c695e-0ff7-4ee2-9149-de2070f136d3/image_02.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Радіатор сталевий KOER 22 x 500 x 1800B (3944 Вт, 44,58 кг, нижнє підключення, з термоклапаном, з універсальним кріпленням) (KR6195)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR6195</vendorCode>
         <param name="Од. в упак.">1</param>
-        <param name="Об'єм ящ.">0</param>
-        <param name="Вага ящ.">0</param>
+        <param name="Об'єм ящ.">0.106</param>
+        <param name="Вага ящ.">44.5</param>
         <param name="Підключення">Нижнє</param>
         <param name="Теплоносій">Вода та незамерзаючі рідини</param>
         <param name="Тепловіддача (Вт)">3944</param>
@@ -350082,7 +350082,7 @@
         <param name="Максимальна висота (см)">164</param>
         <param name="Довжина виливу (мм)">140</param>
       </offer>
-      <offer id="RAD081" available="false">
+      <offer id="RAD081" available="true">
         <url>https://ol.partners/products/radiatori-opalennya/stalevi-radiatori/staleviy-radiator-koer-22x300x2000s-2552-vt-2966-kg-bokove-pidklyuchennya-rad081</url>
         <price>6912.00</price>
         <currencyId>UAH</currencyId>
@@ -350094,8 +350094,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/17137e0f-4d1f-431a-a839-a7db1b8264a8/image_02_400-600_0.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/17137e0f-4d1f-431a-a839-a7db1b8264a8/image_03_RAD081.jpg</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Сталевий радіатор KOER 22x300x2000S (2552 Вт, 29,66 кг, бокове підключення) (RAD081)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>RAD081</vendorCode>
@@ -370795,7 +370795,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/397c76dc-ef88-43b8-b5b0-005b82f19e38/image_02_400-600_0.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Сталевий радіатор KOER 22x300x500S (638 Вт, 8,44 кг, бокове підключення) (RAD068)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>RAD068</vendorCode>
@@ -371355,7 +371355,7 @@
         <param name="Покриття">З покриттям</param>
         <param name="Тип виливу">Литий</param>
       </offer>
-      <offer id="RAD243" available="false">
+      <offer id="RAD243" available="true">
         <url>https://ol.partners/products/radiatori-opalennya/stalevi-radiatori/staleviy-radiator-koer-11x500x1600s-1206-vt-2441-kg-bokove-pidklyuchennya-rad243</url>
         <price>5974.00</price>
         <currencyId>UAH</currencyId>
@@ -371366,8 +371366,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/2446f533-fb1e-4a4a-86ba-e63b7351cc0a/image_04_400-600_0.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/2446f533-fb1e-4a4a-86ba-e63b7351cc0a/image_02_400-600_0.jpg</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Сталевий радіатор KOER 11x500x1600S (1206 Вт, 24,41 кг, бокове підключення) (RAD243)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>RAD243</vendorCode>
@@ -380279,7 +380279,7 @@
         <param name="Тип виробу">Монокрани</param>
         <param name="Довжина виливу (см)">11-15</param>
       </offer>
-      <offer id="KR6202" available="false">
+      <offer id="KR6202" available="true">
         <url>https://ol.partners/products/radiatori-opalennya/stalevi-radiatori/radiator-staleviy-koer-22-x-300-x-1200b-1616-vt-1873-kg-nizhnye-pidklyuchennya-z-termoklapanom-z-universalnim-kriplennyam-kr6202</url>
         <price>6937.00</price>
         <currencyId>UAH</currencyId>
@@ -380287,8 +380287,8 @@
         <picture>https://ol.partners/Products/Photo/D1842390-D736-47BA-91D6-0BA7924F1A03</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/fbd91614-4313-4d0d-897d-5f3b6dd87fe9/image_02.jpg</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Радіатор сталевий KOER 22 x 300 x 1200B (1616 Вт, 18,73 кг, нижнє підключення, з термоклапаном, з універсальним кріпленням) (KR6202)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR6202</vendorCode>
@@ -385432,7 +385432,7 @@
         <param name="Висота (мм)">1000</param>
         <param name="Міжосьова відстань (мм)">500</param>
       </offer>
-      <offer id="RAD052" available="false">
+      <offer id="RAD052" available="true">
         <url>https://ol.partners/products/radiatori-opalennya/stalevi-radiatori/staleviy-radiator-koer-22x500x400s-772-vt-1079-kg-bokove-pidklyuchennya-rad052</url>
         <price>2855.00</price>
         <currencyId>UAH</currencyId>
@@ -385444,8 +385444,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/f0ecd2a1-1e7d-4473-a260-3417896a35c9/image_01_400-600_0.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/f0ecd2a1-1e7d-4473-a260-3417896a35c9/image_02_400-600_0.jpg</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Сталевий радіатор KOER 22x500x400S (772 Вт, 10,79 кг, бокове підключення) (RAD052)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>RAD052</vendorCode>
@@ -385478,7 +385478,7 @@
         <param name="Комплектація">2 кронштейна для кріплення, відведення повітря (кран Маєвського), заглушка, 4 шурупа з дюбелем, 4 пластикових фіксатора-прокладки</param>
         <param name="Колір">Білий (RAL 9016)</param>
       </offer>
-      <offer id="KR6216" available="false">
+      <offer id="KR6216" available="true">
         <url>https://ol.partners/products/radiatori-opalennya/stalevi-radiatori/radiator-staleviy-koer-22-x-500-x-1400b-3067-vt-3530-kg-nizhnye-pidklyuchennya-z-termoklapanom-z-universalnim-kriplennyam-kr6216</url>
         <price>10274.00</price>
         <currencyId>UAH</currencyId>
@@ -385486,8 +385486,8 @@
         <picture>https://ol.partners/Products/Photo/D3281EEE-3CA0-4A8A-950C-31ECE3CF1EBB</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/dd8964f9-2abd-40ce-8a0f-90f54ac0e877/image_02.jpg</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Радіатор сталевий KOER 22 x 500 x 1400B (3067 Вт, 35,30 кг, нижнє підключення, з термоклапаном, з універсальним кріпленням) (KR6216)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR6216</vendorCode>
@@ -386364,7 +386364,7 @@
         <param name="Колір профілю">Графіт</param>
         <param name="Розташування (орієнтація)">Універсальне</param>
       </offer>
-      <offer id="KR6205" available="false">
+      <offer id="KR6205" available="true">
         <url>https://ol.partners/products/radiatori-opalennya/stalevi-radiatori/radiator-staleviy-koer-22-x-300-x-1600b-2155-vt-2417-kg-nizhnye-pidklyuchennya-z-termoklapanom-z-universalnim-kriplennyam-kr6205</url>
         <price>8718.00</price>
         <currencyId>UAH</currencyId>
@@ -386372,8 +386372,8 @@
         <picture>https://ol.partners/Products/Photo/4D513FBF-20CA-4319-978E-6E01410CE7CF</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/a0bfa090-9e2d-4eac-931c-0b25eb113bef/image_02.jpg</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Радіатор сталевий KOER 22 x 300 x 1600B (2155 Вт, 24,17 кг, нижнє підключення, з термоклапаном, з універсальним кріпленням) (KR6205)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR6205</vendorCode>
@@ -443155,7 +443155,7 @@
         <param name="Матеріал">Поліпропілен</param>
         <param name="Колір">Сірий</param>
       </offer>
-      <offer id="RAD080" available="false">
+      <offer id="RAD080" available="true">
         <url>https://ol.partners/products/radiatori-opalennya/stalevi-radiatori/staleviy-radiator-koer-22x300x1800s-2297-vt-2683-kg-bokove-pidklyuchennya-rad080</url>
         <price>6380.00</price>
         <currencyId>UAH</currencyId>
@@ -443167,8 +443167,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/a54c4fcb-2828-479a-a6c2-796baacfc391/image_02_400-600_0.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/a54c4fcb-2828-479a-a6c2-796baacfc391/image_01_400-600_.jpg</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Сталевий радіатор KOER 22x300x1800S (2297 Вт, 26,83 кг, бокове підключення (RAD080)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>RAD080</vendorCode>
