@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-11-26 06:54">
+<yml_catalog date="2026-11-27 06:48">
   <shop>
     <name>O&amp;L</name>
     <company>O&amp;L</company>
@@ -1490,7 +1490,7 @@
         <param name="Гарантія на корпус змішувача (міс)">60</param>
         <param name="Комплектація">Аератор Neoperl, гнучка підводка з нержавіючої сталі (450 мм, 1/2"), кріпильна шпилька, гумові прокладки</param>
       </offer>
-      <offer id="30543000" available="false">
+      <offer id="30543000" available="true">
         <url>https://ol.partners/products/zmishuvachi-ta-krani/zmishuvachi-dlya-kukhni/zmishuvachi-odnovazhilni-dlya-kukhni/odnovazhilniy-zmishuvach-dlya-kukhni-grohe-bauloop-new-30543000</url>
         <price>7830.00</price>
         <currencyId>UAH</currencyId>
@@ -1503,8 +1503,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/b03dd9ca-2fdd-41d5-b155-08e076181a0b/image_07.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/b03dd9ca-2fdd-41d5-b155-08e076181a0b/image_01.jpg</picture>
         <vendor>GROHE</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Одноважільний змішувач для кухні Grohe BauLoop New (30543000)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>30543000</vendorCode>
@@ -10024,7 +10024,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/e39d0a32-c150-4d7e-bca3-0b7152a47fd5/image_03_KP0178.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Муфта з накидною гайкою 20x1 /2F PPR Koer K0141.PRO (KP0178)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KP0178</vendorCode>
@@ -19713,7 +19713,7 @@
         <param name="Тип виливу">Литий</param>
         <param name="Стиль">Класичний</param>
       </offer>
-      <offer id="HB9694" available="true">
+      <offer id="HB9694" available="false">
         <url>https://ol.partners/products/zapchastini-dlya-zmishuvacha/kartridzhi-dlya-zmishuvacha/kartridzh-35mm-dlya-zmishuvacha-haiba-crt01135-lemon-003lemon-006eurolemon-009eurolemon-017-hb9694</url>
         <price>77.00</price>
         <currencyId>UAH</currencyId>
@@ -19723,8 +19723,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/427264d9-723e-4ccf-8651-c590aa00068f/image_03.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/427264d9-723e-4ccf-8651-c590aa00068f/image_02.jpg</picture>
         <vendor>HAIBA</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Картридж 35мм для змішувача HAIBA CRT-011-35 (LEMON 003/LEMON 006(EURO)/LEMON 009(EURO)/LEMON 017) (HB9694)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>HB9694</vendorCode>
@@ -25969,7 +25969,7 @@
         <param name="Форма">Квадратна</param>
         <param name="Поверхня">Матова</param>
       </offer>
-      <offer id="KR6677" available="false">
+      <offer id="KR6677" available="true">
         <url>https://ol.partners/products/truboprovodi-ta-zyednannya/ustatkuvannya-dlya-montazhu/instrumenti-dlya-montazhu/zatiskach-portativniy-trubniy-18-do-112-koer-kaw10-kr6677</url>
         <price>5856.00</price>
         <currencyId>UAH</currencyId>
@@ -25981,8 +25981,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/4ad0d2ab-3154-465d-b657-ef9a80fdc4e0/image_03.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/4ad0d2ab-3154-465d-b657-ef9a80fdc4e0/image_04.jpg</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Затискач портативний трубний 1/8" до 1-1/2" KOER KAW.10 (KR6677)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR6677</vendorCode>
@@ -50622,7 +50622,7 @@
         <picture>https://ol.partners/Products/Photo/F250E939-2817-4C6B-A160-F02A56E7C9B8</picture>
         <vendor>MASTER</vendor>
         <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Ексцентрики+чашк Master (комплект) (СС0512)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>СС0512</vendorCode>
@@ -51729,7 +51729,7 @@
         <param name="Тип ручки">Важіль</param>
         <param name="Діаметр підключення (дюйм)">1 1/4</param>
       </offer>
-      <offer id="MI8214" available="true">
+      <offer id="MI8214" available="false">
         <url>https://ol.partners/products/miyki-dlya-kukhni/integrovani-miyki/miyka-z-nerzh-stali-mixxus-mh5050-micro-decor-brushed-gold-3008-kolir-matove-zoloto-mi8214</url>
         <price>4148.00</price>
         <currencyId>UAH</currencyId>
@@ -51740,8 +51740,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/e48330c8-96c7-476b-9441-249c1ad9fe78/image_02.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/e48330c8-96c7-476b-9441-249c1ad9fe78/image_01.jpg</picture>
         <vendor>MIXXUS</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Мийка з нерж. сталі MIXXUS MH5050 MICRO DECOR BRUSHED GOLD (3.0/0.8) (колір матове золото) (MI8214)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>MI8214</vendorCode>
@@ -53508,7 +53508,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/24a7cccc-179d-4766-b369-08de5f5a1110/image_11.png</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Душова кабіна без піддону KOER SR SC04-90x90x195-TR-02 прозоре скло EASY CLEAN 5мм SS COLOR (KR5682)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR5682</vendorCode>
@@ -57008,7 +57008,7 @@
         <picture>https://ol.partners/Products/Photo/EA25B02D-3642-4684-B33F-92216EDD2110</picture>
         <vendor>MIXXUS PREMIUM</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Змішувач для ванни MIXXUS PREMIUM ALBERT 009 EURO (Колір хром) (MI2874)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>MI2874</vendorCode>
@@ -63975,7 +63975,7 @@
         <param name="Вихід під фільтровану воду">Так</param>
         <param name="Тип керування">Одноважільні</param>
       </offer>
-      <offer id="MI8425" available="false">
+      <offer id="MI8425" available="true">
         <url>https://ol.partners/products/keramika/unitazi/unitaz-pidvisniy-mixxus-bevel0305t3-480x360x340mm-sistema-zmivu-tornado-30-mi8425</url>
         <price>5580.00</price>
         <currencyId>UAH</currencyId>
@@ -63996,8 +63996,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/c3f2c24c-9836-4d6b-a3fe-5931a2f2adfa/image_06.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/c3f2c24c-9836-4d6b-a3fe-5931a2f2adfa/image_15.jpg</picture>
         <vendor>MIXXUS</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Унітаз підвісний MIXXUS BEVEL-0305-T3 480x360x340mm система змиву TORNADO 3.0 (MI8425)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>MI8425</vendorCode>
@@ -94542,7 +94542,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/75f1d540-8518-446f-a853-4f8d47b7b0c0/image_01.jpg</picture>
         <vendor>GROHE</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Система інсталяції для унітазу 3 в 1 Grohe Rapid SL (38772001)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>38772001</vendorCode>
@@ -96397,7 +96397,7 @@
         <param name="Колір">Латунний</param>
         <param name="Гарантійний період (міс)">84</param>
       </offer>
-      <offer id="KR0261" available="true">
+      <offer id="KR0261" available="false">
         <url>https://ol.partners/products/truboprovodi-ta-zyednannya/gnuchka-pidvodka/gnuchke-pidvedennya-koer-kh01ff12-2000-nerzhaviyka-gg-200-sm-kr0261</url>
         <price>231.00</price>
         <currencyId>UAH</currencyId>
@@ -96406,8 +96406,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/9fddb8c0-34fd-4da5-b2c1-6e35d767c85a/image_04.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/9fddb8c0-34fd-4da5-b2c1-6e35d767c85a/image_01.jpg</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Гнучке підведення KOER KH-01-FF1/2"- 2000 нержавійка ГГ- 200 см (KR0261)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR0261</vendorCode>
@@ -113937,7 +113937,7 @@
         <param name="Довжина виливу (мм)">320</param>
         <param name="Довжина виливу (см)">31-35</param>
       </offer>
-      <offer id="MI2819" available="true">
+      <offer id="MI2819" available="false">
         <url>https://ol.partners/products/dushovi-koloni-ta-sistemi/dushovi-koloni/dushova-kolona-mixxus-ama009j-zi-zmishuvachem-z-nerzh-stali-sus304-kolir-nerzh-mi2819</url>
         <price>7066.00</price>
         <currencyId>UAH</currencyId>
@@ -113947,7 +113947,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/c399850f-d2dd-423d-bfe4-8dbe649a5eb1/image_02.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/c399850f-d2dd-423d-bfe4-8dbe649a5eb1/image_04_MIXXUS_AMA_009J.jpg</picture>
         <vendor>MIXXUS</vendor>
-        <stock_quantity>100</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Душова колона MIXXUS AMA-009-J зі змішувачем з нерж. сталі SUS304 (Колір нерж) (MI2819)</name>
         <description>&lt;![CDATA[]]&gt;</description>
@@ -117280,7 +117280,7 @@
         <param name="Довжина (мм)">695</param>
         <param name="Колір">Сталевий</param>
       </offer>
-      <offer id="23324003" available="false">
+      <offer id="23324003" available="true">
         <url>https://ol.partners/products/zmishuvachi-ta-krani/zmishuvachi-dlya-umivalnika/odnovazhilniy-zmishuvach-dlya-rakovini/zmishuvach-dlya-rakovini-mrozmiru-grohe-eurosmart-new-23324003</url>
         <price>4482.00</price>
         <currencyId>UAH</currencyId>
@@ -117291,8 +117291,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/462cef04-9a70-4d2f-89e3-b03249dc53c8/image_02.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/462cef04-9a70-4d2f-89e3-b03249dc53c8/image_04.jpg</picture>
         <vendor>GROHE</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Змішувач для раковини M-розміру Grohe Eurosmart New (23324003)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>23324003</vendorCode>
@@ -127916,7 +127916,7 @@
         <param name="Колір">Хром</param>
         <param name="Покриття">З покриттям</param>
       </offer>
-      <offer id="EP4029" available="true">
+      <offer id="EP4029" available="false">
         <url>https://ol.partners/products/truboprovodi-ta-zyednannya/fitingi/zyednannya-dlya-trub-z-polipropilenu/mufta-z-nakidnoyu-gaykoyu-europroduct-ep0104-25x34-ep4029</url>
         <price>54.00</price>
         <currencyId>UAH</currencyId>
@@ -127924,8 +127924,8 @@
         <picture>https://ol.partners/Products/Photo/48EDA26E-F883-4A8F-925C-F9A9863B72D8</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/d7be3a2c-bbc5-402d-95c7-be5ed5ef5ff5/image_01.jpg</picture>
         <vendor>EUROPRODUCT</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Муфта з накидною гайкою Europroduct EP.0104 - 25x3/4" (EP4029)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>EP4029</vendorCode>
@@ -128324,7 +128324,7 @@
         <picture>https://ol.partners/Products/Photo/B8EB3631-B166-4FA5-B692-FA3162CC6919</picture>
         <vendor>KOER</vendor>
         <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Девіатор LUNA KOER KR.525 (OL0020)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>OL0020</vendorCode>
@@ -151110,7 +151110,7 @@
         <param name="Форма">Овальна</param>
         <param name="Колір обрамлення">Без обрамлення</param>
       </offer>
-      <offer id="KR3205" available="true">
+      <offer id="KR3205" available="false">
         <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/kolektorna-shafa/shafa-kolektorna-koer-kr8022-580x580x110-vnutrishnya-kr3205</url>
         <price>2750.00</price>
         <currencyId>UAH</currencyId>
@@ -151122,8 +151122,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/2afaa6e2-8ed5-41a3-8485-aa8c5c9778cc/image_01.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/2afaa6e2-8ed5-41a3-8485-aa8c5c9778cc/image_03.jpg</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Шафа колекторна Koer KR.8022 580x580x110, внутрішня (KR3205)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR3205</vendorCode>
@@ -155594,7 +155594,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/23e3c5f7-e3c6-44c6-a4ad-c9f289fef19e/MI6197-MIXXUS-MAGNUM-006-(EURO)-BLACK-3.jpg</picture>
         <vendor>MIXXUS</vendor>
         <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Змішувач для ванни MIXXUS MAGNUM 006 EURO BLACK (Колір чорний) (MI6197)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>MI6197</vendorCode>
@@ -164236,15 +164236,15 @@
         <param name="Вид виробу">Бачок до унітазу-компакту</param>
         <param name="Серія">WAVE</param>
       </offer>
-      <offer id="47483000" available="false">
+      <offer id="47483000" available="true">
         <url>https://ol.partners/products/zapchastini-dlya-zmishuvacha/kartridzhi-dlya-zmishuvacha/kartridzh-kompaktniy-termostatichniy-grohe-34-47483000</url>
         <price>4374.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>3e262128-1de7-4a09-b68f-82ea7e796adf</categoryId>
         <picture>https://ol.partners/Products/Photo/806F986C-AB06-4E59-B094-6665E44D0C6E</picture>
         <vendor>GROHE</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Картридж компактний термостатичний Grohe 3/4 (47483000)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>47483000</vendorCode>
@@ -165706,7 +165706,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/3c8f3e09-ff9a-44ee-bd9b-9760bb847ec8/image_06.jpg</picture>
         <vendor>KOER</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Змішувач для умивальника KOER KB-10029-07 (Колір графіт) (KR5495)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR5495</vendorCode>
@@ -172394,7 +172394,7 @@
         <param name="Матеріал">Поліпропілен</param>
         <param name="Колір">Сірий</param>
       </offer>
-      <offer id="MI8426" available="false">
+      <offer id="MI8426" available="true">
         <url>https://ol.partners/products/keramika/unitazi/unitaz-pidvisniy-mixxus-ellipse0310t3-480x360x340mm-sistema-zmivu-tornado-30-mi8426</url>
         <price>5580.00</price>
         <currencyId>UAH</currencyId>
@@ -172415,8 +172415,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/29c95cc3-c8f0-412d-afd7-3167961f74e5/image_01.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/29c95cc3-c8f0-412d-afd7-3167961f74e5/image_13.jpg</picture>
         <vendor>MIXXUS</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Унітаз підвісний MIXXUS ELLIPSE-0310-T3 480x360x340mm система змиву TORNADO 3.0 (MI8426)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>MI8426</vendorCode>
@@ -191894,7 +191894,7 @@
         <param name="Матеріал">Дюропласт</param>
         <param name="Сидіння">Slim Duroplast/Soft-close/Quick relase</param>
       </offer>
-      <offer id="24181001" available="false">
+      <offer id="24181001" available="true">
         <url>https://ol.partners/products/zmishuvachi-ta-krani/zmishuvachi-dlya-umivalnika/odnovazhilniy-zmishuvach-dlya-rakovini/zmishuvach-dlya-rakovini-grohe-essence-24181001</url>
         <price>11286.00</price>
         <currencyId>UAH</currencyId>
@@ -191903,8 +191903,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/1cdbecd2-f8cd-4ea2-aa2c-f873c2f5af6e/image_02.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/1cdbecd2-f8cd-4ea2-aa2c-f873c2f5af6e/image_01.jpg</picture>
         <vendor>GROHE</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Змішувач для раковини Grohe Essence (24181001)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>24181001</vendorCode>
@@ -202260,8 +202260,8 @@
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR6367</vendorCode>
         <param name="Од. в упак.">15</param>
-        <param name="Об'єм ящ.">0</param>
-        <param name="Вага ящ.">0</param>
+        <param name="Об'єм ящ.">0.022</param>
+        <param name="Вага ящ.">5.85</param>
         <param name="Діапазон температури робочого середовища Тр (°С)">до +120°C (при використанні ущільнювальних кілець з EPDM) / до +140°C (при використанні ущільнювальних кілець FKM)</param>
         <param name="Тип з'єднання">Прес-з'єднання</param>
         <param name="Тип конструкції">Прес-фітинг трирозтрубний редукційний</param>
@@ -220627,7 +220627,7 @@
         <param name="Довжина виливу (см)">26-30</param>
         <param name="Загальна довжина (мм)">355</param>
       </offer>
-      <offer id="40368001" available="false">
+      <offer id="40368001" available="true">
         <url>https://ol.partners/products/aksesuari-dlya-vannoi/milnitsi/milnitsya-grohe-essentials-new-40368001</url>
         <price>594.00</price>
         <currencyId>UAH</currencyId>
@@ -220638,8 +220638,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/c31a2aa4-e230-4285-9c56-7349a06314ad/image_01.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/c31a2aa4-e230-4285-9c56-7349a06314ad/image_03.jpg</picture>
         <vendor>GROHE</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Мильниця Grohe Essentials New (40368001)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>40368001</vendorCode>
@@ -254058,7 +254058,7 @@
         <param name="Додаткові характеристики">На фітингу нанесено червоний індикатор обтиску</param>
         <param name="Сумісність з комплектуючою">Труби та прес-фітинги PRESS-INOX відповідного діаметра</param>
       </offer>
-      <offer id="1017882430" available="false">
+      <offer id="1017882430" available="true">
         <url>https://ol.partners/products/zmishuvachi-ta-krani/zmishuvachi-dlya-umivalnika/zmishuvachi-dlya-umivalnika-prikhovanogo-montazhu/zmishuvach-dlya-rakovini-na-2-otvori-grohe-cubeo-mrozmiru-1017882430</url>
         <price>13446.00</price>
         <currencyId>UAH</currencyId>
@@ -254066,8 +254066,8 @@
         <picture>https://ol.partners/Products/Photo/6E3B371D-1CE1-4249-9E9C-56C8775EA62C</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/1fe054d8-320a-4cc3-9c61-94874cef64a9/image_01.jpg</picture>
         <vendor>GROHE</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Змішувач для раковини на 2 отвори Grohe Cubeo M-розміру (1017882430)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>1017882430</vendorCode>
@@ -263461,7 +263461,7 @@
         <param name="Тип виробу">Безпека для систем опалення</param>
         <param name="Колір">Латунний</param>
       </offer>
-      <offer id="KR3480" available="true">
+      <offer id="KR3480" available="false">
         <url>https://ol.partners/products/zmishuvachi-ta-krani/zmishuvachi-dlya-bide/odnovazhilni-zmishuvachi-dlya-bide/zmishuvach-dlya-bide-koer-kb2001001-kolir-khrom-kr3480</url>
         <price>3305.00</price>
         <currencyId>UAH</currencyId>
@@ -263469,8 +263469,8 @@
         <picture>https://ol.partners/Products/Photo/2A618B94-A098-47C0-8663-90C670C43707</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/efe02bc7-898b-4511-b8b8-151bd321e249/image_04_KR3480.jpg</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Змішувач для біде KOER KB-20010-01 (Колір хром) (KR3480)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR3480</vendorCode>
@@ -285648,7 +285648,7 @@
         <param name="Вага (г)">66,00</param>
         <param name="Гарантійний період (міс)">84</param>
       </offer>
-      <offer id="EP6187" available="true">
+      <offer id="EP6187" available="false">
         <url>https://ol.partners/products/truboprovodi-ta-zyednannya/fitingi/rizbovi-zyednannya/vrizka-v-bak-z-kontrgaykoy-europroduct-ep0430-34-latunna-ep6187</url>
         <price>152.00</price>
         <currencyId>UAH</currencyId>
@@ -285656,8 +285656,8 @@
         <picture>https://ol.partners/Products/Photo/FD30B7EC-6330-473C-BDD9-0B1A002E5C02</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/7ea76611-1602-47b0-89be-7c817d0aaadf/image_01.jpg</picture>
         <vendor>EUROPRODUCT</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Врізка в бак з контргайкой Europroduct EP.0430 - 3/4" (латунна) (EP6187)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>EP6187</vendorCode>
@@ -298560,7 +298560,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/be2038fa-2d50-432b-8ad7-09ec3e438d7d/image_03.jpg</picture>
         <vendor>GROHE</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Душова система Grohe Flex Tempesta System 250 Cube із перемикачем настінного монтажу (26694001)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>26694001</vendorCode>
@@ -300312,7 +300312,7 @@
         <param name="Тип виливу">Поворотний</param>
         <param name="Стиль">Класичний</param>
       </offer>
-      <offer id="25251001" available="false">
+      <offer id="25251001" available="true">
         <url>https://ol.partners/products/zmishuvachi-ta-krani/zmishuvachi-dlya-vanni/vbudovani-zmishuvachi-dlya-vanni/odnovazhilniy-zmishuvach-dlya-vanni-grohe-essence-na-4-otvori-25251001</url>
         <price>45630.00</price>
         <currencyId>UAH</currencyId>
@@ -300320,8 +300320,8 @@
         <picture>https://ol.partners/Products/Photo/6609277D-3BC9-4F55-B947-DE2C06AC5D52</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/fc9e07f7-eef6-4c62-b3f2-d332f5a890b7/image_01.jpg</picture>
         <vendor>GROHE</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Одноважільний змішувач для ванни Grohe Essence, на 4 отвори (25251001)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>25251001</vendorCode>
@@ -302147,7 +302147,7 @@
         <param name="Довжина виливу (см)">31-35</param>
         <param name="Загальна довжина (мм)">390</param>
       </offer>
-      <offer id="41063000" available="false">
+      <offer id="41063000" available="true">
         <url>https://ol.partners/products/aksesuari-dlya-vannoi/trimachi-dlya-rushnikiv/podviyniy-trimach-dlya-rushnikiv-grohe-selection-41063000</url>
         <price>7830.00</price>
         <currencyId>UAH</currencyId>
@@ -302157,8 +302157,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/f7503804-1d48-466a-a520-be9a64b01165/image_02.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/f7503804-1d48-466a-a520-be9a64b01165/image_03.jpg</picture>
         <vendor>GROHE</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Подвійний тримач для рушників Grohe Selection (41063000)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>41063000</vendorCode>
@@ -305928,7 +305928,7 @@
         <param name="Гарантійний період (міс)">84</param>
         <param name="Особливості">Стійкий до корозії та хімічних впливів</param>
       </offer>
-      <offer id="23337001" available="false">
+      <offer id="23337001" available="true">
         <url>https://ol.partners/products/zmishuvachi-ta-krani/zmishuvachi-dlya-umivalnika/odnovazhilniy-zmishuvach-dlya-rakovini/zmishuvach-dlya-rakovini-grohe-bauloop-new-srozmiru-23337001</url>
         <price>3168.00</price>
         <currencyId>UAH</currencyId>
@@ -305941,8 +305941,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/981fb583-5b4a-4740-81a0-815ec081dde9/image_06.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/981fb583-5b4a-4740-81a0-815ec081dde9/image_04.jpg</picture>
         <vendor>GROHE</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Змішувач для раковини Grohe BauLoop New S-розміру (23337001)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>23337001</vendorCode>
@@ -321897,8 +321897,8 @@
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR6270</vendorCode>
         <param name="Од. в упак.">16</param>
-        <param name="Об'єм ящ.">0</param>
-        <param name="Вага ящ.">0</param>
+        <param name="Об'єм ящ.">0.036</param>
+        <param name="Вага ящ.">24.4</param>
         <param name="Коефіцієнт лінійного теплового розширення (1/°С)">0,163 х 10-4</param>
         <param name="Щільність сталі (г/см3)">8,00</param>
         <param name="Матеріал">Нержавіюча сталь AISI 304</param>
@@ -364381,7 +364381,7 @@
         <param name="Покриття">З покриттям</param>
         <param name="Тип виливу">Поворотний</param>
       </offer>
-      <offer id="NF2962" available="true">
+      <offer id="NF2962" available="false">
         <url>https://ol.partners/products/zapirnoregulyuyucha-armatura/krani/kran-z-amerikankoyu-polusgin/kran-kuloviy-z-amerikankoyu-34-gshm-nf921-nolf-nf2962</url>
         <price>382.00</price>
         <currencyId>UAH</currencyId>
@@ -364389,8 +364389,8 @@
         <picture>https://ol.partners/Products/Photo/BF0E41F7-94D3-49E9-BAA7-B881FC2CD440</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/8bcf7677-86b3-4768-9944-bedad1ecc136/image_03_NF2962.jpg</picture>
         <vendor>NOLF</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Кран кульовий з американкою 3/4" ГШМ (NF.921) Nolf (NF2962)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>NF2962</vendorCode>
@@ -366003,8 +366003,8 @@
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR6312</vendorCode>
         <param name="Од. в упак.">60</param>
-        <param name="Об'єм ящ.">0</param>
-        <param name="Вага ящ.">0</param>
+        <param name="Об'єм ящ.">0.022</param>
+        <param name="Вага ящ.">8.9</param>
         <param name="Щільність сталі (г/см3)">8,00</param>
         <param name="Тип конструкції">Дворозтрубна</param>
         <param name="Діапазон температури робочого середовища Тр (°С)">до +120°C (при використанні ущільнювальних кілець з EPDM) / до +140°C (при використанні ущільнювальних кілець FKM)</param>
@@ -389481,8 +389481,8 @@
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR6435</vendorCode>
         <param name="Од. в упак.">120</param>
-        <param name="Об'єм ящ.">0</param>
-        <param name="Вага ящ.">0</param>
+        <param name="Об'єм ящ.">0.022</param>
+        <param name="Вага ящ.">12.7</param>
         <param name="Тип з'єднання">Прес-з'єднання</param>
         <param name="Діапазон температури робочого середовища Тр (°С)">до +120°C (при використанні ущільнювальних кілець з EPDM) / до +140°C (при використанні ущільнювальних кілець FKM)</param>
         <param name="Максимальний тиск на розрив (бар)">24</param>
@@ -393838,7 +393838,7 @@
         <param name="Гарантія на деталі змішувача (міс)">12</param>
         <param name="Комплектація">Шланг 150 см, ручна лійка SH-01, тримач для лійки, аератор, ексцентрики, чашки, гумові прокладки</param>
       </offer>
-      <offer id="23921000" available="false">
+      <offer id="23921000" available="true">
         <url>https://ol.partners/products/zmishuvachi-ta-krani/zmishuvachi-dlya-umivalnika/odnovazhilniy-zmishuvach-dlya-rakovini/zmishuvach-na-stilnitsyu-dlya-rakovini-xlrozmiru-grohe-eurosmart-cosmopolitan-23921000</url>
         <price>9990.00</price>
         <currencyId>UAH</currencyId>
@@ -393851,8 +393851,8 @@
         <picture>https://cdn.olinfrastructure.com/productfile/163167f0-e796-42be-9bfc-260772052f07/image_04.jpg</picture>
         <picture>https://cdn.olinfrastructure.com/productfile/163167f0-e796-42be-9bfc-260772052f07/image_01.jpg</picture>
         <vendor>GROHE</vendor>
-        <stock_quantity>0</stock_quantity>
-        <availabilityStatus>Немає в наявності</availabilityStatus>
+        <stock_quantity>100</stock_quantity>
+        <availabilityStatus>Малий залишок</availabilityStatus>
         <name>Змішувач на стільницю для раковини XL-розміру Grohe Eurosmart Cosmopolitan (23921000)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>23921000</vendorCode>
@@ -395640,8 +395640,8 @@
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR6298</vendorCode>
         <param name="Од. в упак.">60</param>
-        <param name="Об'єм ящ.">0</param>
-        <param name="Вага ящ.">0</param>
+        <param name="Об'єм ящ.">0.022</param>
+        <param name="Вага ящ.">13</param>
         <param name="Модуль пружності сталі (ГПа)">193</param>
         <param name="Межа плинності сталі (бар)">2100</param>
         <param name="Коефіцієнт лінійного теплового розширення (1/°С)">0,163 х 10-4</param>
@@ -400371,7 +400371,7 @@
         <picture>https://cdn.olinfrastructure.com/productfile/7a5fef6f-3bb3-4fae-9329-d081f968a613/image_05.jpg</picture>
         <vendor>GROHE</vendor>
         <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Малий залишок</availabilityStatus>
+        <availabilityStatus>Достатньо</availabilityStatus>
         <name>Верхній душ з настінним кронштейном Grohe Tempesta Cube (26687000)</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>26687000</vendorCode>
@@ -443174,15 +443174,15 @@
         <param name="Тип виливу">Поворотний</param>
         <param name="Покриття">З покриттям</param>
       </offer>
-      <offer id="KR5887" available="true">
+      <offer id="KR5887" available="false">
         <url>https://ol.partners/products/radiatori-opalennya/sektsiyni-radiatori/radiator-sektsiyniy-koer-100-bimetal500-extremeua-ukraina-kr5887-tsina-za-1-sektsiyu</url>
         <price>656.00</price>
         <currencyId>UAH</currencyId>
         <categoryId>013f60ba-5be8-430f-b999-736e2f239593</categoryId>
         <picture>https://ol.partners/Products/Photo/357C8EEE-3BE7-476C-B84C-79923BBF599E</picture>
         <vendor>KOER</vendor>
-        <stock_quantity>100</stock_quantity>
-        <availabilityStatus>Достатньо</availabilityStatus>
+        <stock_quantity>0</stock_quantity>
+        <availabilityStatus>Немає в наявності</availabilityStatus>
         <name>Радіатор секційний Koer 100 Bimetal-500 EXTREME-UA (Україна) (KR5887) / Ціна за 1 секцію</name>
         <description>&lt;![CDATA[]]&gt;</description>
         <vendorCode>KR5887</vendorCode>
